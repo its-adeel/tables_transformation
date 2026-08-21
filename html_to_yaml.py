@@ -470,11 +470,12 @@ def _insert_path(container: dict, path_parts: list, value: str):
     A section can genuinely have MORE THAN ONE such general provision
     (e.g. an opening rate description before its specific sub-items, AND
     a closing catch-all clause after them — both belong directly to the
-    section, neither is more specific than the other). Without checking
-    whether "(General)" is already taken, a second one would silently
-    overwrite the first the same way the original overwrite bug did —
-    so this gets the same numbered-variant treatment as any other
-    genuine label collision: "(General)", "(General) (2)", and so on.
+    section, neither is more specific than the other). Rather than
+    inventing numbered key names ("(General)", "(General) (2)", ...) for
+    this, they're collected into a YAML LIST under the one "(General)"
+    key — that's a more natural fit than synthetic key names, since the
+    list itself already says "these all belong here" without needing
+    invented labels to tell them apart.
     """
     node = container
     for part in path_parts[:-1]:
@@ -483,13 +484,14 @@ def _insert_path(container: dict, path_parts: list, value: str):
     leaf = path_parts[-1]
     if leaf in node and node[leaf] != value:
         if isinstance(node[leaf], dict):
-            general_key = "(General)"
-            if general_key in node[leaf] and node[leaf][general_key] != value:
-                suffix = 2
-                while f"(General) ({suffix})" in node[leaf]:
-                    suffix += 1
-                general_key = f"(General) ({suffix})"
-            node[leaf][general_key] = value
+            existing_general = node[leaf].get("(General)")
+            if existing_general is None:
+                node[leaf]["(General)"] = value
+            elif isinstance(existing_general, list):
+                if value not in existing_general:
+                    existing_general.append(value)
+            elif existing_general != value:
+                node[leaf]["(General)"] = [existing_general, value]
             return
         suffix = 2
         while f"{leaf} ({suffix})" in node:
