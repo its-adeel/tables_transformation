@@ -1,0 +1,1364 @@
+"""
+table_to_yaml_converter.py
+
+Converts your existing table data (raw HTML) into real nested YAML.
+Colspan/rowspan is properly expanded into a full grid first, so merged
+headers and merged cells are resolved before any structure is inferred.
+
+Handles two table shapes:
+  - "matrix" tables (e.g. ADU comparison table): row label -> {column: value}
+  - "definition_list" tables (e.g. zoning regulation tables with a caption
+    header and hierarchical row labels): caption -> section -> nested labels -> value
+
+Usage:
+    Same convention as table_repr_validation.py:
+    cases/<id>_html.txt
+
+    pip install pyyaml beautifulsoup4
+    python table_to_yaml_converter.py
+
+    Reads raw HTML (real colspan/rowspan structure). Output written to
+    cases/<id>_yaml.txt.
+"""
+
+# --- Libraries this script needs ---
+# os:        for talking to the filesystem (listing/opening files)
+# re:        Python's regular-expression module, used here just to squash
+#            extra whitespace in cell text
+# BeautifulSoup: a library that reads messy HTML and lets us walk through
+#            its tags (<table>, <tr>, <td>, ...) like a tree, instead of
+#            us having to parse raw text ourselves
+# yaml:      a library that takes a normal Python dictionary and prints it
+#            out as properly indented YAML text
+import os
+import re
+from bs4 import BeautifulSoup
+import yaml
+from yaml.events import ScalarEvent, AliasEvent
+
+# The folder where input HTML files live and where output YAML files get
+# written. Every table you want converted needs a file at
+# cases/<some_id>_html.txt containing that table's raw HTML.
+CASES_DIR = "cases"
+
+
+# ---------------------------------------------------------------------------
+# Shared HTML grid-expansion
+#
+# HTML tables aren't always a clean grid — a single cell can use colspan
+# ("stretch across N columns") or rowspan ("stretch down N rows") to merge
+# with its neighbors. Before we can understand a table's *meaning*, we
+# first need to undo that merging: turn it into a plain grid where every
+# row has a value in every column, with merged cells duplicated into every
+# position they visually cover. That's what this whole section does.
+# ---------------------------------------------------------------------------
+
+def _cell_is_bold(cell) -> bool:
+    """
+    Was this cell's text marked as bold? Category/section rows in these
+    tables are consistently bold (<b>, <strong>, or class="bold"), while
+    ordinary data rows are not. That distinction is the ONLY reliable way
+    to tell a category-description row apart from a legitimate value that
+    happens to span every column (see divider check #2 in
+    build_matrix_yaml) — structurally the two are identical HTML.
+    """
+    if cell.find(["b", "strong"]) is not None:
+        return True
+    for descendant in cell.find_all(True):
+        classes = descendant.get("class") or []
+        if any("bold" in c for c in classes):
+            return True
+    classes = cell.get("class") or []
+    return any("bold" in c for c in classes)
+
+
+def _cell_text(cell) -> str:
+    r"""
+    Given one HTML cell (a <td> or <th>), pull out just its visible text
+    and clean it up.
+
+    HTML source often has messy line breaks and indentation baked into it,
+    e.g. a cell might literally contain:
+        "Processing\n        time"
+    get_text(separator=" ") turns any nested tags into text separated by
+    spaces, and re.sub(r"\s+", " ", ...) collapses any run of whitespace
+    (spaces, tabs, newlines) down to a single space. End result: clean,
+    single-line text with no stray gaps.
+
+    Some scraped documents also contain literal stray "undefined" text
+    nodes sitting between tags — an artifact from whatever tool exported
+    the page (a JavaScript template variable that resolved to undefined
+    and got baked into the static HTML). In practice these wrap the real
+    content, e.g. "undefined Type of Use undefined".
+
+    IMPORTANT: only LEADING and TRAILING "undefined" tokens are stripped,
+    never one appearing mid-sentence. Stripping it as a bare word
+    anywhere would corrupt real text — zoning codes contain phrases like
+    "Terms not otherwise undefined in this chapter", and removing the
+    word there inverts the legal meaning.
+    """
+    text = cell.get_text(separator=" ", strip=True)
+    text = re.sub(r"\s+", " ", text).strip()
+    text = re.sub(r"^(?:undefined\b\s*)+", "", text, flags=re.I)
+    text = re.sub(r"(?:\s*\bundefined)+$", "", text, flags=re.I)
+    return text.strip()
+
+
+def _find_all_content_tables(soup):
+    """
+    Some documents contain MULTIPLE real tables — e.g. a small legend
+    table explaining codes like "P = Permitted" alongside the actual
+    zoning-use data table. Both are real content (unlike the aria-hidden
+    decoy pattern), so picking just the first one silently drops whichever
+    table comes second.
+
+    This returns EVERY table that looks like real content, in document
+    order: skips aria-hidden decoys, and prefers tables with a <tbody>
+    containing actual rows. If none match that filter (e.g. a table
+    without an explicit <tbody> tag), falls back to returning every table
+    found, so we still attempt something rather than nothing.
+    """
+    candidates = soup.find_all("table")
+    if not candidates:
+        return []
+
+    real_tables = [
+        t for t in candidates
+        if t.get("aria-hidden") != "true" and t.find("tbody") and t.find("tbody").find("tr")
+    ]
+    return real_tables or candidates
+
+
+def expand_html_grid(table):
+    """
+    This is the core "undo the merging" step.
+
+    Takes an already-selected <table> tag (a BeautifulSoup element — see
+    _find_all_content_tables, which picks out the real tables from a
+    document that may contain more than one).
+
+    Returns a tuple: (header_row_count, grid)
+
+      - header_row_count: how many of the leading rows are header rows
+        (like column titles), as opposed to actual data rows.
+
+      - grid: a list of rows. Each row is a Python dictionary that maps a
+        column NUMBER (0, 1, 2, ...) to a 3-item package:
+              (text, is_header, span_id, is_bold)
+        where:
+          text      = the cleaned text sitting in that column for this row
+          is_header = True if this came from a <th> tag, False for <td>
+          span_id   = a unique ID shared by every grid position that came
+                      from the SAME original HTML cell (see explanation
+                      below — this matters for telling apart "one cell
+                      spanning two columns" from "two separate cells that
+                      just happen to contain the same text").
+
+    Why we need this at all:
+    Imagine this HTML row, where one cell stretches across 2 columns:
+        <tr>
+          <td>Quantity (SFR)</td>
+          <td colspan="2">1</td>
+          <td>1</td>
+        </tr>
+    There are only 3 <td> tags here, but the table actually has 4 columns.
+    Without expansion, we wouldn't know that the "1" belongs in BOTH
+    column 1 and column 2. This function walks through and explicitly
+    writes that same "1" into both column positions, so every later part
+    of the code can just ask "what's in column 2?" and get a real answer,
+    without needing to know anything about colspan/rowspan itself.
+    """
+    if table is None:
+        return 0, []
+
+    # Grab every <tr> (table row) tag inside this table, in document order.
+    rows_html = table.find_all("tr")
+
+    # Step 3: figure out how many of the leading rows are HEADER rows.
+    # Prefer using <thead> if the HTML actually has one (it's the most
+    # reliable signal — the page author explicitly marked these as
+    # headers). If there's no <thead> tag, fall back to a heuristic:
+    # count how many rows in a row are made ENTIRELY of <th> cells,
+    # starting from the top, and stop at the first row that isn't.
+    thead = table.find("thead")
+    if thead:
+        header_row_count = len(thead.find_all("tr"))
+    else:
+        header_row_count = 0
+        for tr in rows_html:
+            cells = tr.find_all(["td", "th"])
+            if cells and all(c.name == "th" for c in cells):
+                header_row_count += 1
+            else:
+                break
+
+    # Step 4: walk through every row and build the expanded grid.
+    grid = []
+
+    # row_spans keeps track of "debts" owed to FUTURE rows by rowspan.
+    # If a cell has rowspan="3", it needs to also appear in the next 2
+    # rows at the same column position, even though those rows won't
+    # have a real <td>/<th> tag for it. Format:
+    #   column_number -> [rows_still_owed, text, is_header, span_id, is_bold]
+    row_spans = {}
+
+    # A running counter so every individual physical HTML cell we process
+    # gets its own unique ID. This is what span_id stores.
+    next_span_id = 0
+
+    for tr in rows_html:
+        # All the actual <td>/<th> tags physically present in this <tr>.
+        # Note: this list can be SHORTER than the number of columns in the
+        # table, if any cell in this row (or a rowspan from above) is
+        # covering extra columns.
+        cells_html = tr.find_all(["td", "th"])
+
+        row_cells = {}   # what we're building for this one row
+        col_idx = 0       # "which column am I about to fill in next?"
+        cell_ptr = 0       # "which real <td>/<th> tag am I about to read next?"
+
+        # Keep filling in columns, left to right, until this row is done.
+        while True:
+            # Case A: does some earlier row's rowspan still owe this
+            # column a value? If so, use that instead of reading a new
+            # tag — because in the real HTML, there ISN'T a new tag here;
+            # the browser just stretches the earlier cell down into this
+            # row visually.
+            if col_idx in row_spans and row_spans[col_idx][0] > 0:
+                remaining, text, is_header, span_id, is_bold = row_spans[col_idx]
+                row_cells[col_idx] = (text, is_header, span_id, is_bold)
+                row_spans[col_idx][0] -= 1              # one row closer to done
+                if row_spans[col_idx][0] == 0:
+                    del row_spans[col_idx]                # fully paid off, forget it
+                col_idx += 1
+                continue
+
+            # Case B: no more real cells left to read in this row — we're done.
+            if cell_ptr >= len(cells_html):
+                break
+
+            # Case C: read the next real HTML cell and place its text.
+            cell = cells_html[cell_ptr]
+            cell_ptr += 1
+
+            text = _cell_text(cell)
+            is_header = cell.name == "th"
+            is_bold = _cell_is_bold(cell)
+
+            # colspan/rowspan default to 1 if the attribute isn't present.
+            # `or 1` also guards against a blank attribute like colspan="".
+            colspan = int(cell.get("colspan", 1) or 1)
+            rowspan = int(cell.get("rowspan", 1) or 1)
+
+            # Give this physical cell its own unique ID, then move on to
+            # the next one for next time.
+            span_id = next_span_id
+            next_span_id += 1
+
+            # Write this cell's text into every column it visually covers
+            # (colspan), and if it ALSO covers future rows (rowspan),
+            # register that debt in row_spans so later rows pay it off.
+            for _ in range(colspan):
+                row_cells[col_idx] = (text, is_header, span_id, is_bold)
+                if rowspan > 1:
+                    row_spans[col_idx] = [rowspan - 1, text, is_header, span_id, is_bold]
+                col_idx += 1
+
+        grid.append(row_cells)
+
+    return header_row_count, grid
+
+
+def build_header_paths(header_rows: list, total_cols: int) -> tuple:
+    """
+    Some tables have MULTIPLE stacked header rows — e.g. one row saying
+    "Single-family Residential Zones" spanning 3 columns, and a second
+    row underneath giving the real names "R-L-12", "R-L-8", "R-L-5".
+
+    This walks down through the header rows for each column and joins
+    whatever text it finds into one combined path, separated by " > ".
+    So column 2 might end up with a path like:
+        "Single-family Residential Zones > R-L-12"
+
+    Returns (paths, note, dominant_group):
+      paths          = dict: column_number -> combined header path ("" if
+                       that column had no real header text at all)
+      note           = "" normally, but if one header segment (e.g. a
+                       legend line like "P - Permitted Use  S = Special
+                       Review Use...") is shared by a large majority of
+                       columns AS ONE UNDIVIDED block, it adds nothing to
+                       help tell those columns apart — it's a table-wide
+                       note, not a real header level. That text is pulled
+                       out here (returned once, instead of silently
+                       repeating itself into every single row's output
+                       for every one of those columns) and stripped from
+                       the affected columns' paths.
+      dominant_group = "" normally, but when one header segment covers a
+                       clear majority of columns AS A REAL GROUPING (not
+                       stripped as a note — e.g. "Zoning District" over
+                       "UMF"/"SMF"/...), this is that segment's text.
+                       Useful as a fallback table name when the table has
+                       no caption of its own: "Zoning District" is a far
+                       more informative name than a generic "Table N" for
+                       a table with no title, and it's real information
+                       already present in the table rather than invented.
+    """
+    paths = {}
+    for c in range(total_cols):
+        parts = []
+        for row in header_rows:
+            if c in row:
+                text = row[c][0].strip()   # row[c] = (text, is_header, span_id); [0] = text
+                # Only add this piece if it's non-empty AND it's not just
+                # a repeat of the last thing we added. Repeats happen when
+                # rowspan duplicates the same header text into both header
+                # rows for one column — without this check we'd get
+                # "Specific Land Use Standards > Specific Land Use Standards".
+                if text and (not parts or parts[-1] != text):
+                    parts.append(text)
+        paths[c] = " > ".join(parts)
+
+    # Group columns by the FIRST segment of their path, then decide
+    # whether that segment is a table-wide note or a real grouping.
+    #
+    # The distinguishing signal is what sits BELOW it. A legend sits above
+    # a complete grouping level (legend > "Residential" > "RD" — three
+    # segments), so removing it still leaves the columns fully grouped
+    # and named. A real grouping IS that level (e.g. "Residential" > "R1"
+    # — two segments), and removing it would destroy the only thing
+    # marking those columns as residential.
+    #
+    # An earlier version used only a ">50% of columns" threshold, which
+    # wrongly stripped legitimate groupings whenever one happened to
+    # cover a majority of columns (e.g. "Residential" over 3 of 5).
+    first_segment_cols = {}
+    for c, path in paths.items():
+        if not path:
+            continue
+        first = path.split(" > ", 1)[0]
+        first_segment_cols.setdefault(first, []).append(c)
+
+    note = ""
+    dominant_group = ""
+    non_empty_count = sum(1 for p in paths.values() if p)
+    if first_segment_cols and non_empty_count > 0:
+        dominant_text, dominant_cols = max(first_segment_cols.items(), key=lambda kv: len(kv[1]))
+        is_majority = len(dominant_cols) >= 2 and len(dominant_cols) / non_empty_count > 0.5
+        has_full_grouping_below = all(
+            len(paths[c].split(" > ")) >= 3 for c in dominant_cols
+        )
+        if len(dominant_cols) >= 3 and is_majority and has_full_grouping_below:
+            note = dominant_text
+            for c in dominant_cols:
+                remainder = paths[c][len(dominant_text):].lstrip(" >")
+                paths[c] = remainder
+        elif is_majority:
+            # Not a note (doesn't have a full grouping level below it to
+            # fall back on), but it's still a real, majority-covering
+            # grouping — a good naming candidate for the caller.
+            dominant_group = dominant_text
+
+    return paths, note, dominant_group
+
+
+def split_caption_rows(grid: list, header_row_count: int, total_cols: int):
+    """
+    Some tables have a leading row that ISN'T a real header at all — it's
+    just a title or legend stretched across every column with one single
+    piece of text, e.g. "Table 17.08.020 / Residential Zone Use Table".
+
+    This looks at the leading header rows, one at a time from the top, and
+    checks: "does this row cover every single column, and is the exact
+    same text sitting in every one of them?" If yes, that's a caption —
+    pull it out separately. It keeps doing this for as many leading rows
+    as match (some tables have 2 caption rows stacked: a title AND a
+    legend), and stops at the first row that has genuinely different text
+    in different columns (a real header row).
+
+    Returns (captions, offset):
+      captions = list of caption strings found, in order
+      offset   = how many leading rows were captions, so the caller knows
+                 grid[offset:header_row_count] are the REAL header rows
+    """
+    captions = []
+    offset = 0
+    for i in range(header_row_count):
+        row = grid[i]
+        cols_present = sorted(row.keys())
+        # Does this row have something in literally every column?
+        if cols_present == list(range(total_cols)):
+            texts = {row[c][0].strip() for c in cols_present}
+            # Is it the SAME text in all of them, and not blank?
+            if len(texts) == 1 and next(iter(texts)):
+                captions.append(next(iter(texts)))
+                offset += 1
+                continue
+        # First row that doesn't match the caption pattern — stop here.
+        break
+    return captions, offset
+
+
+# ---------------------------------------------------------------------------
+# Nested-dict builders
+#
+# Once we have a clean grid and know the header structure, we need to
+# actually build the Python dictionary that will become the YAML output.
+# There are two very different table "shapes" this can take (see the
+# module docstring at the top), so there are two separate builder
+# functions below, plus a couple of small shared helpers.
+# ---------------------------------------------------------------------------
+
+def _get_or_create_child(parent: dict, key: str) -> dict:
+    """
+    A small nesting helper: "give me the dictionary living under this key
+    inside `parent` — and if it doesn't exist yet, create an empty one
+    first." This is how new levels of nesting (a new section, a new
+    sub-label) get built on the fly as we walk through rows.
+
+    If the key already holds a plain VALUE (not a dict), that value is
+    preserved under a "(General)" sub-key rather than being thrown away —
+    this happens when a label first appears with a value of its own and
+    later acts as a parent for sub-items. Silently replacing it with {}
+    would delete real data with no warning.
+
+    Example:
+        result = {}
+        node = _get_or_create_child(result, "Site Planning")
+        # now result == {"Site Planning": {}}
+        # and `node` is a direct reference to that inner {} dict, so
+        # anything we add to `node` shows up inside result too.
+    """
+    existing = parent.get(key)
+    if isinstance(existing, dict):
+        return existing
+    if key in parent and existing not in ("", None):
+        parent[key] = {"(General)": existing}
+    else:
+        parent[key] = {}
+    return parent[key]
+
+
+def _insert_path(container: dict, path_parts: list, value: str):
+    """
+    Takes a LIST of nested labels, e.g.
+        ["Site Planning", "Minimum lot dimensions", "Width"]
+    and a value, e.g. "200 feet", and builds all the nesting needed to
+    place that value at the bottom:
+        {"Site Planning": {"Minimum lot dimensions": {"Width": "200 feet"}}}
+
+    It walks through every label EXCEPT the last one, creating a nested
+    dict at each step (using _get_or_create_child), then uses the very
+    last label as the final key that actually holds the value.
+
+    If the final key is already taken by a DIFFERENT value, the new value
+    is stored under a numbered variant instead of overwriting — two rows
+    legitimately sharing a label (or a label reused further down the
+    table) must not cause the first one's value to vanish.
+
+    A common real case for this: a "catch-all" row (e.g. "When not
+    listed above, the parking requirement for primary uses listed in
+    this tier shall apply.") that applies to a whole section rather than
+    one specific sub-item. Because of how rowspan carries a section's
+    name down into its rows, such a row's label ends up being just the
+    section name itself — the SAME key already holding that section's
+    other real sub-entries as a dict. Rather than overwrite that whole
+    dict with a bare string (destroying every sub-entry it holds), the
+    value is filed under "(General)" inside it instead, since it's a
+    general provision for the section as a whole rather than any one
+    specific item within it.
+
+    A section can genuinely have MORE THAN ONE such general provision
+    (e.g. an opening rate description before its specific sub-items, AND
+    a closing catch-all clause after them — both belong directly to the
+    section, neither is more specific than the other). Without checking
+    whether "(General)" is already taken, a second one would silently
+    overwrite the first the same way the original overwrite bug did —
+    so this gets the same numbered-variant treatment as any other
+    genuine label collision: "(General)", "(General) (2)", and so on.
+    """
+    node = container
+    for part in path_parts[:-1]:
+        node = _get_or_create_child(node, part)
+
+    leaf = path_parts[-1]
+    if leaf in node and node[leaf] != value:
+        if isinstance(node[leaf], dict):
+            general_key = "(General)"
+            if general_key in node[leaf] and node[leaf][general_key] != value:
+                suffix = 2
+                while f"(General) ({suffix})" in node[leaf]:
+                    suffix += 1
+                general_key = f"(General) ({suffix})"
+            node[leaf][general_key] = value
+            return
+        suffix = 2
+        while f"{leaf} ({suffix})" in node:
+            suffix += 1
+        leaf = f"{leaf} ({suffix})"
+    node[leaf] = value
+
+
+def build_matrix_yaml(data_rows: list, header_paths: dict, total_cols: int) -> dict:
+    """
+    Handles "matrix" tables — ones with real, distinct column headers,
+    like the ADU comparison table (columns: Attached ADU, Converted ADU,
+    Detached ADU, JADU) or the residential use table (columns: R-L-12,
+    R-L-8, R-M, ...).
+
+    --- Step 1: group columns that share one header ---
+    Sometimes two columns share the EXACT same header path — either
+    because the header was genuinely blank for both, or because one
+    header cell used colspan/rowspan to cover both of them (like "Land
+    Uses" spanning an item-number column AND an item-name column). If we
+    tried to use that shared header text as a dictionary key for BOTH
+    columns, the second one would silently overwrite the first. So
+    instead, adjacent columns with an identical header path get grouped
+    together first.
+
+    The FIRST group (leftmost columns) becomes the row's LABEL — e.g.
+    "1 - Assisted living, skilled nursing, or hospice facility". Every
+    other group becomes a real value field in that row's output.
+
+    --- Step 2: detect section-divider rows ---
+    Real tables often have bold "category" rows splitting the data into
+    groups (e.g. "ACCESSORY USES", "RESIDENTIAL USES"). These aren't real
+    data rows — they should become a new nesting level that following
+    rows get placed inside. There are actually THREE different ways a
+    divider row can show up in the HTML, and this function checks for
+    all three, in order:
+
+      1. Full-width divider: one single HTML cell, via colspan, stretches
+         across the ENTIRE row (every column, including what would
+         normally be "value" columns) — e.g. "ACCESSORY USES". Caught
+         first, before any label/value logic runs.
+
+      2. Category-description divider: a single HTML cell spans some (not
+         all) of the value columns with descriptive text, e.g. one
+         <td colspan="2"> holding "Minimum area and width required..."
+         under two separately-named zone columns. This is checked using
+         span_id (see expand_html_grid) rather than comparing text,
+         because two zones can coincidentally require the exact same
+         real value (e.g. both need "0 ft" setback, typed into two
+         SEPARATE cells) — that must NOT be mistaken for a divider.
+
+      3. Partial-label divider: the row's label is incomplete (e.g. the
+         item-number column is blank, only the bold section text is
+         present) and there's no real data in the value columns either.
+
+    Whichever way a divider is found, it doesn't get its own entry —
+    instead it opens a new nested "section" dictionary, and every row
+    after it gets placed inside that section until the next divider (or
+    the end of the table).
+    """
+    # --- Build the column groups described in Step 1 above ---
+    groups = []  # list of (header_path, [col_idx, col_idx, ...])
+    for col_idx in sorted(header_paths.keys()):
+        path = header_paths[col_idx]
+        # If the previous group has this SAME header path, and this
+        # column is immediately next to it, extend that group instead of
+        # starting a new one.
+        if groups and groups[-1][0] == path and groups[-1][1][-1] == col_idx - 1:
+            groups[-1][1].append(col_idx)
+        else:
+            groups.append((path, [col_idx]))
+
+    if not groups:
+        return {}
+
+    # Some tables have TWO adjacent label columns with DIFFERENT header
+    # names (e.g. "Use Category" and "Use Type"), where the category
+    # repeats via rowspan across several rows (a grouping column) and the
+    # type is unique per row (the actual distinguishing name). Since
+    # their headers differ, the grouping above (same-header-path only)
+    # doesn't merge them — which would wrongly leave the real per-row
+    # name ("Dwelling, Single-Family Detached") as a value field instead
+    # of the row's identity, and multiple rows sharing one category would
+    # all collide on the same row key.
+    #
+    # Detect this by checking whether the leading group is a SINGLE
+    # column whose cells mostly span multiple rows via rowspan (a real
+    # "grouping" column) — if so, absorb the next group into the label
+    # too, regardless of its header name.
+    if len(groups) >= 2 and len(groups[0][1]) == 1:
+        label_col = groups[0][1][0]
+        span_row_counts = {}
+        for row in data_rows:
+            cols_present = sorted(row.keys())
+            # Skip full-width divider rows (one value duplicated via
+            # colspan across every column, e.g. "Residential Uses") —
+            # they'd otherwise count as a "single-row span" for this
+            # column and dilute the real grouping signal.
+            if cols_present == list(range(total_cols)):
+                all_texts = {row[c][0].strip() for c in cols_present}
+                if len(all_texts) == 1 and next(iter(all_texts)):
+                    continue
+            cell = row.get(label_col)
+            if cell is None:
+                continue
+            span_id = cell[2] if len(cell) > 2 else None
+            if span_id is not None:
+                span_row_counts[span_id] = span_row_counts.get(span_id, 0) + 1
+        multi_row_spans = sum(1 for c in span_row_counts.values() if c > 1)
+        # Even ONE genuine multi-row grouping is strong evidence this
+        # column is being used as a category/grouping column — nobody
+        # applies rowspan by accident. Requiring a majority would be too
+        # strict: a table can have several categories that legitimately
+        # contain just a single item each, without that meaning the
+        # column isn't fundamentally a grouping column.
+        if multi_row_spans > 0:
+            second_path, second_cols = groups[1]
+            groups = [(groups[0][0], groups[0][1] + second_cols)] + groups[2:]
+
+    label_group_cols = groups[0][1]   # the leftmost group = row labels
+    value_groups = groups[1:]          # everything else = real data fields
+
+    result = {}
+    # section_node always points at "whichever dictionary new rows should
+    # currently be added into" — starts as the top-level result, but gets
+    # redirected into a nested dict whenever we hit a section divider.
+    section_node = result
+    row_counter = 0   # only used to disambiguate accidental duplicate labels
+
+    for row in data_rows:
+        cols_present = sorted(row.keys())
+
+        # --- Divider check #1: full-width colspan (see docstring) ---
+        if cols_present == list(range(total_cols)):
+            all_texts = {row[c][0].strip() for c in cols_present}
+            if len(all_texts) == 1 and next(iter(all_texts)):
+                section_node = _get_or_create_child(result, next(iter(all_texts)))
+                continue   # don't add this row itself, just move on
+
+        # Collect this row's label text (only the non-blank pieces).
+        label_vals_all = [row.get(c, ("", False))[0].strip() for c in label_group_cols]
+        label_vals = [v for v in label_vals_all if v]
+        row_key = " - ".join(dict.fromkeys(label_vals))   # dict.fromkeys() removes duplicates while keeping order
+        full_label = len(label_vals) == len(label_group_cols)  # was EVERY label column filled in?
+
+        # --- Divider check #2: category-description colspan (see docstring) ---
+        # A single physical cell spanning two or more value columns is
+        # NOT sufficient on its own: a legitimate row-wide value looks
+        # exactly the same in HTML (e.g. ADU "Processing time" with one
+        # <td colspan="4">60 days...</td> — a real value for all four
+        # types, not a category description). Requiring the LABEL to be
+        # bold is what separates them: category rows in these tables are
+        # consistently bold, ordinary data rows are not. Without this
+        # guard the spanning value is silently deleted and every
+        # following row is wrongly nested underneath it.
+        label_is_bold = any(
+            row.get(c, ("", False, None, False))[3]
+            for c in label_group_cols
+            if len(row.get(c, ("", False, None, False))) > 3
+            and row.get(c, ("", False, None, False))[0].strip()
+        )
+        value_span_ids = []
+        for path, cols in value_groups:
+            cell = row.get(cols[0])
+            if cell and cell[0].strip():
+                value_span_ids.append(cell[2] if len(cell) > 2 else None)
+        if (
+            label_is_bold
+            and len(value_span_ids) >= 2
+            and len(set(value_span_ids)) == 1
+            and value_span_ids[0] is not None
+        ):
+            if row_key:
+                section_node = _get_or_create_child(result, row_key)
+            continue
+
+        # --- Build the value fields for this row ---
+        # Two versions: `inner_check` only includes non-blank values, and
+        # is used purely to detect whether this row has ANY real data at
+        # all (needed for the divider checks below — a divider genuinely
+        # has zero data anywhere). `inner_full` includes EVERY value
+        # column explicitly, even blank ones, using "" for a blank cell —
+        # because in these tables a blank cell is usually a real,
+        # meaningful answer (e.g. "not permitted here"), not missing
+        # information. Silently dropping it would make that fact
+        # unretrievable later. inner_full is what actually gets stored,
+        # once we've confirmed this row isn't a divider.
+        inner_check = {}
+        inner_full = {}
+        for path, cols in value_groups:
+            vals = [row[c][0].strip() for c in cols if row.get(c, ("", False))[0].strip()]
+            key = path or f"Column {cols[0] + 1}"   # fallback name if header was blank
+            # Two NON-adjacent groups can share the exact same header text
+            # (e.g. two separate "Notes" columns at different positions —
+            # common in scraped tables). Grouping only merges ADJACENT
+            # same-header columns, so these stay as separate groups, but
+            # without disambiguation the second one would silently
+            # overwrite the first in this dict. Append the column
+            # position to any repeat so both survive.
+            if key in inner_full:
+                key = f"{key} (col {cols[0] + 1})"
+            if vals:
+                # Normally there's just one value per group; "; " join
+                # only matters in the rare case multiple columns share
+                # one header.
+                inner_check[key] = "; ".join(dict.fromkeys(vals))
+            inner_full[key] = inner_check.get(key, "")   # "" if this column was blank
+
+        # --- Divider check #3: partial label, single spanned cell, or a
+        # trailing-colon category label with no data ---
+        if not inner_check:
+            # Was the label built from ONE physical HTML cell spanning
+            # every label column (e.g. one <td colspan="2">"Residential"</td>)
+            # rather than genuinely separate cells (like a real row's blank
+            # item-number cell + a separate name cell)? If so, even though
+            # every label column technically has text, it's really one
+            # category title, not a real multi-part label — treat it as a
+            # divider, not real data.
+            label_span_ids = [
+                row.get(c, ("", False, None))[2]
+                for c in label_group_cols
+                if row.get(c, ("", False, None))[0].strip()
+            ]
+            label_is_one_spanned_cell = (
+                len(label_group_cols) >= 2
+                and len(label_span_ids) >= 2
+                and len(set(label_span_ids)) == 1
+                and label_span_ids[0] is not None
+            )
+            # Some tables mark a category label purely with a trailing
+            # colon and no colspan/bold at all (e.g. "Group home:").
+            # IMPORTANT: there is no reliable signal in these tables for
+            # where such a category ENDS — no indentation, no distinct
+            # styling — so once opened, this nests every row that follows
+            # until the next real divider or the end of the table. This
+            # is a deliberate, explicit choice (not a default): confirmed
+            # against the source table that everything after the colon
+            # label is intended to fall under it, treating the lack of a
+            # closing marker as a gap in the source table's own
+            # construction rather than something to work around here.
+            label_ends_with_colon = row_key.rstrip().endswith(":")
+
+            if row_key and (not full_label or label_is_one_spanned_cell or label_ends_with_colon):
+                section_node = _get_or_create_child(result, row_key.rstrip().rstrip(":").rstrip())
+                continue
+            elif row_key and full_label:
+                # Complete, genuinely-separate label, but every value
+                # column is blank — this is REAL information (e.g. "not
+                # permitted in any zone"), not a divider. inner_full still
+                # has every column explicitly listed as "", so this stays
+                # just as informative as a row with real values.
+                pass
+            else:
+                continue
+
+        # --- Add this row into whichever section is currently active ---
+        row_counter += 1
+        key = row_key or f"Row {row_counter}"
+        if key in section_node:   # guard against two rows accidentally sharing a label
+            key = f"{key} ({row_counter})"
+        section_node[key] = inner_full
+
+    # Wrap every row under the label column's own header name (e.g. "Type
+    # of Use", "Land Use", "USES") when that header had real text — this
+    # makes explicit what the rows actually represent, instead of leaving
+    # them as flat entries directly under the table's caption. If the
+    # label column's header was blank (e.g. the ADU table's unlabeled
+    # first column), there's no meaningful name to wrap with, so the rows
+    # stay flat rather than introducing a made-up generic key.
+    label_header = groups[0][0]
+    if label_header:
+        return {label_header: result}
+    return result
+
+
+def build_definition_list_yaml(data_rows: list, total_cols: int) -> dict:
+    """
+    Handles "definition_list" tables — ones with NO real per-column
+    headers, just a caption on top and a hierarchy of labels leading to a
+    single value, like a zoning regulation table:
+
+        Site Planning
+          Minimum lot dimensions
+            Width: 200 feet
+            Depth: 600 feet
+
+    The key idea: the LAST column is always the value. Every column
+    before it builds up a nested label. HTML represents "this row is a
+    sub-item of the row above" by leaving the earlier column BLANK
+    (relying on visual alignment) rather than repeating the text — so
+    this function has to remember the most recent non-blank label at
+    each column position and "inherit" it for blank cells.
+
+    Returns the raw, un-wrapped result — the table's caption (if it has
+    one) is handled entirely by the caller (see _convert_one_table and
+    html_table_to_yaml_dict), the same way matrix mode already works.
+    Keeping both modes symmetric like this means a definition-list
+    table's own name gets promoted correctly wherever it's combined with
+    other tables, instead of getting hidden inside a nested wrapper that
+    the caller can't see and falling back to a meaningless "Table N".
+    """
+    root = {}
+    if total_cols < 2:
+        # Need at least a label column AND a value column for this to
+        # make sense.
+        return root
+
+    top = root  # always build at the top level; caller wraps under caption
+
+    # current_labels remembers, for each column position, the most recent
+    # non-blank label seen there — this is what lets "Width"/"Depth" rows
+    # correctly inherit "Minimum lot dimensions" from a row above them.
+    current_labels = {}
+
+    # section_node = whichever dict new label/value pairs should currently
+    # be inserted into — changes when we hit a section-divider row.
+    section_node = top
+
+    for row in data_rows:
+        cols_present = sorted(row.keys())
+        if not cols_present:
+            continue
+        texts = {c: row[c][0].strip() for c in cols_present}
+
+        # --- Section divider check ---
+        # A true divider is ONE value duplicated across every column
+        # (via colspan spanning the whole row width), e.g. "Site
+        # Planning" or "Building". If found, open a new nested section
+        # and reset any label hierarchy that was being built (a new
+        # section starts fresh).
+        all_texts_here = (
+            {texts.get(c, "") for c in range(total_cols)}
+            if cols_present == list(range(total_cols)) else None
+        )
+        if all_texts_here is not None and len(all_texts_here) == 1 and next(iter(all_texts_here)):
+            section_text = next(iter(all_texts_here))
+            section_node = _get_or_create_child(top, section_text)
+            current_labels = {}
+            continue
+
+        # The value is whichever PHYSICAL cell sits rightmost in THIS
+        # row — not always column (total_cols - 1). Some tables mix row
+        # shapes: most rows use two colspan="2" cells reaching the full
+        # width, but a sub-group might use three plain <td>s that only
+        # reach column 2 of a 4-column table (never touching column 3
+        # at all). Assuming every row reaches the table's overall
+        # widest point would silently treat those narrower rows as
+        # having no value (their real value sits before where we'd be
+        # looking), or if a colspan value cell happens to also cover an
+        # earlier column, part of that same value would get double-
+        # counted as an extra label segment instead.
+        #
+        # Using span_id (see expand_html_grid) fixes both: it finds
+        # every column belonging to the SAME physical cell as the
+        # rightmost one, so a colspan="2" value cell is correctly
+        # excluded from the label in full (not just its rightmost
+        # column), and a narrower row's real last cell is used as its
+        # value instead of a table-wide column index that row never
+        # reaches.
+        rightmost_col = cols_present[-1]
+        rightmost_cell = row[rightmost_col]
+        value_span_id = rightmost_cell[2] if len(rightmost_cell) > 2 else None
+        if value_span_id is not None:
+            value_cols = {
+                c for c in cols_present
+                if (row[c][2] if len(row[c]) > 2 else None) == value_span_id
+            }
+        else:
+            value_cols = {rightmost_col}
+
+        # If EVERY column in this row belongs to that same one physical
+        # cell, there's no separate label portion at all — this row is
+        # purely a label-establishing row with nothing to its right
+        # (matches the "no value yet" case below), not an accidental
+        # value.
+        if value_cols == set(cols_present):
+            value = ""
+        else:
+            value = texts.get(rightmost_col, "")
+
+        # Walk every label column (everything except the columns that
+        # belong to the value's own physical cell), left to right,
+        # updating what we remember for each position.
+        for c in sorted(c for c in cols_present if c not in value_cols):
+            text = texts.get(c, "")
+            if text:
+                # A new non-blank label appears here — remember it, and
+                # forget any deeper (further-right) labels that were
+                # remembered before, since we're now on a new branch.
+                current_labels[c] = text
+                for deeper in [k for k in current_labels if k > c]:
+                    del current_labels[deeper]
+            # If text is blank, we deliberately do nothing — that's the
+            # "inherit from the row above" behavior.
+
+        # Build the final label path from whatever's currently remembered,
+        # skipping any accidental exact repeats in a row.
+        label_parts = []
+        for c in sorted(current_labels.keys()):
+            t = current_labels[c]
+            if t and (not label_parts or label_parts[-1] != t):
+                label_parts.append(t)
+
+        if not value or not label_parts:
+            # Either this row had no value (it was just establishing a
+            # label for later rows to inherit, like "Minimum setbacks"
+            # with nothing of its own), or somehow no label at all —
+            # either way, nothing to actually record yet.
+            continue
+
+        _insert_path(section_node, label_parts, value)
+
+    return root
+
+
+def _compute_total_cols(grid: list, header_row_count: int) -> int:
+    """
+    How many columns does this table actually have?
+
+    The naive answer — the widest row anywhere in the grid — is fragile:
+    ONE malformed row (a stray extra cell from a scraping artifact) would
+    inflate the count for the WHOLE table, and since every divider check
+    in build_matrix_yaml/build_definition_list_yaml relies on comparing
+    a row's column span against total_cols, one bad row could silently
+    break divider detection for every other row too. Mode (most common
+    width) guards against that.
+
+    But mode alone has its own failure mode: a table can have a caption/
+    divider row (e.g. "COMMERCIAL", one value spanning colspan="3") where
+    every ORDINARY data row underneath it is a plain, unexpanded 2-cell
+    label+value pair — narrower than the divider, and in the majority.
+    The mode would then settle on the NARROWER width (2), and the
+    divider — which genuinely needs 3 columns to be recognized as
+    spanning "the whole table" — would silently stop being detected as a
+    caption at all, since it would no longer appear to cover every
+    column. A row deliberately styled to span the table's full width via
+    colspan is a more authoritative signal of the table's true intended
+    column count than how many columns ordinary data happens to need, so
+    it's checked FIRST, before falling back to the mode.
+    """
+    from collections import Counter
+
+    if grid:
+        first_row = grid[0]
+        cols_present = sorted(first_row.keys())
+        if cols_present and cols_present == list(range(len(cols_present))):
+            texts = {first_row[c][0].strip() for c in cols_present}
+            if len(cols_present) >= 2 and len(texts) == 1 and next(iter(texts)):
+                return len(cols_present)
+
+    header_rows = grid[:header_row_count]
+    widths = [max(row.keys()) + 1 for row in header_rows if row]
+    if not widths:
+        widths = [max(row.keys()) + 1 for row in grid if row]
+    if not widths:
+        return 0
+    return Counter(widths).most_common(1)[0][0]
+
+
+def _convert_one_table(table) -> tuple:
+    """
+    Runs the full per-table pipeline (grid expansion, caption splitting,
+    header analysis, matrix-vs-definition-list decision, and dict
+    building) for ONE already-selected <table> tag.
+
+    Returns (caption, data_dict, dominant_group):
+      caption        = "" if the table had no title/legend row.
+      dominant_group = a real grouping from the table's OWN header
+                        structure (e.g. "Zoning District"), used ONLY as
+                        a last-resort name — see html_table_to_yaml_dict,
+                        where it replaces a generic "Table N" fallback
+                        specifically for an uncaptioned table sharing a
+                        title with others. It's deliberately NOT folded
+                        into `caption` itself: doing so caused two bad
+                        side effects when tried — it got redundantly
+                        appended onto a table that already had a real
+                        external title, and it added an unwanted extra
+                        wrapping layer on an untitled single table that
+                        was already reasonably named via its own label
+                        column. Keeping it separate lets the caller use
+                        it only in the one situation it's meant for.
+
+    Both modes now return their caption the SAME way (as a plain string
+    for the caller to handle), rather than definition-list mode secretly
+    wrapping its caption inside the returned dict. This is what lets a
+    definition-list table's own real name (e.g. "Table 20-2 | Permitted
+    and Specially Permitted Uses") get used correctly when combined with
+    other tables, instead of falling back to a meaningless "Table N".
+    """
+    header_row_count, grid = expand_html_grid(table)
+    if not grid:
+        return "", {}, ""
+
+    total_cols = _compute_total_cols(grid, header_row_count)
+
+    captions, offset = split_caption_rows(grid, header_row_count, total_cols)
+    real_header_rows = grid[offset:header_row_count]
+    header_paths, header_note, dominant_group = build_header_paths(real_header_rows, total_cols)
+    data_rows = grid[header_row_count:]
+
+    # Some tables have NO <thead> at all (no header rows for
+    # split_caption_rows to even look at), yet the very FIRST row can
+    # still visually BE a caption: one single value spanning every
+    # column (e.g. "OFF-STREET PARKING REQUIREMENTS"), styled just like
+    # a real title, just missing the markup that would normally mark it
+    # as a header row. Without this, that row gets misread as an
+    # ordinary section divider — which nests new sections under the
+    # table's ROOT, not under whichever section is currently active, so
+    # it ends up as an empty {} sibling of the very first real
+    # subsection instead of correctly wrapping the whole table.
+    #
+    # Only the single leading row is taken this way (never a run of
+    # them): a second full-width row right after it (like "RESIDENTIAL"
+    # here) is far more likely to be a genuine subsection divider than
+    # a second caption line, and greedily consuming a run of them would
+    # wrongly swallow real subsections in tables that have several
+    # (this pattern already exists and is handled correctly elsewhere —
+    # see the divider checks in build_matrix_yaml / build_definition_
+    # list_yaml — so this only needs to cover the ONE leading case that
+    # those checks can't distinguish from a real divider on their own).
+    leading_caption = ""
+    if header_row_count == 0 and data_rows:
+        first_row = data_rows[0]
+        cols_present = sorted(first_row.keys())
+        if cols_present == list(range(total_cols)):
+            all_texts = {first_row[c][0].strip() for c in cols_present}
+            if len(all_texts) == 1 and next(iter(all_texts)):
+                leading_caption = next(iter(all_texts))
+                data_rows = data_rows[1:]
+
+    caption = " | ".join(c for c in (leading_caption, *captions, header_note) if c)
+    distinct_headers = {p for p in header_paths.values() if p}
+
+    if not real_header_rows or len(distinct_headers) <= 1:
+        fallback_caption = caption or next(iter(distinct_headers), "")
+        return fallback_caption, build_definition_list_yaml(data_rows, total_cols), dominant_group
+    else:
+        matrix = build_matrix_yaml(data_rows, header_paths, total_cols)
+        return caption, matrix, dominant_group
+
+
+def _find_local_title(table) -> str:
+    """
+    Finds the title that actually belongs to THIS specific table, rather
+    than assuming one title applies to the whole document. Real-world
+    documents commonly contain MANY independently-titled sections in a
+    row (e.g. "Primary residential uses.", "Accessory and incidental
+    uses.", "Vibration.", ... each with their own table(s)) — using only
+    the first title in the document would silently apply the wrong name
+    to every section after the first, or lose the rest entirely.
+
+    Walks backward from the table ONE element at a time — table.find_all_
+    previous() already visits elements nearest-first — and returns the
+    text of the FIRST one matching any recognized caption pattern:
+    <figcaption>, <div class="title">/"chunk-title", or a "pure bold" <p>
+    caption (a <p> tag whose entire text content is just one
+    <span class="bold">...</span>, e.g.
+    <p><span class="bold">Table 7.24-1<br>Allowed Uses</span></p> — a
+    table-level caption sitting outside the <table> tag entirely, as
+    distinct from the broader section title above it).
+
+    A single forward pass naturally finds the closest match without ever
+    needing to compare positions after the fact — an earlier version
+    collected candidates via several separate find_previous() calls, then
+    tried to figure out which was nearest by looking up each one's index
+    in a full list of preceding elements. That had two problems: it
+    re-scanned the whole preceding document once per table (quadratic
+    over a large document), and a candidate that failed the lookup fell
+    back to position -1 — which, being smaller than any real index,
+    would incorrectly "win" as the closest match instead of being
+    correctly treated as not found.
+    """
+    for el in table.find_all_previous():
+        name = getattr(el, "name", None)
+        if name is None:
+            continue  # skip NavigableString / comment nodes
+
+        if name == "figcaption":
+            return _cell_text(el)
+
+        if name == "div":
+            classes = el.get("class") or []
+            if "title" in classes or "chunk-title" in classes:
+                return _cell_text(el)
+
+        if name == "p":
+            bold_span = el.find("span", class_="bold")
+            if bold_span is not None:
+                full_text = _cell_text(el)
+                if full_text and full_text == _cell_text(bold_span):
+                    return full_text
+
+            # Some documents label a table with a plain paragraph and NO
+            # special styling at all — e.g. "1. Supplemental off-street
+            # parking requirements specific to districts" sitting right
+            # before the table, with no bold span, no div.title, nothing
+            # else to go on. A short, non-empty paragraph close to the
+            # table is a reasonable signal it's meant as that table's
+            # label. Two safeguards keep this narrow:
+            #   - blank paragraphs (a lone <br>, used as visual spacing
+            #     between the label and the table) are skipped rather
+            #     than treated as "nothing here" — the scan keeps
+            #     looking past them instead of giving up too early.
+            #   - a LONG paragraph is essentially always narrative body
+            #     text, not a label (e.g. multi-sentence regulatory
+            #     text that happens to sit right before a table) — it's
+            #     deliberately NOT treated as a match, so it falls
+            #     through and scanning continues exactly as it already
+            #     did before this check existed.
+            plain_text = _cell_text(el)
+            if plain_text and len(plain_text) <= 150:
+                return plain_text
+
+    return ""
+
+
+def html_table_to_yaml_dict(html: str) -> dict:
+    """
+    The "decision maker": takes raw HTML — which may contain ONE table,
+    a few tables under one shared title (e.g. a legend plus the actual
+    data table), or MANY independently-titled sections each with their
+    own table(s) (a large document like a full zoning use-schedule
+    chapter) — and returns the finished nested Python dictionary.
+
+    Every real table found gets converted independently through the same
+    matrix-vs-definition-list pipeline, then paired with its own LOCAL
+    title (the nearest preceding title, not one global title for the
+    whole document — see _find_local_title). Tables that share the same
+    local title (e.g. two small tables both following one "Vibration."
+    heading with nothing in between) are grouped together under that one
+    title. Tables with genuinely no title anywhere before them sit as
+    their own top-level entries.
+    """
+    soup = BeautifulSoup(html, "html.parser")
+    tables = _find_all_content_tables(soup)
+    if not tables:
+        return {}
+
+    # Convert every table first, and note each one's own local title.
+    converted = []  # list of (local_title, caption, data_dict, dominant_group)
+    for table in tables:
+        caption, data, dominant_group = _convert_one_table(table)
+        if not data:
+            continue
+        local_title = _find_local_title(table)
+        converted.append((local_title, caption, data, dominant_group))
+
+    if not converted:
+        return {}
+
+    # Group tables that share the same local title, preserving the order
+    # each title first appears in.
+    groups = {}  # local_title -> list of (caption, data, dominant_group)
+    order = []
+    for local_title, caption, data, dominant_group in converted:
+        if local_title not in groups:
+            groups[local_title] = []
+            order.append(local_title)
+        groups[local_title].append((caption, data, dominant_group))
+
+    result = {}
+    for local_title in order:
+        items = groups[local_title]
+
+        if len(items) == 1:
+            caption, data, _dominant_group = items[0]
+            # Fold any in-table caption into the title itself, e.g.
+            # "Doc Title | Table 4.12" — matches prior single-table
+            # behavior when a table also carried its own caption row.
+            # (dominant_group is intentionally NOT used here — see
+            # _convert_one_table's docstring for why.)
+            key = " | ".join(c for c in [local_title, caption] if c)
+        else:
+            # Multiple tables share this one title (e.g. two small
+            # tables both under "Vibration." with nothing between them)
+            # — combine them, using each table's own caption when it has
+            # one, then a real grouping from its OWN header structure
+            # (e.g. "Zoning District") when it doesn't, and only falling
+            # back to a generic "Table N" when neither is available.
+            combined = {}
+            for idx, (caption, data, dominant_group) in enumerate(items, start=1):
+                sub_key = caption or dominant_group or f"Table {idx}"
+                if sub_key in combined:
+                    sub_key = f"{sub_key} ({idx})"
+                combined[sub_key] = data
+            data = combined
+            key = local_title
+
+        if not key:
+            # No title anywhere for this table — merge its data straight
+            # into the top level rather than inventing a wrapper key.
+            result.update(data)
+            continue
+
+        if key in result:
+            key = f"{key} (2)"
+        result[key] = data
+
+    return result
+
+
+# ---------------------------------------------------------------------------
+# Batch conversion over cases/ folder
+# ---------------------------------------------------------------------------
+
+class _WideKeyDumper(yaml.Dumper):
+    """
+    PyYAML has a built-in rule: a mapping key over 128 characters can't
+    use the normal, familiar "key: value" form — it's forced into a more
+    awkward explicit-block style ("? key" on one line, ": value" on the
+    next). This is purely a PyYAML formatting preference, not a real YAML
+    limitation — long simple keys are perfectly valid YAML.
+
+    These zoning tables regularly have row labels and section headers well
+    over 128 characters (e.g. "Wireless communications facilities
+    (subject to use-specific standards and application procedures in
+    Sections 16-19-010—16-19-080)"), so without this override, any long
+    label silently switches to that harder-to-read "? / :" format — easy
+    to misread as a missing or broken section rather than a normal entry.
+    This subclass raises that threshold generously (1024 chars) so
+    ordinary long labels stay in the familiar "key: value" form, while
+    still correctly falling back to the safe explicit style for scalars
+    that are genuinely empty or span multiple lines.
+    """
+    def check_simple_key(self):
+        length = 0
+        if self.analysis is None and isinstance(self.event, ScalarEvent):
+            self.analysis = self.analyze_scalar(self.event.value)
+        if isinstance(self.event, AliasEvent):
+            length += len(self.alias_key)
+        elif isinstance(self.event, ScalarEvent) and self.event.value is not None:
+            length += len(self.analysis.scalar)
+        return (
+            length < 1024
+            and (
+                isinstance(self.event, AliasEvent)
+                or (
+                    isinstance(self.event, ScalarEvent)
+                    and not self.analysis.empty
+                    and not self.analysis.multiline
+                )
+                or self.check_empty_sequence()
+                or self.check_empty_mapping()
+            )
+        )
+
+
+def _verify_wide_key_dumper():
+    """
+    _WideKeyDumper overrides a private PyYAML emitter method
+    (check_simple_key) by copying its internal logic and changing one
+    constant. That's inherently fragile: if a future PyYAML release
+    changes that method's internals, this override could silently stop
+    working — long keys would quietly fall back to the confusing
+    "? key" / ": value" format again, with no error, no warning, just a
+    slow drift back into output that looks broken.
+
+    This is a small self-check that catches that immediately: dump a
+    dict with a 200-character key and assert it comes out as a normal
+    "key: value" line. Called once, right after the class is defined —
+    if PyYAML's internals ever shift under us, this fails loudly at
+    import time instead of letting the problem surface later as
+    "confusing YAML output" in some review months from now.
+    """
+    long_key = "x" * 200
+    output = yaml.dump(
+        {long_key: "value"}, Dumper=_WideKeyDumper, sort_keys=False,
+        allow_unicode=True, default_flow_style=False, width=1000, indent=2,
+    )
+    expected_start = f"{long_key}:"
+    if not output.startswith(expected_start):
+        raise AssertionError(
+            "_WideKeyDumper self-check failed: a 200-character key did not "
+            "render as plain 'key: value'. This likely means the installed "
+            "PyYAML version changed internals that check_simple_key() "
+            "depends on — long table row labels and section names will "
+            "silently render in the confusing '? key' / ': value' format "
+            f"again. Got:\n{output[:200]!r}"
+        )
+
+
+_verify_wide_key_dumper()
+
+
+def to_yaml_string(data: dict) -> str:
+    """
+    Hands our finished Python dictionary to the `yaml` library, which
+    knows how to print it out as properly indented YAML text.
+
+      Dumper=_WideKeyDumper  -> keep long labels/section names in normal
+                                "key: value" form instead of PyYAML's
+                                awkward "? key" / ": value" block style
+                                (see _WideKeyDumper's docstring)
+      sort_keys=False       -> keep our own ordering (e.g. table row
+                                order), don't alphabetize everything
+      allow_unicode=True    -> let special characters (like ½ or —)
+                                print as themselves, not escape codes
+      default_flow_style=False -> use the multi-line indented style
+                                (what you're used to seeing), not the
+                                compact {a: 1, b: 2} inline style
+      width=1000             -> don't wrap long regulation sentences onto
+                                multiple lines
+      indent=2                -> 2 spaces per nesting level
+    """
+    return yaml.dump(
+        data,
+        Dumper=_WideKeyDumper,
+        sort_keys=False,
+        allow_unicode=True,
+        default_flow_style=False,
+        width=1000,
+        indent=2,
+    )
+
+
+def main():
+    """
+    The actual script entry point: look through the cases/ folder for
+    every file matching <id>_html.txt, convert each one, and save the
+    result next to it as <id>_yaml.txt.
+
+    Each case is converted inside its own try/except: with hundreds of
+    tables in a real corpus, some are going to have HTML malformed enough
+    to raise an outright exception (not just convert to the wrong thing —
+    an actual crash), and one such file must not abort the whole batch
+    and silently lose every case that would have come after it
+    alphabetically. Failures are collected and summarized at the end
+    instead, so a bad file is visible but doesn't block the rest.
+    """
+    if not os.path.isdir(CASES_DIR):
+        raise FileNotFoundError(f"'{CASES_DIR}/' not found.")
+
+    # Find every file ending in "_html.txt" and strip that suffix off to
+    # get just the case's ID, e.g. "adu_table_html.txt" -> "adu_table".
+    html_files = {f[: -len("_html.txt")] for f in os.listdir(CASES_DIR) if f.endswith("_html.txt")}
+    case_ids = sorted(html_files)
+
+    if not case_ids:
+        print(f"No cases found in '{CASES_DIR}/' (looking for <id>_html.txt).")
+        return
+
+    errors = []
+    for case_id in case_ids:
+        html_path = os.path.join(CASES_DIR, f"{case_id}_html.txt")
+        try:
+            with open(html_path, encoding="utf-8") as f:
+                data = html_table_to_yaml_dict(f.read())
+
+            if not data:
+                print(f"  {case_id}: no rows converted (check table structure)")
+                continue
+
+            yaml_text = to_yaml_string(data)
+            out_path = os.path.join(CASES_DIR, f"{case_id}_yaml.txt")
+            with open(out_path, "w", encoding="utf-8") as f:
+                f.write(yaml_text)
+
+            print(f"  {case_id}: converted -> {out_path}")
+        except Exception as e:
+            errors.append((case_id, e))
+            print(f"  {case_id}: FAILED — {type(e).__name__}: {e}")
+
+    if errors:
+        print(f"\n{len(errors)} case(s) failed and were skipped: "
+              f"{', '.join(cid for cid, _ in errors)}")
+
+
+# This just means "only run main() if this file is being run directly
+# (python table_to_yaml_converter.py), not if it's imported by another
+# script." Standard Python convention.
+if __name__ == "__main__":
+    main()

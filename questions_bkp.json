@@ -1,0 +1,72 @@
+[
+    {
+    "case_id": "table_001",
+    "question": "Is guest house permitted for zone R-L-12?",
+    "expected_answer": "Yes"
+    },
+    {
+    "case_id": "table_001",
+    "question": "For \"Multifamily dwelling, 3 or 4 units per site (triplex or fourplex),\" which zones allow it, and what permit type is required in each?",
+    "expected_answer": "Not allowed in R-L-12 or R-L-8?"
+    },
+    {
+    "case_id": "table_002",
+    "question": "What is the Quantity (SFR) of converted ADU?",
+    "expected_answer": "1"
+    },
+    {
+    "case_id": "table_002",
+    "question": "Are Impact fees required for Detached ADU?",
+    "expected_answer": "Impact fees are required"
+    },
+    {
+    "case_id": "table_002",
+    "question": "What is the processing time for a  JADU?",
+    "expected_answer": "60 days if there is an existing primary dwelling; concurrent review if no existing primary dwelling"
+    },
+    {
+    "case_id": "table_003",
+    "question": "What is dwelling unit size of single story unit building?",
+    "expected_answer": "1100 sq ft"
+    },
+    {
+    "case_id": "table_003",
+    "question": "What are minimum setbacks of interior side yard and rear yard?",
+    "expected_answer": "Interior side yard: 50 ft, Rear yard: 100 ft"
+    },
+    {
+    "case_id": "table_003",
+    "question": "What is the width of minimum lot dimension for Site Planning?",
+    "expected_answer": "200 ft"
+    },
+    {
+    "case_id": "table_004",
+    "question": "What is the minimum width requirement for a corner lot in the BP zone?",
+    "expected_answer": "110 ft"
+    },
+    {
+    "case_id": "table_004",
+    "question": "What is the side-interior setback in the I zone if the adjacent use is a non-industrial, non-business park use?",
+    "expected_answer": "20 ft" 
+    },
+    {
+    "case_id": "table_004",
+    "question": "Per the Setbacks — Primary structure note, which chapter should you check for information on setback modifications, reductions, and encroachments?",
+    "expected_answer": "Chapter 12"
+    },
+        {
+    "case_id": "table_005",
+    "question": "For 'Games of skill or amusement, more than 8' (A9), which zones require a Conditional Use Permit?",
+    "expected_answer": "C-N, C-R, C-S, C-H, MX-N, MX-C, MX-D, I-L, PF"
+    },
+    {
+    "case_id": "table_005",
+    "question": "What permit is required for 'Mobile vending or food truck' (A13) in the I-H zone, and what's the specific standard that applies?",
+    "expected_answer": "T (Temporary Use Permit required); see Chapter 5.64, and a CUP is required if placement exceeds 6 months"
+    },
+    {
+    "case_id": "table_005",
+    "question": "Is 'Home occupation' permitted in the C-N zone?",
+    "expected_answer": "No / not listed — the cell is blank, meaning the use is not allowed in C-N"
+    }
+]
