@@ -1,0 +1,2170 @@
+<div id="c_CH18LAUSRE_ART18.12ZOGE_18.12.180SCUS" class="chunk" data-nodetype="" data-nodedepth="3" ng-switch="::chunk.DocType">
+	<span id="contentAnchor_CH18LAUSRE_ART18.12ZOGE_18.12.180SCUS" class="anchor-offset"></span>
+	<!---->
+	<div ng-switch-when="1">
+		<div class="chunk-heading" tabindex="-1" ng-init="htmlChunkInit()">
+			<mcc-codes-title-wrapper mindepth="minDepth" nodedepth="::chunk.NodeDepth" chunkid="::chunk.Id" titlehtml="chunkVm.titleHtml" ng-class="{'ins': $root.mccStateParams.product.Features.CodeBankCompare &amp;&amp; $root.$stateParams.showChanges &amp;&amp; chunk.CompareStatus == 0}">
+				<!---->
+				<!---->
+				<h3 ng-if="vm.relativeNodeDepth == 1" id="_CH18LAUSRE_ART18.12ZOGE_18.12.180SCUS" data-skip-id="_CH18LAUSRE_ART18.12ZOGE_18.12.180SCUS" tabindex="-1" class="chunk-title-wrapper" ng-bind-html="vm.titleHtml">
+					<div class="chunk-title">18.12.180 - Schedule of Uses.</div>
+				</h3>
+				<!---->
+				<!---->
+				<!---->
+				<!---->
+				<!---->
+			</mcc-codes-title-wrapper>
+			<!---->
+			<div class="mcc_codes_content_action_bar">
+				<div class="btn-group action-dropdown hidden-sm hidden-md hidden-lg hidden-xl">
+					<button type="button" class="btn btn-icon-toggle ink-reaction dropdown-toggle btn-primary" data-toggle="dropdown" aria-hidden="true" aria-popup="true" aria-label="Document actions menu">
+						<i class="fa fa-ellipsis-v"></i>
+					</button>
+					<ul class="dropdown-menu pull-right animation-expand">
+						<!---->
+						<li ng-if="::codesVm.docActions.sharelink.enabled">
+							<button type="button" class="codes-action-menu-btn button-unstyled btn-block" data-actionid="sharelink">
+								<i class="fa fa-link"></i> Share Link
+							</button>
+						</li>
+						<!---->
+						<!---->
+						<li ng-if="::codesVm.docActions.print.enabled">
+							<button type="button" class="codes-action-menu-btn button-unstyled btn-block" data-actionid="print">
+								<i class="fa fa-print"></i> Print
+							</button>
+						</li>
+						<!---->
+						<!---->
+						<li ng-if="::codesVm.docActions.downloaddocx.enabled">
+							<button type="button" class="codes-action-menu-btn button-unstyled btn-block" data-actionid="downloaddocx">
+								<i class="fa fa-file-word-o"></i> Download (docx)
+							</button>
+						</li>
+						<!---->
+						<!---->
+						<li ng-if="::codesVm.docActions.email.enabled">
+							<button type="button" class="codes-action-menu-btn button-unstyled btn-block" data-actionid="email">
+								<i class="fa fa-envelope-o"></i> Email
+							</button>
+						</li>
+						<!---->
+						<!---->
+						<!---->
+						<!---->
+					</ul>
+				</div>
+				<!--delegated listener in codesContent2-->
+				<div class="btn-group action-bar text-primary hidden-xs pull-right">
+					<!---->
+					<button type="button" class="btn btn-icon-toggle codes-action-menu-btn" data-actionid="sharelink" ng-if="::codesVm.docActions.sharelink.enabled" data-toggle="tooltip" data-trigger="hover" title="" data-original-title="Share link">
+						<i class="fa fa-link"></i>
+						<span class="sr-only">Share Link to section</span>
+					</button>
+					<!---->
+					<!---->
+					<button type="button" class="btn btn-icon-toggle codes-action-menu-btn" data-actionid="print" ng-if="::codesVm.docActions.print.enabled" data-toggle="tooltip" data-trigger="hover" title="" data-original-title="Print">
+						<i class="fa fa-print"></i>
+						<span class="sr-only">Print section</span>
+					</button>
+					<!---->
+					<!---->
+					<button type="button" class="btn btn-icon-toggle codes-action-menu-btn" data-actionid="downloaddocx" ng-if="::codesVm.docActions.downloaddocx.enabled" data-toggle="tooltip" data-trigger="hover" title="" data-original-title="Download (Docx)">
+						<i class="fa fa-file-word-o"></i>
+						<span class="sr-only">Download (Docx) of sections</span>
+					</button>
+					<!---->
+					<!---->
+					<button type="button" class="btn btn-icon-toggle codes-action-menu-btn" data-actionid="email" ng-if="::codesVm.docActions.email.enabled" data-toggle="tooltip" data-trigger="hover" title="" data-original-title="Email">
+						<i class="fa fa-envelope-o"></i>
+						<span class="sr-only">Email section</span>
+					</button>
+					<!---->
+					<!---->
+					<!---->
+					<!---->
+				</div>
+			</div>
+		</div>
+		<!---->
+		<!---->
+		<!---->
+		<div class="chunk-content-wrapper" ng-class="{'ins': $root.mccStateParams.product.Features.CodeBankCompare &amp;&amp; $root.$stateParams.showChanges &amp;&amp; chunk.CompareStatus == 0}">
+			<div class="chunk-content">
+				<div>
+					<div class="mcc-expandable-table-wrapper">
+						<div class="table-toolbar">
+							<button type="button" aria-label="Expand Table" title="Expand Table" class="btn btn-primary ink-reaction btn-raised btn-expand">
+								<i class="fa fa-expand"> Expand </i>
+							</button>
+						</div>
+						<div class="tableWrapper scrollable" style="width:100%">
+							<table class="thead1 table left makeExpandableTable makeFixedTable" cellpadding="3" cellspacing="0" border="1" rules="all">
+								<colgroup class="std">
+									<col width="30%">
+										<col width="10%">
+											<col width="10%">
+												<col width="10%">
+													<col width="10%">
+														<col width="10%">
+															<col width="10%">
+																<col width="10%">
+																</colgroup>
+																<thead>
+																	<tr>
+																		<th class=" top ">
+                              Land Use
+                              </th>
+																		<th class=" top ">
+                              R-1
+                              </th>
+																		<th class=" top ">
+                              R-2
+                              </th>
+																		<th class=" top ">
+                              DTC
+                              </th>
+																		<th class=" top ">
+                              GC
+                              </th>
+																		<th class=" top ">
+                              MHP
+                              </th>
+																		<th class=" top ">
+                              P
+                              </th>
+																		<th class=" top ">
+                              LI
+                              </th>
+																	</tr>
+																</thead>
+																<tbody>
+																	<tr>
+																		<td class=" top ">
+                              Above-ground public utilities
+                              </td>
+																		<td class=" top ">
+                              S
+                              </td>
+																		<td class=" top ">
+                              S
+                              </td>
+																		<td class=" top ">
+                              S
+                              </td>
+																		<td class=" top ">
+                              S
+                              </td>
+																		<td class=" top ">
+                              S
+                              </td>
+																		<td class=" top ">
+                              S
+                              </td>
+																		<td class=" top ">
+                              S
+                              </td>
+																	</tr>
+																	<tr>
+																		<td class=" top ">
+                              Adult entertainment
+                              </td>
+																		<td class=" top ">
+                              ■
+                              </td>
+																		<td class=" top ">
+                              ■
+                              </td>
+																		<td class=" top ">
+                              ■
+                              </td>
+																		<td class=" top ">
+                              ■
+                              </td>
+																		<td class=" top ">
+                              ■
+                              </td>
+																		<td class=" top ">
+                              ■
+                              </td>
+																		<td class=" top ">
+                              S
+                              </td>
+																	</tr>
+																	<tr>
+																		<td class=" top ">
+                              Agricultural uses
+                              </td>
+																		<td class=" top ">
+                              S
+                              </td>
+																		<td class=" top ">
+                              ■
+                              </td>
+																		<td class=" top ">
+                              ■
+                              </td>
+																		<td class=" top ">
+                              ■
+                              </td>
+																		<td class=" top ">
+                              ■
+                              </td>
+																		<td class=" top ">
+                              ■
+                              </td>
+																		<td class=" top ">
+                              S
+                              </td>
+																	</tr>
+																	<tr>
+																		<td class=" top ">
+                              Assembly halls
+                              </td>
+																		<td class=" top ">
+                              ■
+                              </td>
+																		<td class=" top ">
+                              ■
+                              </td>
+																		<td class=" top ">
+                              P
+                              </td>
+																		<td class=" top ">
+                              P
+                              </td>
+																		<td class=" top ">
+                              ■
+                              </td>
+																		<td class=" top ">
+                              P
+                              </td>
+																		<td class=" top ">
+                              S
+                              </td>
+																	</tr>
+																	<tr>
+																		<td class=" top ">
+                              Automated teller machine facilities
+                              </td>
+																		<td class=" top ">
+                              ■
+                              </td>
+																		<td class=" top ">
+                              ■
+                              </td>
+																		<td class=" top ">
+                              P
+                              </td>
+																		<td class=" top ">
+                              P
+                              </td>
+																		<td class=" top ">
+                              ■
+                              </td>
+																		<td class=" top ">
+                              ■
+                              </td>
+																		<td class=" top ">
+                              S
+                              </td>
+																	</tr>
+																	<tr>
+																		<td class=" top ">
+                              Automobile and truck repair
+                              </td>
+																		<td class=" top ">
+                              ■
+                              </td>
+																		<td class=" top ">
+                              ■
+                              </td>
+																		<td class=" top ">
+                              ■
+                              </td>
+																		<td class=" top ">
+                              S
+                              </td>
+																		<td class=" top ">
+                              ■
+                              </td>
+																		<td class=" top ">
+                              ■
+                              </td>
+																		<td class=" top ">
+                              P
+                              </td>
+																	</tr>
+																	<tr>
+																		<td class=" top ">
+                              Automobile service stations
+                              </td>
+																		<td class=" top ">
+                              ■
+                              </td>
+																		<td class=" top ">
+                              ■
+                              </td>
+																		<td class=" top ">
+                              S
+                              </td>
+																		<td class=" top ">
+                              P
+                              </td>
+																		<td class=" top ">
+                              ■
+                              </td>
+																		<td class=" top ">
+                              ■
+                              </td>
+																		<td class=" top ">
+                              P
+                              </td>
+																	</tr>
+																	<tr>
+																		<td class=" top ">
+                              Automotive sales and service
+                              </td>
+																		<td class=" top ">
+                              ■
+                              </td>
+																		<td class=" top ">
+                              ■
+                              </td>
+																		<td class=" top ">
+                              ■
+                              </td>
+																		<td class=" top ">
+                              P
+                              </td>
+																		<td class=" top ">
+                              ■
+                              </td>
+																		<td class=" top ">
+                              ■
+                              </td>
+																		<td class=" top ">
+                              P
+                              </td>
+																	</tr>
+																	<tr>
+																		<td class=" top ">
+                              Bakeries
+                              </td>
+																		<td class=" top ">
+                              ■
+                              </td>
+																		<td class=" top ">
+                              ■
+                              </td>
+																		<td class=" top ">
+                              P
+                              </td>
+																		<td class=" top ">
+                              P
+                              </td>
+																		<td class=" top ">
+                              ■
+                              </td>
+																		<td class=" top ">
+                              ■
+                              </td>
+																		<td class=" top ">
+                              P
+                              </td>
+																	</tr>
+																	<tr>
+																		<td class=" top ">
+                              Bed and breakfast accommodations
+                              </td>
+																		<td class=" top ">
+                              S
+                              </td>
+																		<td class=" top ">
+                              S
+                              </td>
+																		<td class=" top ">
+                              S
+                              </td>
+																		<td class=" top ">
+                              S
+                              </td>
+																		<td class=" top ">
+                              ■
+                              </td>
+																		<td class=" top ">
+                              ■
+                              </td>
+																		<td class=" top ">
+                              ■
+                              </td>
+																	</tr>
+																	<tr>
+																		<td class=" top ">
+                              Campground and RV park (limited stay)
+                              </td>
+																		<td class=" top ">
+                              ■
+                              </td>
+																		<td class=" top ">
+                              ■
+                              </td>
+																		<td class=" top ">
+                              ■
+                              </td>
+																		<td class=" top ">
+                              S
+                              </td>
+																		<td class=" top ">
+                              S
+                              </td>
+																		<td class=" top ">
+                              ■
+                              </td>
+																		<td class=" top ">
+                              ■
+                              </td>
+																	</tr>
+																	<tr>
+																		<td class=" top ">
+                              Car washes
+                              </td>
+																		<td class=" top ">
+                              ■
+                              </td>
+																		<td class=" top ">
+                              ■
+                              </td>
+																		<td class=" top ">
+                              S
+                              </td>
+																		<td class=" top ">
+                              P
+                              </td>
+																		<td class=" top ">
+                              ■
+                              </td>
+																		<td class=" top ">
+                              ■
+                              </td>
+																		<td class=" top ">
+                              P
+                              </td>
+																	</tr>
+																	<tr>
+																		<td class=" top ">
+                              Carpentry and contractors shops
+                              </td>
+																		<td class=" top ">
+                              ■
+                              </td>
+																		<td class=" top ">
+                              ■
+                              </td>
+																		<td class=" top ">
+                              ■
+                              </td>
+																		<td class=" top ">
+                              S
+                              </td>
+																		<td class=" top ">
+                              ■
+                              </td>
+																		<td class=" top ">
+                              ■
+                              </td>
+																		<td class=" top ">
+                              P
+                              </td>
+																	</tr>
+																	<tr>
+																		<td class=" top ">
+                              Churches
+                              </td>
+																		<td class=" top ">
+                              P
+                              </td>
+																		<td class=" top ">
+                              S
+                              </td>
+																		<td class=" top ">
+                              P
+                              </td>
+																		<td class=" top ">
+                              P
+                              </td>
+																		<td class=" top ">
+                              ■
+                              </td>
+																		<td class=" top ">
+                              ■
+                              </td>
+																		<td class=" top ">
+                              ■
+                              </td>
+																	</tr>
+																	<tr>
+																		<td class=" top ">
+                              Clubs and lodges
+                              </td>
+																		<td class=" top ">
+                              ■
+                              </td>
+																		<td class=" top ">
+                              ■
+                              </td>
+																		<td class=" top ">
+                              P
+                              </td>
+																		<td class=" top ">
+                              P
+                              </td>
+																		<td class=" top ">
+                              ■
+                              </td>
+																		<td class=" top ">
+                              ■
+                              </td>
+																		<td class=" top ">
+                              ■
+                              </td>
+																	</tr>
+																	<tr>
+																		<td class=" top ">
+                              Convenience retail stores
+                              </td>
+																		<td class=" top ">
+                              ■
+                              </td>
+																		<td class=" top ">
+                              ■
+                              </td>
+																		<td class=" top ">
+                              S
+                              </td>
+																		<td class=" top ">
+                              P
+                              </td>
+																		<td class=" top ">
+                              ■
+                              </td>
+																		<td class=" top ">
+                              ■
+                              </td>
+																		<td class=" top ">
+                              ■
+                              </td>
+																	</tr>
+																	<tr>
+																		<td class=" top ">
+                              Day care centers and homes
+                              </td>
+																		<td class=" top ">
+                              S
+                              </td>
+																		<td class=" top ">
+                              S
+                              </td>
+																		<td class=" top ">
+                              S
+                              </td>
+																		<td class=" top ">
+                              S
+                              </td>
+																		<td class=" top ">
+                              ■
+                              </td>
+																		<td class=" top ">
+                              ■
+                              </td>
+																		<td class=" top ">
+                              ■
+                              </td>
+																	</tr>
+																	<tr>
+																		<td class=" top ">
+                              Day care on-site as an accessory use to a business for the use of employees of the
+                              business
+                              </td>
+																		<td class=" top ">
+                              ■
+                              </td>
+																		<td class=" top ">
+                              ■
+                              </td>
+																		<td class=" top ">
+                              S
+                              </td>
+																		<td class=" top ">
+                              S
+                              </td>
+																		<td class=" top ">
+                              ■
+                              </td>
+																		<td class=" top ">
+                              ■
+                              </td>
+																		<td class=" top ">
+                              S
+                              </td>
+																	</tr>
+																	<tr>
+																		<td class=" top ">
+                              Drive-in restaurants
+                              </td>
+																		<td class=" top ">
+                              ■
+                              </td>
+																		<td class=" top ">
+                              ■
+                              </td>
+																		<td class=" top ">
+                              S
+                              </td>
+																		<td class=" top ">
+                              P
+                              </td>
+																		<td class=" top ">
+                              ■
+                              </td>
+																		<td class=" top ">
+                              ■
+                              </td>
+																		<td class=" top ">
+                              ■
+                              </td>
+																	</tr>
+																	<tr>
+																		<td class=" top ">
+                              Drive-up banks
+                              </td>
+																		<td class=" top ">
+                              ■
+                              </td>
+																		<td class=" top ">
+                              ■
+                              </td>
+																		<td class=" top ">
+                              P
+                              </td>
+																		<td class=" top ">
+                              P
+                              </td>
+																		<td class=" top ">
+                              ■
+                              </td>
+																		<td class=" top ">
+                              ■
+                              </td>
+																		<td class=" top ">
+                              ■
+                              </td>
+																	</tr>
+																	<tr>
+																		<td class=" top ">
+                              Dry cleaning establishments
+                              </td>
+																		<td class=" top ">
+                              ■
+                              </td>
+																		<td class=" top ">
+                              ■
+                              </td>
+																		<td class=" top ">
+                              ■
+                              </td>
+																		<td class=" top ">
+                              P
+                              </td>
+																		<td class=" top ">
+                              ■
+                              </td>
+																		<td class=" top ">
+                              ■
+                              </td>
+																		<td class=" top ">
+                              P
+                              </td>
+																	</tr>
+																	<tr>
+																		<td class=" top ">
+                              Dwellings in the same building as a business
+                              </td>
+																		<td class=" top ">
+                              ■
+                              </td>
+																		<td class=" top ">
+                              ■
+                              </td>
+																		<td class=" top ">
+                              P
+                              </td>
+																		<td class=" top ">
+                              S
+                              </td>
+																		<td class=" top ">
+                              S
+                              </td>
+																		<td class=" top ">
+                              ■
+                              </td>
+																		<td class=" top ">
+                              S
+                              </td>
+																	</tr>
+																	<tr>
+																		<td class=" top ">
+                              Eating and drinking establishments excluding drive-in restaurants
+                              </td>
+																		<td class=" top ">
+                              ■
+                              </td>
+																		<td class=" top ">
+                              ■
+                              </td>
+																		<td class=" top ">
+                              P
+                              </td>
+																		<td class=" top ">
+                              P
+                              </td>
+																		<td class=" top ">
+                              ■
+                              </td>
+																		<td class=" top ">
+                              ■
+                              </td>
+																		<td class=" top ">
+                              ■
+                              </td>
+																	</tr>
+																	<tr>
+																		<td class=" top ">
+                              Equipment sales and rental
+                              </td>
+																		<td class=" top ">
+                              ■
+                              </td>
+																		<td class=" top ">
+                              ■
+                              </td>
+																		<td class=" top ">
+                              ■
+                              </td>
+																		<td class=" top ">
+                              P
+                              </td>
+																		<td class=" top ">
+                              ■
+                              </td>
+																		<td class=" top ">
+                              ■
+                              </td>
+																		<td class=" top ">
+                              P
+                              </td>
+																	</tr>
+																	<tr>
+																		<td class=" top ">
+                              Financial institutions
+                              </td>
+																		<td class=" top ">
+                              ■
+                              </td>
+																		<td class=" top ">
+                              ■
+                              </td>
+																		<td class=" top ">
+                              P
+                              </td>
+																		<td class=" top ">
+                              P
+                              </td>
+																		<td class=" top ">
+                              ■
+                              </td>
+																		<td class=" top ">
+                              ■
+                              </td>
+																		<td class=" top ">
+                              ■
+                              </td>
+																	</tr>
+																	<tr>
+																		<td class=" top ">
+                              Frozen food lockers
+                              </td>
+																		<td class=" top ">
+                              ■
+                              </td>
+																		<td class=" top ">
+                              ■
+                              </td>
+																		<td class=" top ">
+                              ■
+                              </td>
+																		<td class=" top ">
+                              P
+                              </td>
+																		<td class=" top ">
+                              ■
+                              </td>
+																		<td class=" top ">
+                              ■
+                              </td>
+																		<td class=" top ">
+                              P
+                              </td>
+																	</tr>
+																	<tr>
+																		<td class=" top ">
+                              Grocery stores
+                              </td>
+																		<td class=" top ">
+                              ■
+                              </td>
+																		<td class=" top ">
+                              ■
+                              </td>
+																		<td class=" top ">
+                              P
+                              </td>
+																		<td class=" top ">
+                              P
+                              </td>
+																		<td class=" top ">
+                              ■
+                              </td>
+																		<td class=" top ">
+                              ■
+                              </td>
+																		<td class=" top ">
+                              ■
+                              </td>
+																	</tr>
+																	<tr>
+																		<td class=" top ">
+                              Group homes for the developmentally disabled or for persons 60 years of age or older
+                              </td>
+																		<td class=" top ">
+                              S
+                              </td>
+																		<td class=" top ">
+                              S
+                              </td>
+																		<td class=" top ">
+                              ■
+                              </td>
+																		<td class=" top ">
+                              ■
+                              </td>
+																		<td class=" top ">
+                              ■
+                              </td>
+																		<td class=" top ">
+                              ■
+                              </td>
+																		<td class=" top ">
+                              ■
+                              </td>
+																	</tr>
+																	<tr>
+																		<td class=" top ">
+                              Horses, keeping of; stables and other equestrian facilities
+                              </td>
+																		<td class=" top ">
+                              S
+                              </td>
+																		<td class=" top ">
+                              S
+                              </td>
+																		<td class=" top ">
+                              ■
+                              </td>
+																		<td class=" top ">
+                              S
+                              </td>
+																		<td class=" top ">
+                              ■
+                              </td>
+																		<td class=" top ">
+                              ■
+                              </td>
+																		<td class=" top ">
+                              S
+                              </td>
+																	</tr>
+																	<tr>
+																		<td class=" top ">
+                              Hospitals
+                              </td>
+																		<td class=" top ">
+                              ■
+                              </td>
+																		<td class=" top ">
+                              ■
+                              </td>
+																		<td class=" top ">
+                              S
+                              </td>
+																		<td class=" top ">
+                              P
+                              </td>
+																		<td class=" top ">
+                              ■
+                              </td>
+																		<td class=" top ">
+                              ■
+                              </td>
+																		<td class=" top ">
+                              ■
+                              </td>
+																	</tr>
+																	<tr>
+																		<td class=" top ">
+                              Hotels and motels
+                              </td>
+																		<td class=" top ">
+                              ■
+                              </td>
+																		<td class=" top ">
+                              ■
+                              </td>
+																		<td class=" top ">
+                              S
+                              </td>
+																		<td class=" top ">
+                              P
+                              </td>
+																		<td class=" top ">
+                              ■
+                              </td>
+																		<td class=" top ">
+                              ■
+                              </td>
+																		<td class=" top ">
+                              ■
+                              </td>
+																	</tr>
+																	<tr>
+																		<td class=" top ">
+                              Indoor commercial or public recreation facilities
+                              </td>
+																		<td class=" top ">
+                              ■
+                              </td>
+																		<td class=" top ">
+                              ■
+                              </td>
+																		<td class=" top ">
+                              S
+                              </td>
+																		<td class=" top ">
+                              P
+                              </td>
+																		<td class=" top ">
+                              ■
+                              </td>
+																		<td class=" top ">
+                              ■
+                              </td>
+																		<td class=" top ">
+                              ■
+                              </td>
+																	</tr>
+																	<tr>
+																		<td class=" top ">
+                              Kennels
+                              </td>
+																		<td class=" top ">
+                              ■
+                              </td>
+																		<td class=" top ">
+                              ■
+                              </td>
+																		<td class=" top ">
+                              ■
+                              </td>
+																		<td class=" top ">
+                              S
+                              </td>
+																		<td class=" top ">
+                              ■
+                              </td>
+																		<td class=" top ">
+                              ■
+                              </td>
+																		<td class=" top ">
+                              S
+                              </td>
+																	</tr>
+																	<tr>
+																		<td class=" top ">
+                              Laundromats
+                              </td>
+																		<td class=" top ">
+                              ■
+                              </td>
+																		<td class=" top ">
+                              ■
+                              </td>
+																		<td class=" top ">
+                              S
+                              </td>
+																		<td class=" top ">
+                              P
+                              </td>
+																		<td class=" top ">
+                              ■
+                              </td>
+																		<td class=" top ">
+                              ■
+                              </td>
+																		<td class=" top ">
+                              P
+                              </td>
+																	</tr>
+																	<tr>
+																		<td class=" top ">
+                              Libraries
+                              </td>
+																		<td class=" top ">
+                              ■
+                              </td>
+																		<td class=" top ">
+                              ■
+                              </td>
+																		<td class=" top ">
+                              P
+                              </td>
+																		<td class=" top ">
+                              P
+                              </td>
+																		<td class=" top ">
+                              ■
+                              </td>
+																		<td class=" top ">
+                              ■
+                              </td>
+																		<td class=" top ">
+                              ■
+                              </td>
+																	</tr>
+																	<tr>
+																		<td class=" top ">
+                              Machine shops
+                              </td>
+																		<td class=" top ">
+                              ■
+                              </td>
+																		<td class=" top ">
+                              ■
+                              </td>
+																		<td class=" top ">
+                              ■
+                              </td>
+																		<td class=" top ">
+                              P
+                              </td>
+																		<td class=" top ">
+                              ■
+                              </td>
+																		<td class=" top ">
+                              ■
+                              </td>
+																		<td class=" top ">
+                              P
+                              </td>
+																	</tr>
+																	<tr>
+																		<td class=" top ">
+                              Manufacturing, fabrication and assembly
+                              </td>
+																		<td class=" top ">
+                              ■
+                              </td>
+																		<td class=" top ">
+                              ■
+                              </td>
+																		<td class=" top ">
+                              ■
+                              </td>
+																		<td class=" top ">
+                              S
+                              </td>
+																		<td class=" top ">
+                              ■
+                              </td>
+																		<td class=" top ">
+                              ■
+                              </td>
+																		<td class=" top ">
+                              P
+                              </td>
+																	</tr>
+																	<tr>
+																		<td class=" top ">
+                              Medical and dental clinics
+                              </td>
+																		<td class=" top ">
+                              ■
+                              </td>
+																		<td class=" top ">
+                              ■
+                              </td>
+																		<td class=" top ">
+                              P
+                              </td>
+																		<td class=" top ">
+                              P
+                              </td>
+																		<td class=" top ">
+                              ■
+                              </td>
+																		<td class=" top ">
+                              ■
+                              </td>
+																		<td class=" top ">
+                              ■
+                              </td>
+																	</tr>
+																	<tr>
+																		<td class=" top ">
+                              Mobile home parks
+                              </td>
+																		<td class=" top ">
+                              ■
+                              </td>
+																		<td class=" top ">
+                              ■
+                              </td>
+																		<td class=" top ">
+                              ■
+                              </td>
+																		<td class=" top ">
+                              ■
+                              </td>
+																		<td class=" top ">
+                              P
+                              </td>
+																		<td class=" top ">
+                              ■
+                              </td>
+																		<td class=" top ">
+                              ■
+                              </td>
+																	</tr>
+																	<tr>
+																		<td class=" top ">
+                              Mobile home sales
+                              </td>
+																		<td class=" top ">
+                              ■
+                              </td>
+																		<td class=" top ">
+                              ■
+                              </td>
+																		<td class=" top ">
+                              ■
+                              </td>
+																		<td class=" top ">
+                              S
+                              </td>
+																		<td class=" top ">
+                              ■
+                              </td>
+																		<td class=" top ">
+                              ■
+                              </td>
+																		<td class=" top ">
+                              S
+                              </td>
+																	</tr>
+																	<tr>
+																		<td class=" top ">
+                              Mobile homes
+                              </td>
+																		<td class=" top ">
+                              ■
+                              </td>
+																		<td class=" top ">
+                              ■
+                              </td>
+																		<td class=" top ">
+                              ■
+                              </td>
+																		<td class=" top ">
+                              ■
+                              </td>
+																		<td class=" top ">
+                              S
+                              </td>
+																		<td class=" top ">
+                              ■
+                              </td>
+																		<td class=" top ">
+                              ■
+                              </td>
+																	</tr>
+																	<tr>
+																		<td class=" top ">
+                              Municipal buildings and facilities
+                              </td>
+																		<td class=" top ">
+                              ■
+                              </td>
+																		<td class=" top ">
+                              ■
+                              </td>
+																		<td class=" top ">
+                              P
+                              </td>
+																		<td class=" top ">
+                              P
+                              </td>
+																		<td class=" top ">
+                              ■
+                              </td>
+																		<td class=" top ">
+                              P
+                              </td>
+																		<td class=" top ">
+                              S
+                              </td>
+																	</tr>
+																	<tr>
+																		<td class=" top ">
+                              Municipal wastewater treatment facilities
+                              </td>
+																		<td class=" top ">
+                              ■
+                              </td>
+																		<td class=" top ">
+                              ■
+                              </td>
+																		<td class=" top ">
+                              ■
+                              </td>
+																		<td class=" top ">
+                              ■
+                              </td>
+																		<td class=" top ">
+                              ■
+                              </td>
+																		<td class=" top ">
+                              P
+                              </td>
+																		<td class=" top ">
+                              P
+                              </td>
+																	</tr>
+																	<tr>
+																		<td class=" top ">
+                              Municipal water treatment facilities
+                              </td>
+																		<td class=" top ">
+                              ■
+                              </td>
+																		<td class=" top ">
+                              ■
+                              </td>
+																		<td class=" top ">
+                              ■
+                              </td>
+																		<td class=" top ">
+                              ■
+                              </td>
+																		<td class=" top ">
+                              ■
+                              </td>
+																		<td class=" top ">
+                              P
+                              </td>
+																		<td class=" top ">
+                              P
+                              </td>
+																	</tr>
+																	<tr>
+																		<td class=" top ">
+                              Nursing homes
+                              </td>
+																		<td class=" top ">
+                              ■
+                              </td>
+																		<td class=" top ">
+                              S
+                              </td>
+																		<td class=" top ">
+                              ■
+                              </td>
+																		<td class=" top ">
+                              P
+                              </td>
+																		<td class=" top ">
+                              ■
+                              </td>
+																		<td class=" top ">
+                              ■
+                              </td>
+																		<td class=" top ">
+                              ■
+                              </td>
+																	</tr>
+																	<tr>
+																		<td class=" top ">
+                              Offices for the conduct of a business or profession
+                              </td>
+																		<td class=" top ">
+                              ■
+                              </td>
+																		<td class=" top ">
+                              ■
+                              </td>
+																		<td class=" top ">
+                              P
+                              </td>
+																		<td class=" top ">
+                              P
+                              </td>
+																		<td class=" top ">
+                              ■
+                              </td>
+																		<td class=" top ">
+                              ■
+                              </td>
+																		<td class=" top ">
+                              P
+                              </td>
+																	</tr>
+																	<tr>
+																		<td class=" top ">
+                              Outside storage—Screened
+                              </td>
+																		<td class=" top ">
+                              ■
+                              </td>
+																		<td class=" top ">
+                              ■
+                              </td>
+																		<td class=" top ">
+                              S
+                              </td>
+																		<td class=" top ">
+                              S
+                              </td>
+																		<td class=" top ">
+                              ■
+                              </td>
+																		<td class=" top ">
+                              ■
+                              </td>
+																		<td class=" top ">
+                              P
+                              </td>
+																	</tr>
+																	<tr>
+																		<td class=" top ">
+                              Outside storage—Unscreened
+                              </td>
+																		<td class=" top ">
+                              ■
+                              </td>
+																		<td class=" top ">
+                              ■
+                              </td>
+																		<td class=" top ">
+                              S
+                              </td>
+																		<td class=" top ">
+                              S
+                              </td>
+																		<td class=" top ">
+                              ■
+                              </td>
+																		<td class=" top ">
+                              ■
+                              </td>
+																		<td class=" top ">
+                              S
+                              </td>
+																	</tr>
+																	<tr>
+																		<td class=" top ">
+                              Paint and body shops
+                              </td>
+																		<td class=" top ">
+                              ■
+                              </td>
+																		<td class=" top ">
+                              ■
+                              </td>
+																		<td class=" top ">
+                              ■
+                              </td>
+																		<td class=" top ">
+                              S
+                              </td>
+																		<td class=" top ">
+                              ■
+                              </td>
+																		<td class=" top ">
+                              ■
+                              </td>
+																		<td class=" top ">
+                              P
+                              </td>
+																	</tr>
+																	<tr>
+																		<td class=" top ">
+                              Parking lots or garages
+                              </td>
+																		<td class=" top ">
+                              ■
+                              </td>
+																		<td class=" top ">
+                              ■
+                              </td>
+																		<td class=" top ">
+                              S
+                              </td>
+																		<td class=" top ">
+                              S
+                              </td>
+																		<td class=" top ">
+                              ■
+                              </td>
+																		<td class=" top ">
+                              ■
+                              </td>
+																		<td class=" top ">
+                              P
+                              </td>
+																	</tr>
+																	<tr>
+																		<td class=" top ">
+                              Parks
+                              </td>
+																		<td class=" top ">
+                              P
+                              </td>
+																		<td class=" top ">
+                              P
+                              </td>
+																		<td class=" top ">
+                              P
+                              </td>
+																		<td class=" top ">
+                              P
+                              </td>
+																		<td class=" top ">
+                              S
+                              </td>
+																		<td class=" top ">
+                              P
+                              </td>
+																		<td class=" top ">
+                              P
+                              </td>
+																	</tr>
+																	<tr>
+																		<td class=" top ">
+                              Parks and open space owned by the Town
+                              </td>
+																		<td class=" top ">
+                              P
+                              </td>
+																		<td class=" top ">
+                              P
+                              </td>
+																		<td class=" top ">
+                              P
+                              </td>
+																		<td class=" top ">
+                              P
+                              </td>
+																		<td class=" top ">
+                              ■
+                              </td>
+																		<td class=" top ">
+                              P
+                              </td>
+																		<td class=" top ">
+                              S
+                              </td>
+																	</tr>
+																	<tr>
+																		<td class=" top ">
+                              Personal service establishment as a home occupation
+                              </td>
+																		<td class=" top ">
+                              S
+                              </td>
+																		<td class=" top ">
+                              S
+                              </td>
+																		<td class=" top ">
+                              ■
+                              </td>
+																		<td class=" top ">
+                              ■
+                              </td>
+																		<td class=" top ">
+                              ■
+                              </td>
+																		<td class=" top ">
+                              ■
+                              </td>
+																		<td class=" top ">
+                              ■
+                              </td>
+																	</tr>
+																	<tr>
+																		<td class=" top ">
+                              Personal service establishments
+                              </td>
+																		<td class=" top ">
+                              ■
+                              </td>
+																		<td class=" top ">
+                              ■
+                              </td>
+																		<td class=" top ">
+                              P
+                              </td>
+																		<td class=" top ">
+                              P
+                              </td>
+																		<td class=" top ">
+                              ■
+                              </td>
+																		<td class=" top ">
+                              ■
+                              </td>
+																		<td class=" top ">
+                              ■
+                              </td>
+																	</tr>
+																	<tr>
+																		<td class=" top ">
+                              Personal storage units (mini-storage)
+                              </td>
+																		<td class=" top ">
+                              ■
+                              </td>
+																		<td class=" top ">
+                              ■
+                              </td>
+																		<td class=" top ">
+                              ■
+                              </td>
+																		<td class=" top ">
+                              S
+                              </td>
+																		<td class=" top ">
+                              ■
+                              </td>
+																		<td class=" top ">
+                              ■
+                              </td>
+																		<td class=" top ">
+                              P
+                              </td>
+																	</tr>
+																	<tr>
+																		<td class=" top ">
+                              Public buildings
+                              </td>
+																		<td class=" top ">
+                              ■
+                              </td>
+																		<td class=" top ">
+                              ■
+                              </td>
+																		<td class=" top ">
+                              P
+                              </td>
+																		<td class=" top ">
+                              P
+                              </td>
+																		<td class=" top ">
+                              ■
+                              </td>
+																		<td class=" top ">
+                              P
+                              </td>
+																		<td class=" top ">
+                              P
+                              </td>
+																	</tr>
+																	<tr>
+																		<td class=" top ">
+                              Public transit maintenance facilities
+                              </td>
+																		<td class=" top ">
+                              ■
+                              </td>
+																		<td class=" top ">
+                              ■
+                              </td>
+																		<td class=" top ">
+                              ■
+                              </td>
+																		<td class=" top ">
+                              ■
+                              </td>
+																		<td class=" top ">
+                              ■
+                              </td>
+																		<td class=" top ">
+                              ■
+                              </td>
+																		<td class=" top ">
+                              P
+                              </td>
+																	</tr>
+																	<tr>
+																		<td class=" top ">
+                              Public transit stops
+                              </td>
+																		<td class=" top ">
+                              P
+                              </td>
+																		<td class=" top ">
+                              P
+                              </td>
+																		<td class=" top ">
+                              P
+                              </td>
+																		<td class=" top ">
+                              P
+                              </td>
+																		<td class=" top ">
+                              P
+                              </td>
+																		<td class=" top ">
+                              P
+                              </td>
+																		<td class=" top ">
+                              P
+                              </td>
+																	</tr>
+																	<tr>
+																		<td class=" top ">
+                              Publishing
+                              </td>
+																		<td class=" top ">
+                              ■
+                              </td>
+																		<td class=" top ">
+                              ■
+                              </td>
+																		<td class=" top ">
+                              S
+                              </td>
+																		<td class=" top ">
+                              P
+                              </td>
+																		<td class=" top ">
+                              ■
+                              </td>
+																		<td class=" top ">
+                              ■
+                              </td>
+																		<td class=" top ">
+                              P
+                              </td>
+																	</tr>
+																	<tr>
+																		<td class=" top ">
+                              Recreational vehicle sales and service
+                              </td>
+																		<td class=" top ">
+                              ■
+                              </td>
+																		<td class=" top ">
+                              ■
+                              </td>
+																		<td class=" top ">
+                              ■
+                              </td>
+																		<td class=" top ">
+                              P
+                              </td>
+																		<td class=" top ">
+                              ■
+                              </td>
+																		<td class=" top ">
+                              ■
+                              </td>
+																		<td class=" top ">
+                              P
+                              </td>
+																	</tr>
+																	<tr>
+																		<td class=" top ">
+                              Residential single-family dwellings
+                              </td>
+																		<td class=" top ">
+                              P
+                              </td>
+																		<td class=" top ">
+                              P
+                              </td>
+																		<td class=" top ">
+                              ■
+                              </td>
+																		<td class=" top ">
+                              ■
+                              </td>
+																		<td class=" top ">
+                              ■
+                              </td>
+																		<td class=" top ">
+                              ■
+                              </td>
+																		<td class=" top ">
+                              ■
+                              </td>
+																	</tr>
+																	<tr>
+																		<td class=" top ">
+                              Residential two-family dwellings
+                              </td>
+																		<td class=" top ">
+                              S
+                              </td>
+																		<td class=" top ">
+                              P
+                              </td>
+																		<td class=" top ">
+                              ■
+                              </td>
+																		<td class=" top ">
+                              ■
+                              </td>
+																		<td class=" top ">
+                              ■
+                              </td>
+																		<td class=" top ">
+                              ■
+                              </td>
+																		<td class=" top ">
+                              ■
+                              </td>
+																	</tr>
+																	<tr>
+																		<td class=" top ">
+                              Residential multiple-family dwellings and townhomes
+                              </td>
+																		<td class=" top ">
+                              S
+                              </td>
+																		<td class=" top ">
+                              P
+                              </td>
+																		<td class=" top ">
+                              ■
+                              </td>
+																		<td class=" top ">
+                              ■
+                              </td>
+																		<td class=" top ">
+                              ■
+                              </td>
+																		<td class=" top ">
+                              ■
+                              </td>
+																		<td class=" top ">
+                              ■
+                              </td>
+																	</tr>
+																	<tr>
+																		<td class=" top ">
+                              Retail sales establishments
+                              </td>
+																		<td class=" top ">
+                              ■
+                              </td>
+																		<td class=" top ">
+                              ■
+                              </td>
+																		<td class=" top ">
+                              P
+                              </td>
+																		<td class=" top ">
+                              P
+                              </td>
+																		<td class=" top ">
+                              ■
+                              </td>
+																		<td class=" top ">
+                              ■
+                              </td>
+																		<td class=" top ">
+                              P
+                              </td>
+																	</tr>
+																	<tr>
+																		<td class=" top ">
+                              Schools
+                              </td>
+																		<td class=" top ">
+                              S
+                              </td>
+																		<td class=" top ">
+                              S
+                              </td>
+																		<td class=" top ">
+                              S
+                              </td>
+																		<td class=" top ">
+                              S
+                              </td>
+																		<td class=" top ">
+                              ■
+                              </td>
+																		<td class=" top ">
+                              S
+                              </td>
+																		<td class=" top ">
+                              ■
+                              </td>
+																	</tr>
+																	<tr>
+																		<td class=" top ">
+                              Storage yards
+                              </td>
+																		<td class=" top ">
+                              ■
+                              </td>
+																		<td class=" top ">
+                              ■
+                              </td>
+																		<td class=" top ">
+                              ■
+                              </td>
+																		<td class=" top ">
+                              S
+                              </td>
+																		<td class=" top ">
+                              ■
+                              </td>
+																		<td class=" top ">
+                              ■
+                              </td>
+																		<td class=" top ">
+                              S
+                              </td>
+																	</tr>
+																	<tr>
+																		<td class=" top ">
+                              Telecommunications facilities
+                              </td>
+																		<td class=" top ">
+                              S
+                              </td>
+																		<td class=" top ">
+                              S
+                              </td>
+																		<td class=" top ">
+                              S
+                              </td>
+																		<td class=" top ">
+                              S
+                              </td>
+																		<td class=" top ">
+                              ■
+                              </td>
+																		<td class=" top ">
+                              S
+                              </td>
+																		<td class=" top ">
+                              S
+                              </td>
+																	</tr>
+																	<tr>
+																		<td class=" top ">
+                              Telecommunications facilities, towers
+                              </td>
+																		<td class=" top ">
+                              S
+                              </td>
+																		<td class=" top ">
+                              S
+                              </td>
+																		<td class=" top ">
+                              S
+                              </td>
+																		<td class=" top ">
+                              S
+                              </td>
+																		<td class=" top ">
+                              S
+                              </td>
+																		<td class=" top ">
+                              S
+                              </td>
+																		<td class=" top ">
+                              S
+                              </td>
+																	</tr>
+																	<tr>
+																		<td class=" top ">
+                              Theaters
+                              </td>
+																		<td class=" top ">
+                              ■
+                              </td>
+																		<td class=" top ">
+                              ■
+                              </td>
+																		<td class=" top ">
+                              P
+                              </td>
+																		<td class=" top ">
+                              P
+                              </td>
+																		<td class=" top ">
+                              ■
+                              </td>
+																		<td class=" top ">
+                              ■
+                              </td>
+																		<td class=" top ">
+                              ■
+                              </td>
+																	</tr>
+																	<tr>
+																		<td class=" top ">
+                              Truck stops
+                              </td>
+																		<td class=" top ">
+                              ■
+                              </td>
+																		<td class=" top ">
+                              ■
+                              </td>
+																		<td class=" top ">
+                              ■
+                              </td>
+																		<td class=" top ">
+                              S
+                              </td>
+																		<td class=" top ">
+                              ■
+                              </td>
+																		<td class=" top ">
+                              ■
+                              </td>
+																		<td class=" top ">
+                              S
+                              </td>
+																	</tr>
+																	<tr>
+																		<td class=" top ">
+                              Underground utilities
+                              </td>
+																		<td class=" top ">
+                              P
+                              </td>
+																		<td class=" top ">
+                              P
+                              </td>
+																		<td class=" top ">
+                              P
+                              </td>
+																		<td class=" top ">
+                              P
+                              </td>
+																		<td class=" top ">
+                              ■
+                              </td>
+																		<td class=" top ">
+                              P
+                              </td>
+																		<td class=" top ">
+                              P
+                              </td>
+																	</tr>
+																	<tr>
+																		<td class=" top ">
+                              Utility treatment, processing, distribution and production facilities
+                              </td>
+																		<td class=" top ">
+                              ■
+                              </td>
+																		<td class=" top ">
+                              ■
+                              </td>
+																		<td class=" top ">
+                              S
+                              </td>
+																		<td class=" top ">
+                              S
+                              </td>
+																		<td class=" top ">
+                              ■
+                              </td>
+																		<td class=" top ">
+                              ■
+                              </td>
+																		<td class=" top ">
+                              S
+                              </td>
+																	</tr>
+																	<tr>
+																		<td class=" top ">
+                              Veterinary animal clinic
+                              </td>
+																		<td class=" top ">
+                              ■
+                              </td>
+																		<td class=" top ">
+                              ■
+                              </td>
+																		<td class=" top ">
+                              P
+                              </td>
+																		<td class=" top ">
+                              P
+                              </td>
+																		<td class=" top ">
+                              ■
+                              </td>
+																		<td class=" top ">
+                              ■
+                              </td>
+																		<td class=" top ">
+                              P
+                              </td>
+																	</tr>
+																	<tr>
+																		<td class=" top ">
+                              Veterinary animal hospitals
+                              </td>
+																		<td class=" top ">
+                              ■
+                              </td>
+																		<td class=" top ">
+                              ■
+                              </td>
+																		<td class=" top ">
+                              S
+                              </td>
+																		<td class=" top ">
+                              S
+                              </td>
+																		<td class=" top ">
+                              ■
+                              </td>
+																		<td class=" top ">
+                              ■
+                              </td>
+																		<td class=" top ">
+                              P
+                              </td>
+																	</tr>
+																	<tr>
+																		<td class=" top ">
+                              Warehouses
+                              </td>
+																		<td class=" top ">
+                              ■
+                              </td>
+																		<td class=" top ">
+                              ■
+                              </td>
+																		<td class=" top ">
+                              ■
+                              </td>
+																		<td class=" top ">
+                              S
+                              </td>
+																		<td class=" top ">
+                              ■
+                              </td>
+																		<td class=" top ">
+                              ■
+                              </td>
+																		<td class=" top ">
+                              P
+                              </td>
+																	</tr>
+																	<tr>
+																		<td class=" top ">
+                              Wholesale establishments
+                              </td>
+																		<td class=" top ">
+                              ■
+                              </td>
+																		<td class=" top ">
+                              ■
+                              </td>
+																		<td class=" top ">
+                              ■
+                              </td>
+																		<td class=" top ">
+                              P
+                              </td>
+																		<td class=" top ">
+                              ■
+                              </td>
+																		<td class=" top ">
+                              ■
+                              </td>
+																		<td class=" top ">
+                              P
+                              </td>
+																	</tr>
+																	<tr>
+																		<td class=" top ">
+                              Uses not listed
+                              </td>
+																		<td class=" top ">
+                              S
+                              </td>
+																		<td class=" top ">
+                              S
+                              </td>
+																		<td class=" top ">
+                              S
+                              </td>
+																		<td class=" top ">
+                              S
+                              </td>
+																		<td class=" top ">
+                              ■
+                              </td>
+																		<td class=" top ">
+                              ■
+                              </td>
+																		<td class=" top ">
+                              S
+                              </td>
+																	</tr>
+																</tbody>
+															</table>
+														</div>
+													</div>
+													<p>&nbsp;</p>
+												</div>
+												<p class="b0">
+               P = Permitted as a use by right
+               </p>
+												<p class="b0">
+               S = Special use
+               </p>
+												<p class="b0">
+               ■ = Not permitted
+               </p>
+												<p class="historynote0">
+               (Code 1994, § 15.03.180; Ord. No. 02 (Series 2009); Ord. No. 4 (Series 2019), § 3,
+               5-7-2019; Adopted by Ord. 02 Series of 2023 on 12/5/2023)
+               </p>
+											</div>
+										</div>
+									</div>
+									<!---->
+									<!---->
+								</div>

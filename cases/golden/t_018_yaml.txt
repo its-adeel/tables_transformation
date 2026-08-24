@@ -1,0 +1,1346 @@
+EXHIBIT VII.2.3-4 NON-RESIDENTIAL ZONING DISTRICTS:
+  USES:
+    ACCESSORY USES:
+      Accessory Building:
+        OD: A
+        MD: A
+        LC: A
+        GB: A
+        GB-2: A
+        LI: A
+        WH: A
+        HI: A
+        PU: ''
+        SU: ''
+        USE SPECIFIC STANDARDS: ''
+      Accessory Dwelling Unit (Commercial):
+        OD: ''
+        MD: ''
+        LC: S
+        GB: S
+        GB-2: S
+        LI: S
+        WH: S
+        HI: S
+        PU: ''
+        SU: ''
+        USE SPECIFIC STANDARDS: Article VII.3.1
+      Accessory Structure:
+        OD: A
+        MD: A
+        LC: A
+        GB: A
+        GB-2: A
+        LI: A
+        WH: A
+        HI: A
+        PU: A
+        SU: ''
+        USE SPECIFIC STANDARDS: ''
+      Accessory Use:
+        OD: A
+        MD: A
+        LC: A
+        GB: A
+        GB-2: A
+        LI: A
+        WH: A
+        HI: A
+        PU: ''
+        SU: ''
+        USE SPECIFIC STANDARDS: ''
+      Cemetery, Columbarium, Mausoleum:
+        OD: A
+        MD: A
+        LC: A
+        GB: A
+        GB-2: A
+        LI: A
+        WH: A
+        HI: A
+        PU: A
+        SU: ''
+        USE SPECIFIC STANDARDS: Only when associated with a religious facility
+      Outside Storage (Accessory):
+        OD: ''
+        MD: ''
+        LC: ''
+        GB: A
+        GB-2: A
+        LI: A
+        WH: A
+        HI: A
+        PU: ''
+        SU: ''
+        USE SPECIFIC STANDARDS: Article VII.3.12
+      Solar Energy System:
+        OD: A
+        MD: A
+        LC: A
+        GB: A
+        GB-2: A
+        LI: A
+        WH: A
+        HI: A
+        PU: ''
+        SU: ''
+        USE SPECIFIC STANDARDS: Article VII.3.17
+      Wind Energy Conversion System:
+        OD: A
+        MD: A
+        LC: A
+        GB: A
+        GB-2: A
+        LI: A
+        WH: A
+        HI: A
+        PU: ''
+        SU: ''
+        USE SPECIFIC STANDARDS: Article VII.3.21
+    AGRICULTURAL AND ANIMAL USES:
+      Animal Care (Indoor):
+        OD: A
+        MD: ''
+        LC: A
+        GB: A
+        GB-2: A
+        LI: A
+        WH: ''
+        HI: ''
+        PU: ''
+        SU: ''
+        USE SPECIFIC STANDARDS: Article VII.3.3
+      Animal Care (Outdoor Pens or Runs):
+        OD: ''
+        MD: ''
+        LC: S
+        GB: S
+        GB-2: S
+        LI: ''
+        WH: ''
+        HI: ''
+        PU: ''
+        SU: ''
+        USE SPECIFIC STANDARDS: ''
+      Agricultural, Farming, Ranching:
+        OD: S
+        MD: S
+        LC: S
+        GB: S
+        GB-2: S
+        LI: S
+        WH: S
+        HI: ''
+        PU: ''
+        SU: ''
+        USE SPECIFIC STANDARDS: ''
+      Veterinarian (Indoor Pens):
+        OD: A
+        MD: ''
+        LC: A
+        GB: A
+        GB-2: A
+        LI: A
+        WH: ''
+        HI: ''
+        PU: ''
+        SU: ''
+        USE SPECIFIC STANDARDS: Article VII.3.3
+      Veterinarian (Outdoor Pens and Runs):
+        OD: ''
+        MD: ''
+        LC: ''
+        GB: S
+        GB-2: S
+        LI: S
+        WH: ''
+        HI: ''
+        PU: ''
+        SU: ''
+        USE SPECIFIC STANDARDS: ''
+    EDUCATIONAL, INSTITUTIONAL, PUBLIC AND SPECIAL USES:
+      Assisted Living Facility:
+        OD: ''
+        MD: A
+        LC: ''
+        GB: ''
+        GB-2: ''
+        LI: ''
+        WH: ''
+        HI: ''
+        PU: ''
+        SU: ''
+        USE SPECIFIC STANDARDS: Article VII.3.15
+      Business or Commercial School or other Institution of Education:
+        OD: A
+        MD: ''
+        LC: A
+        GB: A
+        GB-2: A
+        LI: A
+        WH: ''
+        HI: A
+        PU: ''
+        SU: ''
+        USE SPECIFIC STANDARDS: ''
+      Cemetery, Columbarium, Mausoleum:
+        OD: S
+        MD: S
+        LC: S
+        GB: S
+        GB-2: S
+        LI: S
+        WH: S
+        HI: S
+        PU: S
+        SU: ''
+        USE SPECIFIC STANDARDS: ''
+      Chapter 748 Operation:
+        OD: ''
+        MD: S
+        LC: ''
+        GB: ''
+        GB-2: ''
+        LI: ''
+        WH: ''
+        HI: ''
+        PU: ''
+        SU: ''
+        USE SPECIFIC STANDARDS: ''
+      Community Center:
+        OD: ''
+        MD: ''
+        LC: A
+        GB: A
+        GB-2: A
+        LI: A
+        WH: ''
+        HI: ''
+        PU: A
+        SU: ''
+        USE SPECIFIC STANDARDS: ''
+      Continuing Care Facility:
+        OD: S
+        MD: A
+        LC: S
+        GB: A
+        GB-2: A
+        LI: ''
+        WH: ''
+        HI: ''
+        PU: ''
+        SU: ''
+        USE SPECIFIC STANDARDS: Article VII.3.15
+      Criminal or Penal Institution:
+        OD: ''
+        MD: ''
+        LC: ''
+        GB: ''
+        GB-2: ''
+        LI: ''
+        WH: ''
+        HI: ''
+        PU: ''
+        SU: A
+        USE SPECIFIC STANDARDS: ''
+      Hospital:
+        OD: ''
+        MD: A/S
+        LC: ''
+        GB: ''
+        GB-2: ''
+        LI: ''
+        WH: ''
+        HI: ''
+        PU: ''
+        SU: ''
+        USE SPECIFIC STANDARDS: Article VII.3.23
+      Landfill Operation and Accessory Use:
+        OD: ''
+        MD: ''
+        LC: ''
+        GB: ''
+        GB-2: ''
+        LI: ''
+        WH: ''
+        HI: ''
+        PU: ''
+        SU: A
+        USE SPECIFIC STANDARDS: ''
+      Long Term Care Facility:
+        OD: ''
+        MD: A
+        LC: ''
+        GB: ''
+        GB-2: ''
+        LI: ''
+        WH: ''
+        HI: ''
+        PU: ''
+        SU: ''
+        USE SPECIFIC STANDARDS: Article VII.3.15
+      Governmental Office and Service:
+        OD: A
+        MD: A
+        LC: A
+        GB: A
+        GB-2: A
+        LI: A
+        WH: A
+        HI: A
+        PU: A
+        SU: ''
+        USE SPECIFIC STANDARDS: ''
+      Public Park and Playground:
+        OD: A
+        MD: A
+        LC: A
+        GB: A
+        GB-2: A
+        LI: A
+        WH: A
+        HI: A
+        PU: A
+        SU: ''
+        USE SPECIFIC STANDARDS: ''
+      Sports Field (Private), Stadium or Arena (Private):
+        OD: ''
+        MD: ''
+        LC: S
+        GB: S
+        GB-2: S
+        LI: S
+        WH: ''
+        HI: S
+        PU: ''
+        SU: ''
+        USE SPECIFIC STANDARDS: ''
+      Public Utility Plant or Substation:
+        OD: A
+        MD: A
+        LC: A
+        GB: A
+        GB-2: A
+        LI: A
+        WH: A
+        HI: A
+        PU: A
+        SU: ''
+        USE SPECIFIC STANDARDS: ''
+      Religious Facility:
+        OD: A
+        MD: A
+        LC: A
+        GB: A
+        GB-2: A
+        LI: A
+        WH: A
+        HI: A
+        PU: A
+        SU: ''
+        USE SPECIFIC STANDARDS: ''
+      School, Private:
+        OD: A
+        MD: A
+        LC: A
+        GB: A
+        GB-2: A
+        LI: A
+        WH: ''
+        HI: ''
+        PU: A
+        SU: ''
+        USE SPECIFIC STANDARDS: ''
+      School, Public or Parochial:
+        OD: A
+        MD: A
+        LC: A
+        GB: A
+        GB-2: A
+        LI: A
+        WH: ''
+        HI: ''
+        PU: A
+        SU: ''
+        USE SPECIFIC STANDARDS: ''
+    MANUFACTURING AND INDUSTRIAL USES:
+      Asphalt/ Concrete Batch Plant (Permanent):
+        OD: ''
+        MD: ''
+        LC: ''
+        GB: ''
+        GB-2: ''
+        LI: ''
+        WH: ''
+        HI: S
+        PU: ''
+        SU: ''
+        USE SPECIFIC STANDARDS: ''
+      Brewery, Distillery, or Winery:
+        OD: ''
+        MD: ''
+        LC: ''
+        GB: A
+        GB-2: A
+        LI: A
+        WH: ''
+        HI: A
+        PU: ''
+        SU: ''
+        USE SPECIFIC STANDARDS: ''
+      Cleaning, Laundry and Textile Processing Plant:
+        OD: ''
+        MD: ''
+        LC: ''
+        GB: ''
+        GB-2: ''
+        LI: S
+        WH: ''
+        HI: A
+        PU: ''
+        SU: ''
+        USE SPECIFIC STANDARDS: ''
+      Laboratory- Scientific Research and Testing:
+        OD: ''
+        MD: A
+        LC: ''
+        GB: ''
+        GB-2: ''
+        LI: A
+        WH: A
+        HI: A
+        PU: ''
+        SU: ''
+        USE SPECIFIC STANDARDS: ''
+      Manufacturing, Light Intensity:
+        OD: ''
+        MD: ''
+        LC: ''
+        GB: ''
+        GB-2: ''
+        LI: A/S
+        WH: A/S
+        HI: A/S
+        PU: ''
+        SU: ''
+        USE SPECIFIC STANDARDS: Article VII.3.24
+      Manufacturing, Medium Intensity:
+        OD: ''
+        MD: ''
+        LC: ''
+        GB: ''
+        GB-2: ''
+        LI: S
+        WH: A/S
+        HI: A/S
+        PU: ''
+        SU: ''
+        USE SPECIFIC STANDARDS: Article VII.3.24
+      Manufacturing, Heavy Intensity:
+        OD: ''
+        MD: ''
+        LC: ''
+        GB: ''
+        GB-2: ''
+        LI: ''
+        WH: S
+        HI: S
+        PU: ''
+        SU: ''
+        USE SPECIFIC STANDARDS: Article VII.3.24
+      Mining Activity:
+        OD: ''
+        MD: ''
+        LC: ''
+        GB: ''
+        GB-2: ''
+        LI: ''
+        WH: ''
+        HI: ''
+        PU: ''
+        SU: A
+        USE SPECIFIC STANDARDS: ''
+      Recycling Facility:
+        OD: ''
+        MD: ''
+        LC: ''
+        GB: ''
+        GB-2: ''
+        LI: ''
+        WH: ''
+        HI: S
+        PU: ''
+        SU: ''
+        USE SPECIFIC STANDARDS: ''
+    OFFICE USES:
+      Medical Office and Clinic:
+        OD: A/S
+        MD: A/S
+        LC: A/S
+        GB: A/S
+        GB-2: A/S
+        LI: A/S
+        WH: ''
+        HI: ''
+        PU: ''
+        SU: ''
+        USE SPECIFIC STANDARDS: Article VII.3.23
+      Professional and Administrative Office:
+        OD: A
+        MD: ''
+        LC: A
+        GB: A
+        GB-2: A
+        LI: A
+        WH: ''
+        HI: ''
+        PU: ''
+        SU: ''
+        USE SPECIFIC STANDARDS: ''
+    RESIDENTIAL USES:
+      Dwelling Unit:
+        OD: ''
+        MD: ''
+        LC: ''
+        GB: S
+        GB-2: S
+        LI: S
+        WH: ''
+        HI: ''
+        PU: ''
+        SU: ''
+        USE SPECIFIC STANDARDS: Minimum 850 square feet per dwelling unit and must be located on the second story or higher, above a non-residential use.
+    RETAIL USES:
+      Automobile Parts Sales:
+        OD: ''
+        MD: ''
+        LC: A
+        GB: A
+        GB-2: A
+        LI: A
+        WH: ''
+        HI: ''
+        PU: ''
+        SU: ''
+        USE SPECIFIC STANDARDS: Wholly contained within a building and no service bays
+      Bakery/ Food Production with Retail Sales:
+        OD: ''
+        MD: ''
+        LC: A
+        GB: A
+        GB-2: A
+        LI: A
+        WH: ''
+        HI: A
+        PU: ''
+        SU: ''
+        USE SPECIFIC STANDARDS: ''
+      Bar:
+        OD: ''
+        MD: ''
+        LC: ''
+        GB: S
+        GB-2: S
+        LI: S
+        WH: ''
+        HI: S
+        PU: ''
+        SU: ''
+        USE SPECIFIC STANDARDS: ''
+      Building Material Sales, Including Lumber Yard:
+        OD: ''
+        MD: ''
+        LC: ''
+        GB: S
+        GB-2: S
+        LI: S
+        WH: ''
+        HI: S
+        PU: ''
+        SU: ''
+        USE SPECIFIC STANDARDS: ''
+      Food Truck Parks:
+        OD: ''
+        MD: ''
+        LC: S
+        GB: S
+        GB-2: S
+        LI: S
+        WH: ''
+        HI: ''
+        PU: ''
+        SU: ''
+        USE SPECIFIC STANDARDS: Article VII.3.8
+      Grocery Store:
+        OD: ''
+        MD: ''
+        LC: A
+        GB: A
+        GB-2: A
+        LI: A
+        WH: ''
+        HI: ''
+        PU: ''
+        SU: ''
+        USE SPECIFIC STANDARDS: ''
+      Kiosk:
+        OD: ''
+        MD: ''
+        LC: S
+        GB: S
+        GB-2: S
+        LI: S
+        WH: ''
+        HI: ''
+        PU: ''
+        SU: ''
+        USE SPECIFIC STANDARDS: ''
+      Pawn Shop:
+        OD: ''
+        MD: ''
+        LC: ''
+        GB: ''
+        GB-2: ''
+        LI: A
+        WH: ''
+        HI: ''
+        PU: ''
+        SU: ''
+        USE SPECIFIC STANDARDS: ''
+      Plant Nursery, Retail Sale (Indoor):
+        OD: ''
+        MD: ''
+        LC: A
+        GB: A
+        GB-2: A
+        LI: A
+        WH: ''
+        HI: ''
+        PU: ''
+        SU: ''
+        USE SPECIFIC STANDARDS: ''
+      Plant Nursery, Retail Sale (Outdoor):
+        OD: ''
+        MD: ''
+        LC: S
+        GB: S
+        GB-2: S
+        LI: S
+        WH: ''
+        HI: S
+        PU: ''
+        SU: ''
+        USE SPECIFIC STANDARDS: ''
+      Restaurant:
+        OD: ''
+        MD: ''
+        LC: A
+        GB: A
+        GB-2: A
+        LI: A
+        WH: ''
+        HI: ''
+        PU: ''
+        SU: ''
+        USE SPECIFIC STANDARDS: ''
+      Restaurant, Stand Alone:
+        OD: ''
+        MD: ''
+        LC: A
+        GB: A
+        GB-2: A
+        LI: A
+        WH: ''
+        HI: ''
+        PU: ''
+        SU: ''
+        USE SPECIFIC STANDARDS: ''
+      Retail Store or Shop:
+        OD: ''
+        MD: ''
+        LC: A
+        GB: A
+        GB-2: A
+        LI: A
+        WH: ''
+        HI: ''
+        PU: ''
+        SU: ''
+        USE SPECIFIC STANDARDS: ''
+    SERVICE USES:
+      Bank or Financial Institution:
+        OD: A
+        MD: ''
+        LC: A
+        GB: A
+        GB-2: A
+        LI: A
+        WH: ''
+        HI: ''
+        PU: ''
+        SU: ''
+        USE SPECIFIC STANDARDS: ''
+      Beverage Container Recycling Collection Unit:
+        OD: ''
+        MD: ''
+        LC: S
+        GB: S
+        GB-2: S
+        LI: S
+        WH: ''
+        HI: S
+        PU: ''
+        SU: ''
+        USE SPECIFIC STANDARDS: ''
+      Commercial Amusement (Indoor):
+        OD: ''
+        MD: ''
+        LC: A
+        GB: A
+        GB-2: A
+        LI: A
+        WH: ''
+        HI: A
+        PU: ''
+        SU: ''
+        USE SPECIFIC STANDARDS: ''
+      Commercial Amusement (Outdoor):
+        OD: ''
+        MD: ''
+        LC: ''
+        GB: S
+        GB-2: S
+        LI: S
+        WH: ''
+        HI: S
+        PU: ''
+        SU: ''
+        USE SPECIFIC STANDARDS: ''
+      Credit Access Business:
+        OD: ''
+        MD: ''
+        LC: ''
+        GB: ''
+        GB-2: ''
+        LI: A
+        WH: ''
+        HI: ''
+        PU: ''
+        SU: ''
+        USE SPECIFIC STANDARDS: ''
+      Day Care Center:
+        OD: A
+        MD: A
+        LC: A
+        GB: A
+        GB-2: A
+        LI: A
+        WH: ''
+        HI: ''
+        PU: ''
+        SU: ''
+        USE SPECIFIC STANDARDS: Article VII.3.6
+      Dry Cleaning/ Laundry Service:
+        OD: ''
+        MD: ''
+        LC: A
+        GB: A
+        GB-2: A
+        LI: A
+        WH: ''
+        HI: ''
+        PU: ''
+        SU: ''
+        USE SPECIFIC STANDARDS: ''
+      Extended Stay Hotel:
+        OD: ''
+        MD: ''
+        LC: ''
+        GB: S
+        GB-2: S
+        LI: S
+        WH: ''
+        HI: S
+        PU: ''
+        SU: ''
+        USE SPECIFIC STANDARDS: Article VII.3.9
+      Flea Market - Outdoor:
+        OD: ''
+        MD: ''
+        LC: ''
+        GB: S
+        GB-2: S
+        LI: S
+        WH: ''
+        HI: S
+        PU: ''
+        SU: ''
+        USE SPECIFIC STANDARDS: ''
+      Fraternal Organization or Lodge:
+        OD: ''
+        MD: ''
+        LC: A
+        GB: A
+        GB-2: A
+        LI: A
+        WH: ''
+        HI: ''
+        PU: ''
+        SU: ''
+        USE SPECIFIC STANDARDS: ''
+      Funeral Home or Mortuary:
+        OD: ''
+        MD: ''
+        LC: ''
+        GB: S
+        GB-2: S
+        LI: S
+        WH: ''
+        HI: S
+        PU: ''
+        SU: ''
+        USE SPECIFIC STANDARDS: ''
+      Hotel, Motel, and Inn:
+        OD: ''
+        MD: ''
+        LC: ''
+        GB: A
+        GB-2: A
+        LI: A
+        WH: ''
+        HI: A
+        PU: ''
+        SU: ''
+        USE SPECIFIC STANDARDS: Article VII.3.9
+      Licensed Massage Therapy:
+        OD: A/S
+        MD: A/S
+        LC: A/S
+        GB: A/S
+        GB-2: A/S
+        LI: A/S
+        WH: ''
+        HI: ''
+        PU: ''
+        SU: ''
+        USE SPECIFIC STANDARDS: Article VII.3.23
+      Nightclub:
+        OD: ''
+        MD: ''
+        LC: ''
+        GB: S
+        GB-2: S
+        LI: S
+        WH: ''
+        HI: S
+        PU: ''
+        SU: ''
+        USE SPECIFIC STANDARDS: ''
+      Personal Service:
+        OD: ''
+        MD: ''
+        LC: A
+        GB: A
+        GB-2: A
+        LI: A
+        WH: ''
+        HI: ''
+        PU: ''
+        SU: ''
+        USE SPECIFIC STANDARDS: ''
+      Recreational Vehicle Park:
+        OD: ''
+        MD: ''
+        LC: ''
+        GB: ''
+        GB-2: ''
+        LI: S
+        WH: ''
+        HI: S
+        PU: ''
+        SU: ''
+        USE SPECIFIC STANDARDS: ''
+      Service Contractor:
+        OD: ''
+        MD: ''
+        LC: ''
+        GB: A
+        GB-2: A
+        LI: A
+        WH: A
+        HI: A
+        PU: ''
+        SU: ''
+        USE SPECIFIC STANDARDS: ''
+      Shooting Range, Indoor/ Outdoor:
+        OD: ''
+        MD: ''
+        LC: ''
+        GB: ''
+        GB-2: ''
+        LI: S
+        WH: ''
+        HI: S
+        PU: ''
+        SU: ''
+        USE SPECIFIC STANDARDS: ''
+      Smoking Establishment:
+        OD: ''
+        MD: ''
+        LC: ''
+        GB: S
+        GB-2: S
+        LI: S
+        WH: ''
+        HI: ''
+        PU: ''
+        SU: ''
+        USE SPECIFIC STANDARDS: ''
+      Theater:
+        OD: ''
+        MD: ''
+        LC: A
+        GB: A
+        GB-2: A
+        LI: A
+        WH: ''
+        HI: ''
+        PU: ''
+        SU: ''
+        USE SPECIFIC STANDARDS: ''
+    TEMPORARY USES:
+      Asphalt/ Concrete Batch Plant (Temporary):
+        OD: A
+        MD: A
+        LC: A
+        GB: A
+        GB-2: A
+        LI: A
+        WH: A
+        HI: A
+        PU: ''
+        SU: ''
+        USE SPECIFIC STANDARDS: ''
+      Seasonal Sales:
+        OD: S
+        MD: S
+        LC: A
+        GB: A
+        GB-2: A
+        LI: A
+        WH: ''
+        HI: ''
+        PU: ''
+        SU: ''
+        USE SPECIFIC STANDARDS: Article VII.3.13
+      Temporary Construction Building:
+        OD: A
+        MD: A
+        LC: A
+        GB: A
+        GB-2: A
+        LI: A
+        WH: A
+        HI: A
+        PU: A
+        SU: ''
+        USE SPECIFIC STANDARDS: Article VII.3.19
+      Temporary Snow Cone Stand:
+        OD: ''
+        MD: ''
+        LC: S
+        GB: S
+        GB-2: S
+        LI: S
+        WH: ''
+        HI: ''
+        PU: ''
+        SU: ''
+        USE SPECIFIC STANDARDS: ''
+    TRANSPORTATION, UTILITY AND COMMUNICATIONS USES:
+      Airport or Heliport:
+        OD: ''
+        MD: ''
+        LC: ''
+        GB: ''
+        GB-2: ''
+        LI: S
+        WH: ''
+        HI: S
+        PU: ''
+        SU: ''
+        USE SPECIFIC STANDARDS: ''
+      Broadcasting Station or Studio with Towers (Radio or Television:
+        OD: ''
+        MD: ''
+        LC: ''
+        GB: S
+        GB-2: S
+        LI: S
+        WH: ''
+        HI: S
+        PU: ''
+        SU: ''
+        USE SPECIFIC STANDARDS: ''
+      Communication Antenna (Over 25 feet in height):
+        OD: ''
+        MD: ''
+        LC: S
+        GB: S
+        GB-2: S
+        LI: S
+        WH: S
+        HI: S
+        PU: ''
+        SU: ''
+        USE SPECIFIC STANDARDS: Article VII.3.5
+      Communication Antenna (Up to 25 feet in height):
+        OD: A
+        MD: A
+        LC: A
+        GB: A
+        GB-2: A
+        LI: A
+        WH: A
+        HI: A
+        PU: ''
+        SU: ''
+        USE SPECIFIC STANDARDS: Article VII.3.5
+      Communication Support Structure:
+        OD: ''
+        MD: ''
+        LC: S
+        GB: S
+        GB-2: S
+        LI: S
+        WH: S
+        HI: S
+        PU: ''
+        SU: ''
+        USE SPECIFIC STANDARDS: Article VII.3.5
+      Helipad or Helistop:
+        OD: ''
+        MD: S
+        LC: ''
+        GB: S
+        GB-2: S
+        LI: S
+        WH: ''
+        HI: S
+        PU: ''
+        SU: ''
+        USE SPECIFIC STANDARDS: ''
+      Gas and Oil Drilling Related Use:
+        OD: ''
+        MD: ''
+        LC: ''
+        GB: ''
+        GB-2: ''
+        LI: S
+        WH: S
+        HI: S
+        PU: S
+        SU: ''
+        USE SPECIFIC STANDARDS: ''
+      Private Utility Plant or Substation:
+        OD: S
+        MD: S
+        LC: S
+        GB: S
+        GB-2: S
+        LI: S
+        WH: S
+        HI: S
+        PU: S
+        SU: ''
+        USE SPECIFIC STANDARDS: ''
+      Contractor's Yard:
+        OD: ''
+        MD: ''
+        LC: ''
+        GB: ''
+        GB-2: ''
+        LI: ''
+        WH: S
+        HI: S
+        PU: ''
+        SU: ''
+        USE SPECIFIC STANDARDS: ''
+    VEHICLE AND RELATED USES:
+      Auction Yard (Vehicle):
+        OD: ''
+        MD: ''
+        LC: ''
+        GB: ''
+        GB-2: ''
+        LI: S
+        WH: ''
+        HI: S
+        PU: ''
+        SU: ''
+        USE SPECIFIC STANDARDS: Article VII.3.20
+      Automobile Repair (Major):
+        OD: ''
+        MD: ''
+        LC: ''
+        GB: ''
+        GB-2: ''
+        LI: S
+        WH: A/S
+        HI: A/S
+        PU: ''
+        SU: ''
+        USE SPECIFIC STANDARDS: Article VII.3.20
+      Automobile Repair (Minor):
+        OD: ''
+        MD: ''
+        LC: A/S
+        GB: A/S
+        GB-2: A/S
+        LI: A/S
+        WH: A/S
+        HI: A/S
+        PU: ''
+        SU: ''
+        USE SPECIFIC STANDARDS: Article VII.3.20
+      Automobile Sales and Leasing:
+        OD: ''
+        MD: ''
+        LC: ''
+        GB: S
+        GB-2: S
+        LI: S
+        WH: ''
+        HI: S
+        PU: ''
+        SU: ''
+        USE SPECIFIC STANDARDS: Article VII.3.20
+      Automobile Salvage:
+        OD: ''
+        MD: ''
+        LC: ''
+        GB: ''
+        GB-2: ''
+        LI: ''
+        WH: ''
+        HI: S
+        PU: ''
+        SU: ''
+        USE SPECIFIC STANDARDS: Article VII.3.20
+      Boat Sales and Service:
+        OD: ''
+        MD: ''
+        LC: ''
+        GB: S
+        GB-2: S
+        LI: S
+        WH: S
+        HI: S
+        PU: ''
+        SU: ''
+        USE SPECIFIC STANDARDS: ''
+      Car Wash:
+        OD: ''
+        MD: ''
+        LC: A/S
+        GB: A/S
+        GB-2: A/S
+        LI: A/S
+        WH: A/S
+        HI: A/S
+        PU: ''
+        SU: ''
+        USE SPECIFIC STANDARDS: Article VII.3.20
+      Farm Implement Sales and Service:
+        OD: ''
+        MD: ''
+        LC: ''
+        GB: S
+        GB-2: S
+        LI: A
+        WH: ''
+        HI: S
+        PU: ''
+        SU: ''
+        USE SPECIFIC STANDARDS: Article VII.3.20
+      Gasoline Service Station:
+        OD: ''
+        MD: ''
+        LC: S
+        GB: A/S
+        GB-2: A/S
+        LI: A/S
+        WH: ''
+        HI: A/S
+        PU: ''
+        SU: ''
+        USE SPECIFIC STANDARDS: Article VII.3.20
+      Heavy Equipment Sales/ Rental and Service:
+        OD: ''
+        MD: ''
+        LC: ''
+        GB: ''
+        GB-2: ''
+        LI: S
+        WH: ''
+        HI: S
+        PU: ''
+        SU: ''
+        USE SPECIFIC STANDARDS: Article VII.3.20
+      Junk Yard:
+        OD: ''
+        MD: ''
+        LC: ''
+        GB: ''
+        GB-2: ''
+        LI: ''
+        WH: ''
+        HI: S
+        PU: ''
+        SU: ''
+        USE SPECIFIC STANDARDS: Article VII.3.20
+      Manufactured Home Display and Sale:
+        OD: ''
+        MD: ''
+        LC: ''
+        GB: ''
+        GB-2: ''
+        LI: S
+        WH: ''
+        HI: S
+        PU: ''
+        SU: ''
+        USE SPECIFIC STANDARDS: Article VII.3.20
+      Motor Freight Terminal:
+        OD: ''
+        MD: ''
+        LC: ''
+        GB: ''
+        GB-2: ''
+        LI: S
+        WH: S
+        HI: S
+        PU: ''
+        SU: ''
+        USE SPECIFIC STANDARDS: Article VII.3.20
+      Motorcycle Sales and Service:
+        OD: ''
+        MD: ''
+        LC: ''
+        GB: S
+        GB-2: S
+        LI: S
+        WH: ''
+        HI: S
+        PU: ''
+        SU: ''
+        USE SPECIFIC STANDARDS: Article VII.3.20
+      Recreational Vehicle Sales and Service:
+        OD: ''
+        MD: ''
+        LC: ''
+        GB: ''
+        GB-2: ''
+        LI: S
+        WH: ''
+        HI: S
+        PU: ''
+        SU: ''
+        USE SPECIFIC STANDARDS: Article VII.3.20
+      Recreational Vehicle Storage:
+        OD: ''
+        MD: ''
+        LC: ''
+        GB: ''
+        GB-2: ''
+        LI: S
+        WH: S
+        HI: S
+        PU: ''
+        SU: ''
+        USE SPECIFIC STANDARDS: Article VII.3.20
+      Truck Parking Lot:
+        OD: ''
+        MD: ''
+        LC: ''
+        GB: ''
+        GB-2: ''
+        LI: ''
+        WH: S
+        HI: S
+        PU: ''
+        SU: ''
+        USE SPECIFIC STANDARDS: Article VII.3.20
+      Wrecker Service:
+        OD: ''
+        MD: ''
+        LC: ''
+        GB: ''
+        GB-2: ''
+        LI: ''
+        WH: ''
+        HI: S
+        PU: ''
+        SU: ''
+        USE SPECIFIC STANDARDS: Article VII.3.20
+    WAREHOUSE AND STORAGE USES:
+      Outside Storage (Principal Use):
+        OD: ''
+        MD: ''
+        LC: ''
+        GB: ''
+        GB-2: ''
+        LI: ''
+        WH: S
+        HI: S
+        PU: ''
+        SU: ''
+        USE SPECIFIC STANDARDS: Article VII.3.12
+      Self-Service Storage Facility:
+        OD: ''
+        MD: ''
+        LC: ''
+        GB: ''
+        GB-2: ''
+        LI: S
+        WH: S
+        HI: ''
+        PU: ''
+        SU: ''
+        USE SPECIFIC STANDARDS: Article VII.3.14
+      Storage Warehouse with Outside Storage Yards:
+        OD: ''
+        MD: ''
+        LC: ''
+        GB: ''
+        GB-2: ''
+        LI: ''
+        WH: S
+        HI: S
+        PU: ''
+        SU: ''
+        USE SPECIFIC STANDARDS: Article VII.3.12
+      Warehouse Distribution Facility:
+        OD: ''
+        MD: ''
+        LC: ''
+        GB: ''
+        GB-2: ''
+        LI: A/S
+        WH: S
+        HI: A/S
+        PU: ''
+        SU: ''
+        USE SPECIFIC STANDARDS: Article VII.3.24
+      Wholesale Establishment:
+        OD: ''
+        MD: ''
+        LC: ''
+        GB: S
+        GB-2: S
+        LI: S
+        WH: S
+        HI: A
+        PU: ''
+        SU: ''
+        USE SPECIFIC STANDARDS: ''

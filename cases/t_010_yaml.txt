@@ -1,0 +1,2251 @@
+Table 2-1 DIMENSIONAL AND DENSITY STANDARDS:
+  Zoning District:
+    SF6 - Single Family:
+      Minimum Required Area: 6,000 SF
+      Front Setback: 20'
+      Side Setback: 7.5'
+      Rear Setback: 15'
+      Corner Side Setback: 11.25'
+      Maximum Height: 35'
+      Minimum Lot Width at Building Setback Line: 50'
+      Maximum Density (du/ac): ''
+      Maximum Floor Area Ratio: ''
+      Maximum Lot Coverage: ''
+      Minimum Building Separation: ''
+      Maximum bldg. Sq. Ft.: ''
+    SF6 - Single Family - Semi-Detached:
+      Minimum Required Area: 4,000 SF per d/u
+      Front Setback: 20'
+      Side Setback: 7.5'
+      Rear Setback: 15'
+      Corner Side Setback: 11.25'
+      Maximum Height: 35'
+      Minimum Lot Width at Building Setback Line: 50'
+      Maximum Density (du/ac): ''
+      Maximum Floor Area Ratio: ''
+      Maximum Lot Coverage: ''
+      Minimum Building Separation: ''
+      Maximum bldg. Sq. Ft.: ''
+    SF6 - Single Family - Duplex:
+      Minimum Required Area: 8,000 SF
+      Front Setback: 20'
+      Side Setback: 7.5'
+      Rear Setback: 15'
+      Corner Side Setback: 11.25'
+      Maximum Height: 35'
+      Minimum Lot Width at Building Setback Line: 50'
+      Maximum Density (du/ac): ''
+      Maximum Floor Area Ratio: ''
+      Maximum Lot Coverage: ''
+      Minimum Building Separation: ''
+      Maximum bldg. Sq. Ft.: ''
+    SF6 - Single Family - Garden City Overlay:
+      Minimum Required Area: ''
+      Front Setback: 20'
+      Side Setback: 7.5'
+      Rear Setback: 15'
+      Corner Side Setback: 11.25'
+      Maximum Height: See Overly; Section 834
+      Minimum Lot Width at Building Setback Line: 40'
+      Maximum Density (du/ac): ''
+      Maximum Floor Area Ratio: ''
+      Maximum Lot Coverage: ''
+      Minimum Building Separation: ''
+      Maximum bldg. Sq. Ft.: ''
+    SF6 - Single Family - Garden City Overlay Single Family (Lots which allow a height of 55' or greater):
+      Minimum Required Area: 3,600 SF
+      Front Setback: 20'
+      Side Setback: 5'
+      Rear Setback: 15'
+      Corner Side Setback: 7.5'
+      Maximum Height: See Overlay; Section 834
+      Minimum Lot Width at Building Setback Line: 30'
+      Maximum Density (du/ac): ''
+      Maximum Floor Area Ratio: ''
+      Maximum Lot Coverage: ''
+      Minimum Building Separation: ''
+      Maximum bldg. Sq. Ft.: ''
+    SF6 - Single Family - Ag Bldg, Horses Only:
+      Minimum Required Area: 3 acres
+      Front Setback: 60'
+      Side Setback: 25'
+      Rear Setback: 40'
+      Corner Side Setback: 37.5'
+      Maximum Height: 35'
+      Minimum Lot Width at Building Setback Line: 50'
+      Maximum Density (du/ac): ''
+      Maximum Floor Area Ratio: ''
+      Maximum Lot Coverage: ''
+      Minimum Building Separation: ''
+      Maximum bldg. Sq. Ft.: ''
+    SF6 - Single Family - Commercial Horse Facility:
+      Minimum Required Area: 10 acres
+      Front Setback: 60'
+      Side Setback: 25'
+      Rear Setback: 40'
+      Corner Side Setback: 37.5'
+      Maximum Height: 35'
+      Minimum Lot Width at Building Setback Line: 50'
+      Maximum Density (du/ac): ''
+      Maximum Floor Area Ratio: ''
+      Maximum Lot Coverage: ''
+      Minimum Building Separation: ''
+      Maximum bldg. Sq. Ft.: ''
+    MSF6 - Manufactured Single Family - Single Family Manufactured Home:
+      Minimum Required Area: 6,000 SF
+      Front Setback: 20'
+      Side Setback: 7.5'
+      Rear Setback: 15'
+      Corner Side Setback: 11.25'
+      Maximum Height: 35'
+      Minimum Lot Width at Building Setback Line: 50'
+      Maximum Density (du/ac): ''
+      Maximum Floor Area Ratio: ''
+      Maximum Lot Coverage: ''
+      Minimum Building Separation: ''
+      Maximum bldg. Sq. Ft.: ''
+    MSF6 - Manufactured Single Family - Semi-Detached:
+      Minimum Required Area: 4,000 SF per d/u
+      Front Setback: 20'
+      Side Setback: 7.5'
+      Rear Setback: 15'
+      Corner Side Setback: 11.25'
+      Maximum Height: 35'
+      Minimum Lot Width at Building Setback Line: 50'
+      Maximum Density (du/ac): ''
+      Maximum Floor Area Ratio: ''
+      Maximum Lot Coverage: ''
+      Minimum Building Separation: ''
+      Maximum bldg. Sq. Ft.: ''
+    MSF6 - Manufactured Single Family - Duplex:
+      Minimum Required Area: 8,000 SF
+      Front Setback: 20'
+      Side Setback: 7.5'
+      Rear Setback: 15'
+      Corner Side Setback: 11.25'
+      Maximum Height: 35'
+      Minimum Lot Width at Building Setback Line: 50'
+      Maximum Density (du/ac): ''
+      Maximum Floor Area Ratio: ''
+      Maximum Lot Coverage: ''
+      Minimum Building Separation: ''
+      Maximum bldg. Sq. Ft.: ''
+    MSF6 - Manufactured Single Family - Garden City Overlay Single Family (Lots which allow a height of 55' or greater):
+      Minimum Required Area: 3,600 SF
+      Front Setback: 20'
+      Side Setback: 5'
+      Rear Setback: 15'
+      Corner Side Setback: 7.5'
+      Maximum Height: See Overlay; Section 834
+      Minimum Lot Width at Building Setback Line: 30'
+      Maximum Density (du/ac): ''
+      Maximum Floor Area Ratio: ''
+      Maximum Lot Coverage: ''
+      Minimum Building Separation: ''
+      Maximum bldg. Sq. Ft.: ''
+    MSF6 - Manufactured Single Family - Ag Bldg, Horses Only:
+      Minimum Required Area: 3 acres
+      Front Setback: 60'
+      Side Setback: 25'
+      Rear Setback: 40'
+      Corner Side Setback: 37.5'
+      Maximum Height: 35'
+      Minimum Lot Width at Building Setback Line: 50'
+      Maximum Density (du/ac): ''
+      Maximum Floor Area Ratio: ''
+      Maximum Lot Coverage: ''
+      Minimum Building Separation: ''
+      Maximum bldg. Sq. Ft.: ''
+    MSF6 - Manufactured Single Family - Commercial Horse Facility:
+      Minimum Required Area: 10 acres
+      Front Setback: 60'
+      Side Setback: 25'
+      Rear Setback: 40'
+      Corner Side Setback: 37.5'
+      Maximum Height: 35'
+      Minimum Lot Width at Building Setback Line: 50'
+      Maximum Density (du/ac): ''
+      Maximum Floor Area Ratio: ''
+      Maximum Lot Coverage: ''
+      Minimum Building Separation: ''
+      Maximum bldg. Sq. Ft.: ''
+    SF7 - Single Family:
+      Minimum Required Area: 7,000 SF
+      Front Setback: 25'
+      Side Setback: 10'
+      Rear Setback: 15'
+      Corner Side Setback: 15'
+      Maximum Height: 35'
+      Minimum Lot Width at Building Setback Line: 60'
+      Maximum Density (du/ac): ''
+      Maximum Floor Area Ratio: ''
+      Maximum Lot Coverage: ''
+      Minimum Building Separation: ''
+      Maximum bldg. Sq. Ft.: ''
+    SF7 - Single Family - Ag Bldg, Horses Only:
+      Minimum Required Area: 3 acres
+      Front Setback: 60'
+      Side Setback: 25'
+      Rear Setback: 40'
+      Corner Side Setback: 37.5'
+      Maximum Height: 35'
+      Minimum Lot Width at Building Setback Line: 60'
+      Maximum Density (du/ac): ''
+      Maximum Floor Area Ratio: ''
+      Maximum Lot Coverage: ''
+      Minimum Building Separation: ''
+      Maximum bldg. Sq. Ft.: ''
+    SF7 - Single Family - Commercial Horse Facility:
+      Minimum Required Area: 10 acres
+      Front Setback: 60'
+      Side Setback: 25'
+      Rear Setback: 40'
+      Corner Side Setback: 37.5'
+      Maximum Height: 35'
+      Minimum Lot Width at Building Setback Line: 60'
+      Maximum Density (du/ac): ''
+      Maximum Floor Area Ratio: ''
+      Maximum Lot Coverage: ''
+      Minimum Building Separation: ''
+      Maximum bldg. Sq. Ft.: ''
+    MSF7 - Manufactured Single Family - Single Family Manufactured Home:
+      Minimum Required Area: 7,000 SF
+      Front Setback: 25'
+      Side Setback: 10'
+      Rear Setback: 15'
+      Corner Side Setback: 15'
+      Maximum Height: 35'
+      Minimum Lot Width at Building Setback Line: 60'
+      Maximum Density (du/ac): ''
+      Maximum Floor Area Ratio: ''
+      Maximum Lot Coverage: ''
+      Minimum Building Separation: ''
+      Maximum bldg. Sq. Ft.: ''
+    MSF7 - Manufactured Single Family - Ag Bldg, Horses Only:
+      Minimum Required Area: 3 acres
+      Front Setback: 60'
+      Side Setback: 25'
+      Rear Setback: 40'
+      Corner Side Setback: 37.5'
+      Maximum Height: 35'
+      Minimum Lot Width at Building Setback Line: 60'
+      Maximum Density (du/ac): ''
+      Maximum Floor Area Ratio: ''
+      Maximum Lot Coverage: ''
+      Minimum Building Separation: ''
+      Maximum bldg. Sq. Ft.: ''
+    MSF7 - Manufactured Single Family - Commercial Horse Facility:
+      Minimum Required Area: 10 acres
+      Front Setback: 60'
+      Side Setback: 25'
+      Rear Setback: 40'
+      Corner Side Setback: 37.5'
+      Maximum Height: 35'
+      Minimum Lot Width at Building Setback Line: 60'
+      Maximum Density (du/ac): ''
+      Maximum Floor Area Ratio: ''
+      Maximum Lot Coverage: ''
+      Minimum Building Separation: ''
+      Maximum bldg. Sq. Ft.: ''
+    SF8.5 - Single Family:
+      Minimum Required Area: 8,500 SF
+      Front Setback: 25'
+      Side Setback: 10'
+      Rear Setback: 15'
+      Corner Side Setback: 15'
+      Maximum Height: 35'
+      Minimum Lot Width at Building Setback Line: 70'
+      Maximum Density (du/ac): ''
+      Maximum Floor Area Ratio: ''
+      Maximum Lot Coverage: ''
+      Minimum Building Separation: ''
+      Maximum bldg. Sq. Ft.: ''
+    SF8.5 - Single Family - Ag Bldg, Horses Only:
+      Minimum Required Area: 3 acres
+      Front Setback: 60'
+      Side Setback: 25'
+      Rear Setback: 40'
+      Corner Side Setback: 37.5'
+      Maximum Height: 35'
+      Minimum Lot Width at Building Setback Line: 70'
+      Maximum Density (du/ac): ''
+      Maximum Floor Area Ratio: ''
+      Maximum Lot Coverage: ''
+      Minimum Building Separation: ''
+      Maximum bldg. Sq. Ft.: ''
+    SF8.5 - Single Family - Commercial Horse Facility:
+      Minimum Required Area: 10 acres
+      Front Setback: 60'
+      Side Setback: 25'
+      Rear Setback: 40'
+      Corner Side Setback: 37.5'
+      Maximum Height: 35'
+      Minimum Lot Width at Building Setback Line: 70'
+      Maximum Density (du/ac): ''
+      Maximum Floor Area Ratio: ''
+      Maximum Lot Coverage: ''
+      Minimum Building Separation: ''
+      Maximum bldg. Sq. Ft.: ''
+    MSF8.5 - Manufactured Single Family - Single Family Manufactured Home:
+      Minimum Required Area: 8,500 SF
+      Front Setback: 25'
+      Side Setback: 10'
+      Rear Setback: 15'
+      Corner Side Setback: 15'
+      Maximum Height: 35'
+      Minimum Lot Width at Building Setback Line: 70'
+      Maximum Density (du/ac): ''
+      Maximum Floor Area Ratio: ''
+      Maximum Lot Coverage: ''
+      Minimum Building Separation: ''
+      Maximum bldg. Sq. Ft.: ''
+    MSF8.5 - Manufactured Single Family - Ag Bldg, Horses Only:
+      Minimum Required Area: 3 acres
+      Front Setback: 60'
+      Side Setback: 25'
+      Rear Setback: 40'
+      Corner Side Setback: 37.5'
+      Maximum Height: 35'
+      Minimum Lot Width at Building Setback Line: 70'
+      Maximum Density (du/ac): ''
+      Maximum Floor Area Ratio: ''
+      Maximum Lot Coverage: ''
+      Minimum Building Separation: ''
+      Maximum bldg. Sq. Ft.: ''
+    MSF8.5 - Manufactured Single Family - Commercial Horse Facility:
+      Minimum Required Area: 10 acres
+      Front Setback: 60'
+      Side Setback: 25'
+      Rear Setback: 40'
+      Corner Side Setback: 37.5'
+      Maximum Height: 35'
+      Minimum Lot Width at Building Setback Line: 70'
+      Maximum Density (du/ac): ''
+      Maximum Floor Area Ratio: ''
+      Maximum Lot Coverage: ''
+      Minimum Building Separation: ''
+      Maximum bldg. Sq. Ft.: ''
+    SF10 - Single Family:
+      Minimum Required Area: 10,000 SF
+      Front Setback: 25'
+      Side Setback: 10'
+      Rear Setback: 15'
+      Corner Side Setback: 15'
+      Maximum Height: 35'
+      Minimum Lot Width at Building Setback Line: 70'
+      Maximum Density (du/ac): ''
+      Maximum Floor Area Ratio: ''
+      Maximum Lot Coverage: ''
+      Minimum Building Separation: ''
+      Maximum bldg. Sq. Ft.: ''
+    SF10 - Single Family - Ag Bldg, Horses Only:
+      Minimum Required Area: 3 acres
+      Front Setback: 60'
+      Side Setback: 25'
+      Rear Setback: 40'
+      Corner Side Setback: 37.5'
+      Maximum Height: 35'
+      Minimum Lot Width at Building Setback Line: 70'
+      Maximum Density (du/ac): ''
+      Maximum Floor Area Ratio: ''
+      Maximum Lot Coverage: ''
+      Minimum Building Separation: ''
+      Maximum bldg. Sq. Ft.: ''
+    SF10 - Single Family - Commercial Horse Facility:
+      Minimum Required Area: 10 acres
+      Front Setback: 60'
+      Side Setback: 25'
+      Rear Setback: 40'
+      Corner Side Setback: 37.5'
+      Maximum Height: 35'
+      Minimum Lot Width at Building Setback Line: 70'
+      Maximum Density (du/ac): ''
+      Maximum Floor Area Ratio: ''
+      Maximum Lot Coverage: ''
+      Minimum Building Separation: ''
+      Maximum bldg. Sq. Ft.: ''
+    MSF10 - Manufactured Single Family - Single Family Manufactured Home:
+      Minimum Required Area: 10,000 SF
+      Front Setback: 25'
+      Side Setback: 10'
+      Rear Setback: 15'
+      Corner Side Setback: 15'
+      Maximum Height: 35'
+      Minimum Lot Width at Building Setback Line: 70'
+      Maximum Density (du/ac): ''
+      Maximum Floor Area Ratio: ''
+      Maximum Lot Coverage: ''
+      Minimum Building Separation: ''
+      Maximum bldg. Sq. Ft.: ''
+    MSF10 - Manufactured Single Family - Ag Bldg, Horses Only:
+      Minimum Required Area: 3 acres
+      Front Setback: 60'
+      Side Setback: 25'
+      Rear Setback: 40'
+      Corner Side Setback: 37.5'
+      Maximum Height: 35'
+      Minimum Lot Width at Building Setback Line: 70'
+      Maximum Density (du/ac): ''
+      Maximum Floor Area Ratio: ''
+      Maximum Lot Coverage: ''
+      Minimum Building Separation: ''
+      Maximum bldg. Sq. Ft.: ''
+    MSF10 - Manufactured Single Family - Commercial Horse Facility:
+      Minimum Required Area: 10 acres
+      Front Setback: 60'
+      Side Setback: 25'
+      Rear Setback: 40'
+      Corner Side Setback: 37.5'
+      Maximum Height: 35'
+      Minimum Lot Width at Building Setback Line: 70'
+      Maximum Density (du/ac): ''
+      Maximum Floor Area Ratio: ''
+      Maximum Lot Coverage: ''
+      Minimum Building Separation: ''
+      Maximum bldg. Sq. Ft.: ''
+    SF14.5 - Single Family:
+      Minimum Required Area: 14,500 SF
+      Front Setback: 25'
+      Side Setback: 10'
+      Rear Setback: 15'
+      Corner Side Setback: 15'
+      Maximum Height: 35'
+      Minimum Lot Width at Building Setback Line: 70'
+      Maximum Density (du/ac): ''
+      Maximum Floor Area Ratio: ''
+      Maximum Lot Coverage: ''
+      Minimum Building Separation: ''
+      Maximum bldg. Sq. Ft.: ''
+    SF14.5 - Single Family - Ag Bldg, Horses Only:
+      Minimum Required Area: 3 acres
+      Front Setback: 60'
+      Side Setback: 25'
+      Rear Setback: 40'
+      Corner Side Setback: 37.5'
+      Maximum Height: 35'
+      Minimum Lot Width at Building Setback Line: 70'
+      Maximum Density (du/ac): ''
+      Maximum Floor Area Ratio: ''
+      Maximum Lot Coverage: ''
+      Minimum Building Separation: ''
+      Maximum bldg. Sq. Ft.: ''
+    SF14.5 - Single Family - Commercial Horse Facility:
+      Minimum Required Area: 10 acres
+      Front Setback: 60'
+      Side Setback: 25'
+      Rear Setback: 40'
+      Corner Side Setback: 37.5'
+      Maximum Height: 35'
+      Minimum Lot Width at Building Setback Line: 70'
+      Maximum Density (du/ac): ''
+      Maximum Floor Area Ratio: ''
+      Maximum Lot Coverage: ''
+      Minimum Building Separation: ''
+      Maximum bldg. Sq. Ft.: ''
+    MSF 14.5 - Manufactured Single Family - Single Family Manufactured Home:
+      Minimum Required Area: 14,500 SF
+      Front Setback: 25'
+      Side Setback: 10'
+      Rear Setback: 15'
+      Corner Side Setback: 15'
+      Maximum Height: 35'
+      Minimum Lot Width at Building Setback Line: 70'
+      Maximum Density (du/ac): ''
+      Maximum Floor Area Ratio: ''
+      Maximum Lot Coverage: ''
+      Minimum Building Separation: ''
+      Maximum bldg. Sq. Ft.: ''
+    MSF 14.5 - Manufactured Single Family - Ag Bldg, Horses Only:
+      Minimum Required Area: 3 acres
+      Front Setback: 60'
+      Side Setback: 25'
+      Rear Setback: 40'
+      Corner Side Setback: 37.5'
+      Maximum Height: 35'
+      Minimum Lot Width at Building Setback Line: 70'
+      Maximum Density (du/ac): ''
+      Maximum Floor Area Ratio: ''
+      Maximum Lot Coverage: ''
+      Minimum Building Separation: ''
+      Maximum bldg. Sq. Ft.: ''
+    MSF 14.5 - Manufactured Single Family - Commercial Horse Facility:
+      Minimum Required Area: 10 acres
+      Front Setback: 60'
+      Side Setback: 25'
+      Rear Setback: 40'
+      Corner Side Setback: 37.5'
+      Maximum Height: 35'
+      Minimum Lot Width at Building Setback Line: 70'
+      Maximum Density (du/ac): ''
+      Maximum Floor Area Ratio: ''
+      Maximum Lot Coverage: ''
+      Minimum Building Separation: ''
+      Maximum bldg. Sq. Ft.: ''
+    SF20 - Single Family:
+      Minimum Required Area: 20,000 SF
+      Front Setback: 40'
+      Side Setback: 15'
+      Rear Setback: 25'
+      Corner Side Setback: 22.5'
+      Maximum Height: 35'
+      Minimum Lot Width at Building Setback Line: 90'
+      Maximum Density (du/ac): ''
+      Maximum Floor Area Ratio: ''
+      Maximum Lot Coverage: ''
+      Minimum Building Separation: ''
+      Maximum bldg. Sq. Ft.: ''
+    SF20 - Single Family - Ag Bldg, Horses Only:
+      Minimum Required Area: 3 acres
+      Front Setback: 60'
+      Side Setback: 25'
+      Rear Setback: 40'
+      Corner Side Setback: 37.5'
+      Maximum Height: 35'
+      Minimum Lot Width at Building Setback Line: 90'
+      Maximum Density (du/ac): ''
+      Maximum Floor Area Ratio: ''
+      Maximum Lot Coverage: ''
+      Minimum Building Separation: ''
+      Maximum bldg. Sq. Ft.: ''
+    SF20 - Single Family - Commercial Horse Facility:
+      Minimum Required Area: 10 acres
+      Front Setback: 60'
+      Side Setback: 25'
+      Rear Setback: 40'
+      Corner Side Setback: 37.5'
+      Maximum Height: 35'
+      Minimum Lot Width at Building Setback Line: 90'
+      Maximum Density (du/ac): ''
+      Maximum Floor Area Ratio: ''
+      Maximum Lot Coverage: ''
+      Minimum Building Separation: ''
+      Maximum bldg. Sq. Ft.: ''
+    MSF20 - Manufactured Single Family - Single Family Manufactured Home:
+      Minimum Required Area: 20,000 SF
+      Front Setback: 40'
+      Side Setback: 15'
+      Rear Setback: 25'
+      Corner Side Setback: 22.5'
+      Maximum Height: 35'
+      Minimum Lot Width at Building Setback Line: 90'
+      Maximum Density (du/ac): ''
+      Maximum Floor Area Ratio: ''
+      Maximum Lot Coverage: ''
+      Minimum Building Separation: ''
+      Maximum bldg. Sq. Ft.: ''
+    MSF20 - Manufactured Single Family - Ag Bldg, Horses Only:
+      Minimum Required Area: 3 acres
+      Front Setback: 60'
+      Side Setback: 25'
+      Rear Setback: 40'
+      Corner Side Setback: 37.5'
+      Maximum Height: 35'
+      Minimum Lot Width at Building Setback Line: 90'
+      Maximum Density (du/ac): ''
+      Maximum Floor Area Ratio: ''
+      Maximum Lot Coverage: ''
+      Minimum Building Separation: ''
+      Maximum bldg. Sq. Ft.: ''
+    MSF20 - Manufactured Single Family - Commercial Horse Facility:
+      Minimum Required Area: 10 acres
+      Front Setback: 60'
+      Side Setback: 25'
+      Rear Setback: 40'
+      Corner Side Setback: 37.5'
+      Maximum Height: 35'
+      Minimum Lot Width at Building Setback Line: 90'
+      Maximum Density (du/ac): ''
+      Maximum Floor Area Ratio: ''
+      Maximum Lot Coverage: ''
+      Minimum Building Separation: ''
+      Maximum bldg. Sq. Ft.: ''
+    SF40 - Single Family:
+      Minimum Required Area: 40,000 SF
+      Front Setback: 50'
+      Side Setback: 20'
+      Rear Setback: 30'
+      Corner Side Setback: 30'
+      Maximum Height: 35'
+      Minimum Lot Width at Building Setback Line: 100'
+      Maximum Density (du/ac): ''
+      Maximum Floor Area Ratio: ''
+      Maximum Lot Coverage: ''
+      Minimum Building Separation: ''
+      Maximum bldg. Sq. Ft.: ''
+    SF40 - Single Family - Ag Bldg, Horses Only:
+      Minimum Required Area: 3 acres
+      Front Setback: 60'
+      Side Setback: 25'
+      Rear Setback: 40'
+      Corner Side Setback: 37.5'
+      Maximum Height: 35'
+      Minimum Lot Width at Building Setback Line: 100'
+      Maximum Density (du/ac): ''
+      Maximum Floor Area Ratio: ''
+      Maximum Lot Coverage: ''
+      Minimum Building Separation: ''
+      Maximum bldg. Sq. Ft.: ''
+    SF40 - Single Family - Commercial Horse Facility:
+      Minimum Required Area: 10 acres
+      Front Setback: 60'
+      Side Setback: 25'
+      Rear Setback: 40'
+      Corner Side Setback: 37.5'
+      Maximum Height: 35'
+      Minimum Lot Width at Building Setback Line: 100'
+      Maximum Density (du/ac): ''
+      Maximum Floor Area Ratio: ''
+      Maximum Lot Coverage: ''
+      Minimum Building Separation: ''
+      Maximum bldg. Sq. Ft.: ''
+    MSF40 - Manufactured Single Family - Single Family Manufactured Home:
+      Minimum Required Area: 40,000 SF
+      Front Setback: 50'
+      Side Setback: 20'
+      Rear Setback: 30'
+      Corner Side Setback: 30'
+      Maximum Height: 35'
+      Minimum Lot Width at Building Setback Line: 100'
+      Maximum Density (du/ac): ''
+      Maximum Floor Area Ratio: ''
+      Maximum Lot Coverage: ''
+      Minimum Building Separation: ''
+      Maximum bldg. Sq. Ft.: ''
+    MSF40 - Manufactured Single Family - Ag Bldg, Horses Only:
+      Minimum Required Area: 3 acres
+      Front Setback: 60'
+      Side Setback: 25'
+      Rear Setback: 40'
+      Corner Side Setback: 37.5'
+      Maximum Height: 35'
+      Minimum Lot Width at Building Setback Line: 100'
+      Maximum Density (du/ac): ''
+      Maximum Floor Area Ratio: ''
+      Maximum Lot Coverage: ''
+      Minimum Building Separation: ''
+      Maximum bldg. Sq. Ft.: ''
+    MSF40 - Manufactured Single Family - Commercial Horse Facility:
+      Minimum Required Area: 10 acres
+      Front Setback: 60'
+      Side Setback: 25'
+      Rear Setback: 40'
+      Corner Side Setback: 37.5'
+      Maximum Height: 35'
+      Minimum Lot Width at Building Setback Line: 100'
+      Maximum Density (du/ac): ''
+      Maximum Floor Area Ratio: ''
+      Maximum Lot Coverage: ''
+      Minimum Building Separation: ''
+      Maximum bldg. Sq. Ft.: ''
+    GR - General Residential - Single-Family:
+      Minimum Required Area: 6,000 SF
+      Front Setback: 20'
+      Side Setback: 10'
+      Rear Setback: 15'
+      Corner Side Setback: 15'
+      Maximum Height: 35'
+      Minimum Lot Width at Building Setback Line: 60'
+      Maximum Density (du/ac): ''
+      Maximum Floor Area Ratio: ''
+      Maximum Lot Coverage: ''
+      Minimum Building Separation: 20'
+      Maximum bldg. Sq. Ft.: ''
+    GR - General Residential - Duplex:
+      Minimum Required Area: 8,000 SF
+      Front Setback: 20'
+      Side Setback: 10'
+      Rear Setback: 15'
+      Corner Side Setback: 15'
+      Maximum Height: 35'
+      Minimum Lot Width at Building Setback Line: 60'
+      Maximum Density (du/ac): ''
+      Maximum Floor Area Ratio: ''
+      Maximum Lot Coverage: ''
+      Minimum Building Separation: 20'
+      Maximum bldg. Sq. Ft.: ''
+    GR - General Residential - Semi-Detached:
+      Minimum Required Area: 4,000 SF per d/u
+      Front Setback: 20'
+      Side Setback: 10'
+      Rear Setback: 15'
+      Corner Side Setback: 15'
+      Maximum Height: ''
+      Minimum Lot Width at Building Setback Line: 60'
+      Maximum Density (du/ac): ''
+      Maximum Floor Area Ratio: ''
+      Maximum Lot Coverage: ''
+      Minimum Building Separation: 20'
+      Maximum bldg. Sq. Ft.: ''
+    GR - General Residential - Townhouse:
+      Minimum Required Area: 1 Acre (43,560 SF)
+      Front Setback: 30'
+      Side Setback: 20'
+      Rear Setback: 20' *
+      Corner Side Setback: 30'
+      Maximum Height: 35'
+      Minimum Lot Width at Building Setback Line: 100'
+      Maximum Density (du/ac): See Table 2-3 for Density Requirements
+      Maximum Floor Area Ratio: ''
+      Maximum Lot Coverage: 50%
+      Minimum Building Separation: 20'
+      Maximum bldg. Sq. Ft.: ''
+    GR - General Residential - Multi-Family:
+      Minimum Required Area: 1 Acre (43,560 SF)
+      Front Setback: 30'
+      Side Setback: 20'
+      Rear Setback: 20' *
+      Corner Side Setback: 30'
+      Maximum Height: 120'
+      Minimum Lot Width at Building Setback Line: 100'
+      Maximum Density (du/ac): See Table 2-3 for Density Requirements
+      Maximum Floor Area Ratio: ''
+      Maximum Lot Coverage: 50%
+      Minimum Building Separation: 20'
+      Maximum bldg. Sq. Ft.: ''
+    GR - General Residential - Multi-Family (55):
+      Minimum Required Area: '* Rear setback increases to 30'' if property adjoins a marsh or ocean.'
+      Front Setback: '* Rear setback increases to 30'' if property adjoins a marsh or ocean.'
+      Side Setback: '* Rear setback increases to 30'' if property adjoins a marsh or ocean.'
+      Rear Setback: '* Rear setback increases to 30'' if property adjoins a marsh or ocean.'
+      Corner Side Setback: '* Rear setback increases to 30'' if property adjoins a marsh or ocean.'
+      Maximum Height: '* Rear setback increases to 30'' if property adjoins a marsh or ocean.'
+      Minimum Lot Width at Building Setback Line: '* Rear setback increases to 30'' if property adjoins a marsh or ocean.'
+      Maximum Density (du/ac): '* Rear setback increases to 30'' if property adjoins a marsh or ocean.'
+      Maximum Floor Area Ratio: '* Rear setback increases to 30'' if property adjoins a marsh or ocean.'
+      Maximum Lot Coverage: '* Rear setback increases to 30'' if property adjoins a marsh or ocean.'
+      Minimum Building Separation: '* Rear setback increases to 30'' if property adjoins a marsh or ocean.'
+      Maximum bldg. Sq. Ft.: '* Rear setback increases to 30'' if property adjoins a marsh or ocean.'
+    GR - General Residential - Ag Bldg, Horses Only:
+      Minimum Required Area: 3 acres
+      Front Setback: 60'
+      Side Setback: 25'
+      Rear Setback: 40'
+      Corner Side Setback: 37.5'
+      Maximum Height: 35'
+      Minimum Lot Width at Building Setback Line: 60'
+      Maximum Density (du/ac): ''
+      Maximum Floor Area Ratio: ''
+      Maximum Lot Coverage: ''
+      Minimum Building Separation: ''
+      Maximum bldg. Sq. Ft.: ''
+    GR - General Residential - Commercial Horse Facility:
+      Minimum Required Area: 10 acres
+      Front Setback: 60'
+      Side Setback: 25'
+      Rear Setback: 40'
+      Corner Side Setback: 37.5'
+      Maximum Height: 35'
+      Minimum Lot Width at Building Setback Line: 60'
+      Maximum Density (du/ac): ''
+      Maximum Floor Area Ratio: ''
+      Maximum Lot Coverage: ''
+      Minimum Building Separation: ''
+      Maximum bldg. Sq. Ft.: ''
+    GRn - General Residential "n" - Residential Uses:
+      Minimum Required Area: Reference Table 2-2 for requirements
+      Front Setback: Reference Table 2-2 for requirements
+      Side Setback: Reference Table 2-2 for requirements
+      Rear Setback: Reference Table 2-2 for requirements
+      Corner Side Setback: Reference Table 2-2 for requirements
+      Maximum Height: Reference Table 2-2 for requirements
+      Minimum Lot Width at Building Setback Line: Reference Table 2-2 for requirements
+      Maximum Density (du/ac): Reference Table 2-2 for requirements
+      Maximum Floor Area Ratio: Reference Table 2-2 for requirements
+      Maximum Lot Coverage: Reference Table 2-2 for requirements
+      Minimum Building Separation: Reference Table 2-2 for requirements
+      Maximum bldg. Sq. Ft.: Reference Table 2-2 for requirements
+    GRn - General Residential "n" - Ag Bldg, Horses Only:
+      Minimum Required Area: 3 acres
+      Front Setback: 60'
+      Side Setback: 25'
+      Rear Setback: 40'
+      Corner Side Setback: 37.5'
+      Maximum Height: 35'
+      Minimum Lot Width at Building Setback Line: 60'
+      Maximum Density (du/ac): ''
+      Maximum Floor Area Ratio: ''
+      Maximum Lot Coverage: ''
+      Minimum Building Separation: ''
+      Maximum bldg. Sq. Ft.: ''
+    GRn - General Residential "n" - Commercial Horse Facility:
+      Minimum Required Area: 10 acres
+      Front Setback: 60'
+      Side Setback: 25'
+      Rear Setback: 40'
+      Corner Side Setback: 37.5'
+      Maximum Height: 35'
+      Minimum Lot Width at Building Setback Line: 60'
+      Maximum Density (du/ac): ''
+      Maximum Floor Area Ratio: ''
+      Maximum Lot Coverage: ''
+      Minimum Building Separation: ''
+      Maximum bldg. Sq. Ft.: ''
+    MRD - Multi-Residential District:
+      Minimum Required Area: See Section 207 for requirements
+      Front Setback: See Section 207 for requirements
+      Side Setback: See Section 207 for requirements
+      Rear Setback: See Section 207 for requirements
+      Corner Side Setback: See Section 207 for requirements
+      Maximum Height: See Section 207 for requirements
+      Minimum Lot Width at Building Setback Line: See Section 207 for requirements
+      Maximum Density (du/ac): See Section 207 for requirements
+      Maximum Floor Area Ratio: See Section 207 for requirements
+      Maximum Lot Coverage: See Section 207 for requirements
+      Minimum Building Separation: See Section 207 for requirements
+      Maximum bldg. Sq. Ft.: See Section 207 for requirements
+    PUD/PDD - Planned Unit Development/Planned Development District:
+      Minimum Required Area: See individual district for requirements
+      Front Setback: See individual district for requirements
+      Side Setback: See individual district for requirements
+      Rear Setback: See individual district for requirements
+      Corner Side Setback: See individual district for requirements
+      Maximum Height: See individual district for requirements
+      Minimum Lot Width at Building Setback Line: See individual district for requirements
+      Maximum Density (du/ac): See individual district for requirements
+      Maximum Floor Area Ratio: See individual district for requirements
+      Maximum Lot Coverage: See individual district for requirements
+      Minimum Building Separation: See individual district for requirements
+      Maximum bldg. Sq. Ft.: See individual district for requirements
+    MHP - Mobile Home Park:
+      Minimum Required Area: 5 Acres
+      Front Setback: ''
+      Side Setback: ''
+      Rear Setback: ''
+      Corner Side Setback: ''
+      Maximum Height: 35'
+      Minimum Lot Width at Building Setback Line: See Section 209 for requirements
+      Maximum Density (du/ac): See Section 209 for requirements
+      Maximum Floor Area Ratio: See Section 209 for requirements
+      Maximum Lot Coverage: See Section 209 for requirements
+      Minimum Building Separation: See Section 209 for requirements
+      Maximum bldg. Sq. Ft.: See Section 209 for requirements
+    RR - Resort Residential - Single-Family:
+      Minimum Required Area: 6,000 SF
+      Front Setback: 20'
+      Side Setback: 10'
+      Rear Setback: 15'
+      Corner Side Setback: 15'
+      Maximum Height: 35'
+      Minimum Lot Width at Building Setback Line: 60'
+      Maximum Density (du/ac): ''
+      Maximum Floor Area Ratio: ''
+      Maximum Lot Coverage: ''
+      Minimum Building Separation: 20'
+      Maximum bldg. Sq. Ft.: ''
+    RR - Resort Residential - Duplex:
+      Minimum Required Area: 8,000 SF
+      Front Setback: 20'
+      Side Setback: 10'
+      Rear Setback: 15'
+      Corner Side Setback: 15'
+      Maximum Height: 35'
+      Minimum Lot Width at Building Setback Line: 60'
+      Maximum Density (du/ac): ''
+      Maximum Floor Area Ratio: ''
+      Maximum Lot Coverage: ''
+      Minimum Building Separation: 20'
+      Maximum bldg. Sq. Ft.: ''
+    RR - Resort Residential - Semi-Detached:
+      Minimum Required Area: 4,000 SF per d/u
+      Front Setback: 20'
+      Side Setback: 10'
+      Rear Setback: 15'
+      Corner Side Setback: '15'
+      Maximum Height: 35'
+      Minimum Lot Width at Building Setback Line: 60'
+      Maximum Density (du/ac): ''
+      Maximum Floor Area Ratio: ''
+      Maximum Lot Coverage: ''
+      Minimum Building Separation: 20'
+      Maximum bldg. Sq. Ft.: ''
+    RR - Resort Residential - Garden City Overlay Single Family (Lots which allow a height of 55' or greater):
+      Minimum Required Area: 3,600 SF
+      Front Setback: 20'
+      Side Setback: 5'
+      Rear Setback: 15'
+      Corner Side Setback: 7.5'
+      Maximum Height: See Overlay; Section 834
+      Minimum Lot Width at Building Setback Line: 30'
+      Maximum Density (du/ac): ''
+      Maximum Floor Area Ratio: ''
+      Maximum Lot Coverage: ''
+      Minimum Building Separation: ''
+      Maximum bldg. Sq. Ft.: ''
+    RR - Resort Residential - Townhouse:
+      Minimum Required Area: 1 Acre (43,560 SF)
+      Front Setback: 30'
+      Side Setback: 20'
+      Rear Setback: 20' *
+      Corner Side Setback: 30'
+      Maximum Height: 35'
+      Minimum Lot Width at Building Setback Line: 100'
+      Maximum Density (du/ac): See Table 2-3 for Density Requirements
+      Maximum Floor Area Ratio: ''
+      Maximum Lot Coverage: ''
+      Minimum Building Separation: 20'
+      Maximum bldg. Sq. Ft.: ''
+    RR - Resort Residential - Multi-Family:
+      Minimum Required Area: 1 Acre (43,560 SF)
+      Front Setback: 30'
+      Side Setback: 20'
+      Rear Setback: 20' *
+      Corner Side Setback: 30'
+      Maximum Height: 120'
+      Minimum Lot Width at Building Setback Line: 100'
+      Maximum Density (du/ac): See Table 2-3 for Density Requirements
+      Maximum Floor Area Ratio: ''
+      Maximum Lot Coverage: ''
+      Minimum Building Separation: 20'
+      Maximum bldg. Sq. Ft.: ''
+    RR - Resort Residential - Multi-Family (70):
+      Minimum Required Area: '* Rear setback increases to 30'' if property adjoins a marsh or ocean.'
+      Front Setback: '* Rear setback increases to 30'' if property adjoins a marsh or ocean.'
+      Side Setback: '* Rear setback increases to 30'' if property adjoins a marsh or ocean.'
+      Rear Setback: '* Rear setback increases to 30'' if property adjoins a marsh or ocean.'
+      Corner Side Setback: '* Rear setback increases to 30'' if property adjoins a marsh or ocean.'
+      Maximum Height: '* Rear setback increases to 30'' if property adjoins a marsh or ocean.'
+      Minimum Lot Width at Building Setback Line: '* Rear setback increases to 30'' if property adjoins a marsh or ocean.'
+      Maximum Density (du/ac): '* Rear setback increases to 30'' if property adjoins a marsh or ocean.'
+      Maximum Floor Area Ratio: '* Rear setback increases to 30'' if property adjoins a marsh or ocean.'
+      Maximum Lot Coverage: '* Rear setback increases to 30'' if property adjoins a marsh or ocean.'
+      Minimum Building Separation: '* Rear setback increases to 30'' if property adjoins a marsh or ocean.'
+      Maximum bldg. Sq. Ft.: '* Rear setback increases to 30'' if property adjoins a marsh or ocean.'
+    RR - Resort Residential - Commercial Uses:
+      Minimum Required Area: 1 Acre (43,560 SF)
+      Front Setback: 30'
+      Side Setback: 20'
+      Rear Setback: 20'
+      Corner Side Setback: 30'
+      Maximum Height: Un- limited
+      Minimum Lot Width at Building Setback Line: 100'
+      Maximum Density (du/ac): ''
+      Maximum Floor Area Ratio: ''
+      Maximum Lot Coverage: ''
+      Minimum Building Separation: ''
+      Maximum bldg. Sq. Ft.: ''
+    RH - Resort Housing - Residential & Commercial Uses:
+      Minimum Required Area: ½ Acre (21,780 SF)
+      Front Setback: 50'
+      Side Setback: 20'
+      Rear Setback: 20'
+      Corner Side Setback: 30'
+      Maximum Height: 36' per ½ acre; not to exceed 300'
+      Minimum Lot Width at Building Setback Line: ''
+      Maximum Density (du/ac): ''
+      Maximum Floor Area Ratio: ''
+      Maximum Lot Coverage: ''
+      Minimum Building Separation: ''
+      Maximum bldg. Sq. Ft.: ''
+    CP - Conservation Preservation:
+      Minimum Required Area: ''
+      Front Setback: 25'
+      Side Setback: 25'
+      Rear Setback: 25'
+      Corner Side Setback: 25'
+      Maximum Height: ''
+      Minimum Lot Width at Building Setback Line: ''
+      Maximum Density (du/ac): ''
+      Maximum Floor Area Ratio: ''
+      Maximum Lot Coverage: ''
+      Minimum Building Separation: ''
+      Maximum bldg. Sq. Ft.: ''
+    LFA - Limited Forest Agriculture - Residential & Commercial Uses:
+      Minimum Required Area: 1 Acre (43,560 SF)
+      Front Setback: 60'
+      Side Setback: 25'
+      Rear Setback: 40'
+      Corner Side Setback: 37.5'
+      Maximum Height: 35'
+      Minimum Lot Width at Building Setback Line: 100'
+      Maximum Density (du/ac): ''
+      Maximum Floor Area Ratio: ''
+      Maximum Lot Coverage: ''
+      Minimum Building Separation: ''
+      Maximum bldg. Sq. Ft.: ''
+    LFA - Limited Forest Agriculture - Commercial Animal Facility:
+      Minimum Required Area: 3 Acres
+      Front Setback: 60'
+      Side Setback: 25'
+      Rear Setback: 40'
+      Corner Side Setback: '37.5'
+      Maximum Height: 35'
+      Minimum Lot Width at Building Setback Line: 100'
+      Maximum Density (du/ac): ''
+      Maximum Floor Area Ratio: ''
+      Maximum Lot Coverage: ''
+      Minimum Building Separation: ''
+      Maximum bldg. Sq. Ft.: ''
+    LFA - Limited Forest Agriculture - Ag Bldg, Farm Animals:
+      Minimum Required Area: 1½ Acres
+      Front Setback: 60'
+      Side Setback: 25'
+      Rear Setback: 40'
+      Corner Side Setback: 37.5'
+      Maximum Height: 35'
+      Minimum Lot Width at Building Setback Line: 90'
+      Maximum Density (du/ac): ''
+      Maximum Floor Area Ratio: ''
+      Maximum Lot Coverage: ''
+      Minimum Building Separation: ''
+      Maximum bldg. Sq. Ft.: ''
+    LFA - Limited Forest Agriculture - Non-commercial personal use bldg:
+      Minimum Required Area: 1 Acre
+      Front Setback: 60'
+      Side Setback: 10'
+      Rear Setback: 15'
+      Corner Side Setback: 15'
+      Maximum Height: 35'
+      Minimum Lot Width at Building Setback Line: 90'
+      Maximum Density (du/ac): ''
+      Maximum Floor Area Ratio: ''
+      Maximum Lot Coverage: ''
+      Minimum Building Separation: ''
+      Maximum bldg. Sq. Ft.: 4,500
+    FA - Forest Agriculture - Commercial Uses:
+      Minimum Required Area: 1 Acre (43,560 SF)
+      Front Setback: 60'
+      Side Setback: 25'
+      Rear Setback: 40'
+      Corner Side Setback: 37.5'
+      Maximum Height: 35'
+      Minimum Lot Width at Building Setback Line: 100'
+      Maximum Density (du/ac): ''
+      Maximum Floor Area Ratio: ''
+      Maximum Lot Coverage: ''
+      Minimum Building Separation: ''
+      Maximum bldg. Sq. Ft.: 4,500
+    FA - Forest Agriculture - Commercial Center:
+      Minimum Required Area: 1 Acre (43,560 SF)
+      Front Setback: 60'
+      Side Setback: 25'
+      Rear Setback: 40'
+      Corner Side Setback: 37.5'
+      Maximum Height: 35'
+      Minimum Lot Width at Building Setback Line: 100'
+      Maximum Density (du/ac): ''
+      Maximum Floor Area Ratio: ''
+      Maximum Lot Coverage: ''
+      Minimum Building Separation: ''
+      Maximum bldg. Sq. Ft.: 4,500
+    FA - Forest Agriculture - Commercial Animal Facility:
+      Minimum Required Area: 3 Acres
+      Front Setback: 60'
+      Side Setback: 25'
+      Rear Setback: 40'
+      Corner Side Setback: '37.5'
+      Maximum Height: 35'
+      Minimum Lot Width at Building Setback Line: 100'
+      Maximum Density (du/ac): ''
+      Maximum Floor Area Ratio: ''
+      Maximum Lot Coverage: ''
+      Minimum Building Separation: ''
+      Maximum bldg. Sq. Ft.: ''
+    FA - Forest Agriculture - Single Family Manufactured Home:
+      Minimum Required Area: ½ Acre (21,780 SF)
+      Front Setback: 40'
+      Side Setback: 10'
+      Rear Setback: 15'
+      Corner Side Setback: 15'
+      Maximum Height: 35'
+      Minimum Lot Width at Building Setback Line: 90'
+      Maximum Density (du/ac): ''
+      Maximum Floor Area Ratio: ''
+      Maximum Lot Coverage: ''
+      Minimum Building Separation: ''
+      Maximum bldg. Sq. Ft.: ''
+    FA - Forest Agriculture - Ag Bldg, Farm Animals:
+      Minimum Required Area: 1½ Acre
+      Front Setback: 60'
+      Side Setback: 25'
+      Rear Setback: 40'
+      Corner Side Setback: 37.5'
+      Maximum Height: 35'
+      Minimum Lot Width at Building Setback Line: 90'
+      Maximum Density (du/ac): ''
+      Maximum Floor Area Ratio: ''
+      Maximum Lot Coverage: ''
+      Minimum Building Separation: ''
+      Maximum bldg. Sq. Ft.: ''
+    FA - Forest Agriculture - Non-commercial personal use bldg:
+      Minimum Required Area: ½ Acre
+      Front Setback: 60'
+      Side Setback: 10'
+      Rear Setback: 15'
+      Corner Side Setback: 15'
+      Maximum Height: 35'
+      Minimum Lot Width at Building Setback Line: 90'
+      Maximum Density (du/ac): ''
+      Maximum Floor Area Ratio: ''
+      Maximum Lot Coverage: ''
+      Minimum Building Separation: ''
+      Maximum bldg. Sq. Ft.: 4,500
+    CFA - Commercial Forest Agriculture - Commercial Uses:
+      Minimum Required Area: 1 Acre (43,560 SF)
+      Front Setback: 60'
+      Side Setback: 25'
+      Rear Setback: 40'
+      Corner Side Setback: 37.5'
+      Maximum Height: 35'
+      Minimum Lot Width at Building Setback Line: 100'
+      Maximum Density (du/ac): ''
+      Maximum Floor Area Ratio: ''
+      Maximum Lot Coverage: ''
+      Minimum Building Separation: ''
+      Maximum bldg. Sq. Ft.: ''
+    CFA - Commercial Forest Agriculture - Commercial Center:
+      Minimum Required Area: 1 Acre (43,560 SF)
+      Front Setback: 60'
+      Side Setback: 25'
+      Rear Setback: 40'
+      Corner Side Setback: 37.5'
+      Maximum Height: 35'
+      Minimum Lot Width at Building Setback Line: 100'
+      Maximum Density (du/ac): ''
+      Maximum Floor Area Ratio: ''
+      Maximum Lot Coverage: ''
+      Minimum Building Separation: ''
+      Maximum bldg. Sq. Ft.: 50,000
+    CFA - Commercial Forest Agriculture - Commercial Animal Facility:
+      Minimum Required Area: 3 Acres
+      Front Setback: 60'
+      Side Setback: 25'
+      Rear Setback: 40'
+      Corner Side Setback: '37.5'
+      Maximum Height: 35'
+      Minimum Lot Width at Building Setback Line: 100'
+      Maximum Density (du/ac): ''
+      Maximum Floor Area Ratio: ''
+      Maximum Lot Coverage: ''
+      Minimum Building Separation: ''
+      Maximum bldg. Sq. Ft.: ''
+    CFA - Commercial Forest Agriculture - Single Family Manufactured Home:
+      Minimum Required Area: ½ Acre (21,780 SF)
+      Front Setback: 40'
+      Side Setback: 10'
+      Rear Setback: 15'
+      Corner Side Setback: 15'
+      Maximum Height: 35'
+      Minimum Lot Width at Building Setback Line: 90'
+      Maximum Density (du/ac): ''
+      Maximum Floor Area Ratio: ''
+      Maximum Lot Coverage: ''
+      Minimum Building Separation: ''
+      Maximum bldg. Sq. Ft.: ''
+    CFA - Commercial Forest Agriculture - Ag Bldg, Farm Animals:
+      Minimum Required Area: 1½ Acres
+      Front Setback: 60'
+      Side Setback: 25'
+      Rear Setback: 40'
+      Corner Side Setback: 37.5'
+      Maximum Height: 35'
+      Minimum Lot Width at Building Setback Line: 90'
+      Maximum Density (du/ac): ''
+      Maximum Floor Area Ratio: ''
+      Maximum Lot Coverage: ''
+      Minimum Building Separation: ''
+      Maximum bldg. Sq. Ft.: ''
+    CFA - Commercial Forest Agriculture - Non-commercial personal use bldg:
+      Minimum Required Area: 3 Acres
+      Front Setback: 25'
+      Side Setback: 25'
+      Rear Setback: 25'
+      Corner Side Setback: 25'
+      Maximum Height: 35'
+      Minimum Lot Width at Building Setback Line: 90'
+      Maximum Density (du/ac): ''
+      Maximum Floor Area Ratio: ''
+      Maximum Lot Coverage: ''
+      Minimum Building Separation: ''
+      Maximum bldg. Sq. Ft.: 4,500
+    CFA - Commercial Forest Agriculture - Townhouse:
+      Minimum Required Area: 3 Acres
+      Front Setback: 60'
+      Side Setback: 25'
+      Rear Setback: 40'
+      Corner Side Setback: 37.5'
+      Maximum Height: 35'
+      Minimum Lot Width at Building Setback Line: 90'
+      Maximum Density (du/ac): 2 net units/ ac
+      Maximum Floor Area Ratio: 30%
+      Maximum Lot Coverage: 50%
+      Minimum Building Separation: ''
+      Maximum bldg. Sq. Ft.: ''
+    CFA - Commercial Forest Agriculture - Assisted Living Facilities:
+      Minimum Required Area: 1 Acre
+      Front Setback: 60'
+      Side Setback: 25'
+      Rear Setback: 40'
+      Corner Side Setback: 37.5'
+      Maximum Height: 35'
+      Minimum Lot Width at Building Setback Line: 100'
+      Maximum Density (du/ac): See Table 2-8 for density requirements
+      Maximum Floor Area Ratio: See Table 2-8 for density requirements
+      Maximum Lot Coverage: See Table 2-8 for density requirements
+      Minimum Building Separation: See Table 2-8 for density requirements
+      Maximum bldg. Sq. Ft.: See Table 2-8 for density requirements
+    RE - Rural Estates - Single-Family:
+      Minimum Required Area: 1 Acre (43,560 SF)
+      Front Setback: 40'
+      Side Setback: 15'
+      Rear Setback: 25'
+      Corner Side Setback: 22.5'
+      Maximum Height: 35'
+      Minimum Lot Width at Building Setback Line: 100'
+      Maximum Density (du/ac): ''
+      Maximum Floor Area Ratio: ''
+      Maximum Lot Coverage: ''
+      Minimum Building Separation: ''
+      Maximum bldg. Sq. Ft.: ''
+    RE - Rural Estates - Ag Bldg, Farm Animals and/or Commercial Animal Facility:
+      Minimum Required Area: 3 Acres
+      Front Setback: 100'
+      Side Setback: 25'
+      Rear Setback: 25'
+      Corner Side Setback: 37.5'
+      Maximum Height: 35'
+      Minimum Lot Width at Building Setback Line: 100'
+      Maximum Density (du/ac): ''
+      Maximum Floor Area Ratio: ''
+      Maximum Lot Coverage: ''
+      Minimum Building Separation: ''
+      Maximum bldg. Sq. Ft.: ''
+    AG1 - Agriculture - Single Family Manufactured Home:
+      Minimum Required Area: 20 Acres
+      Front Setback: 40'
+      Side Setback: 15'
+      Rear Setback: 25'
+      Corner Side Setback: 22.'
+      Maximum Height: 35'
+      Minimum Lot Width at Building Setback Line: ''
+      Maximum Density (du/ac): ''
+      Maximum Floor Area Ratio: ''
+      Maximum Lot Coverage: ''
+      Minimum Building Separation: ''
+      Maximum bldg. Sq. Ft.: ''
+    AG1 - Agriculture - Ag Bldg, Horses Only:
+      Minimum Required Area: 20 Acres
+      Front Setback: 60'
+      Side Setback: 25'
+      Rear Setback: 40'
+      Corner Side Setback: 37.5'
+      Maximum Height: 65'
+      Minimum Lot Width at Building Setback Line: ''
+      Maximum Density (du/ac): ''
+      Maximum Floor Area Ratio: ''
+      Maximum Lot Coverage: ''
+      Minimum Building Separation: ''
+      Maximum bldg. Sq. Ft.: ''
+    AG1 - Agriculture - Ag Bldg, No Animals:
+      Minimum Required Area: 20 Acres
+      Front Setback: 40'
+      Side Setback: 15'
+      Rear Setback: 25'
+      Corner Side Setback: 22.5'
+      Maximum Height: 65'
+      Minimum Lot Width at Building Setback Line: ''
+      Maximum Density (du/ac): ''
+      Maximum Floor Area Ratio: ''
+      Maximum Lot Coverage: ''
+      Minimum Building Separation: ''
+      Maximum bldg. Sq. Ft.: ''
+    AG1 - Agriculture - Ag Bldg, Farm Animals:
+      Minimum Required Area: 20 Acres
+      Front Setback: 100'
+      Side Setback: 100'
+      Rear Setback: 100'
+      Corner Side Setback: 150'
+      Maximum Height: 65'
+      Minimum Lot Width at Building Setback Line: ''
+      Maximum Density (du/ac): ''
+      Maximum Floor Area Ratio: ''
+      Maximum Lot Coverage: ''
+      Minimum Building Separation: ''
+      Maximum bldg. Sq. Ft.: ''
+    AG1 - Agriculture - Non-commercial personal use bldg:
+      Minimum Required Area: 3 Acres
+      Front Setback: 25'
+      Side Setback: 25'
+      Rear Setback: '25'
+      Corner Side Setback: 25'
+      Maximum Height: 35'
+      Minimum Lot Width at Building Setback Line: ''
+      Maximum Density (du/ac): ''
+      Maximum Floor Area Ratio: ''
+      Maximum Lot Coverage: ''
+      Minimum Building Separation: ''
+      Maximum bldg. Sq. Ft.: 4,500
+    AG2 - Commercial Agriculture - Commercial Uses:
+      Minimum Required Area: ½ Acre (21,780 SF)
+      Front Setback: 50'
+      Side Setback: 10'
+      Rear Setback: 15'
+      Corner Side Setback: 15'
+      Maximum Height: 65'
+      Minimum Lot Width at Building Setback Line: ''
+      Maximum Density (du/ac): ''
+      Maximum Floor Area Ratio: ''
+      Maximum Lot Coverage: ''
+      Minimum Building Separation: ''
+      Maximum bldg. Sq. Ft.: ''
+    AG2 - Commercial Agriculture - Commercial Animal Facility:
+      Minimum Required Area: 3 Acres
+      Front Setback: 60'
+      Side Setback: 25'
+      Rear Setback: 40'
+      Corner Side Setback: '37.5'
+      Maximum Height: 35'
+      Minimum Lot Width at Building Setback Line: ''
+      Maximum Density (du/ac): ''
+      Maximum Floor Area Ratio: ''
+      Maximum Lot Coverage: ''
+      Minimum Building Separation: ''
+      Maximum bldg. Sq. Ft.: ''
+    AG2 - Commercial Agriculture - Single Family Manufactured Home:
+      Minimum Required Area: ½ Acre (21,780 SF)
+      Front Setback: 40'
+      Side Setback: 15'
+      Rear Setback: 25'
+      Corner Side Setback: 22.5'
+      Maximum Height: 35'
+      Minimum Lot Width at Building Setback Line: ''
+      Maximum Density (du/ac): ''
+      Maximum Floor Area Ratio: ''
+      Maximum Lot Coverage: ''
+      Minimum Building Separation: ''
+      Maximum bldg. Sq. Ft.: ''
+    AG2 - Commercial Agriculture - Ag Bldg, Farm Animals:
+      Minimum Required Area: 1½ Acres
+      Front Setback: 60'
+      Side Setback: 25'
+      Rear Setback: 40'
+      Corner Side Setback: 37.5'
+      Maximum Height: 35'
+      Minimum Lot Width at Building Setback Line: ''
+      Maximum Density (du/ac): ''
+      Maximum Floor Area Ratio: ''
+      Maximum Lot Coverage: ''
+      Minimum Building Separation: ''
+      Maximum bldg. Sq. Ft.: ''
+    AG2 - Commercial Agriculture - Non-commercial personal use bldg:
+      Minimum Required Area: ½ Acre
+      Front Setback: 60'
+      Side Setback: 10'
+      Rear Setback: 15'
+      Corner Side Setback: 15'
+      Maximum Height: 35'
+      Minimum Lot Width at Building Setback Line: ''
+      Maximum Density (du/ac): ''
+      Maximum Floor Area Ratio: ''
+      Maximum Lot Coverage: ''
+      Minimum Building Separation: ''
+      Maximum bldg. Sq. Ft.: 4,500
+    AG3 - Agriculture Community Services - Commercial Uses:
+      Minimum Required Area: 10,000 SF
+      Front Setback: 40'
+      Side Setback: 10'
+      Rear Setback: 15'
+      Corner Side Setback: 15'
+      Maximum Height: 65'
+      Minimum Lot Width at Building Setback Line: ''
+      Maximum Density (du/ac): ''
+      Maximum Floor Area Ratio: ''
+      Maximum Lot Coverage: ''
+      Minimum Building Separation: ''
+      Maximum bldg. Sq. Ft.: ''
+    AG4 - Agriculture Estate - Ag Bldg, Farm Animals:
+      Minimum Required Area: 5 Acres
+      Front Setback: 60'
+      Side Setback: 25'
+      Rear Setback: 40'
+      Corner Side Setback: 37.5'
+      Maximum Height: 35'
+      Minimum Lot Width at Building Setback Line: ''
+      Maximum Density (du/ac): ''
+      Maximum Floor Area Ratio: ''
+      Maximum Lot Coverage: ''
+      Minimum Building Separation: ''
+      Maximum bldg. Sq. Ft.: ''
+    AG4 - Agriculture Estate - Single-Family:
+      Minimum Required Area: 5 Acres
+      Front Setback: 60'
+      Side Setback: 25'
+      Rear Setback: 25'
+      Corner Side Setback: 37.5'
+      Maximum Height: 35'
+      Minimum Lot Width at Building Setback Line: ''
+      Maximum Density (du/ac): ''
+      Maximum Floor Area Ratio: ''
+      Maximum Lot Coverage: ''
+      Minimum Building Separation: ''
+      Maximum bldg. Sq. Ft.: ''
+    AG5 - Agriculture Manufactured Estate - Ag Bldg, Farm Animals:
+      Minimum Required Area: 5 Acres
+      Front Setback: 60'
+      Side Setback: 25'
+      Rear Setback: 40'
+      Corner Side Setback: 37.5'
+      Maximum Height: 35'
+      Minimum Lot Width at Building Setback Line: ''
+      Maximum Density (du/ac): ''
+      Maximum Floor Area Ratio: ''
+      Maximum Lot Coverage: ''
+      Minimum Building Separation: ''
+      Maximum bldg. Sq. Ft.: ''
+    AG5 - Agriculture Manufactured Estate - Single Family Manufactured Home:
+      Minimum Required Area: 5 Acres
+      Front Setback: 60'
+      Side Setback: 25'
+      Rear Setback: 25'
+      Corner Side Setback: 37.5'
+      Maximum Height: 35'
+      Minimum Lot Width at Building Setback Line: ''
+      Maximum Density (du/ac): ''
+      Maximum Floor Area Ratio: ''
+      Maximum Lot Coverage: ''
+      Minimum Building Separation: ''
+      Maximum bldg. Sq. Ft.: ''
+    AG6 - Agricultural Ranchettes - Ag Bldg non-livestock:
+      Minimum Required Area: 1.5 Acres
+      Front Setback: 60'
+      Side Setback: 25'
+      Rear Setback: 25'
+      Corner Side Setback: 37.5'
+      Maximum Height: 35'
+      Minimum Lot Width at Building Setback Line: ''
+      Maximum Density (du/ac): ''
+      Maximum Floor Area Ratio: ''
+      Maximum Lot Coverage: ''
+      Minimum Building Separation: ''
+      Maximum bldg. Sq. Ft.: ''
+    AG6 - Agricultural Ranchettes - Ag Bldg, Farm Animals:
+      Minimum Required Area: 1.5 Acres
+      Front Setback: 60'
+      Side Setback: 25'
+      Rear Setback: 40'
+      Corner Side Setback: 37.5'
+      Maximum Height: 35'
+      Minimum Lot Width at Building Setback Line: ''
+      Maximum Density (du/ac): ''
+      Maximum Floor Area Ratio: ''
+      Maximum Lot Coverage: ''
+      Minimum Building Separation: ''
+      Maximum bldg. Sq. Ft.: ''
+    AG6 - Agricultural Ranchettes - Single-Family:
+      Minimum Required Area: 1.5 Acres
+      Front Setback: 40'
+      Side Setback: 15'
+      Rear Setback: 25'
+      Corner Side Setback: 22.5'
+      Maximum Height: 35'
+      Minimum Lot Width at Building Setback Line: ''
+      Maximum Density (du/ac): ''
+      Maximum Floor Area Ratio: ''
+      Maximum Lot Coverage: ''
+      Minimum Building Separation: ''
+      Maximum bldg. Sq. Ft.: ''
+    AG7 - Manufactured Agricultural Ranchettes - Ag Bldg non-livestock:
+      Minimum Required Area: 1.5 Acres
+      Front Setback: 60'
+      Side Setback: 25'
+      Rear Setback: 25'
+      Corner Side Setback: 37.5'
+      Maximum Height: 35'
+      Minimum Lot Width at Building Setback Line: ''
+      Maximum Density (du/ac): ''
+      Maximum Floor Area Ratio: ''
+      Maximum Lot Coverage: ''
+      Minimum Building Separation: ''
+      Maximum bldg. Sq. Ft.: ''
+    AG7 - Manufactured Agricultural Ranchettes - Ag Bldg, Farm Animals:
+      Minimum Required Area: 1.5 Acres
+      Front Setback: 60'
+      Side Setback: 25'
+      Rear Setback: 40'
+      Corner Side Setback: 37.5'
+      Maximum Height: 35'
+      Minimum Lot Width at Building Setback Line: ''
+      Maximum Density (du/ac): ''
+      Maximum Floor Area Ratio: ''
+      Maximum Lot Coverage: ''
+      Minimum Building Separation: ''
+      Maximum bldg. Sq. Ft.: ''
+    AG7 - Manufactured Agricultural Ranchettes - Single Family Manufactured Home:
+      Minimum Required Area: 1.5 Acres
+      Front Setback: 40'
+      Side Setback: '15'
+      Rear Setback: '25'
+      Corner Side Setback: 22.5'
+      Maximum Height: 35'
+      Minimum Lot Width at Building Setback Line: ''
+      Maximum Density (du/ac): ''
+      Maximum Floor Area Ratio: ''
+      Maximum Lot Coverage: ''
+      Minimum Building Separation: ''
+      Maximum bldg. Sq. Ft.: ''
+    NC - Neighborhood Commercial - Single Family:
+      Minimum Required Area: 10,000 SF
+      Front Setback: 25'
+      Side Setback: 10'
+      Rear Setback: 15'
+      Corner Side Setback: 15'
+      Maximum Height: 35'
+      Minimum Lot Width at Building Setback Line: 60'
+      Maximum Density (du/ac): ''
+      Maximum Floor Area Ratio: ''
+      Maximum Lot Coverage: ''
+      Minimum Building Separation: ''
+      Maximum bldg. Sq. Ft.: ''
+    NC - Neighborhood Commercial - Commercial Uses:
+      Minimum Required Area: 10,000 SF
+      Front Setback: 25'
+      Side Setback: 10'
+      Rear Setback: 15'
+      Corner Side Setback: 15'
+      Maximum Height: 35'
+      Minimum Lot Width at Building Setback Line: 60'
+      Maximum Density (du/ac): ''
+      Maximum Floor Area Ratio: ''
+      Maximum Lot Coverage: ''
+      Minimum Building Separation: ''
+      Maximum bldg. Sq. Ft.: ''
+    NC - Neighborhood Commercial - Commercial Center:
+      Minimum Required Area: 10,000 SF
+      Front Setback: 25'
+      Side Setback: 10'
+      Rear Setback: 15'
+      Corner Side Setback: 15'
+      Maximum Height: 35'
+      Minimum Lot Width at Building Setback Line: 60'
+      Maximum Density (du/ac): ''
+      Maximum Floor Area Ratio: ''
+      Maximum Lot Coverage: ''
+      Minimum Building Separation: ''
+      Maximum bldg. Sq. Ft.: 30,000
+    CC - Community Commercial - Single-Family:
+      Minimum Required Area: 6,000 SF
+      Front Setback: 20'
+      Side Setback: 10'
+      Rear Setback: 15'
+      Corner Side Setback: 15'
+      Maximum Height: 35'
+      Minimum Lot Width at Building Setback Line: 60'
+      Maximum Density (du/ac): ''
+      Maximum Floor Area Ratio: ''
+      Maximum Lot Coverage: ''
+      Minimum Building Separation: ''
+      Maximum bldg. Sq. Ft.: ''
+    CC - Community Commercial - Garden City Overlay Single Family (Lots which allow a height of 55' or greater):
+      Minimum Required Area: 3,600 SF
+      Front Setback: 20'
+      Side Setback: 5'
+      Rear Setback: 15'
+      Corner Side Setback: 7.5'
+      Maximum Height: See Overlay; Section 834
+      Minimum Lot Width at Building Setback Line: 30'
+      Maximum Density (du/ac): ''
+      Maximum Floor Area Ratio: ''
+      Maximum Lot Coverage: ''
+      Minimum Building Separation: ''
+      Maximum bldg. Sq. Ft.: ''
+    CC - Community Commercial - Commercial Uses:
+      Minimum Required Area: See Table 2-5 for requirements
+      Front Setback: See Table 2-5 for requirements
+      Side Setback: See Table 2-5 for requirements
+      Rear Setback: See Table 2-5 for requirements
+      Corner Side Setback: See Table 2-5 for requirements
+      Maximum Height: See Table 2-5 for requirements
+      Minimum Lot Width at Building Setback Line: See Table 2-5 for requirements
+      Maximum Density (du/ac): See Table 2-5 for requirements
+      Maximum Floor Area Ratio: See Table 2-5 for requirements
+      Maximum Lot Coverage: See Table 2-5 for requirements
+      Minimum Building Separation: See Table 2-5 for requirements
+      Maximum bldg. Sq. Ft.: See Table 2-5 for requirements
+    RCS - Retail Consumer Services - Commercial Uses:
+      Minimum Required Area: 10,000 SF
+      Front Setback: 50'
+      Side Setback: 10'
+      Rear Setback: 15'
+      Corner Side Setback: 15'
+      Maximum Height: 65'
+      Minimum Lot Width at Building Setback Line: 50'
+      Maximum Density (du/ac): ''
+      Maximum Floor Area Ratio: ''
+      Maximum Lot Coverage: ''
+      Minimum Building Separation: ''
+      Maximum bldg. Sq. Ft.: ''
+    RCS - Retail Consumer Services - Residential Uses:
+      Minimum Required Area: Reference Table 2-2 for requirements
+      Front Setback: Reference Table 2-2 for requirements
+      Side Setback: Reference Table 2-2 for requirements
+      Rear Setback: Reference Table 2-2 for requirements
+      Corner Side Setback: Reference Table 2-2 for requirements
+      Maximum Height: Reference Table 2-2 for requirements
+      Minimum Lot Width at Building Setback Line: Reference Table 2-2 for requirements
+      Maximum Density (du/ac): Reference Table 2-2 for requirements
+      Maximum Floor Area Ratio: Reference Table 2-2 for requirements
+      Maximum Lot Coverage: Reference Table 2-2 for requirements
+      Minimum Building Separation: Reference Table 2-2 for requirements
+      Maximum bldg. Sq. Ft.: Reference Table 2-2 for requirements
+    RCS - Retail Consumer Services - Garden City Overlay Single Family (Lots which allow a height of 55' or greater):
+      Minimum Required Area: 3,600 SF
+      Front Setback: 20'
+      Side Setback: 5'
+      Rear Setback: 15'
+      Corner Side Setback: 7.5'
+      Maximum Height: See Overlay; Section 834
+      Minimum Lot Width at Building Setback Line: 30'
+      Maximum Density (du/ac): ''
+      Maximum Floor Area Ratio: ''
+      Maximum Lot Coverage: ''
+      Minimum Building Separation: ''
+      Maximum bldg. Sq. Ft.: ''
+    TRS - Transportation Related Services - Commercial Uses:
+      Minimum Required Area: 10,000 SF
+      Front Setback: 50'
+      Side Setback: 10'
+      Rear Setback: 15'
+      Corner Side Setback: 15'
+      Maximum Height: 65'
+      Minimum Lot Width at Building Setback Line: 50'
+      Maximum Density (du/ac): ''
+      Maximum Floor Area Ratio: ''
+      Maximum Lot Coverage: ''
+      Minimum Building Separation: ''
+      Maximum bldg. Sq. Ft.: ''
+    TRS - Transportation Related Services - Residential Uses:
+      Minimum Required Area: Reference Table 8-2 for requirements
+      Front Setback: Reference Table 8-2 for requirements
+      Side Setback: Reference Table 8-2 for requirements
+      Rear Setback: Reference Table 8-2 for requirements
+      Corner Side Setback: Reference Table 8-2 for requirements
+      Maximum Height: Reference Table 8-2 for requirements
+      Minimum Lot Width at Building Setback Line: Reference Table 8-2 for requirements
+      Maximum Density (du/ac): Reference Table 8-2 for requirements
+      Maximum Floor Area Ratio: Reference Table 8-2 for requirements
+      Maximum Lot Coverage: Reference Table 8-2 for requirements
+      Minimum Building Separation: Reference Table 8-2 for requirements
+      Maximum bldg. Sq. Ft.: Reference Table 8-2 for requirements
+    HC - Highway Commercial - Single-Family:
+      Minimum Required Area: 6,000 SF
+      Front Setback: 20'
+      Side Setback: 10'
+      Rear Setback: 15'
+      Corner Side Setback: 15'
+      Maximum Height: 35'
+      Minimum Lot Width at Building Setback Line: 60'
+      Maximum Density (du/ac): ''
+      Maximum Floor Area Ratio: ''
+      Maximum Lot Coverage: ''
+      Minimum Building Separation: ''
+      Maximum bldg. Sq. Ft.: ''
+    HC - Highway Commercial - Commercial Uses:
+      Minimum Required Area: 10,000 SF
+      Front Setback: 50'
+      Side Setback: 10' *
+      Rear Setback: 15'
+      Corner Side Setback: 15'
+      Maximum Height: 120'
+      Minimum Lot Width at Building Setback Line: 60'
+      Maximum Density (du/ac): ''
+      Maximum Floor Area Ratio: ''
+      Maximum Lot Coverage: ''
+      Minimum Building Separation: ''
+      Maximum bldg. Sq. Ft.: ''
+    HC - Highway Commercial - Commercial Uses (128):
+      Minimum Required Area: '* Where the district abuts any Residential Zoning District not separated by a street right-of-way, a minimum side yard of thirty (30) feet of the side abutting said residential district shall be required.'
+      Front Setback: '* Where the district abuts any Residential Zoning District not separated by a street right-of-way, a minimum side yard of thirty (30) feet of the side abutting said residential district shall be required.'
+      Side Setback: '* Where the district abuts any Residential Zoning District not separated by a street right-of-way, a minimum side yard of thirty (30) feet of the side abutting said residential district shall be required.'
+      Rear Setback: '* Where the district abuts any Residential Zoning District not separated by a street right-of-way, a minimum side yard of thirty (30) feet of the side abutting said residential district shall be required.'
+      Corner Side Setback: '* Where the district abuts any Residential Zoning District not separated by a street right-of-way, a minimum side yard of thirty (30) feet of the side abutting said residential district shall be required.'
+      Maximum Height: '* Where the district abuts any Residential Zoning District not separated by a street right-of-way, a minimum side yard of thirty (30) feet of the side abutting said residential district shall be required.'
+      Minimum Lot Width at Building Setback Line: '* Where the district abuts any Residential Zoning District not separated by a street right-of-way, a minimum side yard of thirty (30) feet of the side abutting said residential district shall be required.'
+      Maximum Density (du/ac): '* Where the district abuts any Residential Zoning District not separated by a street right-of-way, a minimum side yard of thirty (30) feet of the side abutting said residential district shall be required.'
+      Maximum Floor Area Ratio: '* Where the district abuts any Residential Zoning District not separated by a street right-of-way, a minimum side yard of thirty (30) feet of the side abutting said residential district shall be required.'
+      Maximum Lot Coverage: '* Where the district abuts any Residential Zoning District not separated by a street right-of-way, a minimum side yard of thirty (30) feet of the side abutting said residential district shall be required.'
+      Minimum Building Separation: '* Where the district abuts any Residential Zoning District not separated by a street right-of-way, a minimum side yard of thirty (30) feet of the side abutting said residential district shall be required.'
+      Maximum bldg. Sq. Ft.: '* Where the district abuts any Residential Zoning District not separated by a street right-of-way, a minimum side yard of thirty (30) feet of the side abutting said residential district shall be required.'
+    HC - Highway Commercial - Hospitals, Nursing Homes:
+      Minimum Required Area: 1 Acre (43,560 SF)
+      Front Setback: 50'
+      Side Setback: 10'
+      Rear Setback: 15'
+      Corner Side Setback: 15'
+      Maximum Height: 120'
+      Minimum Lot Width at Building Setback Line: 60'
+      Maximum Density (du/ac): ''
+      Maximum Floor Area Ratio: ''
+      Maximum Lot Coverage: ''
+      Minimum Building Separation: ''
+      Maximum bldg. Sq. Ft.: ''
+    RE1 - Neighborhood Retail Servies - Commercial Uses:
+      Minimum Required Area: 10,000 SF
+      Front Setback: 25'
+      Side Setback: 10'
+      Rear Setback: 15'
+      Corner Side Setback: 15'
+      Maximum Height: 36'
+      Minimum Lot Width at Building Setback Line: ''
+      Maximum Density (du/ac): ''
+      Maximum Floor Area Ratio: ''
+      Maximum Lot Coverage: ''
+      Minimum Building Separation: ''
+      Maximum bldg. Sq. Ft.: ''
+    RE1 - Neighborhood Retail Servies - Commercial Center:
+      Minimum Required Area: 10,000 SF
+      Front Setback: 25'
+      Side Setback: 10'
+      Rear Setback: 15'
+      Corner Side Setback: 15'
+      Maximum Height: 36'
+      Minimum Lot Width at Building Setback Line: ''
+      Maximum Density (du/ac): ''
+      Maximum Floor Area Ratio: ''
+      Maximum Lot Coverage: ''
+      Minimum Building Separation: ''
+      Maximum bldg. Sq. Ft.: 30,000
+    RE1 - Neighborhood Retail Servies - Single-Family:
+      Minimum Required Area: 10,000 SF
+      Front Setback: 25'
+      Side Setback: 10'
+      Rear Setback: 15'
+      Corner Side Setback: 15'
+      Maximum Height: 36'
+      Minimum Lot Width at Building Setback Line: ''
+      Maximum Density (du/ac): ''
+      Maximum Floor Area Ratio: ''
+      Maximum Lot Coverage: ''
+      Minimum Building Separation: ''
+      Maximum bldg. Sq. Ft.: ''
+    RE2 - Community Retail Services - Commercial Uses:
+      Minimum Required Area: 10,000 SF
+      Front Setback: 50'
+      Side Setback: 10'
+      Rear Setback: 15'
+      Corner Side Setback: 15'
+      Maximum Height: 36'
+      Minimum Lot Width at Building Setback Line: ''
+      Maximum Density (du/ac): ''
+      Maximum Floor Area Ratio: ''
+      Maximum Lot Coverage: ''
+      Minimum Building Separation: ''
+      Maximum bldg. Sq. Ft.: ''
+    RE2 - Community Retail Services - Commercial Center:
+      Minimum Required Area: 10,000 SF
+      Front Setback: 50'
+      Side Setback: 10'
+      Rear Setback: 15'
+      Corner Side Setback: 15'
+      Maximum Height: 36'
+      Minimum Lot Width at Building Setback Line: ''
+      Maximum Density (du/ac): ''
+      Maximum Floor Area Ratio: ''
+      Maximum Lot Coverage: ''
+      Minimum Building Separation: ''
+      Maximum bldg. Sq. Ft.: 50,000
+    RE2 - Community Retail Services - Townhouse:
+      Minimum Required Area: 1 Acre
+      Front Setback: 25'
+      Side Setback: 10'
+      Rear Setback: 15'
+      Corner Side Setback: 15'
+      Maximum Height: 40'
+      Minimum Lot Width at Building Setback Line: ''
+      Maximum Density (du/ac): 6 du/ac
+      Maximum Floor Area Ratio: ''
+      Maximum Lot Coverage: ''
+      Minimum Building Separation: 20'
+      Maximum bldg. Sq. Ft.: ''
+    RE2 - Community Retail Services - Multi-Family:
+      Minimum Required Area: 1.5 Acres
+      Front Setback: 30'
+      Side Setback: 20'
+      Rear Setback: 25'
+      Corner Side Setback: 30'
+      Maximum Height: 65'
+      Minimum Lot Width at Building Setback Line: ''
+      Maximum Density (du/ac): 6 du/ac
+      Maximum Floor Area Ratio: ''
+      Maximum Lot Coverage: ''
+      Minimum Building Separation: 20'
+      Maximum bldg. Sq. Ft.: ''
+    RE3 - Convenience & Auto-Related Services - Commercial Uses:
+      Minimum Required Area: 10,000 SF
+      Front Setback: 50'
+      Side Setback: 10'
+      Rear Setback: 15'
+      Corner Side Setback: 15'
+      Maximum Height: 48'
+      Minimum Lot Width at Building Setback Line: ''
+      Maximum Density (du/ac): ''
+      Maximum Floor Area Ratio: ''
+      Maximum Lot Coverage: ''
+      Minimum Building Separation: ''
+      Maximum bldg. Sq. Ft.: ''
+    RE3 - Convenience & Auto-Related Services - Commercial Center:
+      Minimum Required Area: 10,000 SF
+      Front Setback: 50'
+      Side Setback: 10'
+      Rear Setback: 15'
+      Corner Side Setback: 15'
+      Maximum Height: 48'
+      Minimum Lot Width at Building Setback Line: ''
+      Maximum Density (du/ac): ''
+      Maximum Floor Area Ratio: ''
+      Maximum Lot Coverage: ''
+      Minimum Building Separation: ''
+      Maximum bldg. Sq. Ft.: 100,000
+    RE3 - Convenience & Auto-Related Services - Multi-Family, Townhouse & Quadruplex *:
+      Minimum Required Area: '* Reference § 400.L for requirements.'
+      Front Setback: '* Reference § 400.L for requirements.'
+      Side Setback: '* Reference § 400.L for requirements.'
+      Rear Setback: '* Reference § 400.L for requirements.'
+      Corner Side Setback: '* Reference § 400.L for requirements.'
+      Maximum Height: '* Reference § 400.L for requirements.'
+      Minimum Lot Width at Building Setback Line: '* Reference § 400.L for requirements.'
+      Maximum Density (du/ac): '* Reference § 400.L for requirements.'
+      Maximum Floor Area Ratio: '* Reference § 400.L for requirements.'
+      Maximum Lot Coverage: '* Reference § 400.L for requirements.'
+      Minimum Building Separation: '* Reference § 400.L for requirements.'
+      Maximum bldg. Sq. Ft.: '* Reference § 400.L for requirements.'
+    RE4 - Retail With Accessory Outdoor Storage - Commercial Uses:
+      Minimum Required Area: ½ Acre (21,780 SF)
+      Front Setback: 50'
+      Side Setback: 10'
+      Rear Setback: 15'
+      Corner Side Setback: 15'
+      Maximum Height: 36' per ½ acre; not to exceed 120'
+      Minimum Lot Width at Building Setback Line: ''
+      Maximum Density (du/ac): ''
+      Maximum Floor Area Ratio: ''
+      Maximum Lot Coverage: ''
+      Minimum Building Separation: ''
+      Maximum bldg. Sq. Ft.: ''
+    OPI - Office Professional Institutional - Commercial Uses:
+      Minimum Required Area: 10,000 SF
+      Front Setback: ''
+      Side Setback: ''
+      Rear Setback: ''
+      Corner Side Setback: ''
+      Maximum Height: 65'
+      Minimum Lot Width at Building Setback Line: 60'
+      Maximum Density (du/ac): See Table 2-6 for requirements
+      Maximum Floor Area Ratio: See Table 2-6 for requirements
+      Maximum Lot Coverage: See Table 2-6 for requirements
+      Minimum Building Separation: See Table 2-6 for requirements
+      Maximum bldg. Sq. Ft.: See Table 2-6 for requirements
+    OPI - Office Professional Institutional - Single-Family:
+      Minimum Required Area: 10,000 SF
+      Front Setback: 25'
+      Side Setback: 10'
+      Rear Setback: 15'
+      Corner Side Setback: 15'
+      Maximum Height: 65'
+      Minimum Lot Width at Building Setback Line: 60'
+      Maximum Density (du/ac): ''
+      Maximum Floor Area Ratio: ''
+      Maximum Lot Coverage: ''
+      Minimum Building Separation: ''
+      Maximum bldg. Sq. Ft.: ''
+    EIO - Education, Institution, Office - Commercial Uses:
+      Minimum Required Area: 10,000 SF
+      Front Setback: 50'
+      Side Setback: 10'
+      Rear Setback: 15'
+      Corner Side Setback: 15'
+      Maximum Height: 65'
+      Minimum Lot Width at Building Setback Line: 50'
+      Maximum Density (du/ac): ''
+      Maximum Floor Area Ratio: ''
+      Maximum Lot Coverage: ''
+      Minimum Building Separation: ''
+      Maximum bldg. Sq. Ft.: ''
+    EIO - Education, Institution, Office - Residential Uses:
+      Minimum Required Area: Reference Table 2-2 for requirements
+      Front Setback: Reference Table 2-2 for requirements
+      Side Setback: Reference Table 2-2 for requirements
+      Rear Setback: Reference Table 2-2 for requirements
+      Corner Side Setback: Reference Table 2-2 for requirements
+      Maximum Height: Reference Table 2-2 for requirements
+      Minimum Lot Width at Building Setback Line: Reference Table 2-2 for requirements
+      Maximum Density (du/ac): Reference Table 2-2 for requirements
+      Maximum Floor Area Ratio: Reference Table 2-2 for requirements
+      Maximum Lot Coverage: Reference Table 2-2 for requirements
+      Minimum Building Separation: Reference Table 2-2 for requirements
+      Maximum bldg. Sq. Ft.: Reference Table 2-2 for requirements
+    PR1 - Office- Professional - Commercial Uses:
+      Minimum Required Area: 10,000 SF
+      Front Setback: 25'
+      Side Setback: 10'
+      Rear Setback: 15'
+      Corner Side Setback: 15'
+      Maximum Height: 36'
+      Minimum Lot Width at Building Setback Line: ''
+      Maximum Density (du/ac): ''
+      Maximum Floor Area Ratio: ''
+      Maximum Lot Coverage: ''
+      Minimum Building Separation: ''
+      Maximum bldg. Sq. Ft.: ''
+    PR2 - Campus Institution, Office & Research - Commercial Uses:
+      Minimum Required Area: ½ Acre (21,780 SF) *
+      Front Setback: 50'
+      Side Setback: 25'
+      Rear Setback: 25'
+      Corner Side Setback: 37.5'
+      Maximum Height: '50'
+      Minimum Lot Width at Building Setback Line: ''
+      Maximum Density (du/ac): ''
+      Maximum Floor Area Ratio: ''
+      Maximum Lot Coverage: ''
+      Minimum Building Separation: ''
+      Maximum bldg. Sq. Ft.: ''
+    PR2 - Campus Institution, Office & Research - Commercial Uses (147):
+      Minimum Required Area: '* If development within the district is proposed to be in a park-type setting (multiple parcels on a single tract of land) the minimum parcel size shall be increased to three (3) acres.'
+      Front Setback: '* If development within the district is proposed to be in a park-type setting (multiple parcels on a single tract of land) the minimum parcel size shall be increased to three (3) acres.'
+      Side Setback: '* If development within the district is proposed to be in a park-type setting (multiple parcels on a single tract of land) the minimum parcel size shall be increased to three (3) acres.'
+      Rear Setback: '* If development within the district is proposed to be in a park-type setting (multiple parcels on a single tract of land) the minimum parcel size shall be increased to three (3) acres.'
+      Corner Side Setback: '* If development within the district is proposed to be in a park-type setting (multiple parcels on a single tract of land) the minimum parcel size shall be increased to three (3) acres.'
+      Maximum Height: '* If development within the district is proposed to be in a park-type setting (multiple parcels on a single tract of land) the minimum parcel size shall be increased to three (3) acres.'
+      Minimum Lot Width at Building Setback Line: '* If development within the district is proposed to be in a park-type setting (multiple parcels on a single tract of land) the minimum parcel size shall be increased to three (3) acres.'
+      Maximum Density (du/ac): '* If development within the district is proposed to be in a park-type setting (multiple parcels on a single tract of land) the minimum parcel size shall be increased to three (3) acres.'
+      Maximum Floor Area Ratio: '* If development within the district is proposed to be in a park-type setting (multiple parcels on a single tract of land) the minimum parcel size shall be increased to three (3) acres.'
+      Maximum Lot Coverage: '* If development within the district is proposed to be in a park-type setting (multiple parcels on a single tract of land) the minimum parcel size shall be increased to three (3) acres.'
+      Minimum Building Separation: '* If development within the district is proposed to be in a park-type setting (multiple parcels on a single tract of land) the minimum parcel size shall be increased to three (3) acres.'
+      Maximum bldg. Sq. Ft.: '* If development within the district is proposed to be in a park-type setting (multiple parcels on a single tract of land) the minimum parcel size shall be increased to three (3) acres.'
+    ME1 - Inpatient Medical Services - Commercial Uses:
+      Minimum Required Area: 10,000 SF
+      Front Setback: 25'
+      Side Setback: 10'
+      Rear Setback: 15'
+      Corner Side Setback: 15'
+      Maximum Height: 120'
+      Minimum Lot Width at Building Setback Line: ''
+      Maximum Density (du/ac): ''
+      Maximum Floor Area Ratio: ''
+      Maximum Lot Coverage: ''
+      Minimum Building Separation: ''
+      Maximum bldg. Sq. Ft.: ''
+    ME2 - Outpatient Medical Services - Commercial Uses:
+      Minimum Required Area: ½ Acre (21,780 SF)
+      Front Setback: 50'
+      Side Setback: 25'
+      Rear Setback: 15'
+      Corner Side Setback: 37.5'
+      Maximum Height: 36'
+      Minimum Lot Width at Building Setback Line: ''
+      Maximum Density (du/ac): ''
+      Maximum Floor Area Ratio: ''
+      Maximum Lot Coverage: ''
+      Minimum Building Separation: ''
+      Maximum bldg. Sq. Ft.: ''
+    AC - Amusement Commercial - Commercial Uses:
+      Minimum Required Area: 15,000 SF
+      Front Setback: 50'
+      Side Setback: 10' *
+      Rear Setback: 15'
+      Corner Side Setback: 15'
+      Maximum Height: 120'
+      Minimum Lot Width at Building Setback Line: 70'
+      Maximum Density (du/ac): ''
+      Maximum Floor Area Ratio: ''
+      Maximum Lot Coverage: ''
+      Minimum Building Separation: ''
+      Maximum bldg. Sq. Ft.: ''
+    AC - Amusement Commercial - Commercial Uses (151):
+      Minimum Required Area: '* Where the district abuts any Residential Zoning District not separated by a street right-of-way, a minimum side yard of thirty (30) feet of the side abutting said residential district shall be required.'
+      Front Setback: '* Where the district abuts any Residential Zoning District not separated by a street right-of-way, a minimum side yard of thirty (30) feet of the side abutting said residential district shall be required.'
+      Side Setback: '* Where the district abuts any Residential Zoning District not separated by a street right-of-way, a minimum side yard of thirty (30) feet of the side abutting said residential district shall be required.'
+      Rear Setback: '* Where the district abuts any Residential Zoning District not separated by a street right-of-way, a minimum side yard of thirty (30) feet of the side abutting said residential district shall be required.'
+      Corner Side Setback: '* Where the district abuts any Residential Zoning District not separated by a street right-of-way, a minimum side yard of thirty (30) feet of the side abutting said residential district shall be required.'
+      Maximum Height: '* Where the district abuts any Residential Zoning District not separated by a street right-of-way, a minimum side yard of thirty (30) feet of the side abutting said residential district shall be required.'
+      Minimum Lot Width at Building Setback Line: '* Where the district abuts any Residential Zoning District not separated by a street right-of-way, a minimum side yard of thirty (30) feet of the side abutting said residential district shall be required.'
+      Maximum Density (du/ac): '* Where the district abuts any Residential Zoning District not separated by a street right-of-way, a minimum side yard of thirty (30) feet of the side abutting said residential district shall be required.'
+      Maximum Floor Area Ratio: '* Where the district abuts any Residential Zoning District not separated by a street right-of-way, a minimum side yard of thirty (30) feet of the side abutting said residential district shall be required.'
+      Maximum Lot Coverage: '* Where the district abuts any Residential Zoning District not separated by a street right-of-way, a minimum side yard of thirty (30) feet of the side abutting said residential district shall be required.'
+      Minimum Building Separation: '* Where the district abuts any Residential Zoning District not separated by a street right-of-way, a minimum side yard of thirty (30) feet of the side abutting said residential district shall be required.'
+      Maximum bldg. Sq. Ft.: '* Where the district abuts any Residential Zoning District not separated by a street right-of-way, a minimum side yard of thirty (30) feet of the side abutting said residential district shall be required.'
+    AM1 - Indoor Amusement Commercial - Commercial Uses:
+      Minimum Required Area: 10,000 SF
+      Front Setback: 25'
+      Side Setback: 10'
+      Rear Setback: 15'
+      Corner Side Setback: 15'
+      Maximum Height: 36' per 10,000 SF; not to exceed 120'
+      Minimum Lot Width at Building Setback Line: ''
+      Maximum Density (du/ac): ''
+      Maximum Floor Area Ratio: ''
+      Maximum Lot Coverage: ''
+      Minimum Building Separation: ''
+      Maximum bldg. Sq. Ft.: ''
+    AM2 - Outdoor Amusement Commercial - Commercial Uses:
+      Minimum Required Area: ½ Acre (21,780 SF)
+      Front Setback: 50'
+      Side Setback: 10'
+      Rear Setback: 15'
+      Corner Side Setback: 15'
+      Maximum Height: 36' per ½ acre; not to exceed 300'
+      Minimum Lot Width at Building Setback Line: ''
+      Maximum Density (du/ac): ''
+      Maximum Floor Area Ratio: ''
+      Maximum Lot Coverage: ''
+      Minimum Building Separation: ''
+      Maximum bldg. Sq. Ft.: ''
+    CR - Commercial Recreation - Commercial Uses:
+      Minimum Required Area: 10,000 SF
+      Front Setback: 50'
+      Side Setback: 10'
+      Rear Setback: 15'
+      Corner Side Setback: 15'
+      Maximum Height: 65'
+      Minimum Lot Width at Building Setback Line: 50'
+      Maximum Density (du/ac): ''
+      Maximum Floor Area Ratio: ''
+      Maximum Lot Coverage: ''
+      Minimum Building Separation: ''
+      Maximum bldg. Sq. Ft.: ''
+    CR - Commercial Recreation - Residential Uses:
+      Minimum Required Area: Reference Table 2-2 for requirements
+      Front Setback: Reference Table 2-2 for requirements
+      Side Setback: Reference Table 2-2 for requirements
+      Rear Setback: Reference Table 2-2 for requirements
+      Corner Side Setback: Reference Table 2-2 for requirements
+      Maximum Height: Reference Table 2-2 for requirements
+      Minimum Lot Width at Building Setback Line: Reference Table 2-2 for requirements
+      Maximum Density (du/ac): Reference Table 2-2 for requirements
+      Maximum Floor Area Ratio: Reference Table 2-2 for requirements
+      Maximum Lot Coverage: Reference Table 2-2 for requirements
+      Minimum Building Separation: Reference Table 2-2 for requirements
+      Maximum bldg. Sq. Ft.: Reference Table 2-2 for requirements
+    RC - Resort Commercial - Single-Family:
+      Minimum Required Area: 6,000 SF
+      Front Setback: 20'
+      Side Setback: 10'
+      Rear Setback: 15'
+      Corner Side Setback: 15'
+      Maximum Height: Un- limited
+      Minimum Lot Width at Building Setback Line: 60'
+      Maximum Density (du/ac): ''
+      Maximum Floor Area Ratio: ''
+      Maximum Lot Coverage: ''
+      Minimum Building Separation: 20'
+      Maximum bldg. Sq. Ft.: ''
+    RC - Resort Commercial - Duplex:
+      Minimum Required Area: 8,000 SF
+      Front Setback: 20'
+      Side Setback: 10'
+      Rear Setback: 15'
+      Corner Side Setback: 15'
+      Maximum Height: Un- limited
+      Minimum Lot Width at Building Setback Line: 60'
+      Maximum Density (du/ac): ''
+      Maximum Floor Area Ratio: ''
+      Maximum Lot Coverage: ''
+      Minimum Building Separation: 20'
+      Maximum bldg. Sq. Ft.: ''
+    RC - Resort Commercial - Semi-Detached:
+      Minimum Required Area: 4,000 SF per d/u
+      Front Setback: 20'
+      Side Setback: 10'
+      Rear Setback: 15'
+      Corner Side Setback: 15'
+      Maximum Height: ''
+      Minimum Lot Width at Building Setback Line: 60'
+      Maximum Density (du/ac): ''
+      Maximum Floor Area Ratio: ''
+      Maximum Lot Coverage: ''
+      Minimum Building Separation: 20'
+      Maximum bldg. Sq. Ft.: ''
+    RC - Resort Commercial - Garden City Overlay Single Family (Lots which allow a height of 55' or greater):
+      Minimum Required Area: 3,600 SF
+      Front Setback: 20'
+      Side Setback: 5'
+      Rear Setback: 15'
+      Corner Side Setback: 7.5'
+      Maximum Height: See Overlay; Section 834
+      Minimum Lot Width at Building Setback Line: 30'
+      Maximum Density (du/ac): ''
+      Maximum Floor Area Ratio: ''
+      Maximum Lot Coverage: ''
+      Minimum Building Separation: ''
+      Maximum bldg. Sq. Ft.: ''
+    RC - Resort Commercial - Townhouse:
+      Minimum Required Area: 1 Acre (43,560 SF)
+      Front Setback: 30'
+      Side Setback: 20'
+      Rear Setback: 20' *
+      Corner Side Setback: 30'
+      Maximum Height: Un- limited
+      Minimum Lot Width at Building Setback Line: 100'
+      Maximum Density (du/ac): See Table 2-3 for Density Requirements
+      Maximum Floor Area Ratio: ''
+      Maximum Lot Coverage: ''
+      Minimum Building Separation: 20'
+      Maximum bldg. Sq. Ft.: ''
+    RC - Resort Commercial - Multi-Family:
+      Minimum Required Area: 1 Acre (43,560 SF)
+      Front Setback: 30'
+      Side Setback: 20'
+      Rear Setback: 20' *
+      Corner Side Setback: 30'
+      Maximum Height: Un- limited
+      Minimum Lot Width at Building Setback Line: 100'
+      Maximum Density (du/ac): See Table 2-3 for Density Requirements
+      Maximum Floor Area Ratio: ''
+      Maximum Lot Coverage: ''
+      Minimum Building Separation: 20'
+      Maximum bldg. Sq. Ft.: ''
+    RC - Resort Commercial - Multi-Family (162):
+      Minimum Required Area: '* Rear setback increases to 30'' if property adjoins a marsh or ocean.'
+      Front Setback: '* Rear setback increases to 30'' if property adjoins a marsh or ocean.'
+      Side Setback: '* Rear setback increases to 30'' if property adjoins a marsh or ocean.'
+      Rear Setback: '* Rear setback increases to 30'' if property adjoins a marsh or ocean.'
+      Corner Side Setback: '* Rear setback increases to 30'' if property adjoins a marsh or ocean.'
+      Maximum Height: '* Rear setback increases to 30'' if property adjoins a marsh or ocean.'
+      Minimum Lot Width at Building Setback Line: '* Rear setback increases to 30'' if property adjoins a marsh or ocean.'
+      Maximum Density (du/ac): '* Rear setback increases to 30'' if property adjoins a marsh or ocean.'
+      Maximum Floor Area Ratio: '* Rear setback increases to 30'' if property adjoins a marsh or ocean.'
+      Maximum Lot Coverage: '* Rear setback increases to 30'' if property adjoins a marsh or ocean.'
+      Minimum Building Separation: '* Rear setback increases to 30'' if property adjoins a marsh or ocean.'
+      Maximum bldg. Sq. Ft.: '* Rear setback increases to 30'' if property adjoins a marsh or ocean.'
+    RC - Resort Commercial - Commercial Uses:
+      Minimum Required Area: 25,000 SF
+      Front Setback: 40'
+      Side Setback: 30'
+      Rear Setback: 25'
+      Corner Side Setback: 45'
+      Maximum Height: Un- limited
+      Minimum Lot Width at Building Setback Line: 60'
+      Maximum Density (du/ac): ''
+      Maximum Floor Area Ratio: ''
+      Maximum Lot Coverage: ''
+      Minimum Building Separation: 20'
+      Maximum bldg. Sq. Ft.: ''
+    DP - Destination Park:
+      Minimum Required Area: 5 Acres
+      Front Setback: ''
+      Side Setback: ''
+      Rear Setback: ''
+      Corner Side Setback: ''
+      Maximum Height: 25'
+      Minimum Lot Width at Building Setback Line: See Requirements in Section 208
+      Maximum Density (du/ac): See Requirements in Section 208
+      Maximum Floor Area Ratio: See Requirements in Section 208
+      Maximum Lot Coverage: See Requirements in Section 208
+      Minimum Building Separation: See Requirements in Section 208
+      Maximum bldg. Sq. Ft.: See Requirements in Section 208
+    BO1 - Boating/Marine Commercial - Commercial Uses:
+      Minimum Required Area: 10,000 SF
+      Front Setback: 40'
+      Side Setback: 10'
+      Rear Setback: 15'
+      Corner Side Setback: 15'
+      Maximum Height: 65'
+      Minimum Lot Width at Building Setback Line: ''
+      Maximum Density (du/ac): ''
+      Maximum Floor Area Ratio: ''
+      Maximum Lot Coverage: ''
+      Minimum Building Separation: ''
+      Maximum bldg. Sq. Ft.: ''
+    PA1 - Passenger & Product Transportation - Commercial Uses:
+      Minimum Required Area: ½ Acre (21,780 SF)
+      Front Setback: 50'
+      Side Setback: 10'
+      Rear Setback: 15'
+      Corner Side Setback: 15'
+      Maximum Height: 36' per ½ acre; not to exceed 300'
+      Minimum Lot Width at Building Setback Line: ''
+      Maximum Density (du/ac): ''
+      Maximum Floor Area Ratio: ''
+      Maximum Lot Coverage: ''
+      Minimum Building Separation: ''
+      Maximum bldg. Sq. Ft.: ''
+    LI - Limited Industrial - Commercial Uses:
+      Minimum Required Area: ½ Acre (21,780 SF)
+      Front Setback: 50'
+      Side Setback: 20'
+      Rear Setback: 25'
+      Corner Side Setback: 30'
+      Maximum Height: 60'
+      Minimum Lot Width at Building Setback Line: 80'
+      Maximum Density (du/ac): ''
+      Maximum Floor Area Ratio: ''
+      Maximum Lot Coverage: ''
+      Minimum Building Separation: ''
+      Maximum bldg. Sq. Ft.: ''
+    MA1 - Limited Manufacturing and Industrial - Commercial Uses:
+      Minimum Required Area: ½ Acre (21,780 SF)
+      Front Setback: 50'
+      Side Setback: 25'
+      Rear Setback: 25'
+      Corner Side Setback: 37.5'
+      Maximum Height: 60'
+      Minimum Lot Width at Building Setback Line: ''
+      Maximum Density (du/ac): ''
+      Maximum Floor Area Ratio: ''
+      Maximum Lot Coverage: ''
+      Minimum Building Separation: ''
+      Maximum bldg. Sq. Ft.: ''
+    MA2 - General Manufacturing and Industrial - Commercial Uses:
+      Minimum Required Area: ½ Acre (21,780 SF)
+      Front Setback: 50'
+      Side Setback: 25'
+      Rear Setback: 25'
+      Corner Side Setback: 37.5'
+      Maximum Height: 75'
+      Minimum Lot Width at Building Setback Line: ''
+      Maximum Density (du/ac): ''
+      Maximum Floor Area Ratio: ''
+      Maximum Lot Coverage: ''
+      Minimum Building Separation: ''
+      Maximum bldg. Sq. Ft.: ''
+    MA3 - Heavy/Intense Manufacturing and Industrial - Commercial Uses:
+      Minimum Required Area: 1 Acres (43,560 SF)
+      Front Setback: 50'
+      Side Setback: 25'
+      Rear Setback: 25'
+      Corner Side Setback: 37.5'
+      Maximum Height: 100'
+      Minimum Lot Width at Building Setback Line: ''
+      Maximum Density (du/ac): ''
+      Maximum Floor Area Ratio: ''
+      Maximum Lot Coverage: ''
+      Minimum Building Separation: ''
+      Maximum bldg. Sq. Ft.: ''
+    HI - Heavy Industrial - Commercial Uses:
+      Minimum Required Area: 10 Acres
+      Front Setback: 200' *
+      Side Setback: 50'
+      Rear Setback: 50'
+      Corner Side Setback: 75'
+      Maximum Height: 60'
+      Minimum Lot Width at Building Setback Line: 400'
+      Maximum Density (du/ac): ''
+      Maximum Floor Area Ratio: ''
+      Maximum Lot Coverage: ''
+      Minimum Building Separation: ''
+      Maximum bldg. Sq. Ft.: ''
+    HI - Heavy Industrial - Commercial Uses (172):
+      Minimum Required Area: 10 Acres
+      Front Setback: '* Minimum front yard, measured from the nearest abutting major street right-of-way line: Two Hundred (200) feet All other streets: fifty (50) feet.'
+      Side Setback: '* Minimum front yard, measured from the nearest abutting major street right-of-way line: Two Hundred (200) feet All other streets: fifty (50) feet.'
+      Rear Setback: '* Minimum front yard, measured from the nearest abutting major street right-of-way line: Two Hundred (200) feet All other streets: fifty (50) feet.'
+      Corner Side Setback: '* Minimum front yard, measured from the nearest abutting major street right-of-way line: Two Hundred (200) feet All other streets: fifty (50) feet.'
+      Maximum Height: '* Minimum front yard, measured from the nearest abutting major street right-of-way line: Two Hundred (200) feet All other streets: fifty (50) feet.'
+      Minimum Lot Width at Building Setback Line: '* Minimum front yard, measured from the nearest abutting major street right-of-way line: Two Hundred (200) feet All other streets: fifty (50) feet.'
+      Maximum Density (du/ac): '* Minimum front yard, measured from the nearest abutting major street right-of-way line: Two Hundred (200) feet All other streets: fifty (50) feet.'
+      Maximum Floor Area Ratio: '* Minimum front yard, measured from the nearest abutting major street right-of-way line: Two Hundred (200) feet All other streets: fifty (50) feet.'
+      Maximum Lot Coverage: '* Minimum front yard, measured from the nearest abutting major street right-of-way line: Two Hundred (200) feet All other streets: fifty (50) feet.'
+      Minimum Building Separation: '* Minimum front yard, measured from the nearest abutting major street right-of-way line: Two Hundred (200) feet All other streets: fifty (50) feet.'
+      Maximum bldg. Sq. Ft.: '* Minimum front yard, measured from the nearest abutting major street right-of-way line: Two Hundred (200) feet All other streets: fifty (50) feet.'
+    HI - Heavy Industrial - Heavy Industrial Park:
+      Minimum Required Area: 10 Acres
+      Front Setback: See Requirements in Table 2-4
+      Side Setback: See Requirements in Table 2-4
+      Rear Setback: See Requirements in Table 2-4
+      Corner Side Setback: See Requirements in Table 2-4
+      Maximum Height: See Requirements in Table 2-4
+      Minimum Lot Width at Building Setback Line: See Requirements in Table 2-4
+      Maximum Density (du/ac): See Requirements in Table 2-4
+      Maximum Floor Area Ratio: See Requirements in Table 2-4
+      Maximum Lot Coverage: See Requirements in Table 2-4
+      Minimum Building Separation: See Requirements in Table 2-4
+      Maximum bldg. Sq. Ft.: See Requirements in Table 2-4

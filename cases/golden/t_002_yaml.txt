@@ -1,0 +1,263 @@
+'TABLE 9-7-2.2: USES':
+  Type:
+    Accessory structure, unoccupied:
+      Allowed: X
+      Administrative Conditional Use: ''
+      Conditional Use: ''
+      Business License: ''
+    Agriculture and commercial equipment sales and service:
+      Allowed: ''
+      Administrative Conditional Use: X
+      Conditional Use: ''
+      Business License: X
+    Auto self-serve station:
+      Allowed: ''
+      Administrative Conditional Use: X
+      Conditional Use: ''
+      Business License: X
+    Auto service station:
+      Allowed: ''
+      Administrative Conditional Use: X
+      Conditional Use: ''
+      Business License: X
+    Auto, truck, RV sales and rental:
+      Allowed: ''
+      Administrative Conditional Use: X
+      Conditional Use: ''
+      Business License: X
+    Automotive body/paint repair establishment:
+      Allowed: ''
+      Administrative Conditional Use: X
+      Conditional Use: ''
+      Business License: X
+    Automotive repair establishment:
+      Allowed: ''
+      Administrative Conditional Use: X
+      Conditional Use: ''
+      Business License: X
+    Banking, financial services:
+      Allowed: ''
+      Administrative Conditional Use: X
+      Conditional Use: ''
+      Business License: X
+    Bar, tavern, lounge:
+      Allowed: ''
+      Administrative Conditional Use: X
+      Conditional Use: ''
+      Business License: X
+    Car wash:
+      Allowed: ''
+      Administrative Conditional Use: X
+      Conditional Use: ''
+      Business License: X
+    Church:
+      Allowed: ''
+      Administrative Conditional Use: X
+      Conditional Use: ''
+      Business License: X
+    Daycare center (business):
+      Allowed: ''
+      Administrative Conditional Use: ''
+      Conditional Use: ''
+      Business License: X
+    Daycare facility (building):
+      Allowed: ''
+      Administrative Conditional Use: ''
+      Conditional Use: ''
+      Business License: X
+    Drive-through facility associated with commercial business:
+      Allowed: ''
+      Administrative Conditional Use: X
+      Conditional Use: ''
+      Business License: ''
+    Fun center/rec center:
+      Allowed: ''
+      Administrative Conditional Use: X
+      Conditional Use: ''
+      Business License: X
+    General merchandise sales and service:
+      Allowed: ''
+      Administrative Conditional Use: X
+      Conditional Use: ''
+      Business License: X
+    Group home:
+      Assisted living facility:
+        Allowed: ''
+        Administrative Conditional Use: ''
+        Conditional Use: ''
+        Business License: X
+      Disabled:
+        Allowed: ''
+        Administrative Conditional Use: ''
+        Conditional Use: ''
+        Business License: X
+      Elderly:
+        Allowed: ''
+        Administrative Conditional Use: X
+        Conditional Use: ''
+        Business License: X
+      Youth:
+        Allowed: ''
+        Administrative Conditional Use: ''
+        Conditional Use: ''
+        Business License: X
+      Hedges:
+        Allowed: ''
+        Administrative Conditional Use: X
+        Conditional Use: ''
+        Business License: ''
+      Hotel:
+        Allowed: ''
+        Administrative Conditional Use: X
+        Conditional Use: ''
+        Business License: X
+      Household pets:
+        Allowed: ''
+        Administrative Conditional Use: X
+        Conditional Use: ''
+        Business License: ''
+      Intermittent commercial use:
+        Allowed: ''
+        Administrative Conditional Use: X
+        Conditional Use: ''
+        Business License: X
+      Mortuary, reception center:
+        Allowed: ''
+        Administrative Conditional Use: X
+        Conditional Use: ''
+        Business License: X
+      Motel:
+        Allowed: ''
+        Administrative Conditional Use: X
+        Conditional Use: ''
+        Business License: X
+      Nursing home:
+        Allowed: ''
+        Administrative Conditional Use: X
+        Conditional Use: ''
+        Business License: X
+      Office building:
+        Allowed: ''
+        Administrative Conditional Use: X
+        Conditional Use: ''
+        Business License: X
+      Outdoor recreation, parks, playgrounds:
+        Allowed: X
+        Administrative Conditional Use: ''
+        Conditional Use: ''
+        Business License: ''
+      Preschool/regulated preschool:
+        Allowed: ''
+        Administrative Conditional Use: X
+        Conditional Use: ''
+        Business License: X
+      Professional service establishments:
+        Allowed: ''
+        Administrative Conditional Use: X
+        Conditional Use: ''
+        Business License: X
+      Public rights of way:
+        Allowed: X
+        Administrative Conditional Use: ''
+        Conditional Use: ''
+        Business License: ''
+      Public services:
+        Allowed: X
+        Administrative Conditional Use: ''
+        Conditional Use: ''
+        Business License: ''
+      Reception center:
+        Allowed: ''
+        Administrative Conditional Use: X
+        Conditional Use: ''
+        Business License: X
+      Recreation center:
+        Allowed: ''
+        Administrative Conditional Use: X
+        Conditional Use: ''
+        Business License: X
+      Residential dwelling in a commercial building:
+        Allowed: ''
+        Administrative Conditional Use: X
+        Conditional Use: ''
+        Business License: ''
+      Restaurant:
+        Allowed: ''
+        Administrative Conditional Use: X
+        Conditional Use: ''
+        Business License: X
+      RV storage facility:
+        Allowed: X
+        Administrative Conditional Use: X
+        Conditional Use: ''
+        Business License: X
+      School, public:
+        Allowed: ''
+        Administrative Conditional Use: X
+        Conditional Use: ''
+        Business License: ''
+      School, quasi-public:
+        Allowed: ''
+        Administrative Conditional Use: X
+        Conditional Use: ''
+        Business License: ''
+      Schools, private:
+        Allowed: ''
+        Administrative Conditional Use: X
+        Conditional Use: ''
+        Business License: X
+      Self-storage (or self-service storage) facility:
+        Allowed: X
+        Administrative Conditional Use: X
+        Conditional Use: ''
+        Business License: X
+      Signs, nameplates:
+        Allowed: X
+        Administrative Conditional Use: ''
+        Conditional Use: ''
+        Business License: ''
+      Signs, temporary:
+        Allowed: ''
+        Administrative Conditional Use: X
+        Conditional Use: ''
+        Business License: ''
+      Social club:
+        Allowed: ''
+        Administrative Conditional Use: X
+        Conditional Use: ''
+        Business License: X
+      Subdivisions:
+        Allowed: X
+        Administrative Conditional Use: ''
+        Conditional Use: ''
+        Business License: ''
+      Telecommunications facilities, minor:
+        Allowed: ''
+        Administrative Conditional Use: ''
+        Conditional Use: X
+        Business License: X
+      Temporary storage container and/or facility for construction of commercial property for 1 year:
+        Allowed: X
+        Administrative Conditional Use: ''
+        Conditional Use: ''
+        Business License: ''
+      Theater:
+        Allowed: ''
+        Administrative Conditional Use: X
+        Conditional Use: ''
+        Business License: X
+      Utility structure, incidental to primary use:
+        Allowed: ''
+        Administrative Conditional Use: X
+        Conditional Use: ''
+        Business License: ''
+      Wall:
+        Allowed: ''
+        Administrative Conditional Use: X
+        Conditional Use: ''
+        Business License: ''
+      Warehouse storage facility:
+        Allowed: X
+        Administrative Conditional Use: X
+        Conditional Use: ''
+        Business License: X

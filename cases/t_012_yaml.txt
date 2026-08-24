@@ -1,0 +1,336 @@
+SECTION 204.1—RESIDENTIAL USE CHART | Zoning Districts:
+  Land Uses:
+    Duplex:
+      SF6: P
+      MSF6: P
+      SF14.5/SF10/SF8.5/SF 7: ''
+      MSF14.5/MSF10/MSF8.5/MSF7: ''
+      SF 20: ''
+      MSF20: ''
+      SF40: ''
+      MSF40: ''
+      GR *: P
+      GRn *: P
+      MHP: ''
+      RR *: P
+      RH: ''
+      LFA *: ''
+      FA *: ''
+      CFA *: ''
+      RE: ''
+      AG1: ''
+      AG2: ''
+      AG3: ''
+      AG4/AG6: ''
+      AG5/AG7: ''
+      NC *: ''
+      CC *: ''
+      CR * /TRS * /RCS *: P
+      HC *: ''
+      RE1: ''
+      RE2: ''
+      RE3: ''
+      OPI *: ''
+      EIO *: P
+      PR1/PR2: ''
+      RC *: P
+      DP: ''
+      Conditional Uses: ''
+      Special Exception Uses: ''
+    Manufactur- ed Homes:
+      SF6: ''
+      MSF6: P
+      SF14.5/SF10/SF8.5/SF 7: ''
+      MSF14.5/MSF10/MSF8.5/MSF7: P
+      SF 20: ''
+      MSF20: P
+      SF40: ''
+      MSF40: P
+      GR *: ''
+      GRn *: ''
+      MHP: P
+      RR *: ''
+      RH: ''
+      LFA *: P
+      FA *: P
+      CFA *: P
+      RE: ''
+      AG1: P
+      AG2: P
+      AG3: ''
+      AG4/AG6: ''
+      AG5/AG7: P
+      NC *: ''
+      CC *: ''
+      CR * /TRS * /RCS *: ''
+      HC *: ''
+      RE1: ''
+      RE2: ''
+      RE3: ''
+      OPI *: ''
+      EIO *: ''
+      PR1/PR2: ''
+      RC *: ''
+      DP: ''
+      Conditional Uses: ''
+      Special Exception Uses: ''
+    Multi-family:
+      SF6: ''
+      MSF6: ''
+      SF14.5/SF10/SF8.5/SF 7: ''
+      MSF14.5/MSF10/MSF8.5/MSF7: ''
+      SF 20: ''
+      MSF20: ''
+      SF40: ''
+      MSF40: ''
+      GR *: P
+      GRn *: P
+      MHP: ''
+      RR *: P
+      RH: P
+      LFA *: ''
+      FA *: ''
+      CFA *: ''
+      RE: ''
+      AG1: ''
+      AG2: ''
+      AG3: ''
+      AG4/AG6: ''
+      AG5/AG7: ''
+      NC *: ''
+      CC *: ''
+      CR * /TRS * /RCS *: P
+      HC *: ''
+      RE1: ''
+      RE2: P
+      RE3: ''
+      OPI *: ''
+      EIO *: P
+      PR1/PR2: ''
+      RC *: P
+      DP: ''
+      Conditional Uses: ''
+      Special Exception Uses: ''
+    Multiple single-family homes on one parcel:
+      SF6: ''
+      MSF6: ''
+      SF14.5/SF10/SF8.5/SF 7: ''
+      MSF14.5/MSF10/MSF8.5/MSF7: ''
+      SF 20: ''
+      MSF20: ''
+      SF40: ''
+      MSF40: ''
+      GR *: ''
+      GRn *: ''
+      MHP: ''
+      RR *: ''
+      RH: ''
+      LFA *: C
+      FA *: C
+      CFA *: C
+      RE: C
+      AG1: C
+      AG2: ''
+      AG3: ''
+      AG4/AG6: ''
+      AG5/AG7: ''
+      NC *: ''
+      CC *: ''
+      CR * /TRS * /RCS *: ''
+      HC *: ''
+      RE1: ''
+      RE2: ''
+      RE3: ''
+      OPI *: ''
+      EIO *: ''
+      PR1/PR2: ''
+      RC *: ''
+      DP: ''
+      Conditional Uses: '917'
+      Special Exception Uses: ''
+    Patio Home:
+      SF6: ''
+      MSF6: ''
+      SF14.5/SF10/SF8.5/SF 7: ''
+      MSF14.5/MSF10/MSF8.5/MSF7: ''
+      SF 20: ''
+      MSF20: ''
+      SF40: ''
+      MSF40: ''
+      GR *: C
+      GRn *: C
+      MHP: ''
+      RR *: ''
+      RH: ''
+      LFA *: ''
+      FA *: ''
+      CFA *: ''
+      RE: ''
+      AG1: ''
+      AG2: ''
+      AG3: ''
+      AG4/AG6: ''
+      AG5/AG7: ''
+      NC *: ''
+      CC *: ''
+      CR * /TRS * /RCS *: C
+      HC *: ''
+      RE1: ''
+      RE2: ''
+      RE3: ''
+      OPI *: ''
+      EIO *: C
+      PR1/PR2: ''
+      RC *: ''
+      DP: ''
+      Conditional Uses: '921'
+      Special Exception Uses: ''
+    Quadruplex:
+      SF6: ''
+      MSF6: ''
+      SF14.5/SF10/SF8.5/SF 7: ''
+      MSF14.5/MSF10/MSF8.5/MSF7: ''
+      SF 20: ''
+      MSF20: ''
+      SF40: ''
+      MSF40: ''
+      GR *: P
+      GRn *: P
+      MHP: ''
+      RR *: P
+      RH: P
+      LFA *: ''
+      FA *: ''
+      CFA *: ''
+      RE: ''
+      AG1: ''
+      AG2: ''
+      AG3: ''
+      AG4/AG6: ''
+      AG5/AG7: ''
+      NC *: ''
+      CC *: ''
+      CR * /TRS * /RCS *: P
+      HC *: ''
+      RE1: ''
+      RE2: P
+      RE3: ''
+      OPI *: ''
+      EIO *: P
+      PR1/PR2: ''
+      RC *: P
+      DP: ''
+      Conditional Uses: ''
+      Special Exception Uses: ''
+    Semi-detached:
+      SF6: P
+      MSF6: P
+      SF14.5/SF10/SF8.5/SF 7: ''
+      MSF14.5/MSF10/MSF8.5/MSF7: ''
+      SF 20: ''
+      MSF20: ''
+      SF40: ''
+      MSF40: ''
+      GR *: P
+      GRn *: P
+      MHP: ''
+      RR *: ''
+      RH: ''
+      LFA *: ''
+      FA *: ''
+      CFA *: ''
+      RE: ''
+      AG1: ''
+      AG2: ''
+      AG3: ''
+      AG4/AG6: ''
+      AG5/AG7: ''
+      NC *: ''
+      CC *: ''
+      CR * /TRS * /RCS *: ''
+      HC *: ''
+      RE1: ''
+      RE2: ''
+      RE3: ''
+      OPI *: ''
+      EIO *: ''
+      PR1/PR2: ''
+      RC *: ''
+      DP: ''
+      Conditional Uses: ''
+      Special Exception Uses: ''
+    Single Family:
+      SF6: P
+      MSF6: P
+      SF14.5/SF10/SF8.5/SF 7: P
+      MSF14.5/MSF10/MSF8.5/MSF7: P
+      SF 20: P
+      MSF20: P
+      SF40: P
+      MSF40: P
+      GR *: P
+      GRn *: P
+      MHP: C
+      RR *: P
+      RH: ''
+      LFA *: P
+      FA *: P
+      CFA *: P
+      RE: P
+      AG1: P
+      AG2: P
+      AG3: ''
+      AG4/AG6: P
+      AG5/AG7: P
+      NC *: P
+      CC *: P
+      CR * /TRS * /RCS *: P
+      HC *: P
+      RE1: P
+      RE2: ''
+      RE3: ''
+      OPI *: P
+      EIO *: P
+      PR1/PR2: ''
+      RC *: P
+      DP: P
+      Conditional Uses: '931'
+      Special Exception Uses: ''
+    Townhouse:
+      SF6: ''
+      MSF6: ''
+      SF14.5/SF10/SF8.5/SF 7: ''
+      MSF14.5/MSF10/MSF8.5/MSF7: ''
+      SF 20: ''
+      MSF20: ''
+      SF40: ''
+      MSF40: ''
+      GR *: P
+      GRn *: P
+      MHP: ''
+      RR *: P
+      RH: P
+      LFA *: ''
+      FA *: ''
+      CFA *: P
+      RE: ''
+      AG1: ''
+      AG2: ''
+      AG3: ''
+      AG4/AG6: ''
+      AG5/AG7: ''
+      NC *: ''
+      CC *: ''
+      CR * /TRS * /RCS *: P
+      HC *: ''
+      RE1: ''
+      RE2: P
+      RE3: ''
+      OPI *: ''
+      EIO *: P
+      PR1/PR2: ''
+      RC *: P
+      DP: ''
+      Conditional Uses: ''
+      Special Exception Uses: ''
+    '* = Retired Zoning District P = Permitted Use C = Conditional Use SE = Special Exception': {}

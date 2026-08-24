@@ -1,0 +1,171 @@
+<table class=" frame frameAll">
+	<colgroup>
+		<col style="width: 6%">
+			<col style="width: 47%">
+				<col style="width: 47%">
+				</colgroup>
+				<thead valign="bottom">
+					<tr class="">
+						<th align="center" charoff="50" class="entry borderBottom" colspan="3" scope="col" startcol="1" valign="top">
+							<div class="para" style="margin-left:0px;">
+								<b class="bold">Table 2</b>
+							</div>
+							<div class="para" style="margin-left:0px;">
+								<b class="bold">"R-R" Rural Residential District</b>
+							</div>
+							<div class="para" style="margin-left:0px;">
+								<b class="bold">Site and Building Development Regulations</b>
+							</div>
+						</th>
+					</tr>
+				</thead>
+				<tbody valign="top">
+					<tr class="">
+						<td align="left" charoff="50" class="entry borderBottom" colspan="3" startcol="1" valign="top">
+							<div class="para" style="margin-left:0px;">
+								<b class="bold">Site Planning</b>
+							</div>
+						</td>
+					</tr>
+					<tr class="">
+						<td align="left" charoff="50" class="entry borderRight borderBottom" colspan="2" startcol="1" valign="top">
+							<div class="para" style="margin-left:0px;">Minimum lot area</div>
+						</td>
+						<td align="left" charoff="50" class="entry borderBottom" startcol="3" valign="top">
+							<div class="para" style="margin-left:0px;">3 acres</div>
+						</td>
+					</tr>
+					<tr class="">
+						<td align="left" charoff="50" class="entry borderRight borderBottom" colspan="2" startcol="1" valign="top">
+							<div class="para" style="margin-left:0px;">Maximum lot configuration</div>
+						</td>
+						<td align="left" charoff="50" class="entry borderBottom" startcol="3" valign="top">
+							<div class="para" style="margin-left:0px;">3:1 ratio — lot depth to width (Note: 1)</div>
+						</td>
+					</tr>
+					<tr class="">
+						<td align="left" charoff="50" class="entry borderRight" colspan="2" startcol="1" valign="top">
+							<div class="para" style="margin-left:0px;">Minimum lot dimensions</div>
+						</td>
+						<td align="left" charoff="50" class="entry" startcol="3" valign="top">
+							<div class="para" style="margin-left:0px;"></div>
+						</td>
+					</tr>
+					<tr class="">
+						<td align="left" charoff="50" class="entry" startcol="1" valign="top">
+							<div class="para" style="margin-left:0px;"></div>
+						</td>
+						<td align="left" charoff="50" class="entry borderRight" startcol="2" valign="top">
+							<div class="para" style="margin-left:0px;">Width</div>
+						</td>
+						<td align="left" charoff="50" class="entry" startcol="3" valign="top">
+							<div class="para" style="margin-left:0px;">200 feet</div>
+						</td>
+					</tr>
+					<tr class="">
+						<td align="left" charoff="50" class="entry borderBottom" startcol="1" valign="top">
+							<div class="para" style="margin-left:0px;"></div>
+						</td>
+						<td align="left" charoff="50" class="entry borderRight borderBottom" startcol="2" valign="top">
+							<div class="para" style="margin-left:0px;">Depth</div>
+						</td>
+						<td align="left" charoff="50" class="entry borderBottom" startcol="3" valign="top">
+							<div class="para" style="margin-left:0px;">600 feet</div>
+						</td>
+					</tr>
+					<tr class="">
+						<td align="left" charoff="50" class="entry borderRight borderBottom" colspan="2" startcol="1" valign="top">
+							<div class="para" style="margin-left:0px;">Parking</div>
+						</td>
+						<td align="left" charoff="50" class="entry borderBottom" startcol="3" valign="top">
+							<div class="para" style="margin-left:0px;">4 parking spaces (Note: 2)</div>
+						</td>
+					</tr>
+					<tr class="">
+						<td align="left" charoff="50" class="entry borderBottom" colspan="3" startcol="1" valign="top">
+							<div class="para" style="margin-left:0px;">
+								<b class="bold">Building</b>
+							</div>
+						</td>
+					</tr>
+					<tr class="">
+						<td align="left" charoff="50" class="entry borderRight" colspan="2" startcol="1" valign="top">
+							<div class="para" style="margin-left:0px;">Dwelling unit size</div>
+						</td>
+						<td align="left" charoff="50" class="entry" startcol="3" valign="top">
+							<div class="para" style="margin-left:0px;"></div>
+						</td>
+					</tr>
+					<tr class="">
+						<td align="left" charoff="50" class="entry" startcol="1" valign="top">
+							<div class="para" style="margin-left:0px;"></div>
+						</td>
+						<td align="left" charoff="50" class="entry borderRight" startcol="2" valign="top">
+							<div class="para" style="margin-left:0px;">Single story units</div>
+						</td>
+						<td align="left" charoff="50" class="entry" startcol="3" valign="top">
+							<div class="para" style="margin-left:0px;">1,100 square feet</div>
+						</td>
+					</tr>
+					<tr class="">
+						<td align="left" charoff="50" class="entry borderBottom" startcol="1" valign="top">
+							<div class="para" style="margin-left:0px;"></div>
+						</td>
+						<td align="left" charoff="50" class="entry borderRight borderBottom" startcol="2" valign="top">
+							<div class="para" style="margin-left:0px;">1½ and 2 story units</div>
+						</td>
+						<td align="left" charoff="50" class="entry borderBottom" startcol="3" valign="top">
+							<div class="para" style="margin-left:0px;">1,300 square feet</div>
+						</td>
+					</tr>
+					<tr class="">
+						<td align="left" charoff="50" class="entry borderRight" colspan="2" startcol="1" valign="top">
+							<div class="para" style="margin-left:0px;">Minimum setbacks</div>
+						</td>
+						<td align="left" charoff="50" class="entry" startcol="3" valign="top">
+							<div class="para" style="margin-left:0px;"></div>
+						</td>
+					</tr>
+					<tr class="">
+						<td align="left" charoff="50" class="entry" startcol="1" valign="top">
+							<div class="para" style="margin-left:0px;"></div>
+						</td>
+						<td align="left" charoff="50" class="entry borderRight" startcol="2" valign="top">
+							<div class="para" style="margin-left:0px;">Front</div>
+						</td>
+						<td align="left" charoff="50" class="entry" startcol="3" valign="top">
+							<div class="para" style="margin-left:0px;">60 feet</div>
+						</td>
+					</tr>
+					<tr class="">
+						<td align="left" charoff="50" class="entry" startcol="1" valign="top">
+							<div class="para" style="margin-left:0px;"></div>
+						</td>
+						<td align="left" charoff="50" class="entry borderRight" startcol="2" valign="top">
+							<div class="para" style="margin-left:0px;">Interior side yard</div>
+						</td>
+						<td align="left" charoff="50" class="entry" startcol="3" valign="top">
+							<div class="para" style="margin-left:0px;">50 feet</div>
+						</td>
+					</tr>
+					<tr class="">
+						<td align="left" charoff="50" class="entry borderBottom" startcol="1" valign="top">
+							<div class="para" style="margin-left:0px;"></div>
+						</td>
+						<td align="left" charoff="50" class="entry borderRight borderBottom" startcol="2" valign="top">
+							<div class="para" style="margin-left:0px;">Rear yard</div>
+						</td>
+						<td align="left" charoff="50" class="entry borderBottom" startcol="3" valign="top">
+							<div class="para" style="margin-left:0px;">100 feet</div>
+						</td>
+					</tr>
+					<tr class="">
+						<td align="left" charoff="50" class="entry borderRight" colspan="2" startcol="1" valign="top">
+							<div class="para" style="margin-left:0px;">Maximum building height</div>
+						</td>
+						<td align="left" charoff="50" class="entry" startcol="3" valign="top">
+							<div class="para" style="margin-left:0px;">35 feet</div>
+						</td>
+					</tr>
+				</tbody>
+			</table>

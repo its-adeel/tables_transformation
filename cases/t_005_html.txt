@@ -1,0 +1,685 @@
+<li data-ng-repeat="chunk in vm.content.chunks">
+	<mcc-codes-content-chunk mindepth="2">
+		<div id="c_CH16LAUSDE_ARTIIIZO_DIV3REDI_S16-3-320SCUSREDI" class="chunk" data-nodetype="" data-nodedepth="4" ng-switch="::chunk.DocType">
+			<span id="contentAnchor_CH16LAUSDE_ARTIIIZO_DIV3REDI_S16-3-320SCUSREDI" class="anchor-offset"></span>
+			<!---->
+			<div ng-switch-when="1">
+				<div class="chunk-heading" tabindex="-1" ng-init="htmlChunkInit()">
+					<mcc-codes-title-wrapper mindepth="minDepth" nodedepth="::chunk.NodeDepth" chunkid="::chunk.Id" titlehtml="chunkVm.titleHtml" ng-class="{'ins': $root.mccStateParams.product.Features.CodeBankCompare &amp;&amp; $root.$stateParams.showChanges &amp;&amp; chunk.CompareStatus == 0}">
+						<!---->
+						<!---->
+						<!---->
+						<h4 ng-if="vm.relativeNodeDepth == 2" id="_CH16LAUSDE_ARTIIIZO_DIV3REDI_S16-3-320SCUSREDI" data-skip-id="_CH16LAUSDE_ARTIIIZO_DIV3REDI_S16-3-320SCUSREDI" tabindex="-1" class="chunk-title-wrapper" ng-bind-html="vm.titleHtml">
+							<div class="chunk-title">Sec. 16-3-320. - Schedule of uses for residential districts.</div>
+						</h4>
+						<!---->
+						<!---->
+						<!---->
+						<!---->
+					</mcc-codes-title-wrapper>
+					<!---->
+					<div ng-if="::$root.mccStateParams.product.Features.CodeBankCompare">
+						<!---->
+						<!---->
+					</div>
+					<!---->
+					<div class="mcc_codes_content_action_bar">
+						<div class="btn-group action-dropdown hidden-sm hidden-md hidden-lg hidden-xl">
+							<button type="button" class="btn btn-icon-toggle ink-reaction dropdown-toggle btn-primary" data-toggle="dropdown" aria-hidden="true" aria-popup="true" aria-label="Document actions menu">
+								<i class="fa fa-ellipsis-v"></i>
+							</button>
+							<ul class="dropdown-menu pull-right animation-expand">
+								<!---->
+								<li ng-if="::codesVm.docActions.sharelink.enabled">
+									<button type="button" class="codes-action-menu-btn button-unstyled btn-block" data-actionid="sharelink">
+										<i class="fa fa-link"></i> Share Link
+									</button>
+								</li>
+								<!---->
+								<!---->
+								<li ng-if="::codesVm.docActions.print.enabled">
+									<button type="button" class="codes-action-menu-btn button-unstyled btn-block" data-actionid="print">
+										<i class="fa fa-print"></i> Print
+									</button>
+								</li>
+								<!---->
+								<!---->
+								<li ng-if="::codesVm.docActions.downloaddocx.enabled">
+									<button type="button" class="codes-action-menu-btn button-unstyled btn-block" data-actionid="downloaddocx">
+										<i class="fa fa-file-word-o"></i> Download (docx)
+									</button>
+								</li>
+								<!---->
+								<!---->
+								<li ng-if="::codesVm.docActions.email.enabled">
+									<button type="button" class="codes-action-menu-btn button-unstyled btn-block" data-actionid="email">
+										<i class="fa fa-envelope-o"></i> Email
+									</button>
+								</li>
+								<!---->
+								<!---->
+								<li ng-if="::!hideCompareAction &amp;&amp; codesVm.docActions.compare.enabled">
+									<button type="button" class="codes-action-menu-btn button-unstyled btn-block" data-actionid="compare">
+										<i class="fa fa-copy"></i> Compare
+									</button>
+								</li>
+								<!---->
+								<!---->
+								<!---->
+							</ul>
+						</div>
+						<!--delegated listener in codesContent2-->
+						<div class="btn-group action-bar text-primary hidden-xs pull-right">
+							<!---->
+							<button type="button" class="btn btn-icon-toggle codes-action-menu-btn" data-actionid="sharelink" ng-if="::codesVm.docActions.sharelink.enabled" data-toggle="tooltip" data-trigger="hover" title="" data-original-title="Share link">
+								<i class="fa fa-link"></i>
+								<span class="sr-only">Share Link to section</span>
+							</button>
+							<!---->
+							<!---->
+							<button type="button" class="btn btn-icon-toggle codes-action-menu-btn" data-actionid="print" ng-if="::codesVm.docActions.print.enabled" data-toggle="tooltip" data-trigger="hover" title="" data-original-title="Print">
+								<i class="fa fa-print"></i>
+								<span class="sr-only">Print section</span>
+							</button>
+							<!---->
+							<!---->
+							<button type="button" class="btn btn-icon-toggle codes-action-menu-btn" data-actionid="downloaddocx" ng-if="::codesVm.docActions.downloaddocx.enabled" data-toggle="tooltip" data-trigger="hover" title="" data-original-title="Download (Docx)">
+								<i class="fa fa-file-word-o"></i>
+								<span class="sr-only">Download (Docx) of sections</span>
+							</button>
+							<!---->
+							<!---->
+							<button type="button" class="btn btn-icon-toggle codes-action-menu-btn" data-actionid="email" ng-if="::codesVm.docActions.email.enabled" data-toggle="tooltip" data-trigger="hover" title="" data-original-title="Email">
+								<i class="fa fa-envelope-o"></i>
+								<span class="sr-only">Email section</span>
+							</button>
+							<!---->
+							<!---->
+							<button type="button" class="btn btn-icon-toggle codes-action-menu-btn" data-actionid="compare" ng-if="::!hideCompareAction &amp;&amp; codesVm.docActions.compare.enabled" data-toggle="tooltip" data-trigger="hover" title="" data-original-title="Compare versions">
+								<i class="fa fa-copy"></i>
+								<span class="sr-only">Compare versions</span>
+							</button>
+							<!---->
+							<!---->
+							<!---->
+						</div>
+					</div>
+				</div>
+				<!---->
+				<!---->
+				<!---->
+				<div class="chunk-content-wrapper" ng-class="{'ins': $root.mccStateParams.product.Features.CodeBankCompare &amp;&amp; $root.$stateParams.showChanges &amp;&amp; chunk.CompareStatus == 0}">
+					<div class="chunk-content">
+						<p class="p0">
+               The following is the schedule of uses for the LDR, MDR and MDR-X Zone Districts:
+               
+               </p>
+						<div>
+							<div class="mcc-expandable-table-wrapper">
+								<div class="table-toolbar">
+									<button type="button" aria-label="Expand Table" title="Expand Table" class="btn btn-primary ink-reaction btn-raised btn-expand">
+										<i class="fa fa-expand"> Expand </i>
+									</button>
+								</div>
+								<div class="tableWrapper scrollable" style="width:100%">
+									<table class="thead1 table left makeExpandableTable makeFixedTable" cellpadding="3" cellspacing="0" border="1" rules="all">
+										<colgroup class="std">
+											<col width="69.23076923076923%">
+												<col width="10.256410256410257%">
+													<col width="10.256410256410257%">
+														<col width="10.256410256410257%">
+														</colgroup>
+														<thead>
+															<tr>
+																<th style="background-color: LightGray; " class="hasbg top ">
+																	<span class="bdit">USE</span>
+																</th>
+																<th style="background-color: LightGray; " class="hasbg top ">
+																	<span class="bdit">LDR</span>
+																</th>
+																<th style="background-color: LightGray; " class="hasbg top ">
+																	<span class="bdit">MDR</span>
+																</th>
+																<th style="background-color: LightGray; " class="hasbg top ">
+																	<span class="bdit">MDR-X</span>
+																</th>
+															</tr>
+														</thead>
+														<tbody>
+															<tr>
+																<td class=" top ">
+                                 Accessory dwelling unit (attached or detached) [Reference Section 16-3-60(2)]
+                                 </td>
+																<td class=" top ">
+                                 P
+                                 </td>
+																<td class=" top ">
+                                 P
+                                 </td>
+																<td class=" top ">
+                                 P
+                                 </td>
+															</tr>
+															<tr>
+																<td class=" top ">
+                                 Adult entertainment establishments
+                                 </td>
+																<td class=" top ">
+                                 *
+                                 </td>
+																<td class=" top ">
+                                 *
+                                 </td>
+																<td class=" top ">
+                                 *
+                                 </td>
+															</tr>
+															<tr>
+																<td class=" top ">
+                                 Churches
+                                 </td>
+																<td class=" top ">
+                                 C
+                                 </td>
+																<td class=" top ">
+                                 C
+                                 </td>
+																<td class=" top ">
+                                 C
+                                 </td>
+															</tr>
+															<tr>
+																<td class=" top ">
+                                 Family child care home (up to 12 children)
+                                 </td>
+																<td class=" top ">
+                                 P
+                                 </td>
+																<td class=" top ">
+                                 P
+                                 </td>
+																<td class=" top ">
+                                 P
+                                 </td>
+															</tr>
+															<tr>
+																<td class=" top ">
+                                 Duplex
+                                 </td>
+																<td class=" top ">
+                                 *
+                                 </td>
+																<td class=" top ">
+                                 P
+                                 </td>
+																<td class=" top ">
+                                 P
+                                 </td>
+															</tr>
+															<tr>
+																<td class=" top ">
+                                 Golf course (with or without clubhouse)
+                                 </td>
+																<td class=" top ">
+                                 C
+                                 </td>
+																<td class=" top ">
+                                 C
+                                 </td>
+																<td class=" top ">
+                                 C
+                                 </td>
+															</tr>
+															<tr>
+																<td class=" top ">
+                                 Group care facilities not exceeding 8 occupants, including, but not limited to, residential
+                                 care facilities, children's homes, halfway houses, rehabilitative centers, group foster
+                                 care and senior citizen's group homes
+                                 </td>
+																<td class=" top ">
+                                 C
+                                 </td>
+																<td class=" top ">
+                                 C
+                                 </td>
+																<td class=" top ">
+                                 C
+                                 </td>
+															</tr>
+															<tr>
+																<td class=" top ">
+                                 Group child care center (up to 12 children)
+                                 </td>
+																<td class=" top ">
+                                 P
+                                 </td>
+																<td class=" top ">
+                                 P
+                                 </td>
+																<td class=" top ">
+                                 P
+                                 </td>
+															</tr>
+															<tr>
+																<td class=" top ">
+                                 Group child care center (13 or more children)
+                                 </td>
+																<td class=" top ">
+                                 C
+                                 </td>
+																<td class=" top ">
+                                 C
+                                 </td>
+																<td class=" top ">
+                                 C
+                                 </td>
+															</tr>
+															<tr>
+																<td class=" top ">
+                                 Hospitals or clinics
+                                 </td>
+																<td class=" top ">
+                                 *
+                                 </td>
+																<td class=" top ">
+                                 C
+                                 </td>
+																<td class=" top ">
+                                 C
+                                 </td>
+															</tr>
+															<tr>
+																<td class=" top ">
+                                 Internet sweepstakes cafe
+                                 </td>
+																<td class=" top ">
+                                 *
+                                 </td>
+																<td class=" top ">
+                                 *
+                                 </td>
+																<td class=" top ">
+                                 *
+                                 </td>
+															</tr>
+															<tr>
+																<td class=" top ">
+                                 Manufactured homes
+                                 </td>
+																<td class=" top ">
+                                 C
+                                 </td>
+																<td class=" top ">
+                                 C
+                                 </td>
+																<td class=" top ">
+                                 P
+                                 </td>
+															</tr>
+															<tr>
+																<td class=" top ">
+                                 Manufactured homes with a finished dimension less than twenty-four (24) feet in width
+                                 and thirty-six (36) feet in length
+                                 </td>
+																<td class=" top ">
+                                 C
+                                 </td>
+																<td class=" top ">
+                                 C
+                                 </td>
+																<td class=" top ">
+                                 C
+                                 </td>
+															</tr>
+															<tr>
+																<td class=" top ">
+                                 Medical or dental offices
+                                 </td>
+																<td class=" top ">
+                                 *
+                                 </td>
+																<td class=" top ">
+                                 C
+                                 </td>
+																<td class=" top ">
+                                 C
+                                 </td>
+															</tr>
+															<tr>
+																<td class=" top ">
+                                 Mobile home parks and subdivisions
+                                 </td>
+																<td class=" top ">
+                                 *
+                                 </td>
+																<td class=" top ">
+                                 C
+                                 </td>
+																<td class=" top ">
+                                 C
+                                 </td>
+															</tr>
+															<tr>
+																<td class=" top ">
+                                 Multi-unit dwellings
+                                 </td>
+																<td class=" top ">
+                                 *
+                                 </td>
+																<td class=" top ">
+                                 P
+                                 </td>
+																<td class=" top ">
+                                 P
+                                 </td>
+															</tr>
+															<tr>
+																<td class=" top ">
+                                 Office, retail sales and restaurants, provided that the residential character of the
+                                 structure is maintained
+                                 </td>
+																<td class=" top ">
+                                 *
+                                 </td>
+																<td class=" top ">
+                                 *
+                                 </td>
+																<td class=" top ">
+                                 C
+                                 </td>
+															</tr>
+															<tr>
+																<td class=" top ">
+                                 Oil and natural gas exploration, development, production, pumping, compression facilities
+                                 or pipelines
+                                 </td>
+																<td class=" top ">
+                                 *
+                                 </td>
+																<td class=" top ">
+                                 *
+                                 </td>
+																<td class=" top ">
+                                 *
+                                 </td>
+															</tr>
+															<tr>
+																<td class=" top ">
+                                 Parking lots
+                                 </td>
+																<td class=" top ">
+                                 *
+                                 </td>
+																<td class=" top ">
+                                 *
+                                 </td>
+																<td class=" top ">
+                                 C
+                                 </td>
+															</tr>
+															<tr>
+																<td class=" top ">
+                                 Parks and playgrounds
+                                 </td>
+																<td class=" top ">
+                                 P
+                                 </td>
+																<td class=" top ">
+                                 P
+                                 </td>
+																<td class=" top ">
+                                 P
+                                 </td>
+															</tr>
+															<tr>
+																<td class=" top ">
+                                 Personal service outlets, including but not limited to barber and beauty shops, self-service
+                                 laundries, photographic studios, etc.
+                                 </td>
+																<td class=" top ">
+                                 *
+                                 </td>
+																<td class=" top ">
+                                 C
+                                 </td>
+																<td class=" top ">
+                                 C
+                                 </td>
+															</tr>
+															<tr>
+																<td class=" top ">
+                                 Private membership clubs
+                                 </td>
+																<td class=" top ">
+                                 *
+                                 </td>
+																<td class=" top ">
+                                 C
+                                 </td>
+																<td class=" top ">
+                                 C
+                                 </td>
+															</tr>
+															<tr>
+																<td class=" top ">
+                                 Professional or business offices and neighborhood retail business if planned and approved
+                                 as part of a PUD
+                                 </td>
+																<td class=" top ">
+                                 *
+                                 </td>
+																<td class=" top ">
+                                 C
+                                 </td>
+																<td class=" top ">
+                                 C
+                                 </td>
+															</tr>
+															<tr>
+																<td class=" top ">
+                                 Public or private schools
+                                 </td>
+																<td class=" top ">
+                                 C
+                                 </td>
+																<td class=" top ">
+                                 C
+                                 </td>
+																<td class=" top ">
+                                 C
+                                 </td>
+															</tr>
+															<tr>
+																<td class=" top ">
+                                 Public services and utilities; provided that business offices, repair, storage and
+                                 production facilities are not included
+                                 </td>
+																<td class=" top ">
+                                 C
+                                 </td>
+																<td class=" top ">
+                                 C
+                                 </td>
+																<td class=" top ">
+                                 C
+                                 </td>
+															</tr>
+															<tr>
+																<td class=" top ">
+                                 Rooming houses and "bed and breakfast" accommodations
+                                 </td>
+																<td class=" top ">
+                                 C
+                                 </td>
+																<td class=" top ">
+                                 C
+                                 </td>
+																<td class=" top ">
+                                 C
+                                 </td>
+															</tr>
+															<tr>
+																<td class=" top ">
+                                 Single-unit dwellings
+                                 </td>
+																<td class=" top ">
+                                 P
+                                 </td>
+																<td class=" top ">
+                                 P
+                                 </td>
+																<td class=" top ">
+                                 P
+                                 </td>
+															</tr>
+															<tr>
+																<td class=" top ">
+                                 Townhome
+                                 </td>
+																<td class=" top ">
+                                 *
+                                 </td>
+																<td class=" top ">
+                                 P
+                                 </td>
+																<td class=" top ">
+                                 P
+                                 </td>
+															</tr>
+															<tr>
+																<td colspan="4" class=" top ">
+                                 Wireless communications facilities (subject to use-specific standards and application
+                                 procedures in Sections 16-19-010—16-19-080)
+                                 </td>
+															</tr>
+															<tr>
+																<td class=" top ">
+                                  Alternative tower structure in right-of-way
+                                 </td>
+																<td class=" top ">
+                                 P
+                                 </td>
+																<td class=" top ">
+                                 P
+                                 </td>
+																<td class=" top ">
+                                 P
+                                 </td>
+															</tr>
+															<tr>
+																<td class=" top ">
+                                  Alternative tower structure not in right-of-way
+                                 </td>
+																<td class=" top ">
+                                 C
+                                 </td>
+																<td class=" top ">
+                                 C
+                                 </td>
+																<td class=" top ">
+                                 C
+                                 </td>
+															</tr>
+															<tr>
+																<td class=" top ">
+                                  Base station in right-of-way
+                                 </td>
+																<td class=" top ">
+                                 P
+                                 </td>
+																<td class=" top ">
+                                 P
+                                 </td>
+																<td class=" top ">
+                                 P
+                                 </td>
+															</tr>
+															<tr>
+																<td class=" top ">
+                                  Base station not in right-of-way
+                                 </td>
+																<td class=" top ">
+                                 C
+                                 </td>
+																<td class=" top ">
+                                 C
+                                 </td>
+																<td class=" top ">
+                                 C
+                                 </td>
+															</tr>
+															<tr>
+																<td class=" top ">
+                                  Eligible facilities request
+                                 </td>
+																<td class=" top ">
+                                 P
+                                 </td>
+																<td class=" top ">
+                                 P
+                                 </td>
+																<td class=" top ">
+                                 P
+                                 </td>
+															</tr>
+															<tr>
+																<td class=" top ">
+                                  Small cell facility
+                                 </td>
+																<td class=" top ">
+                                 P
+                                 </td>
+																<td class=" top ">
+                                 P
+                                 </td>
+																<td class=" top ">
+                                 P
+                                 </td>
+															</tr>
+															<tr>
+																<td class=" top ">
+                                  Tower
+                                 </td>
+																<td class=" top ">
+                                 *
+                                 </td>
+																<td class=" top ">
+                                 *
+                                 </td>
+																<td class=" top ">
+                                 *
+                                 </td>
+															</tr>
+														</tbody>
+													</table>
+												</div>
+											</div>
+											<p>&nbsp;</p>
+										</div>
+										<p class="b1" style="font-size:11px;">
+                  P = Permitted use
+                  
+											<br>
+                  C = Conditional use
+                  
+												<br>
+                  * = Prohibited use
+                  
+												</p>
+												<p class="historynote0">
+               (Prior code 17.03.220; Ord. 4 §1, 2005; Ord. 18 §3, 2005; Ord. 11 §6, 2011; 
+													<a class="ordinance-link" href="https://library.municode.com/co/rifle/ordinances/charter_and_municipal_code?nodeId=1017153" data-product-id="18084" data-ordinance-id="1017153">Ord. 1</a> §3, 2020; 
+													<a class="ordinance-link" href="https://library.municode.com/co/rifle/ordinances/charter_and_municipal_code?nodeId=1048794" data-product-id="18084" data-ordinance-id="1048794">Ord. 10</a>, §2, 2020; 
+													<a class="ordinance-link" href="https://library.municode.com/co/rifle/ordinances/charter_and_municipal_code?nodeId=1120573" data-product-id="18084" data-ordinance-id="1120573">Ord. 12</a>, §4, 2021; 
+													<a class="ordinance-link" href="https://library.municode.com/co/rifle/ordinances/charter_and_municipal_code?nodeId=1169574" data-product-id="18084" data-ordinance-id="1169574">Ord. 13</a>, §3(Exh. B), 2022; Ord. 
+													<a class="ordinance-link" href="https://library.municode.com/co/rifle/ordinances/charter_and_municipal_code?nodeId=1191948" data-product-id="18084" data-ordinance-id="1191948">22</a> §2, 2022)
+               
+												</p>
+											</div>
+										</div>
+									</div>
+									<!---->
+									<!---->
+								</div>
+							</mcc-codes-content-chunk>
+						</li>

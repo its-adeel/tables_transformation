@@ -1,0 +1,45 @@
+ADU Permit Required:
+  Attached ADU: 'Yes'
+  Converted ADU: 'Yes'
+  Detached ADU: 'Yes'
+  JADU: 'Yes'
+Processing time:
+  Attached ADU: 60 days if there is an existing primary dwelling; concurrent review if no existing primary dwelling
+  Converted ADU: 60 days if there is an existing primary dwelling; concurrent review if no existing primary dwelling
+  Detached ADU: 60 days if there is an existing primary dwelling; concurrent review if no existing primary dwelling
+  JADU: 60 days if there is an existing primary dwelling; concurrent review if no existing primary dwelling
+Size:
+  Attached ADU: Lesser of 50% of floor area of primary dwelling unit or 850 square feet for 1 bedroom or 1,000 square feet for 2 bedroom
+  Converted ADU: 850 square feet for 1 bedroom or 1,000 square feet for 2 bedroom
+  Detached ADU: 850 square feet for 1 bedroom or 1,000 square feet for 2 bedroom
+  JADU: 500 square feet
+Quantity (SFR):
+  Attached ADU: '1'
+  Converted ADU: '1'
+  Detached ADU: '1'
+  JADU: '1'
+Quantity (MFR):
+  Attached ADU: At least 1 per lot up to 25% of existing units
+  Converted ADU: At least 1 per lot up to 25% of existing units
+  Detached ADU: 8 max
+  JADU: N/A
+Rear and Side Setback (Min.):
+  Attached ADU: 4 feet (unless existing is less than 4 feet)
+  Converted ADU: 4 feet (unless existing is less than 4 feet)
+  Detached ADU: 4 feet
+  JADU: N/A
+Height (Max.):
+  Attached ADU: Lesser of height allowed per zone or 25 ft.
+  Converted ADU: Lesser of height allowed per zone or 25 ft.
+  Detached ADU: 16 ft (SFR), 18 ft (MFR), with exceptions
+  JADU: Height allowed per zone
+Parking:
+  Attached ADU: None
+  Converted ADU: None
+  Detached ADU: 1 space/unit, with exceptions
+  JADU: None
+Impact fees:
+  Attached ADU: Required if >750 square feet
+  Converted ADU: Required if >750 square feet
+  Detached ADU: Required if >750 square feet
+  JADU: N/A

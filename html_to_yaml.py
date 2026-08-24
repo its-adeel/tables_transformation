@@ -1,5 +1,5 @@
 """
-table_to_yaml_converter.py
+html_to_yaml.py
 
 Converts your existing table data (raw HTML) into real nested YAML.
 Colspan/rowspan is properly expanded into a full grid first, so merged
@@ -15,7 +15,7 @@ Usage:
     cases/<id>_html.txt
 
     pip install pyyaml beautifulsoup4
-    python table_to_yaml_converter.py
+    python html_to_yaml.py
 
     Reads raw HTML (real colspan/rowspan structure). Output written to
     cases/<id>_yaml.txt.
@@ -72,6 +72,36 @@ def _cell_is_bold(cell) -> bool:
     return any("bold" in c for c in classes)
 
 
+def _cell_is_header_styled(cell) -> bool:
+    """
+    Does this cell carry an explicit "this is a header" style marker,
+    even though it's a plain <td> rather than a real <th>?
+
+    Some scraped sources (e.g. codehub-style tables) never emit <th> or
+    <thead> at all — every cell, header or data, is a <td> — and instead
+    mark header cells purely through an inner div's class, such as
+    class="Table-Header-small-center" versus class="Table-Text-small"
+    for ordinary data cells. Without checking for that marker, the
+    header-row fallback in expand_html_grid has no signal at all for
+    these tables and reports header_row_count=0, so multi-row colspan/
+    rowspan header grids (zone codes, section labels, etc.) get treated
+    as ordinary data rows and corrupt every row nested under them.
+
+    Only a "Header" marker (case-insensitively) counts here — "bold" is
+    intentionally excluded, since that's already handled by
+    _cell_is_bold and means something different (category/divider rows
+    within the DATA, not column headers).
+    """
+    classes = cell.get("class") or []
+    if any("header" in c.lower() for c in classes):
+        return True
+    for descendant in cell.find_all(True):
+        classes = descendant.get("class") or []
+        if any("header" in c.lower() for c in classes):
+            return True
+    return False
+
+
 def _cell_text(cell) -> str:
     r"""
     Given one HTML cell (a <td> or <th>), pull out just its visible text
@@ -124,9 +154,37 @@ def _find_all_content_tables(soup):
 
     real_tables = [
         t for t in candidates
-        if t.get("aria-hidden") != "true" and t.find("tbody") and t.find("tbody").find("tr")
+        if t.get("aria-hidden") != "true"
+        and t.find("tbody")
+        and t.find("tbody").find("tr")
+        and not _is_sticky_header_decoy(t)
     ]
     return real_tables or candidates
+
+
+def _is_sticky_header_decoy(table) -> bool:
+    """
+    Is this table a "sticky header" decoy rather than real content?
+
+    Some scrollable-table widgets (class "xsl-table--scroll") render the
+    real table TWICE: once wrapped in a container tagged
+    "xsl-table--header" that holds nothing but a copy of the header rows
+    (kept fixed on screen while the body scrolls), and once wrapped in
+    "xsl-table--body" holding the real header AND all the data. Both
+    copies pass the aria-hidden/tbody-with-rows filter above — the
+    header-only copy has real <tr> tags too, just no data underneath
+    them — so without this check it gets treated as a second genuine
+    table, producing a spurious "Table N" entry that's just the column
+    headers with no data, and shifting the numbering of every table
+    after it.
+    """
+    for ancestor in table.parents:
+        if not hasattr(ancestor, "get"):
+            continue
+        classes = ancestor.get("class") or []
+        if "xsl-table--header" in classes:
+            return True
+    return False
 
 
 def expand_html_grid(table):
@@ -187,7 +245,9 @@ def expand_html_grid(table):
         header_row_count = 0
         for tr in rows_html:
             cells = tr.find_all(["td", "th"])
-            if cells and all(c.name == "th" for c in cells):
+            if cells and all(
+                c.name == "th" or _cell_is_header_styled(c) for c in cells
+            ):
                 header_row_count += 1
             else:
                 break
@@ -419,7 +479,13 @@ def _get_or_create_child(parent: dict, key: str) -> dict:
     preserved under a "(General)" sub-key rather than being thrown away —
     this happens when a label first appears with a value of its own and
     later acts as a parent for sub-items. Silently replacing it with {}
-    would delete real data with no warning.
+    would delete real data with no warning. "(General)" is a deliberate
+    choice over a plain list-of-mixed-content: the label itself tells
+    both the embedding model (at retrieval time) and the answering model
+    (at generation time) that this specific text is a provision for the
+    WHOLE section, not for any one sub-item — a distinction that would
+    otherwise only exist by position in a flat list, which is harder for
+    a model to reliably infer from content alone.
 
     Example:
         result = {}
@@ -450,22 +516,16 @@ def _insert_path(container: dict, path_parts: list, value: str):
     dict at each step (using _get_or_create_child), then uses the very
     last label as the final key that actually holds the value.
 
-    If the final key is already taken by a DIFFERENT value, the new value
-    is stored under a numbered variant instead of overwriting — two rows
-    legitimately sharing a label (or a label reused further down the
-    table) must not cause the first one's value to vanish.
-
-    A common real case for this: a "catch-all" row (e.g. "When not
-    listed above, the parking requirement for primary uses listed in
-    this tier shall apply.") that applies to a whole section rather than
-    one specific sub-item. Because of how rowspan carries a section's
-    name down into its rows, such a row's label ends up being just the
-    section name itself — the SAME key already holding that section's
-    other real sub-entries as a dict. Rather than overwrite that whole
-    dict with a bare string (destroying every sub-entry it holds), the
-    value is filed under "(General)" inside it instead, since it's a
-    general provision for the section as a whole rather than any one
-    specific item within it.
+    A common real case for a collision at the final key: a "catch-all"
+    row (e.g. "When not listed above, the parking requirement for
+    primary uses listed in this tier shall apply.") that applies to a
+    whole section rather than one specific sub-item. Because of how
+    rowspan carries a section's name down into its rows, such a row's
+    label ends up being just the section name itself — the SAME key
+    already holding that section's other real sub-entries as a dict.
+    Rather than overwrite that whole dict with a bare string (destroying
+    every sub-entry it holds), the value is filed under "(General)"
+    inside it instead.
 
     A section can genuinely have MORE THAN ONE such general provision
     (e.g. an opening rate description before its specific sub-items, AND
@@ -473,9 +533,8 @@ def _insert_path(container: dict, path_parts: list, value: str):
     section, neither is more specific than the other). Rather than
     inventing numbered key names ("(General)", "(General) (2)", ...) for
     this, they're collected into a YAML LIST under the one "(General)"
-    key — that's a more natural fit than synthetic key names, since the
-    list itself already says "these all belong here" without needing
-    invented labels to tell them apart.
+    key — the list itself already says "these all belong here" without
+    needing invented labels to tell them apart.
     """
     node = container
     for part in path_parts[:-1]:
@@ -567,52 +626,144 @@ def build_matrix_yaml(data_rows: list, header_paths: dict, total_cols: int) -> d
     if not groups:
         return {}
 
-    # Some tables have TWO adjacent label columns with DIFFERENT header
-    # names (e.g. "Use Category" and "Use Type"), where the category
-    # repeats via rowspan across several rows (a grouping column) and the
-    # type is unique per row (the actual distinguishing name). Since
-    # their headers differ, the grouping above (same-header-path only)
-    # doesn't merge them — which would wrongly leave the real per-row
-    # name ("Dwelling, Single-Family Detached") as a value field instead
-    # of the row's identity, and multiple rows sharing one category would
-    # all collide on the same row key.
+    # Some tables have MULTIPLE consecutive grouping columns before the
+    # real per-row distinguishing name — e.g. a "Zoning District" code,
+    # then a "Uses" category that ALSO repeats via rowspan across the
+    # same rows, THEN the specific use name that changes every row (a
+    # 3-level compound: "SF6" > "Single Family" > "Single Family
+    # Detached", "Semi-Detached", "Duplex", ...). This can also combine
+    # with the identical-header-text merge above: if the table's header
+    # row itself uses colspan across the first two columns (e.g. one
+    # <th colspan="2">Zoning District</th> covering what are semantically
+    # a zone code AND a use category), those two columns are ALREADY one
+    # group before this check even runs.
     #
-    # Detect this by checking whether the leading group is a SINGLE
-    # column whose cells mostly span multiple rows via rowspan (a real
-    # "grouping" column) — if so, absorb the next group into the label
-    # too, regardless of its header name.
-    if len(groups) >= 2 and len(groups[0][1]) == 1:
-        label_col = groups[0][1][0]
-        span_row_counts = {}
-        for row in data_rows:
-            cols_present = sorted(row.keys())
-            # Skip full-width divider rows (one value duplicated via
-            # colspan across every column, e.g. "Residential Uses") —
-            # they'd otherwise count as a "single-row span" for this
-            # column and dilute the real grouping signal.
-            if cols_present == list(range(total_cols)):
-                all_texts = {row[c][0].strip() for c in cols_present}
-                if len(all_texts) == 1 and next(iter(all_texts)):
-                    continue
-            cell = row.get(label_col)
-            if cell is None:
-                continue
-            span_id = cell[2] if len(cell) > 2 else None
-            if span_id is not None:
-                span_row_counts[span_id] = span_row_counts.get(span_id, 0) + 1
-        multi_row_spans = sum(1 for c in span_row_counts.values() if c > 1)
-        # Even ONE genuine multi-row grouping is strong evidence this
-        # column is being used as a category/grouping column — nobody
-        # applies rowspan by accident. Requiring a majority would be too
-        # strict: a table can have several categories that legitimately
-        # contain just a single item each, without that meaning the
-        # column isn't fundamentally a grouping column.
-        if multi_row_spans > 0:
-            second_path, second_cols = groups[1]
-            groups = [(groups[0][0], groups[0][1] + second_cols)] + groups[2:]
+    # This has to be decided PER BLOCK of rows (identified by which
+    # physical cell anchors their label — their span_id at the first
+    # label column), not once for the whole table. A column can
+    # coincidentally share a rowspan with the label anchor in ONE
+    # section purely because two rows happen to need the same value
+    # (e.g. two rows under "OPI" both needing "10,000 SF" for Minimum
+    # Required Area, saving a repeated cell) without that column being
+    # part of the row's IDENTITY there — while genuinely being a real
+    # grouping column in a DIFFERENT section. A single table-wide
+    # decision can't represent both at once; checking each block's own
+    # rows can.
+    #
+    # There's a second wrinkle: a block can contain an annotation/
+    # footnote row that inherits a candidate column's value purely via
+    # rowspan carryover (e.g. a footnote sitting between two real items,
+    # inheriting "Commercial Uses" from the row above it without being a
+    # second, independently distinguishable item). Counting that
+    # footnote as "another row sharing this value" would wrongly signal
+    # that the column needs even MORE specificity. To tell a genuine
+    # repeat apart from a footnote's inherited copy, every cell's
+    # "first-seen" row is tracked — only the row that ORIGINATES a given
+    # physical cell counts as real evidence at each step; a row that's
+    # purely carrying over an earlier row's cell there doesn't.
+    first_seen_row = {}
+    for i, row in enumerate(data_rows):
+        for c, cell in row.items():
+            sid = cell[2] if len(cell) > 2 else None
+            if sid is not None and sid not in first_seen_row:
+                first_seen_row[sid] = i
 
-    label_group_cols = groups[0][1]   # the leftmost group = row labels
-    value_groups = groups[1:]          # everything else = real data fields
+    base_label_cols = groups[0][1]
+    anchor_col = base_label_cols[0]
+
+    block_rows = {}  # anchor span_id -> list of (row, row_index)
+    for i, row in enumerate(data_rows):
+        cols_present = sorted(row.keys())
+        if cols_present == list(range(total_cols)):
+            all_texts = {row[c][0].strip() for c in cols_present}
+            if len(all_texts) == 1 and next(iter(all_texts)):
+                continue  # full-width divider — not part of any block
+        cell = row.get(anchor_col)
+        if cell is None:
+            continue
+        span_id = cell[2] if len(cell) > 2 else None
+        block_rows.setdefault(span_id, []).append((row, i))
+
+    all_rows_with_idx = [(row, i) for i, row in enumerate(data_rows)]
+
+    depth_by_anchor = {}
+    for span_id, rows_with_idx in block_rows.items():
+        depth = 0
+        current_label_cols = list(base_label_cols)
+        remaining = list(groups[1:])
+        # A block with only ONE row can never show repetition against
+        # itself — there's nothing else in the block to compare it to.
+        # A genuinely single-item category (e.g. "Wholesale Business",
+        # with no rowspan at all since there's nothing to span) still
+        # needs to match the SAME compound-label depth as every other
+        # category at that column position, established by the table's
+        # other, multi-item categories — otherwise it would be the only
+        # entry inconsistently missing that level. Falling back to
+        # evidence from the WHOLE table (rather than this one bare row)
+        # captures that pattern.
+        active_rows = rows_with_idx if len(rows_with_idx) > 1 else all_rows_with_idx
+        while remaining:
+            last_col = current_label_cols[-1]
+            span_counts = {}
+            for row, idx in active_rows:
+                cell = row.get(last_col)
+                if cell is None:
+                    continue
+                sid = cell[2] if len(cell) > 2 else None
+                if sid is not None:
+                    span_counts[sid] = span_counts.get(sid, 0) + 1
+            multi_row_spans = sum(1 for c in span_counts.values() if c > 1)
+            # Even ONE genuine multi-row grouping within this block is
+            # strong evidence the current label isn't specific enough —
+            # nobody applies rowspan by accident. BUT this signal alone
+            # can't tell apart two cases that look IDENTICAL from inside
+            # one block: a footnote/continuation row genuinely inheriting
+            # an identity column (e.g. a zoning code's second row is just
+            # a footnote, inheriting "Commercial Uses" from the row
+            # above it — "Uses" stays part of the label) versus a plain
+            # VALUE column that happens to get carried by rowspan across
+            # the whole block only because a LATER column needed several
+            # stacked rows (e.g. three height limits for Rural/Suburban/
+            # Urban, dragging the uniform "Front Setback" along for the
+            # ride). Both show the exact same "one span, whole block"
+            # signature, yet need opposite answers.
+            #
+            # The two ARE told apart by the candidate column's own header:
+            # a genuine identity/category column (like "Uses", "Use
+            # Type") is conventionally a FLAT, standalone header with no
+            # parent grouping. A genuine measurement/value column instead
+            # sits NESTED under a shared umbrella header alongside sibling
+            # value columns (e.g. "Front"/"Side"/"Rear"/"Corner" all under
+            # "Setback from Property Line", or "C-N"/"C-R"/... all under
+            # "Commercial Zones") — build_header_paths joins that nesting
+            # with " > ". A nested header path is reliable evidence this
+            # is one of a peer group of VALUE fields, not a row's
+            # identity — nobody nests a category label under an umbrella
+            # header shared with unrelated numeric measurements.
+            candidate_col = remaining[0][1][0]
+            candidate_header_is_nested = " > " in header_paths.get(candidate_col, "")
+            if multi_row_spans > 0 and not candidate_header_is_nested:
+                _, absorbed_cols = remaining.pop(0)
+                current_label_cols = current_label_cols + absorbed_cols
+                depth += 1
+                # From here on, only rows that genuinely ORIGINATE their
+                # own content at the column just absorbed count as real
+                # block members for any FURTHER check — a row purely
+                # inheriting that value via rowspan carryover (like a
+                # footnote continuing the row above it) isn't an
+                # independently distinguishable item, so it shouldn't
+                # count as evidence that we need to go even deeper.
+                new_col = absorbed_cols[0]
+                active_rows = [
+                    (row, idx) for row, idx in active_rows
+                    if row.get(new_col) is not None
+                    and len(row[new_col]) > 2
+                    and row[new_col][2] is not None
+                    and first_seen_row.get(row[new_col][2]) == idx
+                ]
+            else:
+                break
+        depth_by_anchor[span_id] = depth
 
     result = {}
     # section_node always points at "whichever dictionary new rows should
@@ -630,6 +781,24 @@ def build_matrix_yaml(data_rows: list, header_paths: dict, total_cols: int) -> d
             if len(all_texts) == 1 and next(iter(all_texts)):
                 section_node = _get_or_create_child(result, next(iter(all_texts)))
                 continue   # don't add this row itself, just move on
+
+        # --- Determine THIS row's own label/value split ---
+        # Different blocks in the same table can need a different
+        # compound-label depth (see the per-block computation above) —
+        # so this can't be a single value computed once for the whole
+        # table. Look up which block this row belongs to (via its own
+        # span_id at the anchor column) and build its label/value split
+        # from that block's own depth.
+        anchor_cell = row.get(anchor_col)
+        anchor_span_id = anchor_cell[2] if anchor_cell and len(anchor_cell) > 2 else None
+        depth = depth_by_anchor.get(anchor_span_id, 0)
+        label_group_cols = list(base_label_cols)
+        value_groups = list(groups[1:])
+        for _ in range(depth):
+            if not value_groups:
+                break
+            _, absorbed_cols = value_groups.pop(0)
+            label_group_cols = label_group_cols + absorbed_cols
 
         # Collect this row's label text (only the non-blank pieces).
         label_vals_all = [row.get(c, ("", False))[0].strip() for c in label_group_cols]
@@ -734,7 +903,26 @@ def build_matrix_yaml(data_rows: list, header_paths: dict, total_cols: int) -> d
             # construction rather than something to work around here.
             label_ends_with_colon = row_key.rstrip().endswith(":")
 
-            if row_key and (not full_label or label_is_one_spanned_cell or label_ends_with_colon):
+            # Some tables mark a section heading with nothing but bold
+            # styling on a SINGLE label column — no colspan merging it
+            # across the row (label_is_one_spanned_cell only fires for a
+            # 2+ column compound label) and no trailing colon. Structurally
+            # that makes the label look "complete" (full_label = True,
+            # since the table's whole label is just that one column), so
+            # without this check a heading like "AGRICULTURAL" or
+            # "RESIDENTIAL" — real section headings with every value
+            # column blank — would fall through to the "real row, values
+            # happen to be blank" branch below and sit as a flat sibling
+            # of the rows it's meant to group, instead of opening a
+            # nesting level for them.
+            label_is_bold_divider = label_is_bold and row_key
+
+            if row_key and (
+                not full_label
+                or label_is_one_spanned_cell
+                or label_ends_with_colon
+                or label_is_bold_divider
+            ):
                 section_node = _get_or_create_child(result, row_key.rstrip().rstrip(":").rstrip())
                 continue
             elif row_key and full_label:
@@ -750,7 +938,39 @@ def build_matrix_yaml(data_rows: list, header_paths: dict, total_cols: int) -> d
         # --- Add this row into whichever section is currently active ---
         row_counter += 1
         key = row_key or f"Row {row_counter}"
-        if key in section_node:   # guard against two rows accidentally sharing a label
+        if key in section_node:
+            # Two physical rows collapsed to the exact same label — most
+            # often a genuinely different row that just happens to reuse
+            # the same name (e.g. two unrelated "Front" setback rows in
+            # different sub-sections), which stays disambiguated with a
+            # numbered suffix below. But there's one common special case:
+            # a block like "Multi-family" whose rowspan carries every
+            # OTHER field identically across several physical rows, and
+            # the rows exist purely to stack multiple values for ONE
+            # trailing field (e.g. separate height limits for Rural/
+            # Suburban/Urban). There, every field except that one is
+            # already identical, so a numbered duplicate would just
+            # repeat five identical setback fields per copy to deliver
+            # one new value. Detecting that — exactly one field differs,
+            # everything else matches — and folding the new value into
+            # that one field (as a growing list) instead keeps the row
+            # as ONE entry with a multi-valued field, which is both more
+            # compact and more accurate: these rows were never separate
+            # ITEMS, just separate stated values for the same item.
+            existing = section_node[key]
+            if isinstance(existing, dict) and set(existing.keys()) == set(inner_full.keys()):
+                differing = [
+                    field for field in inner_full
+                    if existing.get(field) != inner_full.get(field)
+                ]
+                if len(differing) == 1:
+                    field = differing[0]
+                    if isinstance(existing[field], list):
+                        if inner_full[field] not in existing[field]:
+                            existing[field].append(inner_full[field])
+                    else:
+                        existing[field] = [existing[field], inner_full[field]]
+                    continue
             key = f"{key} ({row_counter})"
         section_node[key] = inner_full
 
@@ -1044,53 +1264,84 @@ def _find_local_title(table) -> str:
     to every section after the first, or lose the rest entirely.
 
     Walks backward from the table ONE element at a time — table.find_all_
-    previous() already visits elements nearest-first — and returns the
-    text of the FIRST one matching any recognized caption pattern:
-    <figcaption>, <div class="title">/"chunk-title", or a "pure bold" <p>
-    caption (a <p> tag whose entire text content is just one
-    <span class="bold">...</span>, e.g.
-    <p><span class="bold">Table 7.24-1<br>Allowed Uses</span></p> — a
-    table-level caption sitting outside the <table> tag entirely, as
-    distinct from the broader section title above it).
+    previous() already visits elements nearest-first — looking for two
+    tiers of candidate:
 
-    A single forward pass naturally finds the closest match without ever
-    needing to compare positions after the fact — an earlier version
-    collected candidates via several separate find_previous() calls, then
-    tried to figure out which was nearest by looking up each one's index
-    in a full list of preceding elements. That had two problems: it
-    re-scanned the whole preceding document once per table (quadratic
-    over a large document), and a candidate that failed the lookup fell
-    back to position -1 — which, being smaller than any real index,
-    would incorrectly "win" as the closest match instead of being
-    correctly treated as not found.
+      STRONG: <figcaption>, <div class="title">/"chunk-title", or a
+      "pure bold" <p> caption (a <p> tag whose entire text content is
+      just one <span class="bold">...</span>, e.g.
+      <p><span class="bold">Table 7.24-1<br>Allowed Uses</span></p>) —
+      these are deliberate, explicit structural markers, so the FIRST
+      one found (nearest) wins immediately and the scan stops.
+
+      WEAK: a short (<=150 char), plain paragraph with no special
+      markup at all — used only as a fallback when no strong candidate
+      exists anywhere in the document, since it's a much less reliable
+      signal (see below).
+
+    These two tiers are NOT treated as one combined "nearest wins"
+    search: a weak match never stops the scan, and a strong match found
+    LATER (farther back) always overrides a weak match found earlier
+    (closer). This matters because closeness alone doesn't imply
+    correctness — a table is often preceded by an ordinary introductory
+    sentence (e.g. "The following is the schedule of uses for the LDR,
+    MDR and MDR-X Zone Districts:") that happens to be short enough to
+    pass the weak check, while the table's REAL title (e.g. a
+    <div class="chunk-title">) sits a bit further back. If the scan
+    stopped at the first (weak) match, that narrative sentence would
+    win purely by being closer, even though the structural marker is a
+    far more reliable signal of the table's actual name.
     """
+    strong_match = None
+    weak_match = None
+
     for el in table.find_all_previous():
+        if strong_match is not None:
+            break  # already found the most reliable possible signal
+
         name = getattr(el, "name", None)
         if name is None:
             continue  # skip NavigableString / comment nodes
 
         if name == "figcaption":
-            return _cell_text(el)
+            strong_match = _cell_text(el)
+            continue
 
         if name == "div":
             classes = el.get("class") or []
             if "title" in classes or "chunk-title" in classes:
-                return _cell_text(el)
+                strong_match = _cell_text(el)
+            continue
 
         if name == "p":
+            # A <p> sitting INSIDE any table's cell (this table's own, or
+            # a completely different one, like the aria-hidden decoy
+            # table some sites duplicate for a sticky-header effect) is
+            # ordinary cell content, never a standalone table label —
+            # e.g. a decoy header cell like <th><p>Industrial</p></th>
+            # would otherwise get mistaken for this table's title simply
+            # because it's short and sits nearby in document order,
+            # ahead of the REAL label (a <figcaption>) further back.
+            if el.find_parent("table") is not None:
+                continue
+
             bold_span = el.find("span", class_="bold")
             if bold_span is not None:
                 full_text = _cell_text(el)
                 if full_text and full_text == _cell_text(bold_span):
-                    return full_text
+                    strong_match = full_text
+                    continue
 
             # Some documents label a table with a plain paragraph and NO
             # special styling at all — e.g. "1. Supplemental off-street
             # parking requirements specific to districts" sitting right
             # before the table, with no bold span, no div.title, nothing
             # else to go on. A short, non-empty paragraph close to the
-            # table is a reasonable signal it's meant as that table's
-            # label. Two safeguards keep this narrow:
+            # table is a REASONABLE (but weak) signal it's meant as that
+            # table's label — only kept as a fallback if no strong
+            # candidate ever turns up (see docstring above for why a
+            # nearby weak match can't be trusted over a farther strong
+            # one). Two further safeguards keep this narrow:
             #   - blank paragraphs (a lone <br>, used as visual spacing
             #     between the label and the table) are skipped rather
             #     than treated as "nothing here" — the scan keeps
@@ -1098,12 +1349,13 @@ def _find_local_title(table) -> str:
             #   - a LONG paragraph is essentially always narrative body
             #     text, not a label (e.g. multi-sentence regulatory
             #     text that happens to sit right before a table) — it's
-            #     deliberately NOT treated as a match, so it falls
-            #     through and scanning continues exactly as it already
-            #     did before this check existed.
-            plain_text = _cell_text(el)
-            if plain_text and len(plain_text) <= 150:
-                return plain_text
+            #     deliberately NOT treated as a match at all.
+            if weak_match is None:
+                plain_text = _cell_text(el)
+                if plain_text and len(plain_text) <= 150:
+                    weak_match = plain_text
+
+    return strong_match or weak_match or ""
 
     return ""
 

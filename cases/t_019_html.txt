@@ -1,0 +1,189 @@
+<table class="thead3 table left makeExpandableTable makeFixedTable" cellpadding="3" cellspacing="0" border="1" rules="all">
+                     <colgroup class="std">
+                        <col width="22.857142857142858%">
+                        <col width="8.571428571428571%">
+                        <col width="8.571428571428571%">
+                        <col width="8.571428571428571%">
+                        <col width="8.571428571428571%">
+                        <col width="22.857142857142858%">
+                        <col width="20%">
+                     </colgroup>
+                     <thead><tr>
+                           <th style="vertical-align:middle; " colspan="7" class="center  top ">
+                              TABLE 1: YARD &amp; HEIGHT REQUIREMENTS
+                              </th>
+                        </tr><tr>
+                           <th style="vertical-align:middle; " rowspan="2" colspan="1" class=" top ">
+                              LAND USE
+                              </th>
+                           <th style="vertical-align:middle; " colspan="4" class=" top ">
+                              SETBACK FROM PROPERTY LINE
+                              </th>
+                           <th style="vertical-align:middle; " class=" top "></th>
+                           <th style="vertical-align:middle; " class=" top "></th>
+                        </tr><tr>
+                           <th style="vertical-align:middle; " class=" top ">
+                              FRONT
+                              </th>
+                           <th style="vertical-align:middle; " class=" top ">
+                              SIDE
+                              </th>
+                           <th style="vertical-align:middle; " class=" top ">
+                              REAR
+                              </th>
+                           <th style="vertical-align:middle; " class=" top ">
+                              CORNER
+                              </th>
+                           <th style="vertical-align:middle; " class=" top ">
+                              BUILDING SEPARATION
+                              <sup>
+                                 (iv)
+                                 </sup>
+                              </th>
+                           <th style="vertical-align:middle; " class=" top ">
+                              MAX HEIGHT
+                              </th>
+                        </tr></thead><tbody>
+                        
+                        
+                        
+                        <tr>
+                           <td style="vertical-align:middle; " class=" top ">
+                              Single and duplex dwellings, patio homes, quadruplex,
+                              <br>
+                              townhomes and zero lot line
+                              <br>
+                              developments
+                              </td>
+                           <td style="vertical-align:middle; " class=" top ">
+                              25'
+                              <sup>
+                                 (I)(II)
+                                 </sup>
+                              </td>
+                           <td style="vertical-align:middle; " class=" top ">
+                              10'
+                              <sup>
+                                 (I)(III)
+                                 </sup>
+                              </td>
+                           <td style="vertical-align:middle; " class=" top ">
+                              15'
+                              <sup>
+                                 (I)
+                                 </sup>
+                              </td>
+                           <td style="vertical-align:middle; " class=" top ">
+                              15'
+                              </td>
+                           <td style="vertical-align:middle; " class=" top ">
+                              20'
+                              </td>
+                           <td style="vertical-align:middle; " class=" top ">
+                              40'
+                              </td>
+                        </tr>
+                        <tr>
+                           <td style="vertical-align:middle; " class=" top ">
+                              Tiny Homes
+                              </td>
+                           <td style="vertical-align:middle; " class=" top ">
+                              NA
+                              </td>
+                           <td style="vertical-align:middle; " class=" top ">
+                              NA
+                              </td>
+                           <td style="vertical-align:middle; " class=" top ">
+                              NA
+                              </td>
+                           <td style="vertical-align:middle; " class=" top ">
+                              NA
+                              </td>
+                           <td style="vertical-align:middle; " class=" top ">
+                              NA
+                              </td>
+                           <td style="vertical-align:middle; " class=" top "></td>
+                        </tr>
+                        <tr>
+                           <td style="vertical-align:middle; " rowspan="3" colspan="1" class=" top ">
+                              Multi-family
+                              </td>
+                           <td style="vertical-align:middle; " rowspan="3" class=" top ">
+                              30'
+                              <sup>
+                                 (I)(II)
+                                 </sup>
+                              </td>
+                           <td style="vertical-align:middle; " rowspan="3" class=" top ">
+                              20'
+                              <sup>
+                                 (I)
+                                 </sup>
+                              </td>
+                           <td style="vertical-align:middle; " rowspan="3" class=" top ">
+                              25'
+                              <sup>
+                                 (I)
+                                 </sup>
+                              </td>
+                           <td style="vertical-align:middle; " rowspan="3" class=" top ">
+                              30'
+                              </td>
+                           <td style="vertical-align:middle; " rowspan="3" class=" top ">
+                              20'
+                              </td>
+                           <td style="vertical-align:middle; " class=" top ">
+                              Rural: 45'
+                              </td>
+                        </tr>
+                        <tr>
+                           <td style="vertical-align:middle; " class=" top ">
+                              Suburban: 65'
+                              </td>
+                        </tr>
+                        <tr>
+                           <td style="vertical-align:middle; " class=" top ">
+                              Urban: 120'
+                              </td>
+                        </tr>
+                        <tr>
+                           <td style="vertical-align:middle; " class=" top ">
+                              Boarding Houses
+                              </td>
+                           <td style="vertical-align:middle; " class=" top ">
+                              30'
+                              </td>
+                           <td style="vertical-align:middle; " class=" top ">
+                              20'
+                              </td>
+                           <td style="vertical-align:middle; " class=" top ">
+                              25'
+                              </td>
+                           <td style="vertical-align:middle; " class=" top ">
+                              30'
+                              </td>
+                           <td style="vertical-align:middle; " class=" top ">
+                              20'
+                              </td>
+                           <td style="vertical-align:middle; " class=" top ">
+                              40'
+                              </td>
+                        </tr>
+                        <tr>
+                           <td style="vertical-align:middle; " colspan="7" class=" top ">
+                              Footnotes:
+                              <br>
+                              I. A 5' reduction in the setback is allowed for projects meeting two (2) sustainable
+                              development criteria.
+                              <br>
+                              II. A 10' reduction in the setback is allowed for projects meeting three (3) sustainable
+                              development criteria.
+                              <br>
+                              III. No side yard setback is required where common walls are located.
+                              <br>
+                              V. A 10' reduction in the building separation for projects meeting two (2) sustainable
+                              development criteria.
+                              </td>
+                        </tr>
+                     </tbody>
+                  </table>

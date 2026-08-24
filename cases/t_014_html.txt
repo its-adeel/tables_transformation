@@ -1,0 +1,154 @@
+<table class="thead1 table left makeExpandableTable makeFixedTable" cellpadding="3" cellspacing="0" border="1" rules="all" style="text-align:left;">
+                     <colgroup class="std">
+                        <col width="20%">
+                        <col width="20%">
+                        <col width="20%">
+                        <col width="20%">
+                        <col width="20%">
+                     </colgroup>
+                     <thead><tr>
+                           <th class=" top "></th>
+                           <th class=" top ">
+                              Attached ADU
+                              </th>
+                           <th class=" top ">
+                              Converted ADU
+                              </th>
+                           <th class=" top ">
+                              Detached ADU
+                              </th>
+                           <th class=" top ">
+                              JADU
+                              </th>
+                        </tr></thead><tbody>
+                        
+                        <tr>
+                           <td class=" top ">
+                              ADU Permit Required
+                              </td>
+                           <td class=" top ">
+                              Yes
+                              </td>
+                           <td class=" top ">
+                              Yes
+                              </td>
+                           <td class=" top ">
+                              Yes
+                              </td>
+                           <td class=" top ">
+                              Yes
+                              </td>
+                        </tr>
+                        <tr>
+                           <td class=" top ">
+                              Processing time
+                              </td>
+                           <td colspan="4" class=" top ">
+                              60 days if there is an existing primary dwelling; concurrent review if no existing
+                              primary dwelling
+                              </td>
+                        </tr>
+                        <tr>
+                           <td class=" top ">
+                              Size
+                              </td>
+                           <td class=" top ">
+                              Lesser of 50% of floor area of primary dwelling unit or 850 square feet for 1 bedroom
+                              or 1,000 square feet for 2 bedroom
+                              </td>
+                           <td class=" top ">
+                              850 square feet for 1 bedroom or 1,000 square feet for 2 bedroom
+                              </td>
+                           <td class=" top ">
+                              850 square feet for 1 bedroom or 1,000 square feet for 2 bedroom
+                              </td>
+                           <td class=" top ">
+                              500 square feet
+                              </td>
+                        </tr>
+                        <tr>
+                           <td class=" top ">
+                              Quantity (SFR)
+                              </td>
+                           <td colspan="2" class=" top ">
+                              1
+                              </td>
+                           <td class=" top ">
+                              1
+                              </td>
+                           <td class=" top ">
+                              1
+                              </td>
+                        </tr>
+                        <tr>
+                           <td class=" top ">
+                              Quantity (MFR)
+                              </td>
+                           <td colspan="2" class=" top ">
+                              At least 1 per lot up to 25% of existing units
+                              </td>
+                           <td class=" top ">
+                              8 max
+                              </td>
+                           <td class=" top ">
+                              N/A
+                              </td>
+                        </tr>
+                        <tr>
+                           <td class=" top ">
+                              Rear and Side Setback (Min.)
+                              </td>
+                           <td colspan="2" class=" top ">
+                              4 feet (unless existing is less than 4 feet)
+                              </td>
+                           <td class=" top ">
+                              4 feet
+                              </td>
+                           <td class=" top ">
+                              N/A
+                              </td>
+                        </tr>
+                        <tr>
+                           <td class=" top ">
+                              Height (Max.)
+                              </td>
+                           <td colspan="2" class=" top ">
+                              Lesser of height allowed per zone or 25 ft.
+                              </td>
+                           <td class=" top ">
+                              16 ft (SFR), 18 ft (MFR), with exceptions
+                              </td>
+                           <td class=" top ">
+                              Height allowed per zone
+                              </td>
+                        </tr>
+                        <tr>
+                           <td class=" top ">
+                              Parking
+                              </td>
+                           <td class=" top ">
+                              None
+                              </td>
+                           <td class=" top ">
+                              None
+                              </td>
+                           <td class=" top ">
+                              1 space/unit, with exceptions
+                              </td>
+                           <td class=" top ">
+                              None
+                              </td>
+                        </tr>
+                        <tr>
+                           <td class=" top ">
+                              Impact fees
+                              </td>
+                           <td colspan="3" class=" top ">
+                              Required if &gt;750 square feet
+                              </td>
+                           <td class=" top ">
+                              N/A
+                              </td>
+                        </tr>
+                     </tbody>
+                  </table>

@@ -1,0 +1,13 @@
+'TABLE 9-7-2.3: MINIMUM LOT AND DEVELOPMENT STANDARDS':
+  Lot Type:
+    Commercial:
+      Area: 0' minimum
+      Frontage: 40' minimum
+      Setbacks: 'Front (on Main Street): 0'' Front (off Main Street): 20'' Side: 0'' Rear: 0'' Accessory structure: 4'' from the lot line, except that no minimum side setback shall be required when all of the following conditions are met: Accessory structures: A. The accessory building is located more than 10'' to the rear of the closest rear wall line of any existing main building; B. The accessory building contains no openings in the side contiguous to the lot line; C. No drainage from the roof will be discharged onto an adjacent lot; and D. The accessory building shall have fire resistive walls rated at 4 hours or more.'
+      Height: 'Office and commercial areas: 25'' Average grade to the square of building shall not exceed 25'' or 2 stories above average grade whichever is less. Warehouse/factory areas: 35'' Average grade to the square of building shall not exceed 35'' or 3 stories above average grade whichever is less.'
+    Exceptions:
+      Area: 'No'
+      Frontage: 'No'
+      Setbacks: '1. Front Setback: When a building faces Main Street and is situated on Main Street the front setback may be reduced to 0 2. Side Yard Used as Driveway: When used for access to any garage, carport or parking area having less than 5 parking spaces, a side yard shall be wide enough to accommodate an unobstructed 12'' paved driveway. When used for access for a garage, carport or parking area having 6 or more parking spaces, a side yard shall be wide enough to provide an unobstructed 12'' paved driveway for one-way traffic, or 16'' of paved driveway for two-way traffic 3. Ordinary and Customary Projections: Ordinary and customary projections or sills, belt courses, cornices, or other ornamental features and unenclosed steps and un-walled stoops, porches, and carports, which may project up to 3'' into a required front and side yard and up to 5'' into a required rear yard. No projection into a required court which is provided in connection with a court apartment shall be constructed
+        except for customary sills, belt courses, and cornices which may extend into a court not more than 16"'
+      Height: 'Office and commercial areas: 25'' Average grade to the square of building shall not exceed 25'' or 2 stories above average grade, whichever is less. Warehouse/factory areas: 35'' Average grade to the square of building shall not exceed 35'' or 3 stories above average grade, whichever is less.'

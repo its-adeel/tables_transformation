@@ -1,0 +1,229 @@
+Table 20-2 | Permitted and Specially Permitted Uses:
+  P:
+    '=': Permitted
+  SP:
+    '=': Specially Permitted
+  —:
+    '=': Prohibited
+Zoning District:
+  Land Use:
+    Residential:
+      Single-family detached:
+        Zoning District > UMF: P
+        Zoning District > SMF: P
+        Zoning District > USF: P
+        Zoning District > SSF: P
+        Zoning District > UTF: P
+        Zoning District > RR: P
+      Single-family attached:
+        Zoning District > UMF: P
+        Zoning District > SMF: P
+        Zoning District > USF: P
+        Zoning District > SSF: —
+        Zoning District > UTF: P
+        Zoning District > RR: P
+      Two-family:
+        Zoning District > UMF: P
+        Zoning District > SMF: P
+        Zoning District > USF: SP
+        Zoning District > SSF: —
+        Zoning District > UTF: P
+        Zoning District > RR: P
+      Multifamily:
+        Zoning District > UMF: P
+        Zoning District > SMF: P
+        Zoning District > USF: —
+        Zoning District > SSF: —
+        Zoning District > UTF: —
+        Zoning District > RR: —
+      Group care facilities:
+        Zoning District > UMF: SP
+        Zoning District > SMF: SP
+        Zoning District > USF: —
+        Zoning District > SSF: —
+        Zoning District > UTF: —
+        Zoning District > RR: —
+      Boardinghouse/rooming house:
+        Zoning District > UMF: SP
+        Zoning District > SMF: SP
+        Zoning District > USF: —
+        Zoning District > SSF: —
+        Zoning District > UTF: —
+        Zoning District > RR: —
+      Mobile or manufactured home:
+        Zoning District > UMF: —
+        Zoning District > SMF: —
+        Zoning District > USF: —
+        Zoning District > SSF: —
+        Zoning District > UTF: —
+        Zoning District > RR: P
+      Accessory uses:
+        Zoning District > UMF: P
+        Zoning District > SMF: P
+        Zoning District > USF: P
+        Zoning District > SSF: P
+        Zoning District > UTF: P
+        Zoning District > RR: P
+      Home occupation:
+        Zoning District > UMF: P
+        Zoning District > SMF: P
+        Zoning District > USF: P
+        Zoning District > SSF: P
+        Zoning District > UTF: P
+        Zoning District > RR: P
+    Institutional:
+      Educational institution:
+        Zoning District > UMF: P
+        Zoning District > SMF: P
+        Zoning District > USF: SP
+        Zoning District > SSF: SP
+        Zoning District > UTF: SP
+        Zoning District > RR: P
+      Church or religious institution:
+        Zoning District > UMF: P
+        Zoning District > SMF: P
+        Zoning District > USF: P
+        Zoning District > SSF: P
+        Zoning District > UTF: P
+        Zoning District > RR: P
+      Hospital or health care facility:
+        Zoning District > UMF: SP
+        Zoning District > SMF: SP
+        Zoning District > USF: —
+        Zoning District > SSF: —
+        Zoning District > UTF: SP
+        Zoning District > RR: SP
+      Public utility:
+        Zoning District > UMF: SP
+        Zoning District > SMF: SP
+        Zoning District > USF: SP
+        Zoning District > SSF: SP
+        Zoning District > UTF: SP
+        Zoning District > RR: SP
+      Public or municipal use:
+        Zoning District > UMF: P
+        Zoning District > SMF: P
+        Zoning District > USF: SP
+        Zoning District > SSF: P
+        Zoning District > UTF: P
+        Zoning District > RR: P
+      Telecommunications facilities:
+        Zoning District > UMF: SP
+        Zoning District > SMF: SP
+        Zoning District > USF: SP
+        Zoning District > SSF: SP
+        Zoning District > UTF: SP
+        Zoning District > RR: SP
+    Commercial:
+      Professional offices:
+        Zoning District > UMF: —
+        Zoning District > SMF: —
+        Zoning District > USF: —
+        Zoning District > SSF: —
+        Zoning District > UTF: —
+        Zoning District > RR: —
+      Medical/dental office:
+        Zoning District > UMF: —
+        Zoning District > SMF: —
+        Zoning District > USF: —
+        Zoning District > SSF: —
+        Zoning District > UTF: —
+        Zoning District > RR: —
+      Banks and financial institutions:
+        Zoning District > UMF: —
+        Zoning District > SMF: —
+        Zoning District > USF: —
+        Zoning District > SSF: —
+        Zoning District > UTF: —
+        Zoning District > RR: —
+      Nursery schools:
+        Zoning District > UMF: SP
+        Zoning District > SMF: SP
+        Zoning District > USF: SP
+        Zoning District > SSF: SP
+        Zoning District > UTF: SP
+        Zoning District > RR: SP
+      Day-care center (youth or adult):
+        Zoning District > UMF: SP
+        Zoning District > SMF: SP
+        Zoning District > USF: —
+        Zoning District > SSF: —
+        Zoning District > UTF: SP
+        Zoning District > RR: SP
+      Funeral home:
+        Zoning District > UMF: —
+        Zoning District > SMF: —
+        Zoning District > USF: —
+        Zoning District > SSF: —
+        Zoning District > UTF: —
+        Zoning District > RR: —
+      Private club:
+        Zoning District > UMF: SP
+        Zoning District > SMF: SP
+        Zoning District > USF: —
+        Zoning District > SSF: —
+        Zoning District > UTF: —
+        Zoning District > RR: —
+      Parks, playground, outdoor:
+        Zoning District > UMF: SP
+        Zoning District > SMF: SP
+        Zoning District > USF: SP
+        Zoning District > SSF: SP
+        Zoning District > UTF: SP
+        Zoning District > RR: SP
+      Cemetery:
+        Zoning District > UMF: SP
+        Zoning District > SMF: SP
+        Zoning District > USF: —
+        Zoning District > SSF: —
+        Zoning District > UTF: —
+        Zoning District > RR: SP
+      Private kennel:
+        Zoning District > UMF: —
+        Zoning District > SMF: —
+        Zoning District > USF: —
+        Zoning District > SSF: —
+        Zoning District > UTF: —
+        Zoning District > RR: P
+      Open field agriculture:
+        Zoning District > UMF: —
+        Zoning District > SMF: —
+        Zoning District > USF: —
+        Zoning District > SSF: —
+        Zoning District > UTF: —
+        Zoning District > RR: P
+      Nursery or greenhouse:
+        Zoning District > UMF: —
+        Zoning District > SMF: —
+        Zoning District > USF: —
+        Zoning District > SSF: —
+        Zoning District > UTF: —
+        Zoning District > RR: P
+      Stable or riding academy:
+        Zoning District > UMF: —
+        Zoning District > SMF: —
+        Zoning District > USF: —
+        Zoning District > SSF: —
+        Zoning District > UTF: —
+        Zoning District > RR: SP
+      Animal husbandry:
+        Zoning District > UMF: —
+        Zoning District > SMF: —
+        Zoning District > USF: —
+        Zoning District > SSF: —
+        Zoning District > UTF: —
+        Zoning District > RR: SP
+      Agribusiness operations:
+        Zoning District > UMF: —
+        Zoning District > SMF: —
+        Zoning District > USF: —
+        Zoning District > SSF: —
+        Zoning District > UTF: —
+        Zoning District > RR: SP
+      Camps:
+        Zoning District > UMF: —
+        Zoning District > SMF: —
+        Zoning District > USF: —
+        Zoning District > SSF: —
+        Zoning District > UTF: —
+        Zoning District > RR: SP

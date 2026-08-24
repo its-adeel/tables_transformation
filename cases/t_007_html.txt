@@ -1,0 +1,1244 @@
+<div class="section_content content" id="26797923_content" title-footnotes="0">
+	<div class="para">The following lot, area, and setback requirements shall apply to the residential districts within the Town and Villages.</div>
+	<div class="codeTable " style="border-color:">
+		<table class="frame frameNone stickyTable">
+			<colgroup>
+				<col style="width: 7%">
+					<col style="width: 34%">
+						<col style="width: 9%">
+							<col style="width: 10%">
+								<col style="width: 10%">
+									<col style="width: 10%">
+										<col style="width: 11%">
+											<col style="width: 9%">
+											</colgroup>
+											<thead valign="bottom">
+												<tr class="">
+													<th align="center" class="entry" colspan="8" scope="col" startcol="1" valign="top">
+														<div class="para" style="margin-left:0px;">
+															<b class="bold">Table 20-3</b>
+														</div>
+													</th>
+												</tr>
+												<tr class="">
+													<th align="center" class="entry" colspan="8" scope="col" startcol="1" valign="top">
+														<div class="para" style="margin-left:0px;">
+															<b class="bold">Residential Lot, Area, and Setback Requirements</b>
+														</div>
+													</th>
+												</tr>
+												<tr class="">
+													<th align="left" class="entry" colspan="2" scope="col" startcol="1" valign="top">
+														<div class="para" style="margin-left:0px;"></div>
+													</th>
+													<th align="center" class="entry" colspan="6" scope="col" startcol="3" valign="top">
+														<div class="para" style="margin-left:0px;">
+															<b class="bold">Zoning District</b>
+														</div>
+													</th>
+												</tr>
+												<tr class="">
+													<th align="left" class="entry" colspan="2" scope="col" startcol="1" valign="top">
+														<div class="para" style="margin-left:0px;">
+															<b class="bold">Land Use</b>
+														</div>
+													</th>
+													<th align="center" class="entry" scope="col" startcol="3" valign="top">
+														<div class="para" style="margin-left:0px;">
+															<b class="bold">UMF</b>
+														</div>
+													</th>
+													<th align="center" class="entry" scope="col" startcol="4" valign="top">
+														<div class="para" style="margin-left:0px;">
+															<b class="bold">SMF</b>
+														</div>
+													</th>
+													<th align="center" class="entry" scope="col" startcol="5" valign="top">
+														<div class="para" style="margin-left:0px;">
+															<b class="bold">USF</b>
+														</div>
+													</th>
+													<th align="center" class="entry" scope="col" startcol="6" valign="top">
+														<div class="para" style="margin-left:0px;">
+															<b class="bold">SSF</b>
+														</div>
+													</th>
+													<th align="center" class="entry" scope="col" startcol="7" valign="top">
+														<div class="para" style="margin-left:0px;">
+															<b class="bold">UTF</b>
+														</div>
+													</th>
+													<th align="center" class="entry" scope="col" startcol="8" valign="top">
+														<div class="para" style="margin-left:0px;">
+															<b class="bold">RR</b>
+														</div>
+													</th>
+												</tr>
+											</thead>
+											<tbody valign="top">
+												<tr class="">
+													<td align="left" class="entry" colspan="2" startcol="1" valign="top">
+														<div class="para" style="margin-left:0px;">Minimum lot size (with public water and sewer)
+															<sup class="superscript">(1)</sup>
+														</div>
+													</td>
+													<td align="left" class="entry" startcol="3" valign="top">
+														<div class="para" style="margin-left:0px;"></div>
+													</td>
+													<td align="left" class="entry" startcol="4" valign="top">
+														<div class="para" style="margin-left:0px;"></div>
+													</td>
+													<td align="left" class="entry" startcol="5" valign="top">
+														<div class="para" style="margin-left:0px;"></div>
+													</td>
+													<td align="left" class="entry" startcol="6" valign="top">
+														<div class="para" style="margin-left:0px;"></div>
+													</td>
+													<td align="left" class="entry" startcol="7" valign="top">
+														<div class="para" style="margin-left:0px;"></div>
+													</td>
+													<td align="left" class="entry" startcol="8" valign="top">
+														<div class="para" style="margin-left:0px;"></div>
+													</td>
+												</tr>
+												<tr class="">
+													<td align="left" class="entry" startcol="1" valign="top">
+														<div class="para" style="margin-left:0px;"></div>
+													</td>
+													<td align="left" class="entry" startcol="2" valign="top">
+														<div class="para" style="margin-left:0px;">Single-family detached (square feet)</div>
+													</td>
+													<td align="center" class="entry" startcol="3" valign="top">
+														<div class="para" style="margin-left:0px;">4,000</div>
+													</td>
+													<td align="center" class="entry" startcol="4" valign="top">
+														<div class="para" style="margin-left:0px;">7,000</div>
+													</td>
+													<td align="center" class="entry" startcol="5" valign="top">
+														<div class="para" style="margin-left:0px;">4,000</div>
+													</td>
+													<td align="center" class="entry" startcol="6" valign="top">
+														<div class="para" style="margin-left:0px;">9,000</div>
+													</td>
+													<td align="center" class="entry" startcol="7" valign="top">
+														<div class="para" style="margin-left:0px;">4,000</div>
+													</td>
+													<td align="center" class="entry" startcol="8" valign="top">
+														<div class="para" style="margin-left:0px;">15,000</div>
+													</td>
+												</tr>
+												<tr class="">
+													<td align="left" class="entry" startcol="1" valign="top">
+														<div class="para" style="margin-left:0px;"></div>
+													</td>
+													<td align="left" class="entry" startcol="2" valign="top">
+														<div class="para" style="margin-left:0px;">Single-family attached (square feet per dwelling unit)</div>
+													</td>
+													<td align="center" class="entry" startcol="3" valign="top">
+														<div class="para" style="margin-left:0px;">2,500</div>
+													</td>
+													<td align="center" class="entry" startcol="4" valign="top">
+														<div class="para" style="margin-left:0px;">3,000</div>
+													</td>
+													<td align="center" class="entry" startcol="5" valign="top">
+														<div class="para" style="margin-left:0px;">3,000</div>
+													</td>
+													<td align="center" class="entry" startcol="6" valign="top">
+														<div class="para" style="margin-left:0px;">NA</div>
+													</td>
+													<td align="center" class="entry" startcol="7" valign="top">
+														<div class="para" style="margin-left:0px;">2,500</div>
+													</td>
+													<td align="center" class="entry" startcol="8" valign="top">
+														<div class="para" style="margin-left:0px;">4,000</div>
+													</td>
+												</tr>
+												<tr class="">
+													<td align="left" class="entry" startcol="1" valign="top">
+														<div class="para" style="margin-left:0px;"></div>
+													</td>
+													<td align="left" class="entry" startcol="2" valign="top">
+														<div class="para" style="margin-left:0px;">Two-family (square feet per dwelling unit)</div>
+													</td>
+													<td align="center" class="entry" startcol="3" valign="top">
+														<div class="para" style="margin-left:0px;">2,500</div>
+													</td>
+													<td align="center" class="entry" startcol="4" valign="top">
+														<div class="para" style="margin-left:0px;">3,000</div>
+													</td>
+													<td align="center" class="entry" startcol="5" valign="top">
+														<div class="para" style="margin-left:0px;">3,000</div>
+													</td>
+													<td align="center" class="entry" startcol="6" valign="top">
+														<div class="para" style="margin-left:0px;">NA</div>
+													</td>
+													<td align="center" class="entry" startcol="7" valign="top">
+														<div class="para" style="margin-left:0px;">3,000</div>
+													</td>
+													<td align="center" class="entry" startcol="8" valign="top">
+														<div class="para" style="margin-left:0px;">10,000</div>
+													</td>
+												</tr>
+												<tr class="">
+													<td align="left" class="entry" startcol="1" valign="top">
+														<div class="para" style="margin-left:0px;"></div>
+													</td>
+													<td align="left" class="entry" startcol="2" valign="top">
+														<div class="para" style="margin-left:0px;">Multifamily (square feet per dwelling unit)</div>
+													</td>
+													<td align="center" class="entry" startcol="3" valign="top">
+														<div class="para" style="margin-left:0px;">2,500</div>
+													</td>
+													<td align="center" class="entry" startcol="4" valign="top">
+														<div class="para" style="margin-left:0px;">3,000</div>
+													</td>
+													<td align="center" class="entry" startcol="5" valign="top">
+														<div class="para" style="margin-left:0px;">NA</div>
+													</td>
+													<td align="center" class="entry" startcol="6" valign="top">
+														<div class="para" style="margin-left:0px;">NA</div>
+													</td>
+													<td align="center" class="entry" startcol="7" valign="top">
+														<div class="para" style="margin-left:0px;">NA</div>
+													</td>
+													<td align="center" class="entry" startcol="8" valign="top">
+														<div class="para" style="margin-left:0px;">NA</div>
+													</td>
+												</tr>
+												<tr class="">
+													<td align="left" class="entry" startcol="1" valign="top">
+														<div class="para" style="margin-left:0px;"></div>
+													</td>
+													<td align="left" class="entry" startcol="2" valign="top">
+														<div class="para" style="margin-left:0px;">Nonresidential uses (square feet)</div>
+													</td>
+													<td align="center" class="entry" startcol="3" valign="top">
+														<div class="para" style="margin-left:0px;">4,000</div>
+													</td>
+													<td align="center" class="entry" startcol="4" valign="top">
+														<div class="para" style="margin-left:0px;">7,000</div>
+													</td>
+													<td align="center" class="entry" startcol="5" valign="top">
+														<div class="para" style="margin-left:0px;">10,000</div>
+													</td>
+													<td align="center" class="entry" startcol="6" valign="top">
+														<div class="para" style="margin-left:0px;">10,000</div>
+													</td>
+													<td align="center" class="entry" startcol="7" valign="top">
+														<div class="para" style="margin-left:0px;">7,000</div>
+													</td>
+													<td align="center" class="entry" startcol="8" valign="top">
+														<div class="para" style="margin-left:0px;">15,000</div>
+													</td>
+												</tr>
+												<tr class="">
+													<td align="left" class="entry" colspan="2" startcol="1" valign="top">
+														<div class="para" style="margin-left:0px;">Minimum lot size (no public water and/or sewer)
+															<sup class="superscript">(1)</sup>
+														</div>
+													</td>
+													<td align="left" class="entry" startcol="3" valign="top">
+														<div class="para" style="margin-left:0px;"></div>
+													</td>
+													<td align="left" class="entry" startcol="4" valign="top">
+														<div class="para" style="margin-left:0px;"></div>
+													</td>
+													<td align="left" class="entry" startcol="5" valign="top">
+														<div class="para" style="margin-left:0px;"></div>
+													</td>
+													<td align="left" class="entry" startcol="6" valign="top">
+														<div class="para" style="margin-left:0px;"></div>
+													</td>
+													<td align="left" class="entry" startcol="7" valign="top">
+														<div class="para" style="margin-left:0px;"></div>
+													</td>
+													<td align="left" class="entry" startcol="8" valign="top">
+														<div class="para" style="margin-left:0px;"></div>
+													</td>
+												</tr>
+												<tr class="">
+													<td align="left" class="entry" startcol="1" valign="top">
+														<div class="para" style="margin-left:0px;"></div>
+													</td>
+													<td align="left" class="entry" startcol="2" valign="top">
+														<div class="para" style="margin-left:0px;">Single-family detached (square feet)</div>
+													</td>
+													<td align="center" class="entry" startcol="3" valign="top">
+														<div class="para" style="margin-left:0px;">NA</div>
+													</td>
+													<td align="center" class="entry" startcol="4" valign="top">
+														<div class="para" style="margin-left:0px;">40,000</div>
+													</td>
+													<td align="center" class="entry" startcol="5" valign="top">
+														<div class="para" style="margin-left:0px;">NA</div>
+													</td>
+													<td align="center" class="entry" startcol="6" valign="top">
+														<div class="para" style="margin-left:0px;">40,000</div>
+													</td>
+													<td align="center" class="entry" startcol="7" valign="top">
+														<div class="para" style="margin-left:0px;">NA</div>
+													</td>
+													<td align="center" class="entry" startcol="8" valign="top">
+														<div class="para" style="margin-left:0px;">40,000</div>
+													</td>
+												</tr>
+												<tr class="">
+													<td align="left" class="entry" startcol="1" valign="top">
+														<div class="para" style="margin-left:0px;"></div>
+													</td>
+													<td align="left" class="entry" startcol="2" valign="top">
+														<div class="para" style="margin-left:0px;">Single-family attached (square feet)</div>
+													</td>
+													<td align="center" class="entry" startcol="3" valign="top">
+														<div class="para" style="margin-left:0px;">NA</div>
+													</td>
+													<td align="center" class="entry" startcol="4" valign="top">
+														<div class="para" style="margin-left:0px;">40,000</div>
+													</td>
+													<td align="center" class="entry" startcol="5" valign="top">
+														<div class="para" style="margin-left:0px;">NA</div>
+													</td>
+													<td align="center" class="entry" startcol="6" valign="top">
+														<div class="para" style="margin-left:0px;">40,000</div>
+													</td>
+													<td align="center" class="entry" startcol="7" valign="top">
+														<div class="para" style="margin-left:0px;">NA</div>
+													</td>
+													<td align="center" class="entry" startcol="8" valign="top">
+														<div class="para" style="margin-left:0px;">NA</div>
+													</td>
+												</tr>
+												<tr class="">
+													<td align="left" class="entry" startcol="1" valign="top">
+														<div class="para" style="margin-left:0px;"></div>
+													</td>
+													<td align="left" class="entry" startcol="2" valign="top">
+														<div class="para" style="margin-left:0px;">Two-family (square feet)</div>
+													</td>
+													<td align="center" class="entry" startcol="3" valign="top">
+														<div class="para" style="margin-left:0px;">NA</div>
+													</td>
+													<td align="center" class="entry" startcol="4" valign="top">
+														<div class="para" style="margin-left:0px;">40,000</div>
+													</td>
+													<td align="center" class="entry" startcol="5" valign="top">
+														<div class="para" style="margin-left:0px;">NA</div>
+													</td>
+													<td align="center" class="entry" startcol="6" valign="top">
+														<div class="para" style="margin-left:0px;">NA</div>
+													</td>
+													<td align="center" class="entry" startcol="7" valign="top">
+														<div class="para" style="margin-left:0px;">NA</div>
+													</td>
+													<td align="center" class="entry" startcol="8" valign="top">
+														<div class="para" style="margin-left:0px;">40,000</div>
+													</td>
+												</tr>
+												<tr class="">
+													<td align="left" class="entry" startcol="1" valign="top">
+														<div class="para" style="margin-left:0px;"></div>
+													</td>
+													<td align="left" class="entry" startcol="2" valign="top">
+														<div class="para" style="margin-left:0px;">Multifamily (square feet)</div>
+													</td>
+													<td align="center" class="entry" startcol="3" valign="top">
+														<div class="para" style="margin-left:0px;">NA</div>
+													</td>
+													<td align="center" class="entry" startcol="4" valign="top">
+														<div class="para" style="margin-left:0px;">40,000</div>
+													</td>
+													<td align="center" class="entry" startcol="5" valign="top">
+														<div class="para" style="margin-left:0px;">NA</div>
+													</td>
+													<td align="center" class="entry" startcol="6" valign="top">
+														<div class="para" style="margin-left:0px;">NA</div>
+													</td>
+													<td align="center" class="entry" startcol="7" valign="top">
+														<div class="para" style="margin-left:0px;">NA</div>
+													</td>
+													<td align="center" class="entry" startcol="8" valign="top">
+														<div class="para" style="margin-left:0px;">NA</div>
+													</td>
+												</tr>
+												<tr class="">
+													<td align="left" class="entry" startcol="1" valign="top">
+														<div class="para" style="margin-left:0px;"></div>
+													</td>
+													<td align="left" class="entry" startcol="2" valign="top">
+														<div class="para" style="margin-left:0px;">Nonresidential uses (square feet)</div>
+													</td>
+													<td align="center" class="entry" startcol="3" valign="top">
+														<div class="para" style="margin-left:0px;">NA</div>
+													</td>
+													<td align="center" class="entry" startcol="4" valign="top">
+														<div class="para" style="margin-left:0px;">40,000</div>
+													</td>
+													<td align="center" class="entry" startcol="5" valign="top">
+														<div class="para" style="margin-left:0px;">NA</div>
+													</td>
+													<td align="center" class="entry" startcol="6" valign="top">
+														<div class="para" style="margin-left:0px;">40,000</div>
+													</td>
+													<td align="center" class="entry" startcol="7" valign="top">
+														<div class="para" style="margin-left:0px;">NA</div>
+													</td>
+													<td align="center" class="entry" startcol="8" valign="top">
+														<div class="para" style="margin-left:0px;">40,000</div>
+													</td>
+												</tr>
+												<tr class="">
+													<td align="left" class="entry" colspan="2" startcol="1" valign="top">
+														<div class="para" style="margin-left:0px;">Minimum lot width (with public water and sewer)</div>
+													</td>
+													<td align="left" class="entry" startcol="3" valign="top">
+														<div class="para" style="margin-left:0px;"></div>
+													</td>
+													<td align="left" class="entry" startcol="4" valign="top">
+														<div class="para" style="margin-left:0px;"></div>
+													</td>
+													<td align="left" class="entry" startcol="5" valign="top">
+														<div class="para" style="margin-left:0px;"></div>
+													</td>
+													<td align="left" class="entry" startcol="6" valign="top">
+														<div class="para" style="margin-left:0px;"></div>
+													</td>
+													<td align="left" class="entry" startcol="7" valign="top">
+														<div class="para" style="margin-left:0px;"></div>
+													</td>
+													<td align="left" class="entry" startcol="8" valign="top">
+														<div class="para" style="margin-left:0px;"></div>
+													</td>
+												</tr>
+												<tr class="">
+													<td align="left" class="entry" startcol="1" valign="top">
+														<div class="para" style="margin-left:0px;"></div>
+													</td>
+													<td align="left" class="entry" startcol="2" valign="top">
+														<div class="para" style="margin-left:0px;">Single-family detached (feet)</div>
+													</td>
+													<td align="center" class="entry" startcol="3" valign="top">
+														<div class="para" style="margin-left:0px;">40</div>
+													</td>
+													<td align="center" class="entry" startcol="4" valign="top">
+														<div class="para" style="margin-left:0px;">60</div>
+													</td>
+													<td align="center" class="entry" startcol="5" valign="top">
+														<div class="para" style="margin-left:0px;">40</div>
+													</td>
+													<td align="center" class="entry" startcol="6" valign="top">
+														<div class="para" style="margin-left:0px;">60</div>
+													</td>
+													<td align="center" class="entry" startcol="7" valign="top">
+														<div class="para" style="margin-left:0px;">40</div>
+													</td>
+													<td align="center" class="entry" startcol="8" valign="top">
+														<div class="para" style="margin-left:0px;">100</div>
+													</td>
+												</tr>
+												<tr class="">
+													<td align="left" class="entry" startcol="1" valign="top">
+														<div class="para" style="margin-left:0px;"></div>
+													</td>
+													<td align="left" class="entry" startcol="2" valign="top">
+														<div class="para" style="margin-left:0px;">Single-family attached (feet per dwelling unit)</div>
+													</td>
+													<td align="center" class="entry" startcol="3" valign="top">
+														<div class="para" style="margin-left:0px;">25</div>
+													</td>
+													<td align="center" class="entry" startcol="4" valign="top">
+														<div class="para" style="margin-left:0px;">35</div>
+													</td>
+													<td align="center" class="entry" startcol="5" valign="top">
+														<div class="para" style="margin-left:0px;">25</div>
+													</td>
+													<td align="center" class="entry" startcol="6" valign="top">
+														<div class="para" style="margin-left:0px;">35</div>
+													</td>
+													<td align="center" class="entry" startcol="7" valign="top">
+														<div class="para" style="margin-left:0px;">25</div>
+													</td>
+													<td align="center" class="entry" startcol="8" valign="top">
+														<div class="para" style="margin-left:0px;">NA</div>
+													</td>
+												</tr>
+												<tr class="">
+													<td align="left" class="entry" startcol="1" valign="top">
+														<div class="para" style="margin-left:0px;"></div>
+													</td>
+													<td align="left" class="entry" startcol="2" valign="top">
+														<div class="para" style="margin-left:0px;">Two-family (feet per dwelling unit)</div>
+													</td>
+													<td align="center" class="entry" startcol="3" valign="top">
+														<div class="para" style="margin-left:0px;">25</div>
+													</td>
+													<td align="center" class="entry" startcol="4" valign="top">
+														<div class="para" style="margin-left:0px;">35</div>
+													</td>
+													<td align="center" class="entry" startcol="5" valign="top">
+														<div class="para" style="margin-left:0px;">50</div>
+													</td>
+													<td align="center" class="entry" startcol="6" valign="top">
+														<div class="para" style="margin-left:0px;">NA</div>
+													</td>
+													<td align="center" class="entry" startcol="7" valign="top">
+														<div class="para" style="margin-left:0px;">25</div>
+													</td>
+													<td align="center" class="entry" startcol="8" valign="top">
+														<div class="para" style="margin-left:0px;">60</div>
+													</td>
+												</tr>
+												<tr class="">
+													<td align="left" class="entry" startcol="1" valign="top">
+														<div class="para" style="margin-left:0px;"></div>
+													</td>
+													<td align="left" class="entry" startcol="2" valign="top">
+														<div class="para" style="margin-left:0px;">Multifamily (feet per dwelling unit)</div>
+													</td>
+													<td align="center" class="entry" startcol="3" valign="top">
+														<div class="para" style="margin-left:0px;">25</div>
+													</td>
+													<td align="center" class="entry" startcol="4" valign="top">
+														<div class="para" style="margin-left:0px;">40</div>
+													</td>
+													<td align="center" class="entry" startcol="5" valign="top">
+														<div class="para" style="margin-left:0px;">NA</div>
+													</td>
+													<td align="center" class="entry" startcol="6" valign="top">
+														<div class="para" style="margin-left:0px;">NA</div>
+													</td>
+													<td align="center" class="entry" startcol="7" valign="top">
+														<div class="para" style="margin-left:0px;">NA</div>
+													</td>
+													<td align="center" class="entry" startcol="8" valign="top">
+														<div class="para" style="margin-left:0px;">NA</div>
+													</td>
+												</tr>
+												<tr class="">
+													<td align="left" class="entry" startcol="1" valign="top">
+														<div class="para" style="margin-left:0px;"></div>
+													</td>
+													<td align="left" class="entry" startcol="2" valign="top">
+														<div class="para" style="margin-left:0px;">Nonresidential uses (feet)</div>
+													</td>
+													<td align="center" class="entry" startcol="3" valign="top">
+														<div class="para" style="margin-left:0px;">40</div>
+													</td>
+													<td align="center" class="entry" startcol="4" valign="top">
+														<div class="para" style="margin-left:0px;">60</div>
+													</td>
+													<td align="center" class="entry" startcol="5" valign="top">
+														<div class="para" style="margin-left:0px;">60</div>
+													</td>
+													<td align="center" class="entry" startcol="6" valign="top">
+														<div class="para" style="margin-left:0px;">80</div>
+													</td>
+													<td align="center" class="entry" startcol="7" valign="top">
+														<div class="para" style="margin-left:0px;">40</div>
+													</td>
+													<td align="center" class="entry" startcol="8" valign="top">
+														<div class="para" style="margin-left:0px;">100</div>
+													</td>
+												</tr>
+												<tr class="">
+													<td align="left" class="entry" colspan="2" startcol="1" valign="top">
+														<div class="para" style="margin-left:0px;">Minimum lot width (no public water and/or sewer)</div>
+													</td>
+													<td align="left" class="entry" startcol="3" valign="top">
+														<div class="para" style="margin-left:0px;"></div>
+													</td>
+													<td align="left" class="entry" startcol="4" valign="top">
+														<div class="para" style="margin-left:0px;"></div>
+													</td>
+													<td align="left" class="entry" startcol="5" valign="top">
+														<div class="para" style="margin-left:0px;"></div>
+													</td>
+													<td align="left" class="entry" startcol="6" valign="top">
+														<div class="para" style="margin-left:0px;"></div>
+													</td>
+													<td align="left" class="entry" startcol="7" valign="top">
+														<div class="para" style="margin-left:0px;"></div>
+													</td>
+													<td align="left" class="entry" startcol="8" valign="top">
+														<div class="para" style="margin-left:0px;"></div>
+													</td>
+												</tr>
+												<tr class="">
+													<td align="left" class="entry" startcol="1" valign="top">
+														<div class="para" style="margin-left:0px;"></div>
+													</td>
+													<td align="left" class="entry" startcol="2" valign="top">
+														<div class="para" style="margin-left:0px;">Single-family detached (feet)</div>
+													</td>
+													<td align="center" class="entry" startcol="3" valign="top">
+														<div class="para" style="margin-left:0px;">NA</div>
+													</td>
+													<td align="center" class="entry" startcol="4" valign="top">
+														<div class="para" style="margin-left:0px;">100</div>
+													</td>
+													<td align="center" class="entry" startcol="5" valign="top">
+														<div class="para" style="margin-left:0px;">NA</div>
+													</td>
+													<td align="center" class="entry" startcol="6" valign="top">
+														<div class="para" style="margin-left:0px;">100</div>
+													</td>
+													<td align="center" class="entry" startcol="7" valign="top">
+														<div class="para" style="margin-left:0px;">NA</div>
+													</td>
+													<td align="center" class="entry" startcol="8" valign="top">
+														<div class="para" style="margin-left:0px;">100</div>
+													</td>
+												</tr>
+												<tr class="">
+													<td align="left" class="entry" startcol="1" valign="top">
+														<div class="para" style="margin-left:0px;"></div>
+													</td>
+													<td align="left" class="entry" startcol="2" valign="top">
+														<div class="para" style="margin-left:0px;">Single-family attached (feet per dwelling unit)</div>
+													</td>
+													<td align="center" class="entry" startcol="3" valign="top">
+														<div class="para" style="margin-left:0px;">NA</div>
+													</td>
+													<td align="center" class="entry" startcol="4" valign="top">
+														<div class="para" style="margin-left:0px;">60</div>
+													</td>
+													<td align="center" class="entry" startcol="5" valign="top">
+														<div class="para" style="margin-left:0px;">NA</div>
+													</td>
+													<td align="center" class="entry" startcol="6" valign="top">
+														<div class="para" style="margin-left:0px;">60</div>
+													</td>
+													<td align="center" class="entry" startcol="7" valign="top">
+														<div class="para" style="margin-left:0px;">NA</div>
+													</td>
+													<td align="center" class="entry" startcol="8" valign="top">
+														<div class="para" style="margin-left:0px;">NA</div>
+													</td>
+												</tr>
+												<tr class="">
+													<td align="left" class="entry" startcol="1" valign="top">
+														<div class="para" style="margin-left:0px;"></div>
+													</td>
+													<td align="left" class="entry" startcol="2" valign="top">
+														<div class="para" style="margin-left:0px;">Two-family (feet per dwelling unit)</div>
+													</td>
+													<td align="center" class="entry" startcol="3" valign="top">
+														<div class="para" style="margin-left:0px;">NA</div>
+													</td>
+													<td align="center" class="entry" startcol="4" valign="top">
+														<div class="para" style="margin-left:0px;">60</div>
+													</td>
+													<td align="center" class="entry" startcol="5" valign="top">
+														<div class="para" style="margin-left:0px;">NA</div>
+													</td>
+													<td align="center" class="entry" startcol="6" valign="top">
+														<div class="para" style="margin-left:0px;">NA</div>
+													</td>
+													<td align="center" class="entry" startcol="7" valign="top">
+														<div class="para" style="margin-left:0px;">NA</div>
+													</td>
+													<td align="center" class="entry" startcol="8" valign="top">
+														<div class="para" style="margin-left:0px;">60</div>
+													</td>
+												</tr>
+												<tr class="">
+													<td align="left" class="entry" startcol="1" valign="top">
+														<div class="para" style="margin-left:0px;"></div>
+													</td>
+													<td align="left" class="entry" startcol="2" valign="top">
+														<div class="para" style="margin-left:0px;">Multifamily (feet per dwelling unit)</div>
+													</td>
+													<td align="center" class="entry" startcol="3" valign="top">
+														<div class="para" style="margin-left:0px;">NA</div>
+													</td>
+													<td align="center" class="entry" startcol="4" valign="top">
+														<div class="para" style="margin-left:0px;">60</div>
+													</td>
+													<td align="center" class="entry" startcol="5" valign="top">
+														<div class="para" style="margin-left:0px;">NA</div>
+													</td>
+													<td align="center" class="entry" startcol="6" valign="top">
+														<div class="para" style="margin-left:0px;">NA</div>
+													</td>
+													<td align="center" class="entry" startcol="7" valign="top">
+														<div class="para" style="margin-left:0px;">NA</div>
+													</td>
+													<td align="center" class="entry" startcol="8" valign="top">
+														<div class="para" style="margin-left:0px;">NA</div>
+													</td>
+												</tr>
+												<tr class="">
+													<td align="left" class="entry" startcol="1" valign="top">
+														<div class="para" style="margin-left:0px;"></div>
+													</td>
+													<td align="left" class="entry" startcol="2" valign="top">
+														<div class="para" style="margin-left:0px;">Nonresidential uses (feet)</div>
+													</td>
+													<td align="center" class="entry" startcol="3" valign="top">
+														<div class="para" style="margin-left:0px;">NA</div>
+													</td>
+													<td align="center" class="entry" startcol="4" valign="top">
+														<div class="para" style="margin-left:0px;">100</div>
+													</td>
+													<td align="center" class="entry" startcol="5" valign="top">
+														<div class="para" style="margin-left:0px;">NA</div>
+													</td>
+													<td align="center" class="entry" startcol="6" valign="top">
+														<div class="para" style="margin-left:0px;">100</div>
+													</td>
+													<td align="center" class="entry" startcol="7" valign="top">
+														<div class="para" style="margin-left:0px;">NA</div>
+													</td>
+													<td align="center" class="entry" startcol="8" valign="top">
+														<div class="para" style="margin-left:0px;">100</div>
+													</td>
+												</tr>
+												<tr class="">
+													<td align="left" class="entry" colspan="2" startcol="1" valign="top">
+														<div class="para" style="margin-left:0px;">Minimum front setback</div>
+													</td>
+													<td align="left" class="entry" startcol="3" valign="top">
+														<div class="para" style="margin-left:0px;"></div>
+													</td>
+													<td align="left" class="entry" startcol="4" valign="top">
+														<div class="para" style="margin-left:0px;"></div>
+													</td>
+													<td align="left" class="entry" startcol="5" valign="top">
+														<div class="para" style="margin-left:0px;"></div>
+													</td>
+													<td align="left" class="entry" startcol="6" valign="top">
+														<div class="para" style="margin-left:0px;"></div>
+													</td>
+													<td align="left" class="entry" startcol="7" valign="top">
+														<div class="para" style="margin-left:0px;"></div>
+													</td>
+													<td align="left" class="entry" startcol="8" valign="top">
+														<div class="para" style="margin-left:0px;"></div>
+													</td>
+												</tr>
+												<tr class="">
+													<td align="left" class="entry" startcol="1" valign="top">
+														<div class="para" style="margin-left:0px;"></div>
+													</td>
+													<td align="left" class="entry" startcol="2" valign="top">
+														<div class="para" style="margin-left:0px;">Single-family detached (feet)</div>
+													</td>
+													<td align="center" class="entry" startcol="3" valign="top">
+														<div class="para" style="margin-left:0px;">20</div>
+													</td>
+													<td align="center" class="entry" startcol="4" valign="top">
+														<div class="para" style="margin-left:0px;">25</div>
+													</td>
+													<td align="center" class="entry" startcol="5" valign="top">
+														<div class="para" style="margin-left:0px;">25</div>
+													</td>
+													<td align="center" class="entry" startcol="6" valign="top">
+														<div class="para" style="margin-left:0px;">30</div>
+													</td>
+													<td align="center" class="entry" startcol="7" valign="top">
+														<div class="para" style="margin-left:0px;">25</div>
+													</td>
+													<td align="center" class="entry" startcol="8" valign="top">
+														<div class="para" style="margin-left:0px;">35</div>
+													</td>
+												</tr>
+												<tr class="">
+													<td align="left" class="entry" startcol="1" valign="top">
+														<div class="para" style="margin-left:0px;"></div>
+													</td>
+													<td align="left" class="entry" startcol="2" valign="top">
+														<div class="para" style="margin-left:0px;">Single-family attached (feet)</div>
+													</td>
+													<td align="center" class="entry" startcol="3" valign="top">
+														<div class="para" style="margin-left:0px;">20</div>
+													</td>
+													<td align="center" class="entry" startcol="4" valign="top">
+														<div class="para" style="margin-left:0px;">25</div>
+													</td>
+													<td align="center" class="entry" startcol="5" valign="top">
+														<div class="para" style="margin-left:0px;">25</div>
+													</td>
+													<td align="center" class="entry" startcol="6" valign="top">
+														<div class="para" style="margin-left:0px;">30</div>
+													</td>
+													<td align="center" class="entry" startcol="7" valign="top">
+														<div class="para" style="margin-left:0px;">25</div>
+													</td>
+													<td align="center" class="entry" startcol="8" valign="top">
+														<div class="para" style="margin-left:0px;">NA</div>
+													</td>
+												</tr>
+												<tr class="">
+													<td align="left" class="entry" startcol="1" valign="top">
+														<div class="para" style="margin-left:0px;"></div>
+													</td>
+													<td align="left" class="entry" startcol="2" valign="top">
+														<div class="para" style="margin-left:0px;">Two-family (feet)</div>
+													</td>
+													<td align="center" class="entry" startcol="3" valign="top">
+														<div class="para" style="margin-left:0px;">20</div>
+													</td>
+													<td align="center" class="entry" startcol="4" valign="top">
+														<div class="para" style="margin-left:0px;">25</div>
+													</td>
+													<td align="center" class="entry" startcol="5" valign="top">
+														<div class="para" style="margin-left:0px;">25</div>
+													</td>
+													<td align="center" class="entry" startcol="6" valign="top">
+														<div class="para" style="margin-left:0px;">NA</div>
+													</td>
+													<td align="center" class="entry" startcol="7" valign="top">
+														<div class="para" style="margin-left:0px;">25</div>
+													</td>
+													<td align="center" class="entry" startcol="8" valign="top">
+														<div class="para" style="margin-left:0px;">35</div>
+													</td>
+												</tr>
+												<tr class="">
+													<td align="left" class="entry" startcol="1" valign="top">
+														<div class="para" style="margin-left:0px;"></div>
+													</td>
+													<td align="left" class="entry" startcol="2" valign="top">
+														<div class="para" style="margin-left:0px;">Multifamily (feet)</div>
+													</td>
+													<td align="center" class="entry" startcol="3" valign="top">
+														<div class="para" style="margin-left:0px;">20</div>
+													</td>
+													<td align="center" class="entry" startcol="4" valign="top">
+														<div class="para" style="margin-left:0px;">25</div>
+													</td>
+													<td align="center" class="entry" startcol="5" valign="top">
+														<div class="para" style="margin-left:0px;">NA</div>
+													</td>
+													<td align="center" class="entry" startcol="6" valign="top">
+														<div class="para" style="margin-left:0px;">NA</div>
+													</td>
+													<td align="center" class="entry" startcol="7" valign="top">
+														<div class="para" style="margin-left:0px;">NA</div>
+													</td>
+													<td align="center" class="entry" startcol="8" valign="top">
+														<div class="para" style="margin-left:0px;">NA</div>
+													</td>
+												</tr>
+												<tr class="">
+													<td align="left" class="entry" startcol="1" valign="top">
+														<div class="para" style="margin-left:0px;"></div>
+													</td>
+													<td align="left" class="entry" startcol="2" valign="top">
+														<div class="para" style="margin-left:0px;">Nonresidential uses (feet)</div>
+													</td>
+													<td align="center" class="entry" startcol="3" valign="top">
+														<div class="para" style="margin-left:0px;">20</div>
+													</td>
+													<td align="center" class="entry" startcol="4" valign="top">
+														<div class="para" style="margin-left:0px;">25</div>
+													</td>
+													<td align="center" class="entry" startcol="5" valign="top">
+														<div class="para" style="margin-left:0px;">25</div>
+													</td>
+													<td align="center" class="entry" startcol="6" valign="top">
+														<div class="para" style="margin-left:0px;">30</div>
+													</td>
+													<td align="center" class="entry" startcol="7" valign="top">
+														<div class="para" style="margin-left:0px;">25</div>
+													</td>
+													<td align="center" class="entry" startcol="8" valign="top">
+														<div class="para" style="margin-left:0px;">35</div>
+													</td>
+												</tr>
+												<tr class="">
+													<td align="left" class="entry" colspan="2" startcol="1" valign="top">
+														<div class="para" style="margin-left:0px;">Minimum side setback</div>
+													</td>
+													<td align="left" class="entry" startcol="3" valign="top">
+														<div class="para" style="margin-left:0px;"></div>
+													</td>
+													<td align="left" class="entry" startcol="4" valign="top">
+														<div class="para" style="margin-left:0px;"></div>
+													</td>
+													<td align="left" class="entry" startcol="5" valign="top">
+														<div class="para" style="margin-left:0px;"></div>
+													</td>
+													<td align="left" class="entry" startcol="6" valign="top">
+														<div class="para" style="margin-left:0px;"></div>
+													</td>
+													<td align="left" class="entry" startcol="7" valign="top">
+														<div class="para" style="margin-left:0px;"></div>
+													</td>
+													<td align="left" class="entry" startcol="8" valign="top">
+														<div class="para" style="margin-left:0px;"></div>
+													</td>
+												</tr>
+												<tr class="">
+													<td align="left" class="entry" startcol="1" valign="top">
+														<div class="para" style="margin-left:0px;"></div>
+													</td>
+													<td align="left" class="entry" startcol="2" valign="top">
+														<div class="para" style="margin-left:0px;">Single-family detached (feet)</div>
+													</td>
+													<td align="center" class="entry" startcol="3" valign="top">
+														<div class="para" style="margin-left:0px;">5</div>
+													</td>
+													<td align="center" class="entry" startcol="4" valign="top">
+														<div class="para" style="margin-left:0px;">5</div>
+													</td>
+													<td align="center" class="entry" startcol="5" valign="top">
+														<div class="para" style="margin-left:0px;">5</div>
+													</td>
+													<td align="center" class="entry" startcol="6" valign="top">
+														<div class="para" style="margin-left:0px;">6</div>
+													</td>
+													<td align="center" class="entry" startcol="7" valign="top">
+														<div class="para" style="margin-left:0px;">5</div>
+													</td>
+													<td align="center" class="entry" startcol="8" valign="top">
+														<div class="para" style="margin-left:0px;">20</div>
+													</td>
+												</tr>
+												<tr class="">
+													<td align="left" class="entry" startcol="1" valign="top">
+														<div class="para" style="margin-left:0px;"></div>
+													</td>
+													<td align="left" class="entry" startcol="2" valign="top">
+														<div class="para" style="margin-left:0px;">Single-family attached (feet)</div>
+													</td>
+													<td align="center" class="entry" startcol="3" valign="top">
+														<div class="para" style="margin-left:0px;">5</div>
+													</td>
+													<td align="center" class="entry" startcol="4" valign="top">
+														<div class="para" style="margin-left:0px;">5</div>
+													</td>
+													<td align="center" class="entry" startcol="5" valign="top">
+														<div class="para" style="margin-left:0px;">5</div>
+													</td>
+													<td align="center" class="entry" startcol="6" valign="top">
+														<div class="para" style="margin-left:0px;">5</div>
+													</td>
+													<td align="center" class="entry" startcol="7" valign="top">
+														<div class="para" style="margin-left:0px;">5</div>
+													</td>
+													<td align="center" class="entry" startcol="8" valign="top">
+														<div class="para" style="margin-left:0px;">NA</div>
+													</td>
+												</tr>
+												<tr class="">
+													<td align="left" class="entry" startcol="1" valign="top">
+														<div class="para" style="margin-left:0px;"></div>
+													</td>
+													<td align="left" class="entry" startcol="2" valign="top">
+														<div class="para" style="margin-left:0px;">Two-family (feet)</div>
+													</td>
+													<td align="center" class="entry" startcol="3" valign="top">
+														<div class="para" style="margin-left:0px;">5</div>
+													</td>
+													<td align="center" class="entry" startcol="4" valign="top">
+														<div class="para" style="margin-left:0px;">10</div>
+													</td>
+													<td align="center" class="entry" startcol="5" valign="top">
+														<div class="para" style="margin-left:0px;">5 </div>
+													</td>
+													<td align="center" class="entry" startcol="6" valign="top">
+														<div class="para" style="margin-left:0px;">NA</div>
+													</td>
+													<td align="center" class="entry" startcol="7" valign="top">
+														<div class="para" style="margin-left:0px;">5</div>
+													</td>
+													<td align="center" class="entry" startcol="8" valign="top">
+														<div class="para" style="margin-left:0px;">20</div>
+													</td>
+												</tr>
+												<tr class="">
+													<td align="left" class="entry" startcol="1" valign="top">
+														<div class="para" style="margin-left:0px;"></div>
+													</td>
+													<td align="left" class="entry" startcol="2" valign="top">
+														<div class="para" style="margin-left:0px;">Multifamily (feet)</div>
+													</td>
+													<td align="center" class="entry" startcol="3" valign="top">
+														<div class="para" style="margin-left:0px;">10</div>
+													</td>
+													<td align="center" class="entry" startcol="4" valign="top">
+														<div class="para" style="margin-left:0px;">10</div>
+													</td>
+													<td align="center" class="entry" startcol="5" valign="top">
+														<div class="para" style="margin-left:0px;">NA</div>
+													</td>
+													<td align="center" class="entry" startcol="6" valign="top">
+														<div class="para" style="margin-left:0px;">NA</div>
+													</td>
+													<td align="center" class="entry" startcol="7" valign="top">
+														<div class="para" style="margin-left:0px;">NA</div>
+													</td>
+													<td align="center" class="entry" startcol="8" valign="top">
+														<div class="para" style="margin-left:0px;">NA</div>
+													</td>
+												</tr>
+												<tr class="">
+													<td align="left" class="entry" startcol="1" valign="top">
+														<div class="para" style="margin-left:0px;"></div>
+													</td>
+													<td align="left" class="entry" startcol="2" valign="top">
+														<div class="para" style="margin-left:0px;">Nonresidential uses (feet)</div>
+													</td>
+													<td align="center" class="entry" startcol="3" valign="top">
+														<div class="para" style="margin-left:0px;">10</div>
+													</td>
+													<td align="center" class="entry" startcol="4" valign="top">
+														<div class="para" style="margin-left:0px;">10</div>
+													</td>
+													<td align="center" class="entry" startcol="5" valign="top">
+														<div class="para" style="margin-left:0px;">20</div>
+													</td>
+													<td align="center" class="entry" startcol="6" valign="top">
+														<div class="para" style="margin-left:0px;">20</div>
+													</td>
+													<td align="center" class="entry" startcol="7" valign="top">
+														<div class="para" style="margin-left:0px;">20</div>
+													</td>
+													<td align="center" class="entry" startcol="8" valign="top">
+														<div class="para" style="margin-left:0px;">20</div>
+													</td>
+												</tr>
+												<tr class="">
+													<td align="left" class="entry" startcol="1" valign="top">
+														<div class="para" style="margin-left:0px;"></div>
+													</td>
+													<td align="left" class="entry" startcol="2" valign="top">
+														<div class="para" style="margin-left:0px;">All accessory uses (feet)</div>
+													</td>
+													<td align="center" class="entry" startcol="3" valign="top">
+														<div class="para" style="margin-left:0px;">5</div>
+													</td>
+													<td align="center" class="entry" startcol="4" valign="top">
+														<div class="para" style="margin-left:0px;">5</div>
+													</td>
+													<td align="center" class="entry" startcol="5" valign="top">
+														<div class="para" style="margin-left:0px;">5</div>
+													</td>
+													<td align="center" class="entry" startcol="6" valign="top">
+														<div class="para" style="margin-left:0px;">5</div>
+													</td>
+													<td align="center" class="entry" startcol="7" valign="top">
+														<div class="para" style="margin-left:0px;">5</div>
+													</td>
+													<td align="center" class="entry" startcol="8" valign="top">
+														<div class="para" style="margin-left:0px;">10</div>
+													</td>
+												</tr>
+												<tr class="">
+													<td align="left" class="entry" colspan="2" startcol="1" valign="top">
+														<div class="para" style="margin-left:0px;">Minimum rear setback</div>
+													</td>
+													<td align="left" class="entry" startcol="3" valign="top">
+														<div class="para" style="margin-left:0px;"></div>
+													</td>
+													<td align="left" class="entry" startcol="4" valign="top">
+														<div class="para" style="margin-left:0px;"></div>
+													</td>
+													<td align="left" class="entry" startcol="5" valign="top">
+														<div class="para" style="margin-left:0px;"></div>
+													</td>
+													<td align="left" class="entry" startcol="6" valign="top">
+														<div class="para" style="margin-left:0px;"></div>
+													</td>
+													<td align="left" class="entry" startcol="7" valign="top">
+														<div class="para" style="margin-left:0px;"></div>
+													</td>
+													<td align="left" class="entry" startcol="8" valign="top">
+														<div class="para" style="margin-left:0px;"></div>
+													</td>
+												</tr>
+												<tr class="">
+													<td align="left" class="entry" startcol="1" valign="top">
+														<div class="para" style="margin-left:0px;"></div>
+													</td>
+													<td align="left" class="entry" startcol="2" valign="top">
+														<div class="para" style="margin-left:0px;">Single-family detached (feet)</div>
+													</td>
+													<td align="center" class="entry" startcol="3" valign="top">
+														<div class="para" style="margin-left:0px;">25</div>
+													</td>
+													<td align="center" class="entry" startcol="4" valign="top">
+														<div class="para" style="margin-left:0px;">25</div>
+													</td>
+													<td align="center" class="entry" startcol="5" valign="top">
+														<div class="para" style="margin-left:0px;">25</div>
+													</td>
+													<td align="center" class="entry" startcol="6" valign="top">
+														<div class="para" style="margin-left:0px;">25</div>
+													</td>
+													<td align="center" class="entry" startcol="7" valign="top">
+														<div class="para" style="margin-left:0px;">25</div>
+													</td>
+													<td align="center" class="entry" startcol="8" valign="top">
+														<div class="para" style="margin-left:0px;">60</div>
+													</td>
+												</tr>
+												<tr class="">
+													<td align="left" class="entry" startcol="1" valign="top">
+														<div class="para" style="margin-left:0px;"></div>
+													</td>
+													<td align="left" class="entry" startcol="2" valign="top">
+														<div class="para" style="margin-left:0px;">Single-family attached (feet)</div>
+													</td>
+													<td align="center" class="entry" startcol="3" valign="top">
+														<div class="para" style="margin-left:0px;">25</div>
+													</td>
+													<td align="center" class="entry" startcol="4" valign="top">
+														<div class="para" style="margin-left:0px;">25</div>
+													</td>
+													<td align="center" class="entry" startcol="5" valign="top">
+														<div class="para" style="margin-left:0px;">25</div>
+													</td>
+													<td align="center" class="entry" startcol="6" valign="top">
+														<div class="para" style="margin-left:0px;">25</div>
+													</td>
+													<td align="center" class="entry" startcol="7" valign="top">
+														<div class="para" style="margin-left:0px;">25</div>
+													</td>
+													<td align="center" class="entry" startcol="8" valign="top">
+														<div class="para" style="margin-left:0px;">NA</div>
+													</td>
+												</tr>
+												<tr class="">
+													<td align="left" class="entry" startcol="1" valign="top">
+														<div class="para" style="margin-left:0px;"></div>
+													</td>
+													<td align="left" class="entry" startcol="2" valign="top">
+														<div class="para" style="margin-left:0px;">Two-family attached (feet)</div>
+													</td>
+													<td align="center" class="entry" startcol="3" valign="top">
+														<div class="para" style="margin-left:0px;">30</div>
+													</td>
+													<td align="center" class="entry" startcol="4" valign="top">
+														<div class="para" style="margin-left:0px;">30</div>
+													</td>
+													<td align="center" class="entry" startcol="5" valign="top">
+														<div class="para" style="margin-left:0px;">25</div>
+													</td>
+													<td align="center" class="entry" startcol="6" valign="top">
+														<div class="para" style="margin-left:0px;">NA</div>
+													</td>
+													<td align="center" class="entry" startcol="7" valign="top">
+														<div class="para" style="margin-left:0px;">30</div>
+													</td>
+													<td align="center" class="entry" startcol="8" valign="top">
+														<div class="para" style="margin-left:0px;">60</div>
+													</td>
+												</tr>
+												<tr class="">
+													<td align="left" class="entry" startcol="1" valign="top">
+														<div class="para" style="margin-left:0px;"></div>
+													</td>
+													<td align="left" class="entry" startcol="2" valign="top">
+														<div class="para" style="margin-left:0px;">Multifamily (feet)</div>
+													</td>
+													<td align="center" class="entry" startcol="3" valign="top">
+														<div class="para" style="margin-left:0px;">30</div>
+													</td>
+													<td align="center" class="entry" startcol="4" valign="top">
+														<div class="para" style="margin-left:0px;">30</div>
+													</td>
+													<td align="center" class="entry" startcol="5" valign="top">
+														<div class="para" style="margin-left:0px;">NA</div>
+													</td>
+													<td align="center" class="entry" startcol="6" valign="top">
+														<div class="para" style="margin-left:0px;">NA</div>
+													</td>
+													<td align="center" class="entry" startcol="7" valign="top">
+														<div class="para" style="margin-left:0px;">NA</div>
+													</td>
+													<td align="center" class="entry" startcol="8" valign="top">
+														<div class="para" style="margin-left:0px;">NA</div>
+													</td>
+												</tr>
+												<tr class="">
+													<td align="left" class="entry" startcol="1" valign="top">
+														<div class="para" style="margin-left:0px;"></div>
+													</td>
+													<td align="left" class="entry" startcol="2" valign="top">
+														<div class="para" style="margin-left:0px;">Nonresidential uses (feet)</div>
+													</td>
+													<td align="center" class="entry" startcol="3" valign="top">
+														<div class="para" style="margin-left:0px;">30</div>
+													</td>
+													<td align="center" class="entry" startcol="4" valign="top">
+														<div class="para" style="margin-left:0px;">30</div>
+													</td>
+													<td align="center" class="entry" startcol="5" valign="top">
+														<div class="para" style="margin-left:0px;">40</div>
+													</td>
+													<td align="center" class="entry" startcol="6" valign="top">
+														<div class="para" style="margin-left:0px;">40</div>
+													</td>
+													<td align="center" class="entry" startcol="7" valign="top">
+														<div class="para" style="margin-left:0px;">40</div>
+													</td>
+													<td align="center" class="entry" startcol="8" valign="top">
+														<div class="para" style="margin-left:0px;">60</div>
+													</td>
+												</tr>
+												<tr class="">
+													<td align="left" class="entry" startcol="1" valign="top">
+														<div class="para" style="margin-left:0px;"></div>
+													</td>
+													<td align="left" class="entry" startcol="2" valign="top">
+														<div class="para" style="margin-left:0px;">All accessory uses (feet)</div>
+													</td>
+													<td align="center" class="entry" startcol="3" valign="top">
+														<div class="para" style="margin-left:0px;">5</div>
+													</td>
+													<td align="center" class="entry" startcol="4" valign="top">
+														<div class="para" style="margin-left:0px;">5</div>
+													</td>
+													<td align="center" class="entry" startcol="5" valign="top">
+														<div class="para" style="margin-left:0px;">5</div>
+													</td>
+													<td align="center" class="entry" startcol="6" valign="top">
+														<div class="para" style="margin-left:0px;">5</div>
+													</td>
+													<td align="center" class="entry" startcol="7" valign="top">
+														<div class="para" style="margin-left:0px;">5</div>
+													</td>
+													<td align="center" class="entry" startcol="8" valign="top">
+														<div class="para" style="margin-left:0px;">10</div>
+													</td>
+												</tr>
+											</tbody>
+										</table>
+									</div>
+									<div class="codeTable " style="border-color:">
+										<table class=" frame frameNone">
+											<colgroup>
+												<col style="width: 7%">
+													<col style="width: 6%">
+														<col style="width: 87%">
+														</colgroup>
+														<thead valign="bottom">
+															<tr class="">
+																<th align="left" class="entry" scope="col" startcol="1" valign="top">
+																	<div class="para" style="margin-left:0px;"></div>
+																</th>
+																<th align="left" class="entry" colspan="2" scope="col" startcol="2" valign="top">
+																	<div class="para" style="margin-left:0px;">NOTES:</div>
+																</th>
+															</tr>
+														</thead>
+														<tbody valign="top">
+															<tr class="">
+																<td align="left" class="entry" startcol="1" valign="top">
+																	<div class="para" style="margin-left:0px;"></div>
+																</td>
+																<td align="left" class="entry" startcol="2" valign="top">
+																	<div class="para" style="margin-left:0px;">
+																		<sup class="superscript">(1)</sup>
+																	</div>
+																</td>
+																<td align="justify" class="entry" startcol="3" valign="top">
+																	<div class="para" style="margin-left:0px;">Or the most common lot size on the block in which the lot is located.</div>
+																</td>
+															</tr>
+														</tbody>
+													</table>
+												</div>
+												<div class="footnotes"></div>
+											</div>

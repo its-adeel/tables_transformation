@@ -18,8 +18,8 @@ gets caught immediately instead of weeks later.
 
 WORKFLOW
 --------
-    python run_regression.py              # check every case against golden
-    python run_regression.py --accept     # re-freeze goldens after you have
+    python regression_test.py              # check every case against golden
+    python regression_test.py --accept     # re-freeze goldens after you have
                                           # REVIEWED the diffs and agree the
                                           # new output is correct
 

@@ -1,0 +1,840 @@
+<table class="thead3 table left makeExpandableTable makeFixedTable" cellpadding="3" cellspacing="0" border="1" rules="all">
+                     <colgroup class="std">
+                        <col width="11.627906976744185%">
+                        <col width="2.3255813953488373%">
+                        <col width="2.3255813953488373%">
+                        <col width="2.3255813953488373%">
+                        <col width="2.3255813953488373%">
+                        <col width="2.3255813953488373%">
+                        <col width="2.3255813953488373%">
+                        <col width="2.3255813953488373%">
+                        <col width="2.3255813953488373%">
+                        <col width="2.3255813953488373%">
+                        <col width="2.3255813953488373%">
+                        <col width="2.3255813953488373%">
+                        <col width="2.3255813953488373%">
+                        <col width="2.3255813953488373%">
+                        <col width="2.3255813953488373%">
+                        <col width="2.3255813953488373%">
+                        <col width="2.3255813953488373%">
+                        <col width="2.3255813953488373%">
+                        <col width="2.3255813953488373%">
+                        <col width="2.3255813953488373%">
+                        <col width="2.3255813953488373%">
+                        <col width="2.3255813953488373%">
+                        <col width="2.3255813953488373%">
+                        <col width="2.3255813953488373%">
+                        <col width="2.3255813953488373%">
+                        <col width="2.3255813953488373%">
+                        <col width="2.3255813953488373%">
+                        <col width="2.3255813953488373%">
+                        <col width="2.3255813953488373%">
+                        <col width="2.3255813953488373%">
+                        <col width="2.3255813953488373%">
+                        <col width="2.3255813953488373%">
+                        <col width="2.3255813953488373%">
+                        <col width="2.3255813953488373%">
+                        <col width="2.3255813953488373%">
+                        <col width="4.651162790697675%">
+                        <col width="4.651162790697675%">
+                     </colgroup>
+                     <thead><tr>
+                           <th colspan="37" class="center  top ">
+                              SECTION 204.1—RESIDENTIAL USE CHART
+                              </th>
+                        </tr><tr>
+                           <th colspan="37" class="center  top ">
+                              Zoning Districts
+                              </th>
+                        </tr><tr>
+                           <th class=" top ">
+                              Land Uses
+                              </th>
+                           <th class="cw270  top ">
+                              <div>
+                                 SF6
+                                 </div>
+                           </th>
+                           <th class="cw270  top ">
+                              <div>
+                                 MSF6
+                                 </div>
+                           </th>
+                           <th class="cw270  top ">
+                              <div>
+                                 SF14.5/SF10/SF8.5/SF 7
+                                 </div>
+                           </th>
+                           <th class="cw270  top ">
+                              <div>
+                                 MSF14.5/MSF10/MSF8.5/MSF7
+                                 </div>
+                           </th>
+                           <th class="cw270  top ">
+                              <div>
+                                 SF 20
+                                 </div>
+                           </th>
+                           <th class="cw270  top ">
+                              <div>
+                                 MSF20
+                                 </div>
+                           </th>
+                           <th class="cw270  top ">
+                              <div>
+                                 SF40
+                                 </div>
+                           </th>
+                           <th class="cw270  top ">
+                              <div>
+                                 MSF40
+                                 </div>
+                           </th>
+                           <th class="cw270  top ">
+                              <div>
+                                 GR
+                                 <sup>
+                                    *
+                                    </sup>
+                                 </div>
+                           </th>
+                           <th class="cw270  top ">
+                              <div>
+                                 GRn
+                                 <sup>
+                                    *
+                                    </sup>
+                                 </div>
+                           </th>
+                           <th class="cw270  top ">
+                              <div>
+                                 MHP
+                                 </div>
+                           </th>
+                           <th class="cw270  top ">
+                              <div>
+                                 RR
+                                 <sup>
+                                    *
+                                    </sup>
+                                 </div>
+                           </th>
+                           <th class="cw270  top ">
+                              <div>
+                                 RH
+                                 </div>
+                           </th>
+                           <th class="cw270  top ">
+                              <div>
+                                 LFA
+                                 <sup>
+                                    *
+                                    </sup>
+                                 </div>
+                           </th>
+                           <th class="cw270  top ">
+                              <div>
+                                 FA
+                                 <sup>
+                                    *
+                                    </sup>
+                                 </div>
+                           </th>
+                           <th class="cw270  top ">
+                              <div>
+                                 CFA
+                                 <sup>
+                                    *
+                                    </sup>
+                                 </div>
+                           </th>
+                           <th class="cw270  top ">
+                              <div>
+                                 RE
+                                 </div>
+                           </th>
+                           <th class="cw270  top ">
+                              <div>
+                                 AG1
+                                 </div>
+                           </th>
+                           <th class="cw270  top ">
+                              <div>
+                                 AG2
+                                 </div>
+                           </th>
+                           <th class="cw270  top ">
+                              <div>
+                                 AG3
+                                 </div>
+                           </th>
+                           <th class="cw270  top ">
+                              <div>
+                                 AG4/AG6
+                                 </div>
+                           </th>
+                           <th class="cw270  top ">
+                              <div>
+                                 AG5/AG7
+                                 </div>
+                           </th>
+                           <th class="cw270  top ">
+                              <div>
+                                 NC
+                                 <sup>
+                                    *
+                                    </sup>
+                                 </div>
+                           </th>
+                           <th class="cw270  top ">
+                              <div>
+                                 CC
+                                 <sup>
+                                    *
+                                    </sup>
+                                 </div>
+                           </th>
+                           <th class="cw270  top ">
+                              <div>
+                                 CR
+                                 <sup>
+                                    *
+                                    </sup>
+                                 /TRS
+                                 <sup>
+                                    *
+                                    </sup>
+                                 /RCS
+                                 <sup>
+                                    *
+                                    </sup>
+                                 </div>
+                           </th>
+                           <th class="cw270  top ">
+                              <div>
+                                 HC
+                                 <sup>
+                                    *
+                                    </sup>
+                                 </div>
+                           </th>
+                           <th class="cw270  top ">
+                              <div>
+                                 RE1
+                                 </div>
+                           </th>
+                           <th class="cw270  top ">
+                              <div>
+                                 RE2
+                                 </div>
+                           </th>
+                           <th class="cw270  top ">
+                              <div>
+                                 RE3
+                                 </div>
+                           </th>
+                           <th class="cw270  top ">
+                              <div>
+                                 OPI
+                                 <sup>
+                                    *
+                                    </sup>
+                                 </div>
+                           </th>
+                           <th class="cw270  top ">
+                              <div>
+                                 EIO
+                                 <sup>
+                                    *
+                                    </sup>
+                                 </div>
+                           </th>
+                           <th class="cw270  top ">
+                              <div>
+                                 PR1/PR2
+                                 </div>
+                           </th>
+                           <th class="cw270  top ">
+                              <div>
+                                 RC
+                                 <sup>
+                                    *
+                                    </sup>
+                                 </div>
+                           </th>
+                           <th class="cw270  top ">
+                              <div>
+                                 DP
+                                 </div>
+                           </th>
+                           <th class="cw270  top ">
+                              <div>
+                                 Conditional Uses
+                                 </div>
+                           </th>
+                           <th class="cw270  top ">
+                              <div>
+                                 Special Exception Uses
+                                 </div>
+                           </th>
+                        </tr></thead><tbody>
+                        
+                        
+                        
+                        <tr>
+                           <td class=" top ">
+                              Duplex
+                              </td>
+                           <td class=" top ">
+                              P
+                              </td>
+                           <td class=" top ">
+                              P
+                              </td>
+                           <td class=" top "></td>
+                           <td class=" top "></td>
+                           <td class=" top "></td>
+                           <td class=" top "></td>
+                           <td class=" top "></td>
+                           <td class=" top "></td>
+                           <td class=" top ">
+                              P
+                              </td>
+                           <td class=" top ">
+                              P
+                              </td>
+                           <td class=" top "></td>
+                           <td class=" top ">
+                              P
+                              </td>
+                           <td class=" top "></td>
+                           <td class=" top "></td>
+                           <td class=" top "></td>
+                           <td class=" top "></td>
+                           <td class=" top "></td>
+                           <td class=" top "></td>
+                           <td class=" top "></td>
+                           <td class=" top "></td>
+                           <td class=" top "></td>
+                           <td class=" top "></td>
+                           <td class=" top "></td>
+                           <td class=" top "></td>
+                           <td class=" top ">
+                              P
+                              </td>
+                           <td class=" top "></td>
+                           <td class=" top "></td>
+                           <td class=" top "></td>
+                           <td class=" top "></td>
+                           <td class=" top "></td>
+                           <td class=" top ">
+                              P
+                              </td>
+                           <td class=" top "></td>
+                           <td class=" top ">
+                              P
+                              </td>
+                           <td class=" top "></td>
+                           <td class=" top "></td>
+                           <td class=" top "></td>
+                        </tr>
+                        <tr>
+                           <td class=" top ">
+                              Manufactur-
+                              <br>
+                              ed Homes
+                              </td>
+                           <td class=" top "></td>
+                           <td class=" top ">
+                              P
+                              </td>
+                           <td class=" top "></td>
+                           <td class=" top ">
+                              P
+                              </td>
+                           <td class=" top "></td>
+                           <td class=" top ">
+                              P
+                              </td>
+                           <td class=" top "></td>
+                           <td class=" top ">
+                              P
+                              </td>
+                           <td class=" top "></td>
+                           <td class=" top "></td>
+                           <td class=" top ">
+                              P
+                              </td>
+                           <td class=" top "></td>
+                           <td class=" top "></td>
+                           <td class=" top ">
+                              P
+                              </td>
+                           <td class=" top ">
+                              P
+                              </td>
+                           <td class=" top ">
+                              P
+                              </td>
+                           <td class=" top "></td>
+                           <td class=" top ">
+                              P
+                              </td>
+                           <td class=" top ">
+                              P
+                              </td>
+                           <td class=" top "></td>
+                           <td class=" top "></td>
+                           <td class=" top ">
+                              P
+                              </td>
+                           <td class=" top "></td>
+                           <td class=" top "></td>
+                           <td class=" top "></td>
+                           <td class=" top "></td>
+                           <td class=" top "></td>
+                           <td class=" top "></td>
+                           <td class=" top "></td>
+                           <td class=" top "></td>
+                           <td class=" top "></td>
+                           <td class=" top "></td>
+                           <td class=" top "></td>
+                           <td class=" top "></td>
+                           <td class=" top "></td>
+                           <td class=" top "></td>
+                        </tr>
+                        <tr>
+                           <td class=" top ">
+                              Multi-family
+                              </td>
+                           <td class=" top "></td>
+                           <td class=" top "></td>
+                           <td class=" top "></td>
+                           <td class=" top "></td>
+                           <td class=" top "></td>
+                           <td class=" top "></td>
+                           <td class=" top "></td>
+                           <td class=" top "></td>
+                           <td class=" top ">
+                              P
+                              </td>
+                           <td class=" top ">
+                              P
+                              </td>
+                           <td class=" top "></td>
+                           <td class=" top ">
+                              P
+                              </td>
+                           <td class=" top ">
+                              P
+                              </td>
+                           <td class=" top "></td>
+                           <td class=" top "></td>
+                           <td class=" top "></td>
+                           <td class=" top "></td>
+                           <td class=" top "></td>
+                           <td class=" top "></td>
+                           <td class=" top "></td>
+                           <td class=" top "></td>
+                           <td class=" top "></td>
+                           <td class=" top "></td>
+                           <td class=" top "></td>
+                           <td class=" top ">
+                              P
+                              </td>
+                           <td class=" top "></td>
+                           <td class=" top "></td>
+                           <td class=" top ">
+                              P
+                              </td>
+                           <td class=" top "></td>
+                           <td class=" top "></td>
+                           <td class=" top ">
+                              P
+                              </td>
+                           <td class=" top "></td>
+                           <td class=" top ">
+                              P
+                              </td>
+                           <td class=" top "></td>
+                           <td class=" top "></td>
+                           <td class=" top "></td>
+                        </tr>
+                        <tr>
+                           <td class=" top ">
+                              Multiple single-family homes on one parcel
+                              </td>
+                           <td class=" top "></td>
+                           <td class=" top "></td>
+                           <td class=" top "></td>
+                           <td class=" top "></td>
+                           <td class=" top "></td>
+                           <td class=" top "></td>
+                           <td class=" top "></td>
+                           <td class=" top "></td>
+                           <td class=" top "></td>
+                           <td class=" top "></td>
+                           <td class=" top "></td>
+                           <td class=" top "></td>
+                           <td class=" top "></td>
+                           <td class=" top ">
+                              C
+                              </td>
+                           <td class=" top ">
+                              C
+                              </td>
+                           <td class=" top ">
+                              C
+                              </td>
+                           <td class=" top ">
+                              C
+                              </td>
+                           <td class=" top ">
+                              C
+                              </td>
+                           <td class=" top "></td>
+                           <td class=" top "></td>
+                           <td class=" top "></td>
+                           <td class=" top "></td>
+                           <td class=" top "></td>
+                           <td class=" top "></td>
+                           <td class=" top "></td>
+                           <td class=" top "></td>
+                           <td class=" top "></td>
+                           <td class=" top "></td>
+                           <td class=" top "></td>
+                           <td class=" top "></td>
+                           <td class=" top "></td>
+                           <td class=" top "></td>
+                           <td class=" top "></td>
+                           <td class=" top "></td>
+                           <td class=" top ">
+                              917
+                              </td>
+                           <td class=" top "></td>
+                        </tr>
+                        <tr>
+                           <td class=" top ">
+                              Patio Home
+                              </td>
+                           <td class=" top "></td>
+                           <td class=" top "></td>
+                           <td class=" top "></td>
+                           <td class=" top "></td>
+                           <td class=" top "></td>
+                           <td class=" top "></td>
+                           <td class=" top "></td>
+                           <td class=" top "></td>
+                           <td class=" top ">
+                              C
+                              </td>
+                           <td class=" top ">
+                              C
+                              </td>
+                           <td class=" top "></td>
+                           <td class=" top "></td>
+                           <td class=" top "></td>
+                           <td class=" top "></td>
+                           <td class=" top "></td>
+                           <td class=" top "></td>
+                           <td class=" top "></td>
+                           <td class=" top "></td>
+                           <td class=" top "></td>
+                           <td class=" top "></td>
+                           <td class=" top "></td>
+                           <td class=" top "></td>
+                           <td class=" top "></td>
+                           <td class=" top "></td>
+                           <td class=" top ">
+                              C
+                              </td>
+                           <td class=" top "></td>
+                           <td class=" top "></td>
+                           <td class=" top "></td>
+                           <td class=" top "></td>
+                           <td class=" top "></td>
+                           <td class=" top ">
+                              C
+                              </td>
+                           <td class=" top "></td>
+                           <td class=" top "></td>
+                           <td class=" top "></td>
+                           <td class=" top ">
+                              921
+                              </td>
+                           <td class=" top "></td>
+                        </tr>
+                        <tr>
+                           <td class=" top ">
+                              Quadruplex
+                              </td>
+                           <td class=" top "></td>
+                           <td class=" top "></td>
+                           <td class=" top "></td>
+                           <td class=" top "></td>
+                           <td class=" top "></td>
+                           <td class=" top "></td>
+                           <td class=" top "></td>
+                           <td class=" top "></td>
+                           <td class=" top ">
+                              P
+                              </td>
+                           <td class=" top ">
+                              P
+                              </td>
+                           <td class=" top "></td>
+                           <td class=" top ">
+                              P
+                              </td>
+                           <td class=" top ">
+                              P
+                              </td>
+                           <td class=" top "></td>
+                           <td class=" top "></td>
+                           <td class=" top "></td>
+                           <td class=" top "></td>
+                           <td class=" top "></td>
+                           <td class=" top "></td>
+                           <td class=" top "></td>
+                           <td class=" top "></td>
+                           <td class=" top "></td>
+                           <td class=" top "></td>
+                           <td class=" top "></td>
+                           <td class=" top ">
+                              P
+                              </td>
+                           <td class=" top "></td>
+                           <td class=" top "></td>
+                           <td class=" top ">
+                              P
+                              </td>
+                           <td class=" top "></td>
+                           <td class=" top "></td>
+                           <td class=" top ">
+                              P
+                              </td>
+                           <td class=" top "></td>
+                           <td class=" top ">
+                              P
+                              </td>
+                           <td class=" top "></td>
+                           <td class=" top "></td>
+                           <td class=" top "></td>
+                        </tr>
+                        <tr>
+                           <td class=" top ">
+                              Semi-detached
+                              </td>
+                           <td class=" top ">
+                              P
+                              </td>
+                           <td class=" top ">
+                              P
+                              </td>
+                           <td class=" top "></td>
+                           <td class=" top "></td>
+                           <td class=" top "></td>
+                           <td class=" top "></td>
+                           <td class=" top "></td>
+                           <td class=" top "></td>
+                           <td class=" top ">
+                              P
+                              </td>
+                           <td class=" top ">
+                              P
+                              </td>
+                           <td class=" top "></td>
+                           <td class=" top "></td>
+                           <td class=" top "></td>
+                           <td class=" top "></td>
+                           <td class=" top "></td>
+                           <td class=" top "></td>
+                           <td class=" top "></td>
+                           <td class=" top "></td>
+                           <td class=" top "></td>
+                           <td class=" top "></td>
+                           <td class=" top "></td>
+                           <td class=" top "></td>
+                           <td class=" top "></td>
+                           <td class=" top "></td>
+                           <td class=" top "></td>
+                           <td class=" top "></td>
+                           <td class=" top "></td>
+                           <td class=" top "></td>
+                           <td class=" top "></td>
+                           <td class=" top "></td>
+                           <td class=" top "></td>
+                           <td class=" top "></td>
+                           <td class=" top "></td>
+                           <td class=" top "></td>
+                           <td class=" top "></td>
+                           <td class=" top "></td>
+                        </tr>
+                        <tr>
+                           <td class=" top ">
+                              Single Family
+                              </td>
+                           <td class=" top ">
+                              P
+                              </td>
+                           <td class=" top ">
+                              P
+                              </td>
+                           <td class=" top ">
+                              P
+                              </td>
+                           <td class=" top ">
+                              P
+                              </td>
+                           <td class=" top ">
+                              P
+                              </td>
+                           <td class=" top ">
+                              P
+                              </td>
+                           <td class=" top ">
+                              P
+                              </td>
+                           <td class=" top ">
+                              P
+                              </td>
+                           <td class=" top ">
+                              P
+                              </td>
+                           <td class=" top ">
+                              P
+                              </td>
+                           <td class=" top ">
+                              C
+                              </td>
+                           <td class=" top ">
+                              P
+                              </td>
+                           <td class=" top "></td>
+                           <td class=" top ">
+                              P
+                              </td>
+                           <td class=" top ">
+                              P
+                              </td>
+                           <td class=" top ">
+                              P
+                              </td>
+                           <td class=" top ">
+                              P
+                              </td>
+                           <td class=" top ">
+                              P
+                              </td>
+                           <td class=" top ">
+                              P
+                              </td>
+                           <td class=" top "></td>
+                           <td class=" top ">
+                              P
+                              </td>
+                           <td class=" top ">
+                              P
+                              </td>
+                           <td class=" top ">
+                              P
+                              </td>
+                           <td class=" top ">
+                              P
+                              </td>
+                           <td class=" top ">
+                              P
+                              </td>
+                           <td class=" top ">
+                              P
+                              </td>
+                           <td class=" top ">
+                              P
+                              </td>
+                           <td class=" top "></td>
+                           <td class=" top "></td>
+                           <td class=" top ">
+                              P
+                              </td>
+                           <td class=" top ">
+                              P
+                              </td>
+                           <td class=" top "></td>
+                           <td class=" top ">
+                              P
+                              </td>
+                           <td class=" top ">
+                              P
+                              </td>
+                           <td class=" top ">
+                              931
+                              </td>
+                           <td class=" top "></td>
+                        </tr>
+                        <tr>
+                           <td class=" top ">
+                              Townhouse
+                              </td>
+                           <td class=" top "></td>
+                           <td class=" top "></td>
+                           <td class=" top "></td>
+                           <td class=" top "></td>
+                           <td class=" top "></td>
+                           <td class=" top "></td>
+                           <td class=" top "></td>
+                           <td class=" top "></td>
+                           <td class=" top ">
+                              P
+                              </td>
+                           <td class=" top ">
+                              P
+                              </td>
+                           <td class=" top "></td>
+                           <td class=" top ">
+                              P
+                              </td>
+                           <td class=" top ">
+                              P
+                              </td>
+                           <td class=" top "></td>
+                           <td class=" top "></td>
+                           <td class=" top ">
+                              P
+                              </td>
+                           <td class=" top "></td>
+                           <td class=" top "></td>
+                           <td class=" top "></td>
+                           <td class=" top "></td>
+                           <td class=" top "></td>
+                           <td class=" top "></td>
+                           <td class=" top "></td>
+                           <td class=" top "></td>
+                           <td class=" top ">
+                              P
+                              </td>
+                           <td class=" top "></td>
+                           <td class=" top "></td>
+                           <td class=" top ">
+                              P
+                              </td>
+                           <td class=" top "></td>
+                           <td class=" top "></td>
+                           <td class=" top ">
+                              P
+                              </td>
+                           <td class=" top "></td>
+                           <td class=" top ">
+                              P
+                              </td>
+                           <td class=" top "></td>
+                           <td class=" top "></td>
+                           <td class=" top "></td>
+                        </tr>
+                        <tr>
+                           <td colspan="37" class=" top ">
+                              * = Retired Zoning District   P = Permitted Use   C = Conditional Use   SE = Special
+                              Exception
+                              </td>
+                        </tr>
+                     </tbody>
+                  </table>

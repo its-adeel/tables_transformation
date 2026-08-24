@@ -1,0 +1,974 @@
+<article>
+	<header>
+		<div data-component="h2" class="contentTitle barTitle sectionTitle 47331888" id="47331888" data-guid="47331888" data-position="1957" data-full-title="§ 9-7-2.2: USE TABLE:" data-code-content-type="section">
+			<span class="MuiButtonBase-root MuiCheckbox-root MuiCheckbox-colorPrimary MuiCheckbox-sizeSmall PrivateSwitchBase-root MuiCheckbox-root MuiCheckbox-colorPrimary MuiCheckbox-sizeSmall MuiCheckbox-root MuiCheckbox-colorPrimary MuiCheckbox-sizeSmall content-selection-checkbox css-1saiggz" title="Select § 9-7-2.2" style="margin-top: 0px; padding: 0px;">
+				<input id="guid_47331888_content_checkbox" data-indeterminate="false" aria-checked="false" aria-labelledby="guid_47331888_content_link" class="PrivateSwitchBase-input css-j8yymo" type="checkbox" name="guid_47331888_content_checkbox">
+					<svg class="MuiSvgIcon-root MuiSvgIcon-fontSizeSmall css-1jwrlpo" focusable="false" aria-hidden="true" viewBox="0 0 24 24">
+						<path d="M19 5v14H5V5h14m0-2H5c-1.1 0-2 .9-2 2v14c0 1.1.9 2 2 2h14c1.1 0 2-.9 2-2V5c0-1.1-.9-2-2-2z"></path>
+					</svg>
+				</span>
+				<h2 class="titleHeading">
+					<div class="titleLinkAndFootnotes">
+						<a id="guid_47331888_content_link" href="#47331888" class="titleLink">
+							<span class="titleNumber">§ 9-7-2.2</span>
+							<span class="titleTitle" data-guid="47331888">
+USE TABLE:    </span>
+						</a>
+					</div>
+					<div class="schemeIcons"></div>
+				</h2>
+			</div>
+		</header>
+		<div class="notes" id="notes-47331888" data-guid="47331888">
+			<div></div>
+		</div>
+		<div id="questions-47331888" data-guid="47331888" class="questions"></div>
+		<div class="section_content content" id="47331888_content" title-footnotes="0">
+			<div class="para">If a use is not specifically designated then it is prohibited.</div>
+			<div class="codeTable lightGrayHead tableV2 defaultBorders #e0e0e0" style="border-color:#e0e0e0">
+				<table class="lightGrayHead frame frameAll stickyTable" style="border-color:#e0e0e0; font-size: 100%;" tabstyle="lightGrayHead">
+					<colgroup>
+						<col style="width: 34%">
+							<col style="width: 15%">
+								<col style="width: 19%">
+									<col style="width: 17%">
+										<col style="width: 15%">
+										</colgroup>
+										<thead valign="bottom">
+											<tr class="">
+												<th align="center" class="entry borderBottom" colspan="5" scope="col" startcol="1" style="color:black;background-color:#d7d7d7;border-color:#e0e0e0;" valign="bottom">
+													<div class="para" style="margin-left:0px;">TABLE 9-7-2.2: USES</div>
+												</th>
+											</tr>
+											<tr class="">
+												<th align="left" class="entry borderRight borderBottom" scope="col" startcol="1" style="color:black;background-color:#d7d7d7;border-color:#e0e0e0;" valign="bottom">
+													<div class="para" style="margin-left:0px;">Type</div>
+												</th>
+												<th align="center" class="entry borderRight borderBottom" scope="col" startcol="2" style="color:black;background-color:#d7d7d7;border-color:#e0e0e0;" valign="bottom">
+													<div class="para" style="margin-left:0px;">Allowed</div>
+												</th>
+												<th align="center" class="entry borderRight borderBottom" scope="col" startcol="3" style="color:black;background-color:#d7d7d7;border-color:#e0e0e0;" valign="bottom">
+													<div class="para" style="margin-left:0px;">Administrative Conditional Use</div>
+												</th>
+												<th align="center" class="entry borderRight borderBottom" scope="col" startcol="4" style="color:black;background-color:#d7d7d7;border-color:#e0e0e0;" valign="bottom">
+													<div class="para" style="margin-left:0px;">Conditional Use</div>
+												</th>
+												<th align="center" class="entry borderBottom" scope="col" startcol="5" style="color:black;background-color:#d7d7d7;border-color:#e0e0e0;" valign="bottom">
+													<div class="para" style="margin-left:0px;">Business License</div>
+												</th>
+											</tr>
+										</thead>
+										<tbody valign="top">
+											<tr class="">
+												<td align="left" class="entry borderRight borderBottom" startcol="1" style="border-color:#e0e0e0;" valign="top">
+													<div class="para" style="margin-left:0px;">Accessory structure, unoccupied</div>
+												</td>
+												<td align="center" class="entry borderRight borderBottom" startcol="2" style="border-color:#e0e0e0;" valign="top">
+													<div class="para" style="margin-left:0px;">X</div>
+												</td>
+												<td align="center" class="entry borderRight borderBottom" startcol="3" style="border-color:#e0e0e0;" valign="top">
+													<div class="para" style="margin-left:0px;"></div>
+												</td>
+												<td align="center" class="entry borderRight borderBottom" startcol="4" style="border-color:#e0e0e0;" valign="top">
+													<div class="para" style="margin-left:0px;"></div>
+												</td>
+												<td align="center" class="entry borderBottom" startcol="5" style="border-color:#e0e0e0;" valign="top">
+													<div class="para" style="margin-left:0px;"></div>
+												</td>
+											</tr>
+											<tr class="">
+												<td align="left" class="entry borderRight borderBottom" startcol="1" style="border-color:#e0e0e0;" valign="top">
+													<div class="para" style="margin-left:0px;">Agriculture and commercial equipment sales and service</div>
+												</td>
+												<td align="center" class="entry borderRight borderBottom" startcol="2" style="border-color:#e0e0e0;" valign="top">
+													<div class="para" style="margin-left:0px;"></div>
+												</td>
+												<td align="center" class="entry borderRight borderBottom" startcol="3" style="border-color:#e0e0e0;" valign="top">
+													<div class="para" style="margin-left:0px;">X</div>
+												</td>
+												<td align="center" class="entry borderRight borderBottom" startcol="4" style="border-color:#e0e0e0;" valign="top">
+													<div class="para" style="margin-left:0px;"></div>
+												</td>
+												<td align="center" class="entry borderBottom" startcol="5" style="border-color:#e0e0e0;" valign="top">
+													<div class="para" style="margin-left:0px;">X</div>
+												</td>
+											</tr>
+											<tr class="">
+												<td align="left" class="entry borderRight borderBottom" startcol="1" style="border-color:#e0e0e0;" valign="top">
+													<div class="para" style="margin-left:0px;">Auto self-serve station</div>
+												</td>
+												<td align="center" class="entry borderRight borderBottom" startcol="2" style="border-color:#e0e0e0;" valign="top">
+													<div class="para" style="margin-left:0px;"></div>
+												</td>
+												<td align="center" class="entry borderRight borderBottom" startcol="3" style="border-color:#e0e0e0;" valign="top">
+													<div class="para" style="margin-left:0px;">X</div>
+												</td>
+												<td align="center" class="entry borderRight borderBottom" startcol="4" style="border-color:#e0e0e0;" valign="top">
+													<div class="para" style="margin-left:0px;"></div>
+												</td>
+												<td align="center" class="entry borderBottom" startcol="5" style="border-color:#e0e0e0;" valign="top">
+													<div class="para" style="margin-left:0px;">X</div>
+												</td>
+											</tr>
+											<tr class="">
+												<td align="left" class="entry borderRight borderBottom" startcol="1" style="border-color:#e0e0e0;" valign="top">
+													<div class="para" style="margin-left:0px;">Auto service station</div>
+												</td>
+												<td align="center" class="entry borderRight borderBottom" startcol="2" style="border-color:#e0e0e0;" valign="top">
+													<div class="para" style="margin-left:0px;"></div>
+												</td>
+												<td align="center" class="entry borderRight borderBottom" startcol="3" style="border-color:#e0e0e0;" valign="top">
+													<div class="para" style="margin-left:0px;">X</div>
+												</td>
+												<td align="center" class="entry borderRight borderBottom" startcol="4" style="border-color:#e0e0e0;" valign="top">
+													<div class="para" style="margin-left:0px;"></div>
+												</td>
+												<td align="center" class="entry borderBottom" startcol="5" style="border-color:#e0e0e0;" valign="top">
+													<div class="para" style="margin-left:0px;">X</div>
+												</td>
+											</tr>
+											<tr class="">
+												<td align="left" class="entry borderRight borderBottom" startcol="1" style="border-color:#e0e0e0;" valign="top">
+													<div class="para" style="margin-left:0px;">Auto, truck, RV sales and rental</div>
+												</td>
+												<td align="center" class="entry borderRight borderBottom" startcol="2" style="border-color:#e0e0e0;" valign="top">
+													<div class="para" style="margin-left:0px;"></div>
+												</td>
+												<td align="center" class="entry borderRight borderBottom" startcol="3" style="border-color:#e0e0e0;" valign="top">
+													<div class="para" style="margin-left:0px;">X</div>
+												</td>
+												<td align="center" class="entry borderRight borderBottom" startcol="4" style="border-color:#e0e0e0;" valign="top">
+													<div class="para" style="margin-left:0px;"></div>
+												</td>
+												<td align="center" class="entry borderBottom" startcol="5" style="border-color:#e0e0e0;" valign="top">
+													<div class="para" style="margin-left:0px;">X</div>
+												</td>
+											</tr>
+											<tr class="">
+												<td align="left" class="entry borderRight borderBottom" startcol="1" style="border-color:#e0e0e0;" valign="top">
+													<div class="para" style="margin-left:0px;">Automotive body/paint repair establishment</div>
+												</td>
+												<td align="center" class="entry borderRight borderBottom" startcol="2" style="border-color:#e0e0e0;" valign="top">
+													<div class="para" style="margin-left:0px;"></div>
+												</td>
+												<td align="center" class="entry borderRight borderBottom" startcol="3" style="border-color:#e0e0e0;" valign="top">
+													<div class="para" style="margin-left:0px;">X</div>
+												</td>
+												<td align="center" class="entry borderRight borderBottom" startcol="4" style="border-color:#e0e0e0;" valign="top">
+													<div class="para" style="margin-left:0px;"></div>
+												</td>
+												<td align="center" class="entry borderBottom" startcol="5" style="border-color:#e0e0e0;" valign="top">
+													<div class="para" style="margin-left:0px;">X</div>
+												</td>
+											</tr>
+											<tr class="">
+												<td align="left" class="entry borderRight borderBottom" startcol="1" style="border-color:#e0e0e0;" valign="top">
+													<div class="para" style="margin-left:0px;">Automotive repair establishment</div>
+												</td>
+												<td align="center" class="entry borderRight borderBottom" startcol="2" style="border-color:#e0e0e0;" valign="top">
+													<div class="para" style="margin-left:0px;"></div>
+												</td>
+												<td align="center" class="entry borderRight borderBottom" startcol="3" style="border-color:#e0e0e0;" valign="top">
+													<div class="para" style="margin-left:0px;">X</div>
+												</td>
+												<td align="center" class="entry borderRight borderBottom" startcol="4" style="border-color:#e0e0e0;" valign="top">
+													<div class="para" style="margin-left:0px;"></div>
+												</td>
+												<td align="center" class="entry borderBottom" startcol="5" style="border-color:#e0e0e0;" valign="top">
+													<div class="para" style="margin-left:0px;">X</div>
+												</td>
+											</tr>
+											<tr class="">
+												<td align="left" class="entry borderRight borderBottom" startcol="1" style="border-color:#e0e0e0;" valign="top">
+													<div class="para" style="margin-left:0px;">Banking, financial services</div>
+												</td>
+												<td align="center" class="entry borderRight borderBottom" startcol="2" style="border-color:#e0e0e0;" valign="top">
+													<div class="para" style="margin-left:0px;"></div>
+												</td>
+												<td align="center" class="entry borderRight borderBottom" startcol="3" style="border-color:#e0e0e0;" valign="top">
+													<div class="para" style="margin-left:0px;">X</div>
+												</td>
+												<td align="center" class="entry borderRight borderBottom" startcol="4" style="border-color:#e0e0e0;" valign="top">
+													<div class="para" style="margin-left:0px;"></div>
+												</td>
+												<td align="center" class="entry borderBottom" startcol="5" style="border-color:#e0e0e0;" valign="top">
+													<div class="para" style="margin-left:0px;">X</div>
+												</td>
+											</tr>
+											<tr class="">
+												<td align="left" class="entry borderRight borderBottom" startcol="1" style="border-color:#e0e0e0;" valign="top">
+													<div class="para" style="margin-left:0px;">Bar, tavern, lounge</div>
+												</td>
+												<td align="center" class="entry borderRight borderBottom" startcol="2" style="border-color:#e0e0e0;" valign="top">
+													<div class="para" style="margin-left:0px;"></div>
+												</td>
+												<td align="center" class="entry borderRight borderBottom" startcol="3" style="border-color:#e0e0e0;" valign="top">
+													<div class="para" style="margin-left:0px;">X</div>
+												</td>
+												<td align="center" class="entry borderRight borderBottom" startcol="4" style="border-color:#e0e0e0;" valign="top">
+													<div class="para" style="margin-left:0px;"></div>
+												</td>
+												<td align="center" class="entry borderBottom" startcol="5" style="border-color:#e0e0e0;" valign="top">
+													<div class="para" style="margin-left:0px;">X</div>
+												</td>
+											</tr>
+											<tr class="">
+												<td align="left" class="entry borderRight borderBottom" startcol="1" style="border-color:#e0e0e0;" valign="top">
+													<div class="para" style="margin-left:0px;">Car wash</div>
+												</td>
+												<td align="center" class="entry borderRight borderBottom" startcol="2" style="border-color:#e0e0e0;" valign="top">
+													<div class="para" style="margin-left:0px;"></div>
+												</td>
+												<td align="center" class="entry borderRight borderBottom" startcol="3" style="border-color:#e0e0e0;" valign="top">
+													<div class="para" style="margin-left:0px;">X</div>
+												</td>
+												<td align="center" class="entry borderRight borderBottom" startcol="4" style="border-color:#e0e0e0;" valign="top">
+													<div class="para" style="margin-left:0px;"></div>
+												</td>
+												<td align="center" class="entry borderBottom" startcol="5" style="border-color:#e0e0e0;" valign="top">
+													<div class="para" style="margin-left:0px;">X</div>
+												</td>
+											</tr>
+											<tr class="">
+												<td align="left" class="entry borderRight borderBottom" startcol="1" style="border-color:#e0e0e0;" valign="top">
+													<div class="para" style="margin-left:0px;">Church</div>
+												</td>
+												<td align="center" class="entry borderRight borderBottom" startcol="2" style="border-color:#e0e0e0;" valign="top">
+													<div class="para" style="margin-left:0px;"></div>
+												</td>
+												<td align="center" class="entry borderRight borderBottom" startcol="3" style="border-color:#e0e0e0;" valign="top">
+													<div class="para" style="margin-left:0px;">X</div>
+												</td>
+												<td align="center" class="entry borderRight borderBottom" startcol="4" style="border-color:#e0e0e0;" valign="top">
+													<div class="para" style="margin-left:0px;"></div>
+												</td>
+												<td align="center" class="entry borderBottom" startcol="5" style="border-color:#e0e0e0;" valign="top">
+													<div class="para" style="margin-left:0px;">X</div>
+												</td>
+											</tr>
+											<tr class="">
+												<td align="left" class="entry borderRight borderBottom" startcol="1" style="border-color:#e0e0e0;" valign="top">
+													<div class="para" style="margin-left:0px;">Daycare center (business)</div>
+												</td>
+												<td align="center" class="entry borderRight borderBottom" startcol="2" style="border-color:#e0e0e0;" valign="top">
+													<div class="para" style="margin-left:0px;"></div>
+												</td>
+												<td align="center" class="entry borderRight borderBottom" startcol="3" style="border-color:#e0e0e0;" valign="top">
+													<div class="para" style="margin-left:0px;"></div>
+												</td>
+												<td align="center" class="entry borderRight borderBottom" startcol="4" style="border-color:#e0e0e0;" valign="top">
+													<div class="para" style="margin-left:0px;"></div>
+												</td>
+												<td align="center" class="entry borderBottom" startcol="5" style="border-color:#e0e0e0;" valign="top">
+													<div class="para" style="margin-left:0px;">X</div>
+												</td>
+											</tr>
+											<tr class="">
+												<td align="left" class="entry borderRight borderBottom" startcol="1" style="border-color:#e0e0e0;" valign="top">
+													<div class="para" style="margin-left:0px;">Daycare facility (building)</div>
+												</td>
+												<td align="center" class="entry borderRight borderBottom" startcol="2" style="border-color:#e0e0e0;" valign="top">
+													<div class="para" style="margin-left:0px;"></div>
+												</td>
+												<td align="center" class="entry borderRight borderBottom" startcol="3" style="border-color:#e0e0e0;" valign="top">
+													<div class="para" style="margin-left:0px;"></div>
+												</td>
+												<td align="center" class="entry borderRight borderBottom" startcol="4" style="border-color:#e0e0e0;" valign="top">
+													<div class="para" style="margin-left:0px;"></div>
+												</td>
+												<td align="center" class="entry borderBottom" startcol="5" style="border-color:#e0e0e0;" valign="top">
+													<div class="para" style="margin-left:0px;">X</div>
+												</td>
+											</tr>
+											<tr class="">
+												<td align="left" class="entry borderRight borderBottom" startcol="1" style="border-color:#e0e0e0;" valign="top">
+													<div class="para" style="margin-left:0px;">Drive-through facility associated with commercial business</div>
+												</td>
+												<td align="center" class="entry borderRight borderBottom" startcol="2" style="border-color:#e0e0e0;" valign="top">
+													<div class="para" style="margin-left:0px;"></div>
+												</td>
+												<td align="center" class="entry borderRight borderBottom" startcol="3" style="border-color:#e0e0e0;" valign="top">
+													<div class="para" style="margin-left:0px;">X</div>
+												</td>
+												<td align="center" class="entry borderRight borderBottom" startcol="4" style="border-color:#e0e0e0;" valign="top">
+													<div class="para" style="margin-left:0px;"></div>
+												</td>
+												<td align="center" class="entry borderBottom" startcol="5" style="border-color:#e0e0e0;" valign="top">
+													<div class="para" style="margin-left:0px;"></div>
+												</td>
+											</tr>
+											<tr class="">
+												<td align="left" class="entry borderRight borderBottom" startcol="1" style="border-color:#e0e0e0;" valign="top">
+													<div class="para" style="margin-left:0px;">Fun center/rec center</div>
+												</td>
+												<td align="center" class="entry borderRight borderBottom" startcol="2" style="border-color:#e0e0e0;" valign="top">
+													<div class="para" style="margin-left:0px;"></div>
+												</td>
+												<td align="center" class="entry borderRight borderBottom" startcol="3" style="border-color:#e0e0e0;" valign="top">
+													<div class="para" style="margin-left:0px;">X</div>
+												</td>
+												<td align="center" class="entry borderRight borderBottom" startcol="4" style="border-color:#e0e0e0;" valign="top">
+													<div class="para" style="margin-left:0px;"></div>
+												</td>
+												<td align="center" class="entry borderBottom" startcol="5" style="border-color:#e0e0e0;" valign="top">
+													<div class="para" style="margin-left:0px;">X</div>
+												</td>
+											</tr>
+											<tr class="">
+												<td align="left" class="entry borderRight borderBottom" startcol="1" style="border-color:#e0e0e0;" valign="top">
+													<div class="para" style="margin-left:0px;">General merchandise sales and service</div>
+												</td>
+												<td align="center" class="entry borderRight borderBottom" startcol="2" style="border-color:#e0e0e0;" valign="top">
+													<div class="para" style="margin-left:0px;"></div>
+												</td>
+												<td align="center" class="entry borderRight borderBottom" startcol="3" style="border-color:#e0e0e0;" valign="top">
+													<div class="para" style="margin-left:0px;">X</div>
+												</td>
+												<td align="center" class="entry borderRight borderBottom" startcol="4" style="border-color:#e0e0e0;" valign="top">
+													<div class="para" style="margin-left:0px;"></div>
+												</td>
+												<td align="center" class="entry borderBottom" startcol="5" style="border-color:#e0e0e0;" valign="top">
+													<div class="para" style="margin-left:0px;">X</div>
+												</td>
+											</tr>
+											<tr class="">
+												<td align="left" class="entry borderRight borderBottom" startcol="1" style="border-color:#e0e0e0;" valign="top">
+													<div class="para" style="margin-left:0px;">Group home:</div>
+												</td>
+												<td align="center" class="entry borderRight borderBottom" startcol="2" style="border-color:#e0e0e0;" valign="top">
+													<div class="para" style="margin-left:0px;"></div>
+												</td>
+												<td align="center" class="entry borderRight borderBottom" startcol="3" style="border-color:#e0e0e0;" valign="top">
+													<div class="para" style="margin-left:0px;"></div>
+												</td>
+												<td align="center" class="entry borderRight borderBottom" startcol="4" style="border-color:#e0e0e0;" valign="top">
+													<div class="para" style="margin-left:0px;"></div>
+												</td>
+												<td align="center" class="entry borderBottom" startcol="5" style="border-color:#e0e0e0;" valign="top">
+													<div class="para" style="margin-left:0px;"></div>
+												</td>
+											</tr>
+											<tr class="">
+												<td align="left" class="entry borderRight borderBottom" startcol="1" style="border-color:#e0e0e0;" valign="top">
+													<div class="para" style="margin-left:0px;">Assisted living facility</div>
+												</td>
+												<td align="center" class="entry borderRight borderBottom" startcol="2" style="border-color:#e0e0e0;" valign="top">
+													<div class="para" style="margin-left:0px;"></div>
+												</td>
+												<td align="center" class="entry borderRight borderBottom" startcol="3" style="border-color:#e0e0e0;" valign="top">
+													<div class="para" style="margin-left:0px;"></div>
+												</td>
+												<td align="center" class="entry borderRight borderBottom" startcol="4" style="border-color:#e0e0e0;" valign="top">
+													<div class="para" style="margin-left:0px;"></div>
+												</td>
+												<td align="center" class="entry borderBottom" startcol="5" style="border-color:#e0e0e0;" valign="top">
+													<div class="para" style="margin-left:0px;">X</div>
+												</td>
+											</tr>
+											<tr class="">
+												<td align="left" class="entry borderRight borderBottom" startcol="1" style="border-color:#e0e0e0;" valign="top">
+													<div class="para" style="margin-left:0px;">Disabled</div>
+												</td>
+												<td align="center" class="entry borderRight borderBottom" startcol="2" style="border-color:#e0e0e0;" valign="top">
+													<div class="para" style="margin-left:0px;"></div>
+												</td>
+												<td align="center" class="entry borderRight borderBottom" startcol="3" style="border-color:#e0e0e0;" valign="top">
+													<div class="para" style="margin-left:0px;"></div>
+												</td>
+												<td align="center" class="entry borderRight borderBottom" startcol="4" style="border-color:#e0e0e0;" valign="top">
+													<div class="para" style="margin-left:0px;"></div>
+												</td>
+												<td align="center" class="entry borderBottom" startcol="5" style="border-color:#e0e0e0;" valign="top">
+													<div class="para" style="margin-left:0px;">X</div>
+												</td>
+											</tr>
+											<tr class="">
+												<td align="left" class="entry borderRight borderBottom" startcol="1" style="border-color:#e0e0e0;" valign="top">
+													<div class="para" style="margin-left:0px;">Elderly</div>
+												</td>
+												<td align="center" class="entry borderRight borderBottom" startcol="2" style="border-color:#e0e0e0;" valign="top">
+													<div class="para" style="margin-left:0px;"></div>
+												</td>
+												<td align="center" class="entry borderRight borderBottom" startcol="3" style="border-color:#e0e0e0;" valign="top">
+													<div class="para" style="margin-left:0px;">X</div>
+												</td>
+												<td align="center" class="entry borderRight borderBottom" startcol="4" style="border-color:#e0e0e0;" valign="top">
+													<div class="para" style="margin-left:0px;"></div>
+												</td>
+												<td align="center" class="entry borderBottom" startcol="5" style="border-color:#e0e0e0;" valign="top">
+													<div class="para" style="margin-left:0px;">X</div>
+												</td>
+											</tr>
+											<tr class="">
+												<td align="left" class="entry borderRight borderBottom" startcol="1" style="border-color:#e0e0e0;" valign="top">
+													<div class="para" style="margin-left:0px;">Youth</div>
+												</td>
+												<td align="center" class="entry borderRight borderBottom" startcol="2" style="border-color:#e0e0e0;" valign="top">
+													<div class="para" style="margin-left:0px;"></div>
+												</td>
+												<td align="center" class="entry borderRight borderBottom" startcol="3" style="border-color:#e0e0e0;" valign="top">
+													<div class="para" style="margin-left:0px;"></div>
+												</td>
+												<td align="center" class="entry borderRight borderBottom" startcol="4" style="border-color:#e0e0e0;" valign="top">
+													<div class="para" style="margin-left:0px;"></div>
+												</td>
+												<td align="center" class="entry borderBottom" startcol="5" style="border-color:#e0e0e0;" valign="top">
+													<div class="para" style="margin-left:0px;">X</div>
+												</td>
+											</tr>
+											<tr class="">
+												<td align="left" class="entry borderRight borderBottom" startcol="1" style="border-color:#e0e0e0;" valign="top">
+													<div class="para" style="margin-left:0px;">Hedges</div>
+												</td>
+												<td align="center" class="entry borderRight borderBottom" startcol="2" style="border-color:#e0e0e0;" valign="top">
+													<div class="para" style="margin-left:0px;"></div>
+												</td>
+												<td align="center" class="entry borderRight borderBottom" startcol="3" style="border-color:#e0e0e0;" valign="top">
+													<div class="para" style="margin-left:0px;">X</div>
+												</td>
+												<td align="center" class="entry borderRight borderBottom" startcol="4" style="border-color:#e0e0e0;" valign="top">
+													<div class="para" style="margin-left:0px;"></div>
+												</td>
+												<td align="center" class="entry borderBottom" startcol="5" style="border-color:#e0e0e0;" valign="top">
+													<div class="para" style="margin-left:0px;"></div>
+												</td>
+											</tr>
+											<tr class="">
+												<td align="left" class="entry borderRight borderBottom" startcol="1" style="border-color:#e0e0e0;" valign="top">
+													<div class="para" style="margin-left:0px;">Hotel</div>
+												</td>
+												<td align="center" class="entry borderRight borderBottom" startcol="2" style="border-color:#e0e0e0;" valign="top">
+													<div class="para" style="margin-left:0px;"></div>
+												</td>
+												<td align="center" class="entry borderRight borderBottom" startcol="3" style="border-color:#e0e0e0;" valign="top">
+													<div class="para" style="margin-left:0px;">X</div>
+												</td>
+												<td align="center" class="entry borderRight borderBottom" startcol="4" style="border-color:#e0e0e0;" valign="top">
+													<div class="para" style="margin-left:0px;"></div>
+												</td>
+												<td align="center" class="entry borderBottom" startcol="5" style="border-color:#e0e0e0;" valign="top">
+													<div class="para" style="margin-left:0px;">X</div>
+												</td>
+											</tr>
+											<tr class="">
+												<td align="left" class="entry borderRight borderBottom" startcol="1" style="border-color:#e0e0e0;" valign="top">
+													<div class="para" style="margin-left:0px;">Household pets</div>
+												</td>
+												<td align="center" class="entry borderRight borderBottom" startcol="2" style="border-color:#e0e0e0;" valign="top">
+													<div class="para" style="margin-left:0px;"></div>
+												</td>
+												<td align="center" class="entry borderRight borderBottom" startcol="3" style="border-color:#e0e0e0;" valign="top">
+													<div class="para" style="margin-left:0px;">X</div>
+												</td>
+												<td align="center" class="entry borderRight borderBottom" startcol="4" style="border-color:#e0e0e0;" valign="top">
+													<div class="para" style="margin-left:0px;"></div>
+												</td>
+												<td align="center" class="entry borderBottom" startcol="5" style="border-color:#e0e0e0;" valign="top">
+													<div class="para" style="margin-left:0px;"></div>
+												</td>
+											</tr>
+											<tr class="">
+												<td align="left" class="entry borderRight borderBottom" startcol="1" style="border-color:#e0e0e0;" valign="top">
+													<div class="para" style="margin-left:0px;">Intermittent commercial use</div>
+												</td>
+												<td align="center" class="entry borderRight borderBottom" startcol="2" style="border-color:#e0e0e0;" valign="top">
+													<div class="para" style="margin-left:0px;"></div>
+												</td>
+												<td align="center" class="entry borderRight borderBottom" startcol="3" style="border-color:#e0e0e0;" valign="top">
+													<div class="para" style="margin-left:0px;">X</div>
+												</td>
+												<td align="center" class="entry borderRight borderBottom" startcol="4" style="border-color:#e0e0e0;" valign="top">
+													<div class="para" style="margin-left:0px;"></div>
+												</td>
+												<td align="center" class="entry borderBottom" startcol="5" style="border-color:#e0e0e0;" valign="top">
+													<div class="para" style="margin-left:0px;">X</div>
+												</td>
+											</tr>
+											<tr class="">
+												<td align="left" class="entry borderRight borderBottom" startcol="1" style="border-color:#e0e0e0;" valign="top">
+													<div class="para" style="margin-left:0px;">Mortuary, reception center</div>
+												</td>
+												<td align="center" class="entry borderRight borderBottom" startcol="2" style="border-color:#e0e0e0;" valign="top">
+													<div class="para" style="margin-left:0px;"></div>
+												</td>
+												<td align="center" class="entry borderRight borderBottom" startcol="3" style="border-color:#e0e0e0;" valign="top">
+													<div class="para" style="margin-left:0px;">X</div>
+												</td>
+												<td align="center" class="entry borderRight borderBottom" startcol="4" style="border-color:#e0e0e0;" valign="top">
+													<div class="para" style="margin-left:0px;"></div>
+												</td>
+												<td align="center" class="entry borderBottom" startcol="5" style="border-color:#e0e0e0;" valign="top">
+													<div class="para" style="margin-left:0px;">X</div>
+												</td>
+											</tr>
+											<tr class="">
+												<td align="left" class="entry borderRight borderBottom" startcol="1" style="border-color:#e0e0e0;" valign="top">
+													<div class="para" style="margin-left:0px;">Motel</div>
+												</td>
+												<td align="center" class="entry borderRight borderBottom" startcol="2" style="border-color:#e0e0e0;" valign="top">
+													<div class="para" style="margin-left:0px;"></div>
+												</td>
+												<td align="center" class="entry borderRight borderBottom" startcol="3" style="border-color:#e0e0e0;" valign="top">
+													<div class="para" style="margin-left:0px;">X</div>
+												</td>
+												<td align="center" class="entry borderRight borderBottom" startcol="4" style="border-color:#e0e0e0;" valign="top">
+													<div class="para" style="margin-left:0px;"></div>
+												</td>
+												<td align="center" class="entry borderBottom" startcol="5" style="border-color:#e0e0e0;" valign="top">
+													<div class="para" style="margin-left:0px;">X</div>
+												</td>
+											</tr>
+											<tr class="">
+												<td align="left" class="entry borderRight borderBottom" startcol="1" style="border-color:#e0e0e0;" valign="top">
+													<div class="para" style="margin-left:0px;">Nursing home</div>
+												</td>
+												<td align="center" class="entry borderRight borderBottom" startcol="2" style="border-color:#e0e0e0;" valign="top">
+													<div class="para" style="margin-left:0px;"></div>
+												</td>
+												<td align="center" class="entry borderRight borderBottom" startcol="3" style="border-color:#e0e0e0;" valign="top">
+													<div class="para" style="margin-left:0px;">X</div>
+												</td>
+												<td align="center" class="entry borderRight borderBottom" startcol="4" style="border-color:#e0e0e0;" valign="top">
+													<div class="para" style="margin-left:0px;"></div>
+												</td>
+												<td align="center" class="entry borderBottom" startcol="5" style="border-color:#e0e0e0;" valign="top">
+													<div class="para" style="margin-left:0px;">X</div>
+												</td>
+											</tr>
+											<tr class="">
+												<td align="left" class="entry borderRight borderBottom" startcol="1" style="border-color:#e0e0e0;" valign="top">
+													<div class="para" style="margin-left:0px;">Office building</div>
+												</td>
+												<td align="center" class="entry borderRight borderBottom" startcol="2" style="border-color:#e0e0e0;" valign="top">
+													<div class="para" style="margin-left:0px;"></div>
+												</td>
+												<td align="center" class="entry borderRight borderBottom" startcol="3" style="border-color:#e0e0e0;" valign="top">
+													<div class="para" style="margin-left:0px;">X</div>
+												</td>
+												<td align="center" class="entry borderRight borderBottom" startcol="4" style="border-color:#e0e0e0;" valign="top">
+													<div class="para" style="margin-left:0px;"></div>
+												</td>
+												<td align="center" class="entry borderBottom" startcol="5" style="border-color:#e0e0e0;" valign="top">
+													<div class="para" style="margin-left:0px;">X</div>
+												</td>
+											</tr>
+											<tr class="">
+												<td align="left" class="entry borderRight borderBottom" startcol="1" style="border-color:#e0e0e0;" valign="top">
+													<div class="para" style="margin-left:0px;">Outdoor recreation, parks, playgrounds</div>
+												</td>
+												<td align="center" class="entry borderRight borderBottom" startcol="2" style="border-color:#e0e0e0;" valign="top">
+													<div class="para" style="margin-left:0px;">X</div>
+												</td>
+												<td align="center" class="entry borderRight borderBottom" startcol="3" style="border-color:#e0e0e0;" valign="top">
+													<div class="para" style="margin-left:0px;"></div>
+												</td>
+												<td align="center" class="entry borderRight borderBottom" startcol="4" style="border-color:#e0e0e0;" valign="top">
+													<div class="para" style="margin-left:0px;"></div>
+												</td>
+												<td align="center" class="entry borderBottom" startcol="5" style="border-color:#e0e0e0;" valign="top">
+													<div class="para" style="margin-left:0px;"></div>
+												</td>
+											</tr>
+											<tr class="">
+												<td align="left" class="entry borderRight borderBottom" startcol="1" style="border-color:#e0e0e0;" valign="top">
+													<div class="para" style="margin-left:0px;">Preschool/regulated preschool</div>
+												</td>
+												<td align="center" class="entry borderRight borderBottom" startcol="2" style="border-color:#e0e0e0;" valign="top">
+													<div class="para" style="margin-left:0px;"></div>
+												</td>
+												<td align="center" class="entry borderRight borderBottom" startcol="3" style="border-color:#e0e0e0;" valign="top">
+													<div class="para" style="margin-left:0px;">X</div>
+												</td>
+												<td align="center" class="entry borderRight borderBottom" startcol="4" style="border-color:#e0e0e0;" valign="top">
+													<div class="para" style="margin-left:0px;"></div>
+												</td>
+												<td align="center" class="entry borderBottom" startcol="5" style="border-color:#e0e0e0;" valign="top">
+													<div class="para" style="margin-left:0px;">X</div>
+												</td>
+											</tr>
+											<tr class="">
+												<td align="left" class="entry borderRight borderBottom" startcol="1" style="border-color:#e0e0e0;" valign="top">
+													<div class="para" style="margin-left:0px;">Professional service establishments</div>
+												</td>
+												<td align="center" class="entry borderRight borderBottom" startcol="2" style="border-color:#e0e0e0;" valign="top">
+													<div class="para" style="margin-left:0px;"></div>
+												</td>
+												<td align="center" class="entry borderRight borderBottom" startcol="3" style="border-color:#e0e0e0;" valign="top">
+													<div class="para" style="margin-left:0px;">X</div>
+												</td>
+												<td align="center" class="entry borderRight borderBottom" startcol="4" style="border-color:#e0e0e0;" valign="top">
+													<div class="para" style="margin-left:0px;"></div>
+												</td>
+												<td align="center" class="entry borderBottom" startcol="5" style="border-color:#e0e0e0;" valign="top">
+													<div class="para" style="margin-left:0px;">X</div>
+												</td>
+											</tr>
+											<tr class="">
+												<td align="left" class="entry borderRight borderBottom" startcol="1" style="border-color:#e0e0e0;" valign="top">
+													<div class="para" style="margin-left:0px;">Public rights of way</div>
+												</td>
+												<td align="center" class="entry borderRight borderBottom" startcol="2" style="border-color:#e0e0e0;" valign="top">
+													<div class="para" style="margin-left:0px;">X</div>
+												</td>
+												<td align="center" class="entry borderRight borderBottom" startcol="3" style="border-color:#e0e0e0;" valign="top">
+													<div class="para" style="margin-left:0px;"></div>
+												</td>
+												<td align="center" class="entry borderRight borderBottom" startcol="4" style="border-color:#e0e0e0;" valign="top">
+													<div class="para" style="margin-left:0px;"></div>
+												</td>
+												<td align="center" class="entry borderBottom" startcol="5" style="border-color:#e0e0e0;" valign="top">
+													<div class="para" style="margin-left:0px;"></div>
+												</td>
+											</tr>
+											<tr class="">
+												<td align="left" class="entry borderRight borderBottom" startcol="1" style="border-color:#e0e0e0;" valign="top">
+													<div class="para" style="margin-left:0px;">Public services</div>
+												</td>
+												<td align="center" class="entry borderRight borderBottom" startcol="2" style="border-color:#e0e0e0;" valign="top">
+													<div class="para" style="margin-left:0px;">X</div>
+												</td>
+												<td align="center" class="entry borderRight borderBottom" startcol="3" style="border-color:#e0e0e0;" valign="top">
+													<div class="para" style="margin-left:0px;"></div>
+												</td>
+												<td align="center" class="entry borderRight borderBottom" startcol="4" style="border-color:#e0e0e0;" valign="top">
+													<div class="para" style="margin-left:0px;"></div>
+												</td>
+												<td align="center" class="entry borderBottom" startcol="5" style="border-color:#e0e0e0;" valign="top">
+													<div class="para" style="margin-left:0px;"></div>
+												</td>
+											</tr>
+											<tr class="">
+												<td align="left" class="entry borderRight borderBottom" startcol="1" style="border-color:#e0e0e0;" valign="top">
+													<div class="para" style="margin-left:0px;">Reception center</div>
+												</td>
+												<td align="center" class="entry borderRight borderBottom" startcol="2" style="border-color:#e0e0e0;" valign="top">
+													<div class="para" style="margin-left:0px;"></div>
+												</td>
+												<td align="center" class="entry borderRight borderBottom" startcol="3" style="border-color:#e0e0e0;" valign="top">
+													<div class="para" style="margin-left:0px;">X</div>
+												</td>
+												<td align="center" class="entry borderRight borderBottom" startcol="4" style="border-color:#e0e0e0;" valign="top">
+													<div class="para" style="margin-left:0px;"></div>
+												</td>
+												<td align="center" class="entry borderBottom" startcol="5" style="border-color:#e0e0e0;" valign="top">
+													<div class="para" style="margin-left:0px;">X</div>
+												</td>
+											</tr>
+											<tr class="">
+												<td align="left" class="entry borderRight borderBottom" startcol="1" style="border-color:#e0e0e0;" valign="top">
+													<div class="para" style="margin-left:0px;">Recreation center</div>
+												</td>
+												<td align="center" class="entry borderRight borderBottom" startcol="2" style="border-color:#e0e0e0;" valign="top">
+													<div class="para" style="margin-left:0px;"></div>
+												</td>
+												<td align="center" class="entry borderRight borderBottom" startcol="3" style="border-color:#e0e0e0;" valign="top">
+													<div class="para" style="margin-left:0px;">X</div>
+												</td>
+												<td align="center" class="entry borderRight borderBottom" startcol="4" style="border-color:#e0e0e0;" valign="top">
+													<div class="para" style="margin-left:0px;"></div>
+												</td>
+												<td align="center" class="entry borderBottom" startcol="5" style="border-color:#e0e0e0;" valign="top">
+													<div class="para" style="margin-left:0px;">X</div>
+												</td>
+											</tr>
+											<tr class="">
+												<td align="left" class="entry borderRight borderBottom" startcol="1" style="border-color:#e0e0e0;" valign="top">
+													<div class="para" style="margin-left:0px;">Residential dwelling in a commercial building</div>
+												</td>
+												<td align="center" class="entry borderRight borderBottom" startcol="2" style="border-color:#e0e0e0;" valign="top">
+													<div class="para" style="margin-left:0px;"></div>
+												</td>
+												<td align="center" class="entry borderRight borderBottom" startcol="3" style="border-color:#e0e0e0;" valign="top">
+													<div class="para" style="margin-left:0px;">X</div>
+												</td>
+												<td align="center" class="entry borderRight borderBottom" startcol="4" style="border-color:#e0e0e0;" valign="top">
+													<div class="para" style="margin-left:0px;"></div>
+												</td>
+												<td align="center" class="entry borderBottom" startcol="5" style="border-color:#e0e0e0;" valign="top">
+													<div class="para" style="margin-left:0px;"></div>
+												</td>
+											</tr>
+											<tr class="">
+												<td align="left" class="entry borderRight borderBottom" startcol="1" style="border-color:#e0e0e0;" valign="top">
+													<div class="para" style="margin-left:0px;">Restaurant</div>
+												</td>
+												<td align="center" class="entry borderRight borderBottom" startcol="2" style="border-color:#e0e0e0;" valign="top">
+													<div class="para" style="margin-left:0px;"></div>
+												</td>
+												<td align="center" class="entry borderRight borderBottom" startcol="3" style="border-color:#e0e0e0;" valign="top">
+													<div class="para" style="margin-left:0px;">X</div>
+												</td>
+												<td align="center" class="entry borderRight borderBottom" startcol="4" style="border-color:#e0e0e0;" valign="top">
+													<div class="para" style="margin-left:0px;"></div>
+												</td>
+												<td align="center" class="entry borderBottom" startcol="5" style="border-color:#e0e0e0;" valign="top">
+													<div class="para" style="margin-left:0px;">X</div>
+												</td>
+											</tr>
+											<tr class="">
+												<td align="left" class="entry borderRight borderBottom" startcol="1" style="border-color:#e0e0e0;" valign="top">
+													<div class="para" style="margin-left:0px;">RV storage facility</div>
+												</td>
+												<td align="center" class="entry borderRight borderBottom" startcol="2" style="border-color:#e0e0e0;" valign="top">
+													<div class="para" style="margin-left:0px;">X</div>
+												</td>
+												<td align="center" class="entry borderRight borderBottom" startcol="3" style="border-color:#e0e0e0;" valign="top">
+													<div class="para" style="margin-left:0px;">X</div>
+												</td>
+												<td align="center" class="entry borderRight borderBottom" startcol="4" style="border-color:#e0e0e0;" valign="top">
+													<div class="para" style="margin-left:0px;"></div>
+												</td>
+												<td align="center" class="entry borderBottom" startcol="5" style="border-color:#e0e0e0;" valign="top">
+													<div class="para" style="margin-left:0px;">X</div>
+												</td>
+											</tr>
+											<tr class="">
+												<td align="left" class="entry borderRight borderBottom" startcol="1" style="border-color:#e0e0e0;" valign="top">
+													<div class="para" style="margin-left:0px;">School, public</div>
+												</td>
+												<td align="center" class="entry borderRight borderBottom" startcol="2" style="border-color:#e0e0e0;" valign="top">
+													<div class="para" style="margin-left:0px;"></div>
+												</td>
+												<td align="center" class="entry borderRight borderBottom" startcol="3" style="border-color:#e0e0e0;" valign="top">
+													<div class="para" style="margin-left:0px;">X</div>
+												</td>
+												<td align="center" class="entry borderRight borderBottom" startcol="4" style="border-color:#e0e0e0;" valign="top">
+													<div class="para" style="margin-left:0px;"></div>
+												</td>
+												<td align="center" class="entry borderBottom" startcol="5" style="border-color:#e0e0e0;" valign="top">
+													<div class="para" style="margin-left:0px;"></div>
+												</td>
+											</tr>
+											<tr class="">
+												<td align="left" class="entry borderRight borderBottom" startcol="1" style="border-color:#e0e0e0;" valign="top">
+													<div class="para" style="margin-left:0px;">School, quasi-public</div>
+												</td>
+												<td align="center" class="entry borderRight borderBottom" startcol="2" style="border-color:#e0e0e0;" valign="top">
+													<div class="para" style="margin-left:0px;"></div>
+												</td>
+												<td align="center" class="entry borderRight borderBottom" startcol="3" style="border-color:#e0e0e0;" valign="top">
+													<div class="para" style="margin-left:0px;">X</div>
+												</td>
+												<td align="center" class="entry borderRight borderBottom" startcol="4" style="border-color:#e0e0e0;" valign="top">
+													<div class="para" style="margin-left:0px;"></div>
+												</td>
+												<td align="center" class="entry borderBottom" startcol="5" style="border-color:#e0e0e0;" valign="top">
+													<div class="para" style="margin-left:0px;"></div>
+												</td>
+											</tr>
+											<tr class="">
+												<td align="left" class="entry borderRight borderBottom" startcol="1" style="border-color:#e0e0e0;" valign="top">
+													<div class="para" style="margin-left:0px;">Schools, private</div>
+												</td>
+												<td align="center" class="entry borderRight borderBottom" startcol="2" style="border-color:#e0e0e0;" valign="top">
+													<div class="para" style="margin-left:0px;"></div>
+												</td>
+												<td align="center" class="entry borderRight borderBottom" startcol="3" style="border-color:#e0e0e0;" valign="top">
+													<div class="para" style="margin-left:0px;">X</div>
+												</td>
+												<td align="center" class="entry borderRight borderBottom" startcol="4" style="border-color:#e0e0e0;" valign="top">
+													<div class="para" style="margin-left:0px;"></div>
+												</td>
+												<td align="center" class="entry borderBottom" startcol="5" style="border-color:#e0e0e0;" valign="top">
+													<div class="para" style="margin-left:0px;">X</div>
+												</td>
+											</tr>
+											<tr class="">
+												<td align="left" class="entry borderRight borderBottom" startcol="1" style="border-color:#e0e0e0;" valign="top">
+													<div class="para" style="margin-left:0px;">Self-storage (or self-service storage) facility</div>
+												</td>
+												<td align="center" class="entry borderRight borderBottom" startcol="2" style="border-color:#e0e0e0;" valign="top">
+													<div class="para" style="margin-left:0px;">X</div>
+												</td>
+												<td align="center" class="entry borderRight borderBottom" startcol="3" style="border-color:#e0e0e0;" valign="top">
+													<div class="para" style="margin-left:0px;">X</div>
+												</td>
+												<td align="center" class="entry borderRight borderBottom" startcol="4" style="border-color:#e0e0e0;" valign="top">
+													<div class="para" style="margin-left:0px;"></div>
+												</td>
+												<td align="center" class="entry borderBottom" startcol="5" style="border-color:#e0e0e0;" valign="top">
+													<div class="para" style="margin-left:0px;">X</div>
+												</td>
+											</tr>
+											<tr class="">
+												<td align="left" class="entry borderRight borderBottom" startcol="1" style="border-color:#e0e0e0;" valign="top">
+													<div class="para" style="margin-left:0px;">Signs, nameplates</div>
+												</td>
+												<td align="center" class="entry borderRight borderBottom" startcol="2" style="border-color:#e0e0e0;" valign="top">
+													<div class="para" style="margin-left:0px;">X</div>
+												</td>
+												<td align="center" class="entry borderRight borderBottom" startcol="3" style="border-color:#e0e0e0;" valign="top">
+													<div class="para" style="margin-left:0px;"></div>
+												</td>
+												<td align="center" class="entry borderRight borderBottom" startcol="4" style="border-color:#e0e0e0;" valign="top">
+													<div class="para" style="margin-left:0px;"></div>
+												</td>
+												<td align="center" class="entry borderBottom" startcol="5" style="border-color:#e0e0e0;" valign="top">
+													<div class="para" style="margin-left:0px;"></div>
+												</td>
+											</tr>
+											<tr class="">
+												<td align="left" class="entry borderRight borderBottom" startcol="1" style="border-color:#e0e0e0;" valign="top">
+													<div class="para" style="margin-left:0px;">Signs, temporary</div>
+												</td>
+												<td align="center" class="entry borderRight borderBottom" startcol="2" style="border-color:#e0e0e0;" valign="top">
+													<div class="para" style="margin-left:0px;"></div>
+												</td>
+												<td align="center" class="entry borderRight borderBottom" startcol="3" style="border-color:#e0e0e0;" valign="top">
+													<div class="para" style="margin-left:0px;">X</div>
+												</td>
+												<td align="center" class="entry borderRight borderBottom" startcol="4" style="border-color:#e0e0e0;" valign="top">
+													<div class="para" style="margin-left:0px;"></div>
+												</td>
+												<td align="center" class="entry borderBottom" startcol="5" style="border-color:#e0e0e0;" valign="top">
+													<div class="para" style="margin-left:0px;"></div>
+												</td>
+											</tr>
+											<tr class="">
+												<td align="left" class="entry borderRight borderBottom" startcol="1" style="border-color:#e0e0e0;" valign="top">
+													<div class="para" style="margin-left:0px;">Social club</div>
+												</td>
+												<td align="center" class="entry borderRight borderBottom" startcol="2" style="border-color:#e0e0e0;" valign="top">
+													<div class="para" style="margin-left:0px;"></div>
+												</td>
+												<td align="center" class="entry borderRight borderBottom" startcol="3" style="border-color:#e0e0e0;" valign="top">
+													<div class="para" style="margin-left:0px;">X</div>
+												</td>
+												<td align="center" class="entry borderRight borderBottom" startcol="4" style="border-color:#e0e0e0;" valign="top">
+													<div class="para" style="margin-left:0px;"></div>
+												</td>
+												<td align="center" class="entry borderBottom" startcol="5" style="border-color:#e0e0e0;" valign="top">
+													<div class="para" style="margin-left:0px;">X</div>
+												</td>
+											</tr>
+											<tr class="">
+												<td align="left" class="entry borderRight borderBottom" startcol="1" style="border-color:#e0e0e0;" valign="top">
+													<div class="para" style="margin-left:0px;">Subdivisions</div>
+												</td>
+												<td align="center" class="entry borderRight borderBottom" startcol="2" style="border-color:#e0e0e0;" valign="top">
+													<div class="para" style="margin-left:0px;">X</div>
+												</td>
+												<td align="center" class="entry borderRight borderBottom" startcol="3" style="border-color:#e0e0e0;" valign="top">
+													<div class="para" style="margin-left:0px;"></div>
+												</td>
+												<td align="center" class="entry borderRight borderBottom" startcol="4" style="border-color:#e0e0e0;" valign="top">
+													<div class="para" style="margin-left:0px;"></div>
+												</td>
+												<td align="center" class="entry borderBottom" startcol="5" style="border-color:#e0e0e0;" valign="top">
+													<div class="para" style="margin-left:0px;"></div>
+												</td>
+											</tr>
+											<tr class="">
+												<td align="left" class="entry borderRight borderBottom" startcol="1" style="border-color:#e0e0e0;" valign="top">
+													<div class="para" style="margin-left:0px;">Telecommunications facilities, minor</div>
+												</td>
+												<td align="center" class="entry borderRight borderBottom" startcol="2" style="border-color:#e0e0e0;" valign="top">
+													<div class="para" style="margin-left:0px;"></div>
+												</td>
+												<td align="center" class="entry borderRight borderBottom" startcol="3" style="border-color:#e0e0e0;" valign="top">
+													<div class="para" style="margin-left:0px;"></div>
+												</td>
+												<td align="center" class="entry borderRight borderBottom" startcol="4" style="border-color:#e0e0e0;" valign="top">
+													<div class="para" style="margin-left:0px;">X</div>
+												</td>
+												<td align="center" class="entry borderBottom" startcol="5" style="border-color:#e0e0e0;" valign="top">
+													<div class="para" style="margin-left:0px;">X</div>
+												</td>
+											</tr>
+											<tr class="">
+												<td align="left" class="entry borderRight borderBottom" startcol="1" style="border-color:#e0e0e0;" valign="top">
+													<div class="para" style="margin-left:0px;">Temporary storage container and/or facility for construction of commercial property for 1 year</div>
+												</td>
+												<td align="center" class="entry borderRight borderBottom" startcol="2" style="border-color:#e0e0e0;" valign="top">
+													<div class="para" style="margin-left:0px;">X</div>
+												</td>
+												<td align="center" class="entry borderRight borderBottom" startcol="3" style="border-color:#e0e0e0;" valign="top">
+													<div class="para" style="margin-left:0px;"></div>
+												</td>
+												<td align="center" class="entry borderRight borderBottom" startcol="4" style="border-color:#e0e0e0;" valign="top">
+													<div class="para" style="margin-left:0px;"></div>
+												</td>
+												<td align="center" class="entry borderBottom" startcol="5" style="border-color:#e0e0e0;" valign="top">
+													<div class="para" style="margin-left:0px;"></div>
+												</td>
+											</tr>
+											<tr class="">
+												<td align="left" class="entry borderRight borderBottom" startcol="1" style="border-color:#e0e0e0;" valign="top">
+													<div class="para" style="margin-left:0px;">Theater</div>
+												</td>
+												<td align="center" class="entry borderRight borderBottom" startcol="2" style="border-color:#e0e0e0;" valign="top">
+													<div class="para" style="margin-left:0px;"></div>
+												</td>
+												<td align="center" class="entry borderRight borderBottom" startcol="3" style="border-color:#e0e0e0;" valign="top">
+													<div class="para" style="margin-left:0px;">X</div>
+												</td>
+												<td align="center" class="entry borderRight borderBottom" startcol="4" style="border-color:#e0e0e0;" valign="top">
+													<div class="para" style="margin-left:0px;"></div>
+												</td>
+												<td align="center" class="entry borderBottom" startcol="5" style="border-color:#e0e0e0;" valign="top">
+													<div class="para" style="margin-left:0px;">X</div>
+												</td>
+											</tr>
+											<tr class="">
+												<td align="left" class="entry borderRight borderBottom" startcol="1" style="border-color:#e0e0e0;" valign="top">
+													<div class="para" style="margin-left:0px;">Utility structure, incidental to primary use</div>
+												</td>
+												<td align="center" class="entry borderRight borderBottom" startcol="2" style="border-color:#e0e0e0;" valign="top">
+													<div class="para" style="margin-left:0px;"></div>
+												</td>
+												<td align="center" class="entry borderRight borderBottom" startcol="3" style="border-color:#e0e0e0;" valign="top">
+													<div class="para" style="margin-left:0px;">X</div>
+												</td>
+												<td align="center" class="entry borderRight borderBottom" startcol="4" style="border-color:#e0e0e0;" valign="top">
+													<div class="para" style="margin-left:0px;"></div>
+												</td>
+												<td align="center" class="entry borderBottom" startcol="5" style="border-color:#e0e0e0;" valign="top">
+													<div class="para" style="margin-left:0px;"></div>
+												</td>
+											</tr>
+											<tr class="">
+												<td align="left" class="entry borderRight borderBottom" startcol="1" style="border-color:#e0e0e0;" valign="top">
+													<div class="para" style="margin-left:0px;">Wall</div>
+												</td>
+												<td align="center" class="entry borderRight borderBottom" startcol="2" style="border-color:#e0e0e0;" valign="top">
+													<div class="para" style="margin-left:0px;"></div>
+												</td>
+												<td align="center" class="entry borderRight borderBottom" startcol="3" style="border-color:#e0e0e0;" valign="top">
+													<div class="para" style="margin-left:0px;">X</div>
+												</td>
+												<td align="center" class="entry borderRight borderBottom" startcol="4" style="border-color:#e0e0e0;" valign="top">
+													<div class="para" style="margin-left:0px;"></div>
+												</td>
+												<td align="center" class="entry borderBottom" startcol="5" style="border-color:#e0e0e0;" valign="top">
+													<div class="para" style="margin-left:0px;"></div>
+												</td>
+											</tr>
+											<tr class="">
+												<td align="left" class="entry borderRight" startcol="1" style="border-color:#e0e0e0;" valign="top">
+													<div class="para" style="margin-left:0px;">Warehouse storage facility</div>
+												</td>
+												<td align="center" class="entry borderRight" startcol="2" style="border-color:#e0e0e0;" valign="top">
+													<div class="para" style="margin-left:0px;">X</div>
+												</td>
+												<td align="center" class="entry borderRight" startcol="3" style="border-color:#e0e0e0;" valign="top">
+													<div class="para" style="margin-left:0px;">X</div>
+												</td>
+												<td align="center" class="entry borderRight" startcol="4" style="border-color:#e0e0e0;" valign="top">
+													<div class="para" style="margin-left:0px;"></div>
+												</td>
+												<td align="center" class="entry" startcol="5" style="border-color:#e0e0e0;" valign="top">
+													<div class="para" style="margin-left:0px;">X</div>
+												</td>
+											</tr>
+										</tbody>
+									</table>
+								</div>
+								<div class="history">(
+									<span class="legref" data-ref="LF2631099">
+										<span class="loclaw">Ord. 2-2026</span>, 
+										<span class="hisdate">3/18/2026</span>
+									</span>)
+								</div>
+								<div class="footnotes"></div>
+							</div>
+						</article>

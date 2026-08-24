@@ -1,0 +1,33 @@
+'TABLE 4: MRD-P PERIMETER BUFFER REQUIREMENTS':
+  BUFFER TYPE & REQUIRED WIDTHS:
+    'External buffer: 1, 2, 6 Front: 200'' min. Side: 100'' min. Rear: 100'' min.':
+      MINIMUM PERFORMANCE STANDARD PER 100 FEET > CANOPY TREES: OPTION 1
+      MINIMUM PERFORMANCE STANDARD PER 100 FEET > UNDERSTORY TREES: OPTION 1
+      MINIMUM PERFORMANCE STANDARD PER 100 FEET > SHRUBS/ PERENNIALS/ ORNAMENTAL GRASSES: OPTION 1
+    'External buffer: 1, 2, 6 Front: 200'' min. Side: 100'' min. Rear: 100'' min. (2)':
+      MINIMUM PERFORMANCE STANDARD PER 100 FEET > CANOPY TREES: '6'
+      MINIMUM PERFORMANCE STANDARD PER 100 FEET > UNDERSTORY TREES: '6'
+      MINIMUM PERFORMANCE STANDARD PER 100 FEET > SHRUBS/ PERENNIALS/ ORNAMENTAL GRASSES: '30'
+    'External buffer: 1, 2, 6 Front: 200'' min. Side: 100'' min. Rear: 100'' min. (3)':
+      MINIMUM PERFORMANCE STANDARD PER 100 FEET > CANOPY TREES: OPTION 2
+      MINIMUM PERFORMANCE STANDARD PER 100 FEET > UNDERSTORY TREES: OPTION 2
+      MINIMUM PERFORMANCE STANDARD PER 100 FEET > SHRUBS/ PERENNIALS/ ORNAMENTAL GRASSES: OPTION 2
+    'External buffer: 1, 2, 6 Front: 200'' min. Side: 100'' min. Rear: 100'' min. (4)':
+      MINIMUM PERFORMANCE STANDARD PER 100 FEET > CANOPY TREES: A naturally forested area. Supplemental plantings shall be used to fill in existing gaps in the vegetation, meeting the requirements of Option 1.
+      MINIMUM PERFORMANCE STANDARD PER 100 FEET > UNDERSTORY TREES: A naturally forested area. Supplemental plantings shall be used to fill in existing gaps in the vegetation, meeting the requirements of Option 1.
+      MINIMUM PERFORMANCE STANDARD PER 100 FEET > SHRUBS/ PERENNIALS/ ORNAMENTAL GRASSES: A naturally forested area. Supplemental plantings shall be used to fill in existing gaps in the vegetation, meeting the requirements of Option 1.
+    'External buffer: 1, 2, 6 Front: 200'' min. Side: 100'' min. Rear: 100'' min. (5)':
+      MINIMUM PERFORMANCE STANDARD PER 100 FEET > CANOPY TREES: Fifty (50) percent of each planting type shall be evergreen.
+      MINIMUM PERFORMANCE STANDARD PER 100 FEET > UNDERSTORY TREES: Fifty (50) percent of each planting type shall be evergreen.
+      MINIMUM PERFORMANCE STANDARD PER 100 FEET > SHRUBS/ PERENNIALS/ ORNAMENTAL GRASSES: Fifty (50) percent of each planting type shall be evergreen.
+    'External buffer: 1, 2, 6 Front: 200'' min. Side: 100'' min. Rear: 100'' min. (6)':
+      MINIMUM PERFORMANCE STANDARD PER 100 FEET > CANOPY TREES: OPTION 3 (FRONT EXTERNAL BUFFER ONLY) 3, 4, 5
+      MINIMUM PERFORMANCE STANDARD PER 100 FEET > UNDERSTORY TREES: OPTION 3 (FRONT EXTERNAL BUFFER ONLY) 3, 4, 5
+      MINIMUM PERFORMANCE STANDARD PER 100 FEET > SHRUBS/ PERENNIALS/ ORNAMENTAL GRASSES: OPTION 3 (FRONT EXTERNAL BUFFER ONLY) 3, 4, 5
+    'External buffer: 1, 2, 6 Front: 200'' min. Side: 100'' min. Rear: 100'' min. (7)':
+      MINIMUM PERFORMANCE STANDARD PER 100 FEET > CANOPY TREES: An 8' earth berm with a minimum 3:1 slope.
+      MINIMUM PERFORMANCE STANDARD PER 100 FEET > UNDERSTORY TREES: An 8' earth berm with a minimum 3:1 slope.
+      MINIMUM PERFORMANCE STANDARD PER 100 FEET > SHRUBS/ PERENNIALS/ ORNAMENTAL GRASSES: An 8' earth berm with a minimum 3:1 slope.
+    ? 'Footnotes: 1. MRD-P buffer widths shall be increased by 50% if a minor development, consisting of 5 lots or more, have been created along existing rights-of-way within a 10-year period. The front buffer requirement would be implemented along the common property line associated with the minor development. 2. Back of lot stormwater features shall have a maximum encroachment of twenty (20) feet into the external buffer. 3. Berms shall be located a minimum of twenty (20) feet from the external right-of-way. 4. Berms shall be stabilized with understory, shrubs, ornamental grasses, or perennials. Groundcover or lawn and turf grasses shall be used as supplemental stabilizations. Planting shelfs are required for any vegetation. Planting shelfs must be a minimum of four (4) feet wide. 5. Option 3 utilized, a 50'' reduction in the front buffer shall be provided. One half (½) of the reduced acreage shall be provided in additional pocket parks. 6. Side & Rear buffers shall be reduced to seventy-five
+      (75) feet for projects under 35 acres.'
+    : {}

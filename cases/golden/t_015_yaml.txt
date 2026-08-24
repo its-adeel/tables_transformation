@@ -1,0 +1,17 @@
+Table 2 "R-R" Rural Residential District Site and Building Development Regulations:
+  Site Planning:
+    Minimum lot area: 3 acres
+    Maximum lot configuration: '3:1 ratio — lot depth to width (Note: 1)'
+    Minimum lot dimensions:
+      Width: 200 feet
+      Depth: 600 feet
+    Parking: '4 parking spaces (Note: 2)'
+  Building:
+    Dwelling unit size:
+      Single story units: 1,100 square feet
+      1½ and 2 story units: 1,300 square feet
+    Minimum setbacks:
+      Front: 60 feet
+      Interior side yard: 50 feet
+      Rear yard: 100 feet
+    Maximum building height: 35 feet

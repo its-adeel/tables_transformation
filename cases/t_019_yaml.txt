@@ -1,0 +1,34 @@
+'TABLE 1: YARD & HEIGHT REQUIREMENTS':
+  LAND USE:
+    Single and duplex dwellings, patio homes, quadruplex, townhomes and zero lot line developments:
+      SETBACK FROM PROPERTY LINE > FRONT: 25' (I)(II)
+      SETBACK FROM PROPERTY LINE > SIDE: 10' (I)(III)
+      SETBACK FROM PROPERTY LINE > REAR: 15' (I)
+      SETBACK FROM PROPERTY LINE > CORNER: 15'
+      BUILDING SEPARATION (iv): 20'
+      MAX HEIGHT: 40'
+    Tiny Homes:
+      SETBACK FROM PROPERTY LINE > FRONT: NA
+      SETBACK FROM PROPERTY LINE > SIDE: NA
+      SETBACK FROM PROPERTY LINE > REAR: NA
+      SETBACK FROM PROPERTY LINE > CORNER: NA
+      BUILDING SEPARATION (iv): NA
+      MAX HEIGHT: ''
+    Multi-family:
+      SETBACK FROM PROPERTY LINE > FRONT: 30' (I)(II)
+      SETBACK FROM PROPERTY LINE > SIDE: 20' (I)
+      SETBACK FROM PROPERTY LINE > REAR: 25' (I)
+      SETBACK FROM PROPERTY LINE > CORNER: 30'
+      BUILDING SEPARATION (iv): 20'
+      MAX HEIGHT:
+      - 'Rural: 45'''
+      - 'Suburban: 65'''
+      - 'Urban: 120'''
+    Boarding Houses:
+      SETBACK FROM PROPERTY LINE > FRONT: 30'
+      SETBACK FROM PROPERTY LINE > SIDE: 20'
+      SETBACK FROM PROPERTY LINE > REAR: 25'
+      SETBACK FROM PROPERTY LINE > CORNER: 30'
+      BUILDING SEPARATION (iv): 20'
+      MAX HEIGHT: 40'
+    'Footnotes: I. A 5'' reduction in the setback is allowed for projects meeting two (2) sustainable development criteria. II. A 10'' reduction in the setback is allowed for projects meeting three (3) sustainable development criteria. III. No side yard setback is required where common walls are located. V. A 10'' reduction in the building separation for projects meeting two (2) sustainable development criteria.': {}

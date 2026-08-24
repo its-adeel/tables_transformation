@@ -1,0 +1,88 @@
+<div class="codeTable lightGrayHead tableV2 defaultBorders #e0e0e0" style="border-color:#e0e0e0">
+	<table class="lightGrayHead frame frameAll" style="border-color:#e0e0e0; font-size: 90%;" tabstyle="lightGrayHead">
+		<colgroup>
+			<col style="width: 15%">
+				<col style="width: 10%">
+					<col style="width: 12%">
+						<col style="width: 42%">
+							<col style="width: 21%">
+							</colgroup>
+							<thead valign="bottom">
+								<tr class="">
+									<th align="center" class="entry borderBottom" colspan="5" scope="col" startcol="1" style="color:black;background-color:#d7d7d7;border-color:#e0e0e0;" valign="bottom">
+										<div class="para" style="margin-left:0px;">TABLE 9-7-2.3: MINIMUM LOT AND DEVELOPMENT STANDARDS</div>
+									</th>
+								</tr>
+								<tr class="">
+									<th align="left" class="entry borderRight borderBottom" scope="col" startcol="1" style="color:black;background-color:#d7d7d7;border-color:#e0e0e0;" valign="bottom">
+										<div class="para" style="margin-left:0px;">Lot Type</div>
+									</th>
+									<th align="center" class="entry borderRight borderBottom" scope="col" startcol="2" style="color:black;background-color:#d7d7d7;border-color:#e0e0e0;" valign="bottom">
+										<div class="para" style="margin-left:0px;">Area</div>
+									</th>
+									<th align="center" class="entry borderRight borderBottom" scope="col" startcol="3" style="color:black;background-color:#d7d7d7;border-color:#e0e0e0;" valign="bottom">
+										<div class="para" style="margin-left:0px;">Frontage</div>
+									</th>
+									<th align="center" class="entry borderRight borderBottom" scope="col" startcol="4" style="color:black;background-color:#d7d7d7;border-color:#e0e0e0;" valign="bottom">
+										<div class="para" style="margin-left:0px;">Setbacks</div>
+									</th>
+									<th align="center" class="entry borderBottom" scope="col" startcol="5" style="color:black;background-color:#d7d7d7;border-color:#e0e0e0;" valign="bottom">
+										<div class="para" style="margin-left:0px;">Height</div>
+									</th>
+								</tr>
+							</thead>
+							<tbody valign="top">
+								<tr class="">
+									<td align="left" class="entry borderRight borderBottom" startcol="1" style="border-color:#e0e0e0;" valign="top">
+										<div class="para" style="margin-left:0px;">Commercial</div>
+									</td>
+									<td align="center" class="entry borderRight borderBottom" startcol="2" style="border-color:#e0e0e0;" valign="top">
+										<div class="para" style="margin-left:0px;">0' minimum</div>
+									</td>
+									<td align="center" class="entry borderRight borderBottom" startcol="3" style="border-color:#e0e0e0;" valign="top">
+										<div class="para" style="margin-left:0px;">40' minimum</div>
+									</td>
+									<td align="left" class="entry borderRight borderBottom" startcol="4" style="border-color:#e0e0e0;" valign="top">
+										<div class="para" style="margin-left:0px;">Front (on Main Street): 0'</div>
+										<div class="para" style="margin-left:0px;">Front (off Main Street): 20'</div>
+										<div class="para" style="margin-left:0px;">Side: 0'</div>
+										<div class="para" style="margin-left:0px;">Rear: 0'</div>
+										<div class="para" style="margin-left:0px;">Accessory structure: 4' from the lot line, except that no minimum side setback shall be required when all of the following conditions are met:</div>
+										<div class="para" style="margin-left:0px;">Accessory structures:</div>
+										<div class="para" style="margin-left:0px;">A.&nbsp;The accessory building is located more than 10' to the rear of the closest rear wall line of any existing main building;</div>
+										<div class="para" style="margin-left:0px;">B.&nbsp;The accessory building contains no openings in the side contiguous to the lot line;</div>
+										<div class="para" style="margin-left:0px;">C.&nbsp;No drainage from the roof will be discharged onto an adjacent lot; and</div>
+										<div class="para" style="margin-left:0px;">D.&nbsp;The accessory building shall have fire resistive walls rated at 4 hours or more.</div>
+									</td>
+									<td align="left" class="entry borderBottom" startcol="5" style="border-color:#e0e0e0;" valign="top">
+										<div class="para" style="margin-left:0px;">Office and commercial areas: 25'</div>
+										<div class="para" style="margin-left:0px;">Average grade to the square of building shall not exceed 25' or 2 stories above average grade whichever is less.</div>
+										<div class="para" style="margin-left:0px;">Warehouse/factory areas: 35'</div>
+										<div class="para" style="margin-left:0px;">Average grade to the square of building shall not exceed 35' or 3 stories above average grade whichever is less.</div>
+									</td>
+								</tr>
+								<tr class="">
+									<td align="left" class="entry borderRight" startcol="1" style="border-color:#e0e0e0;" valign="top">
+										<div class="para" style="margin-left:0px;">Exceptions</div>
+									</td>
+									<td align="center" class="entry borderRight" startcol="2" style="border-color:#e0e0e0;" valign="top">
+										<div class="para" style="margin-left:0px;">No</div>
+									</td>
+									<td align="center" class="entry borderRight" startcol="3" style="border-color:#e0e0e0;" valign="top">
+										<div class="para" style="margin-left:0px;">No</div>
+									</td>
+									<td align="left" class="entry borderRight" startcol="4" style="border-color:#e0e0e0;" valign="top">
+										<div class="para" style="margin-left:0px;">1.&nbsp;Front Setback: When a building faces Main Street and is situated on Main Street the front setback may be reduced to 0</div>
+										<div class="para" style="margin-left:0px;">2.&nbsp;Side Yard Used as Driveway: When used for access to any garage, carport or parking area having less than 5 parking spaces, a side yard shall be wide enough to accommodate an unobstructed 12' paved driveway. When used for access for a garage, carport or parking area having 6 or more parking spaces, a side yard shall be wide enough to provide an unobstructed 12' paved driveway for one-way traffic, or 16' of paved driveway for two-way traffic</div>
+										<div class="para" style="margin-left:0px;">3.&nbsp;Ordinary and Customary Projections: Ordinary and customary projections or sills, belt courses, cornices, or other ornamental features and unenclosed steps and un-walled stoops, porches, and carports, which may project up to 3' into a required front and side yard and up to 5' into a required rear yard. No projection into a required court which is provided in connection with a court apartment shall be constructed except for customary sills, belt courses, and cornices which may extend into a court not more than 16"</div>
+									</td>
+									<td align="left" class="entry" startcol="5" style="border-color:#e0e0e0;" valign="top">
+										<div class="para" style="margin-left:0px;">Office and commercial areas: 25'</div>
+										<div class="para" style="margin-left:0px;">Average grade to the square of building shall not exceed 25' or 2 stories above average grade, whichever is less.</div>
+										<div class="para" style="margin-left:0px;">Warehouse/factory areas: 35'</div>
+										<div class="para" style="margin-left:0px;">Average grade to the square of building shall not exceed 35' or 3 stories above average grade, whichever is less.</div>
+									</td>
+								</tr>
+							</tbody>
+						</table>
+					</div>

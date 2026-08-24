@@ -1,0 +1,143 @@
+Sec. 16-3-320. - Schedule of uses for residential districts.:
+  USE:
+    Accessory dwelling unit (attached or detached) [Reference Section 16-3-60(2)]:
+      LDR: P
+      MDR: P
+      MDR-X: P
+    Adult entertainment establishments:
+      LDR: '*'
+      MDR: '*'
+      MDR-X: '*'
+    Churches:
+      LDR: C
+      MDR: C
+      MDR-X: C
+    Family child care home (up to 12 children):
+      LDR: P
+      MDR: P
+      MDR-X: P
+    Duplex:
+      LDR: '*'
+      MDR: P
+      MDR-X: P
+    Golf course (with or without clubhouse):
+      LDR: C
+      MDR: C
+      MDR-X: C
+    Group care facilities not exceeding 8 occupants, including, but not limited to, residential care facilities, children's homes, halfway houses, rehabilitative centers, group foster care and senior citizen's group homes:
+      LDR: C
+      MDR: C
+      MDR-X: C
+    Group child care center (up to 12 children):
+      LDR: P
+      MDR: P
+      MDR-X: P
+    Group child care center (13 or more children):
+      LDR: C
+      MDR: C
+      MDR-X: C
+    Hospitals or clinics:
+      LDR: '*'
+      MDR: C
+      MDR-X: C
+    Internet sweepstakes cafe:
+      LDR: '*'
+      MDR: '*'
+      MDR-X: '*'
+    Manufactured homes:
+      LDR: C
+      MDR: C
+      MDR-X: P
+    Manufactured homes with a finished dimension less than twenty-four (24) feet in width and thirty-six (36) feet in length:
+      LDR: C
+      MDR: C
+      MDR-X: C
+    Medical or dental offices:
+      LDR: '*'
+      MDR: C
+      MDR-X: C
+    Mobile home parks and subdivisions:
+      LDR: '*'
+      MDR: C
+      MDR-X: C
+    Multi-unit dwellings:
+      LDR: '*'
+      MDR: P
+      MDR-X: P
+    Office, retail sales and restaurants, provided that the residential character of the structure is maintained:
+      LDR: '*'
+      MDR: '*'
+      MDR-X: C
+    Oil and natural gas exploration, development, production, pumping, compression facilities or pipelines:
+      LDR: '*'
+      MDR: '*'
+      MDR-X: '*'
+    Parking lots:
+      LDR: '*'
+      MDR: '*'
+      MDR-X: C
+    Parks and playgrounds:
+      LDR: P
+      MDR: P
+      MDR-X: P
+    Personal service outlets, including but not limited to barber and beauty shops, self-service laundries, photographic studios, etc.:
+      LDR: '*'
+      MDR: C
+      MDR-X: C
+    Private membership clubs:
+      LDR: '*'
+      MDR: C
+      MDR-X: C
+    Professional or business offices and neighborhood retail business if planned and approved as part of a PUD:
+      LDR: '*'
+      MDR: C
+      MDR-X: C
+    Public or private schools:
+      LDR: C
+      MDR: C
+      MDR-X: C
+    Public services and utilities; provided that business offices, repair, storage and production facilities are not included:
+      LDR: C
+      MDR: C
+      MDR-X: C
+    Rooming houses and "bed and breakfast" accommodations:
+      LDR: C
+      MDR: C
+      MDR-X: C
+    Single-unit dwellings:
+      LDR: P
+      MDR: P
+      MDR-X: P
+    Townhome:
+      LDR: '*'
+      MDR: P
+      MDR-X: P
+    Wireless communications facilities (subject to use-specific standards and application procedures in Sections 16-19-010—16-19-080):
+      Alternative tower structure in right-of-way:
+        LDR: P
+        MDR: P
+        MDR-X: P
+      Alternative tower structure not in right-of-way:
+        LDR: C
+        MDR: C
+        MDR-X: C
+      Base station in right-of-way:
+        LDR: P
+        MDR: P
+        MDR-X: P
+      Base station not in right-of-way:
+        LDR: C
+        MDR: C
+        MDR-X: C
+      Eligible facilities request:
+        LDR: P
+        MDR: P
+        MDR-X: P
+      Small cell facility:
+        LDR: P
+        MDR: P
+        MDR-X: P
+      Tower:
+        LDR: '*'
+        MDR: '*'
+        MDR-X: '*'

@@ -1,0 +1,327 @@
+Table 17.08.020 Residential Zone Use Table | P = Use is Permitted by Right; C = Use Requires Conditional Use Permit A = Use Requires Administrative Use Permit; T = Use Requires Temporary Use Permit Blank = Use Is Not Allowed:
+  Land Uses:
+    Residential Uses:
+      1 - Assisted living, skilled nursing, or hospice facility:
+        Single-family Residential Zones > R-L-12: C
+        Single-family Residential Zones > R-L-8: C
+        Single-family Residential Zones > R-L-5: C
+        Multifamily Residential Zones > R-M: C
+        Multifamily Residential Zones > R-H: C
+        Specific Land Use Standards (See identified Section): ''
+      2 - Bed and breakfast inn:
+        Single-family Residential Zones > R-L-12: ''
+        Single-family Residential Zones > R-L-8: ''
+        Single-family Residential Zones > R-L-5: ''
+        Multifamily Residential Zones > R-M: C
+        Multifamily Residential Zones > R-H: ''
+        Specific Land Use Standards (See identified Section): 17.60.040
+      3 - Boarding house or rooming house:
+        Single-family Residential Zones > R-L-12: ''
+        Single-family Residential Zones > R-L-8: ''
+        Single-family Residential Zones > R-L-5: C
+        Multifamily Residential Zones > R-M: C
+        Multifamily Residential Zones > R-H: C
+        Specific Land Use Standards (See identified Section): ''
+      4 - Emergency shelter:
+        Single-family Residential Zones > R-L-12: ''
+        Single-family Residential Zones > R-L-8: ''
+        Single-family Residential Zones > R-L-5: ''
+        Multifamily Residential Zones > R-M: C
+        Multifamily Residential Zones > R-H: C
+        Specific Land Use Standards (See identified Section): ''
+      5 - Employee housing for 6 or fewer employees:
+        Single-family Residential Zones > R-L-12: P
+        Single-family Residential Zones > R-L-8: P
+        Single-family Residential Zones > R-L-5: P
+        Multifamily Residential Zones > R-M: P
+        Multifamily Residential Zones > R-H: P
+        Specific Land Use Standards (See identified Section): Health and Safety Code Section 17021.5
+      6 - Hotel or motel:
+        Single-family Residential Zones > R-L-12: ''
+        Single-family Residential Zones > R-L-8: ''
+        Single-family Residential Zones > R-L-5: ''
+        Multifamily Residential Zones > R-M: ''
+        Multifamily Residential Zones > R-H: ''
+        Specific Land Use Standards (See identified Section): ''
+      7 - Manufactured home on permanent foundation:
+        Single-family Residential Zones > R-L-12: A
+        Single-family Residential Zones > R-L-8: A
+        Single-family Residential Zones > R-L-5: A
+        Multifamily Residential Zones > R-M: A
+        Multifamily Residential Zones > R-H: A
+        Specific Land Use Standards (See identified Section): 17.60.090
+      8 - Mobilehome, not within a mobilehome park:
+        Single-family Residential Zones > R-L-12: ''
+        Single-family Residential Zones > R-L-8: ''
+        Single-family Residential Zones > R-L-5: ''
+        Multifamily Residential Zones > R-M: ''
+        Multifamily Residential Zones > R-H: ''
+        Specific Land Use Standards (See identified Section): 17.60.090
+      9 - Mobilehome park (2 or more mobilehomes or manufactured dwellings on a site; 5 acre minimum):
+        Single-family Residential Zones > R-L-12: ''
+        Single-family Residential Zones > R-L-8: ''
+        Single-family Residential Zones > R-L-5: ''
+        Multifamily Residential Zones > R-M: C
+        Multifamily Residential Zones > R-H: ''
+        Specific Land Use Standards (See identified Section): 17.60.100
+      10 - Multifamily dwelling, 2 units per site (duplex):
+        Single-family Residential Zones > R-L-12: P
+        Single-family Residential Zones > R-L-8: P
+        Single-family Residential Zones > R-L-5: P
+        Multifamily Residential Zones > R-M: P
+        Multifamily Residential Zones > R-H: P
+        Specific Land Use Standards (See identified Section): 17.10.020 - only permitted in single-family zone districts if the requirements of Government Code Section 65852.21 are satisfied
+      11 - Multifamily dwelling, 3 or 4 units per site (triplex or fourplex):
+        Single-family Residential Zones > R-L-12: ''
+        Single-family Residential Zones > R-L-8: ''
+        Single-family Residential Zones > R-L-5: C
+        Multifamily Residential Zones > R-M: P
+        Multifamily Residential Zones > R-H: P
+        Specific Land Use Standards (See identified Section): 17.10.020 - only permitted on corner lots in R-L-5 with CUP
+      12 - Multifamily dwelling, 5 or more units per site:
+        Single-family Residential Zones > R-L-12: ''
+        Single-family Residential Zones > R-L-8: ''
+        Single-family Residential Zones > R-L-5: ''
+        Multifamily Residential Zones > R-M: P
+        Multifamily Residential Zones > R-H: P
+        Specific Land Use Standards (See identified Section): ''
+      13 - Recreational vehicle park:
+        Single-family Residential Zones > R-L-12: ''
+        Single-family Residential Zones > R-L-8: ''
+        Single-family Residential Zones > R-L-5: C
+        Multifamily Residential Zones > R-M: C
+        Multifamily Residential Zones > R-H: ''
+        Specific Land Use Standards (See identified Section): ''
+      14 - Residential care facility, up to 6 persons:
+        Single-family Residential Zones > R-L-12: P
+        Single-family Residential Zones > R-L-8: P
+        Single-family Residential Zones > R-L-5: P
+        Multifamily Residential Zones > R-M: P
+        Multifamily Residential Zones > R-H: P
+        Specific Land Use Standards (See identified Section): ''
+      15 - Residential care facility, 7 or more persons:
+        Single-family Residential Zones > R-L-12: C
+        Single-family Residential Zones > R-L-8: C
+        Single-family Residential Zones > R-L-5: C
+        Multifamily Residential Zones > R-M: C
+        Multifamily Residential Zones > R-H: C
+        Specific Land Use Standards (See identified Section): ''
+      16 - Single-family dwelling, attached:
+        Single-family Residential Zones > R-L-12: ''
+        Single-family Residential Zones > R-L-8: ''
+        Single-family Residential Zones > R-L-5: P
+        Multifamily Residential Zones > R-M: P
+        Multifamily Residential Zones > R-H: P
+        Specific Land Use Standards (See identified Section): ''
+      17 - Single-family dwelling, detached:
+        Single-family Residential Zones > R-L-12: P
+        Single-family Residential Zones > R-L-8: P
+        Single-family Residential Zones > R-L-5: P
+        Multifamily Residential Zones > R-M: P
+        Multifamily Residential Zones > R-H: P
+        Specific Land Use Standards (See identified Section): ''
+      18 - Single-room occupancy (SRO):
+        Single-family Residential Zones > R-L-12: ''
+        Single-family Residential Zones > R-L-8: ''
+        Single-family Residential Zones > R-L-5: ''
+        Multifamily Residential Zones > R-M: ''
+        Multifamily Residential Zones > R-H: C
+        Specific Land Use Standards (See identified Section): ''
+      19 - Supportive housing:
+        Single-family Residential Zones > R-L-12: P
+        Single-family Residential Zones > R-L-8: P
+        Single-family Residential Zones > R-L-5: P
+        Multifamily Residential Zones > R-M: P
+        Multifamily Residential Zones > R-H: P
+        Specific Land Use Standards (See identified Section): Section 50675.14 of the Health & Safety Code
+      20 - Transitional housing:
+        Single-family Residential Zones > R-L-12: P
+        Single-family Residential Zones > R-L-8: P
+        Single-family Residential Zones > R-L-5: P
+        Multifamily Residential Zones > R-M: P
+        Multifamily Residential Zones > R-H: P
+        Specific Land Use Standards (See identified Section): ''
+    Residential Accessory and Support Uses:
+      21 - Accessory dwelling unit:
+        Single-family Residential Zones > R-L-12: P
+        Single-family Residential Zones > R-L-8: P
+        Single-family Residential Zones > R-L-5: P
+        Multifamily Residential Zones > R-M: P
+        Multifamily Residential Zones > R-H: P
+        Specific Land Use Standards (See identified Section): 17.60.030, subject to State Law regulations
+      22 - Building ancillary to the main residential use:
+        Single-family Residential Zones > R-L-12: P
+        Single-family Residential Zones > R-L-8: P
+        Single-family Residential Zones > R-L-5: P
+        Multifamily Residential Zones > R-M: P
+        Multifamily Residential Zones > R-H: P
+        Specific Land Use Standards (See identified Section): ''
+      23 - Cottage food operation:
+        Single-family Residential Zones > R-L-12: P
+        Single-family Residential Zones > R-L-8: P
+        Single-family Residential Zones > R-L-5: P
+        Multifamily Residential Zones > R-M: P
+        Multifamily Residential Zones > R-H: P
+        Specific Land Use Standards (See identified Section): 17.60.050 - Home Occupation Permit Required
+      24 - Expansion of existing nonconforming residential use:
+        Single-family Residential Zones > R-L-12: C
+        Single-family Residential Zones > R-L-8: C
+        Single-family Residential Zones > R-L-5: C
+        Multifamily Residential Zones > R-M: C
+        Multifamily Residential Zones > R-H: C
+        Specific Land Use Standards (See identified Section): 17.90.070
+      25 - Guest house:
+        Single-family Residential Zones > R-L-12: P
+        Single-family Residential Zones > R-L-8: P
+        Single-family Residential Zones > R-L-5: P
+        Multifamily Residential Zones > R-M: ''
+        Multifamily Residential Zones > R-H: ''
+        Specific Land Use Standards (See identified Section): Without a kitchen
+      26 - Home occupation:
+        Single-family Residential Zones > R-L-12: P
+        Single-family Residential Zones > R-L-8: P
+        Single-family Residential Zones > R-L-5: P
+        Multifamily Residential Zones > R-M: P
+        Multifamily Residential Zones > R-H: P
+        Specific Land Use Standards (See identified Section): Chapter 17.78 - Home Occupation Permit Required
+      27 - Keeping of household pets:
+        Single-family Residential Zones > R-L-12: P
+        Single-family Residential Zones > R-L-8: P
+        Single-family Residential Zones > R-L-5: P
+        Multifamily Residential Zones > R-M: P
+        Multifamily Residential Zones > R-H: P
+        Specific Land Use Standards (See identified Section): 6.12.010 limits the number of pets a household may maintain
+      28 - Raising of fruit, vegetables, and horticultural specialties for personal use:
+        Single-family Residential Zones > R-L-12: P
+        Single-family Residential Zones > R-L-8: P
+        Single-family Residential Zones > R-L-5: P
+        Multifamily Residential Zones > R-M: P
+        Multifamily Residential Zones > R-H: P
+        Specific Land Use Standards (See identified Section): ''
+      29 - Temporary caretaker's dwelling:
+        Single-family Residential Zones > R-L-12: T
+        Single-family Residential Zones > R-L-8: T
+        Single-family Residential Zones > R-L-5: T
+        Multifamily Residential Zones > R-M: T
+        Multifamily Residential Zones > R-H: T
+        Specific Land Use Standards (See identified Section): ''
+      30 - Temporary materials storage yard:
+        Single-family Residential Zones > R-L-12: T
+        Single-family Residential Zones > R-L-8: T
+        Single-family Residential Zones > R-L-5: T
+        Multifamily Residential Zones > R-M: T
+        Multifamily Residential Zones > R-H: T
+        Specific Land Use Standards (See identified Section): ''
+      31 - Temporary residential sales office:
+        Single-family Residential Zones > R-L-12: T
+        Single-family Residential Zones > R-L-8: T
+        Single-family Residential Zones > R-L-5: T
+        Multifamily Residential Zones > R-M: T
+        Multifamily Residential Zones > R-H: T
+        Specific Land Use Standards (See identified Section): ''
+      32 - Temporary construction living quarters:
+        Single-family Residential Zones > R-L-12: A
+        Single-family Residential Zones > R-L-8: A
+        Single-family Residential Zones > R-L-5: A
+        Multifamily Residential Zones > R-M: A
+        Multifamily Residential Zones > R-H: A
+        Specific Land Use Standards (See identified Section): must be manufactured dwelling unit on permanent foundation; 6 month limit
+      33 - Other accessory or ancillary use or structure that the Community Development Director determines is customarily associated with, and subordinate to, a primary permitted use.:
+        Single-family Residential Zones > R-L-12: P
+        Single-family Residential Zones > R-L-8: P
+        Single-family Residential Zones > R-L-5: P
+        Multifamily Residential Zones > R-M: P
+        Multifamily Residential Zones > R-H: P
+        Specific Land Use Standards (See identified Section): ''
+    Other Uses:
+      34 - Community center or facility:
+        Single-family Residential Zones > R-L-12: C
+        Single-family Residential Zones > R-L-8: C
+        Single-family Residential Zones > R-L-5: C
+        Multifamily Residential Zones > R-M: C
+        Multifamily Residential Zones > R-H: C
+        Specific Land Use Standards (See identified Section): ''
+      35 - Day care, up to 8 children:
+        Single-family Residential Zones > R-L-12: P
+        Single-family Residential Zones > R-L-8: P
+        Single-family Residential Zones > R-L-5: P
+        Multifamily Residential Zones > R-M: P
+        Multifamily Residential Zones > R-H: P
+        Specific Land Use Standards (See identified Section): 17.60.060
+      36 - Day care, 9 to 14 children:
+        Single-family Residential Zones > R-L-12: P
+        Single-family Residential Zones > R-L-8: P
+        Single-family Residential Zones > R-L-5: P
+        Multifamily Residential Zones > R-M: P
+        Multifamily Residential Zones > R-H: P
+        Specific Land Use Standards (See identified Section): 17.60.060; SB 234
+      37 - Day care, over 14 children:
+        Single-family Residential Zones > R-L-12: C
+        Single-family Residential Zones > R-L-8: C
+        Single-family Residential Zones > R-L-5: C
+        Multifamily Residential Zones > R-M: C
+        Multifamily Residential Zones > R-H: C
+        Specific Land Use Standards (See identified Section): 17.60.060
+      38 - Electrical distribution and transmission substation, gas regulator station, communications equipment building, public service pumping station, or elevated pressure tank:
+        Single-family Residential Zones > R-L-12: A
+        Single-family Residential Zones > R-L-8: A
+        Single-family Residential Zones > R-L-5: A
+        Multifamily Residential Zones > R-M: A
+        Multifamily Residential Zones > R-H: A
+        Specific Land Use Standards (See identified Section): ''
+      39 - Golf course or country club:
+        Single-family Residential Zones > R-L-12: C
+        Single-family Residential Zones > R-L-8: C
+        Single-family Residential Zones > R-L-5: C
+        Multifamily Residential Zones > R-M: ''
+        Multifamily Residential Zones > R-H: ''
+        Specific Land Use Standards (See identified Section): ''
+      40 - Mini-warehouse or self-storage facility:
+        Single-family Residential Zones > R-L-12: ''
+        Single-family Residential Zones > R-L-8: ''
+        Single-family Residential Zones > R-L-5: C
+        Multifamily Residential Zones > R-M: ''
+        Multifamily Residential Zones > R-H: ''
+        Specific Land Use Standards (See identified Section): 17.60.095 on a parcel which has frontage on and adequate main access to an arterial or collector street
+      41 - Park or playground:
+        Single-family Residential Zones > R-L-12: P
+        Single-family Residential Zones > R-L-8: P
+        Single-family Residential Zones > R-L-5: P
+        Multifamily Residential Zones > R-M: P
+        Multifamily Residential Zones > R-H: P
+        Specific Land Use Standards (See identified Section): ''
+      42 - Religious institution or facility:
+        Single-family Residential Zones > R-L-12: C
+        Single-family Residential Zones > R-L-8: C
+        Single-family Residential Zones > R-L-5: C
+        Multifamily Residential Zones > R-M: C
+        Multifamily Residential Zones > R-H: C
+        Specific Land Use Standards (See identified Section): ''
+      43 - School, private (kindergarten to 12th grade):
+        Single-family Residential Zones > R-L-12: C
+        Single-family Residential Zones > R-L-8: C
+        Single-family Residential Zones > R-L-5: C
+        Multifamily Residential Zones > R-M: ''
+        Multifamily Residential Zones > R-H: ''
+        Specific Land Use Standards (See identified Section): ''
+      44 - School, public (kindergarten to 12th grade):
+        Single-family Residential Zones > R-L-12: P
+        Single-family Residential Zones > R-L-8: P
+        Single-family Residential Zones > R-L-5: P
+        Multifamily Residential Zones > R-M: ''
+        Multifamily Residential Zones > R-H: ''
+        Specific Land Use Standards (See identified Section): ''
+      45 - Storm drainage basin, with or without a park:
+        Single-family Residential Zones > R-L-12: P
+        Single-family Residential Zones > R-L-8: P
+        Single-family Residential Zones > R-L-5: P
+        Multifamily Residential Zones > R-M: P
+        Multifamily Residential Zones > R-H: P
+        Specific Land Use Standards (See identified Section): ''
+      46 - Land uses listed in the Commercial, Office, and Industrial Zone Use Table (Section 17.08.030 ) that are not listed in this Residential Zone Use Table:
+        Single-family Residential Zones > R-L-12: ''
+        Single-family Residential Zones > R-L-8: ''
+        Single-family Residential Zones > R-L-5: ''
+        Multifamily Residential Zones > R-M: ''
+        Multifamily Residential Zones > R-H: ''
+        Specific Land Use Standards (See identified Section): ''
