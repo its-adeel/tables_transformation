@@ -1,0 +1,122 @@
+<table class="thead4 table left makeExpandableTable makeFixedTable" cellpadding="3" cellspacing="0" border="1" rules="all" style="text-align: center;">
+                        <colgroup class="std">
+                           <col width="22.22222222222222%">
+                           <col width="11.11111111111111%">
+                           <col width="11.11111111111111%">
+                           <col width="11.11111111111111%">
+                           <col width="11.11111111111111%">
+                           <col width="11.11111111111111%">
+                           <col width="22.22222222222222%">
+                        </colgroup>
+                        <thead><tr>
+                              <th style="vertical-align:middle; " colspan="7" class=" top ">
+                                 Table 2-4 (HI) HEAVY INDUSTRIAL DISTRICT
+                                 </th>
+                           </tr><tr>
+                              <th style="vertical-align:middle; " colspan="7" class=" top ">
+                                 Heavy Industrial Park
+                                 <sup>
+                                    II
+                                    </sup>
+                                 </th>
+                           </tr><tr>
+                              <th style="vertical-align:middle; " rowspan="2" colspan="1" class=" top ">
+                                 Parcel Type
+                                 <sup>
+                                    III
+                                    </sup>
+                                 </th>
+                              <th style="vertical-align:middle; " colspan="4" class=" top ">
+                                 Setbacks
+                                 <sup>
+                                    I
+                                    </sup>
+                                 </th>
+                              <th style="vertical-align:middle; " rowspan="2" class=" top ">
+                                 Height
+                                 </th>
+                              <th style="vertical-align:middle; " rowspan="2" class=" top ">
+                                 Lot width at Building Site
+                                 </th>
+                           </tr><tr>
+                              <th style="vertical-align:middle; " class=" top ">
+                                 Front
+                                 </th>
+                              <th style="vertical-align:middle; " class=" top ">
+                                 Side
+                                 </th>
+                              <th style="vertical-align:middle; " class=" top ">
+                                 Rear
+                                 </th>
+                              <th style="vertical-align:middle; " class=" top ">
+                                 Corner Side
+                                 </th>
+                           </tr></thead><tbody>
+                           
+                           
+                           
+                           
+                           <tr>
+                              <td style="vertical-align:middle; " class=" top ">
+                                 Industrial
+                                 </td>
+                              <td style="vertical-align:middle; " class=" top ">
+                                 50'
+                                 </td>
+                              <td style="vertical-align:middle; " class=" top ">
+                                 25'
+                                 </td>
+                              <td style="vertical-align:middle; " class=" top ">
+                                 20'
+                                 </td>
+                              <td style="vertical-align:middle; " class=" top ">
+                                 37.5'
+                                 </td>
+                              <td style="vertical-align:middle; " class=" top ">
+                                 60'
+                                 </td>
+                              <td style="vertical-align:middle; " class=" top ">
+                                 200'
+                                 </td>
+                           </tr>
+                           <tr>
+                              <td style="vertical-align:middle; " class=" top ">
+                                 Management Office/
+                                 <br>
+                                 Public Safety
+                                 </td>
+                              <td style="vertical-align:middle; " class=" top ">
+                                 50'
+                                 </td>
+                              <td style="vertical-align:middle; " class=" top ">
+                                 10'
+                                 </td>
+                              <td style="vertical-align:middle; " class=" top ">
+                                 15'
+                                 </td>
+                              <td style="vertical-align:middle; " class=" top ">
+                                 15'
+                                 </td>
+                              <td style="vertical-align:middle; " class=" top ">
+                                 35'
+                                 </td>
+                              <td style="vertical-align:middle; " class=" top ">
+                                 60'
+                                 </td>
+                           </tr>
+                           <tr>
+                              <td style="vertical-align:middle; " colspan="7" class=" top ">
+                                 Notes:
+                                 <br>
+                                 I. Setbacks shall be no less than 100 feet if located along an exterior boundary of
+                                 the park.
+                                 <br>
+                                 II. The minimum lot area of the park is no less than ten (10) acres.
+                                 <br>
+                                 III. The minimum lot area of any parcel within the park is no smaller than two (2)
+                                 acres except that parcels used for park management offices and/or public safety facilities
+                                 may be as small as one (1) acre.
+                                 </td>
+                           </tr>
+                        </tbody>
+                     </table>

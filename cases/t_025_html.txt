@@ -1,0 +1,86 @@
+<table class="thead3 table left makeExpandableTable makeFixedTable" cellpadding="3" cellspacing="0" border="1" rules="all">
+                        <colgroup class="std">
+                           <col width="28.571428571428573%">
+                           <col width="14.285714285714286%">
+                           <col width="14.285714285714286%">
+                           <col width="14.285714285714286%">
+                           <col width="14.285714285714286%">
+                           <col width="14.285714285714286%">
+                        </colgroup>
+                        <thead><tr>
+                              <th style="vertical-align:middle; " colspan="6" class="center  top ">
+                                 MRD-P YARD &amp; HEIGHT REQUIREMENTS
+                                 </th>
+                           </tr><tr>
+                              <th style="vertical-align:middle; " rowspan="2" colspan="1" class=" top ">
+                                 LAND USE
+                                 </th>
+                              <th style="vertical-align:middle; " colspan="4" class=" top ">
+                                 SETBACK FROM PROPERTY LINE
+                                 </th>
+                              <th style="vertical-align:middle; " class=" top "></th>
+                           </tr><tr>
+                              <th style="vertical-align:middle; " class=" top ">
+                                 FRONT
+                                 </th>
+                              <th style="vertical-align:middle; " class=" top ">
+                                 SIDE
+                                 </th>
+                              <th style="vertical-align:middle; " class=" top ">
+                                 REAR
+                                 </th>
+                              <th style="vertical-align:middle; " class=" top ">
+                                 CORNER
+                                 </th>
+                              <th style="vertical-align:middle; " class=" top ">
+                                 MAX HEIGHT
+                                 </th>
+                           </tr></thead><tbody>
+                           
+                           
+                           
+                           <tr>
+                              <td style="vertical-align:middle; " class=" top ">
+                                 Single and duplex dwellings, patio homes, quadruplex, townhomes and zero lot line
+                                 developments
+                                 </td>
+                              <td style="vertical-align:middle; " class=" top ">
+                                 40'
+                                 </td>
+                              <td style="vertical-align:middle; " class=" top ">
+                                 5'
+                                 </td>
+                              <td style="vertical-align:middle; " class=" top ">
+                                 10'
+                                 </td>
+                              <td style="vertical-align:middle; " class=" top ">
+                                 7.5'
+                                 </td>
+                              <td style="vertical-align:middle; " class=" top ">
+                                 40'
+                                 </td>
+                           </tr>
+                           <tr>
+                              <td style="vertical-align:middle; " class=" top ">
+                                 Tiny Homes
+                                 </td>
+                              <td style="vertical-align:middle; " colspan="4" class=" top ">
+                                 NA
+                                 </td>
+                              <td style="vertical-align:middle; " class=" top ">
+                                 40'
+                                 </td>
+                           </tr>
+                           <tr>
+                              <td style="vertical-align:middle; " class=" top ">
+                                 Muli-family
+                                 </td>
+                              <td style="vertical-align:middle; " colspan="4" class=" top ">
+                                 NA
+                                 </td>
+                              <td style="vertical-align:middle; " class=" top ">
+                                 40'
+                                 </td>
+                           </tr>
+                        </tbody>
+                     </table>
