@@ -1,0 +1,87 @@
+<table class="thead3 table left makeExpandableTable makeFixedTable" cellpadding="3" cellspacing="0" border="1" rules="all" style="text-align: center;">
+                        <colgroup class="std">
+                           <col width="14.285714285714286%">
+                           <col width="14.285714285714286%">
+                           <col width="14.285714285714286%">
+                           <col width="14.285714285714286%">
+                           <col width="14.285714285714286%">
+                           <col width="14.285714285714286%">
+                           <col width="14.285714285714286%">
+                        </colgroup>
+                        <thead><tr>
+                              <th style="vertical-align:middle; " colspan="7" class=" top ">
+                                 Table 2-5 (CC) COMMUNITY COMMERCIAL DISTRICT DIMENSIONAL STANDARDS TABLE
+                                 </th>
+                           </tr><tr>
+                              <th style="vertical-align:middle; " rowspan="2" colspan="1" class=" top "></th>
+                              <th style="vertical-align:middle; " rowspan="2" class=" top ">
+                                 Minimum Required Area
+                                 </th>
+                              <th style="vertical-align:middle; " rowspan="2" class=" top ">
+                                 Maximum Lot Coverage
+                                 </th>
+                              <th style="vertical-align:middle; " colspan="3" class=" top ">
+                                 Setback from Property Line
+                                 </th>
+                              <th style="vertical-align:middle; " rowspan="2" class=" top ">
+                                 Maximum Height
+                                 </th>
+                           </tr><tr>
+                              <th style="vertical-align:middle; " class=" top ">
+                                 Front
+                                 </th>
+                              <th style="vertical-align:middle; " class=" top ">
+                                 Side
+                                 </th>
+                              <th style="vertical-align:middle; " class=" top ">
+                                 Rear
+                                 </th>
+                           </tr></thead><tbody>
+                           
+                           
+                           
+                           <tr>
+                              <td style="vertical-align:middle; " class=" top ">
+                                 Interior to the Zoning District
+                                 </td>
+                              <td style="vertical-align:middle; " rowspan="3" class=" top ">
+                                 7000 sq. ft.
+                                 </td>
+                              <td style="vertical-align:middle; " rowspan="3" class=" top ">
+                                 80% of Gross Area
+                                 </td>
+                              <td style="vertical-align:middle; " class=" top ">
+                                 10'
+                                 </td>
+                              <td style="vertical-align:middle; " class=" top ">
+                                 0'
+                                 </td>
+                              <td style="vertical-align:middle; " class=" top ">
+                                 0'
+                                 </td>
+                              <td style="vertical-align:middle; " rowspan="3" class=" top ">
+                                 75'
+                                 </td>
+                           </tr>
+                           <tr>
+                              <td style="vertical-align:middle; " rowspan="2" colspan="1" class=" top ">
+                                 Exterior to the Zoning District
+                                 </td>
+                              <td style="vertical-align:middle; " colspan="3" class=" top ">
+                                 Side and Rear yards require a planting screen, fence or wall six (6) feet in height
+                                 adjacent to any other zoning district.
+                                 </td>
+                           </tr>
+                           <tr>
+                              <td style="vertical-align:middle; " class=" top ">
+                                 25'
+                                 </td>
+                              <td style="vertical-align:middle; " class=" top ">
+                                 30'
+                                 </td>
+                              <td style="vertical-align:middle; " class=" top ">
+                                 30'
+                                 </td>
+                           </tr>
+                        </tbody>
+                     </table>

@@ -1,0 +1,119 @@
+<table
+  class="thead3 table left makeExpandableTable makeFixedTable"
+  cellpadding="3"
+  cellspacing="0"
+  border="1"
+  rules="all"
+>
+  <colgroup class="std">
+    <col width="25%" />
+    <col width="25%" />
+    <col width="25%" />
+    <col width="25%" />
+  </colgroup>
+  <thead>
+    <tr>
+      <th colspan="4" class="center top">
+        TABLE 4: MRD-P PERIMETER BUFFER REQUIREMENTS
+      </th>
+    </tr>
+    <tr>
+      <th rowspan="2" colspan="1" class="top">
+        BUFFER TYPE &amp;
+        <br />
+        REQUIRED WIDTHS
+      </th>
+      <th colspan="3" class="top">MINIMUM PERFORMANCE STANDARD PER 100 FEET</th>
+    </tr>
+    <tr>
+      <th class="top">CANOPY TREES</th>
+      <th class="top">UNDERSTORY TREES</th>
+      <th class="top">
+        SHRUBS/
+        <br />
+        PERENNIALS/
+        <br />
+        ORNAMENTAL
+        <br />
+        GRASSES
+      </th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td rowspan="7" colspan="1" class="top">
+        External buffer:
+        <sup> 1, 2, 6 </sup>
+        <br />
+         
+        <br />
+        Front: 200' min.
+        <br />
+        Side: 100' min.
+        <br />
+        Rear: 100' min.
+      </td>
+      <td colspan="3" class="top">OPTION 1</td>
+    </tr>
+    <tr>
+      <td class="top">6</td>
+      <td class="top">6</td>
+      <td class="top">30</td>
+    </tr>
+    <tr>
+      <td colspan="3" class="top">OPTION 2</td>
+    </tr>
+    <tr>
+      <td colspan="3" class="top">
+        A naturally forested area. Supplemental plantings shall be used to fill
+        in existing gaps in the vegetation, meeting the requirements of Option
+        1.
+      </td>
+    </tr>
+    <tr>
+      <td colspan="3" class="top">
+        Fifty (50) percent of each planting type shall be evergreen.
+      </td>
+    </tr>
+    <tr>
+      <td colspan="3" class="top">
+        OPTION 3 (FRONT EXTERNAL BUFFER ONLY)
+        <sup> 3, 4, 5 </sup>
+      </td>
+    </tr>
+    <tr>
+      <td colspan="3" class="top">
+        An 8' earth berm with a minimum 3:1 slope.
+      </td>
+    </tr>
+    <tr>
+      <td colspan="4" class="top">
+        Footnotes:
+        <br />
+        1. MRD-P buffer widths shall be increased by 50% if a minor development,
+        consisting of 5 lots or more, have been created along existing
+        rights-of-way within a 10-year period. The front buffer requirement
+        would be implemented along the common property line associated with the
+        minor development.
+        <br />
+        2. Back of lot stormwater features shall have a maximum encroachment of
+        twenty (20) feet into the external buffer.
+        <br />
+        3. Berms shall be located a minimum of twenty (20) feet from the
+        external right-of-way.
+        <br />
+        4. Berms shall be stabilized with understory, shrubs, ornamental
+        grasses, or perennials. Groundcover or lawn and turf grasses shall be
+        used as supplemental stabilizations. Planting shelfs are required for
+        any vegetation. Planting shelfs must be a minimum of four (4) feet wide.
+        <br />
+        5. Option 3 utilized, a 50' reduction in the front buffer shall be
+        provided. One half (½) of the reduced acreage shall be provided in
+        additional pocket parks.
+        <br />
+        6. Side &amp; Rear buffers shall be reduced to seventy-five (75) feet
+        for projects under 35 acres.
+      </td>
+    </tr>
+  </tbody>
+</table>

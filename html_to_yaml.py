@@ -1,5 +1,5 @@
 """
-html_to_yaml.py
+table_to_yaml_converter.py
 
 Converts your existing table data (raw HTML) into real nested YAML.
 Colspan/rowspan is properly expanded into a full grid first, so merged
@@ -15,7 +15,7 @@ Usage:
     cases/<id>_html.txt
 
     pip install pyyaml beautifulsoup4
-    python html_to_yaml.py
+    python table_to_yaml_converter.py
 
     Reads raw HTML (real colspan/rowspan structure). Output written to
     cases/<id>_yaml.txt.
@@ -637,6 +637,11 @@ def build_matrix_yaml(data_rows: list, header_paths: dict, total_cols: int) -> d
     # <th colspan="2">Zoning District</th> covering what are semantically
     # a zone code AND a use category), those two columns are ALREADY one
     # group before this check even runs.
+
+    base_label_cols = groups[0][1]
+    anchor_col = base_label_cols[0]
+
+    # --- Compute compound-label depth, per block ---
     #
     # This has to be decided PER BLOCK of rows (identified by which
     # physical cell anchors their label — their span_id at the first
@@ -668,9 +673,6 @@ def build_matrix_yaml(data_rows: list, header_paths: dict, total_cols: int) -> d
             if sid is not None and sid not in first_seen_row:
                 first_seen_row[sid] = i
 
-    base_label_cols = groups[0][1]
-    anchor_col = base_label_cols[0]
-
     block_rows = {}  # anchor span_id -> list of (row, row_index)
     for i, row in enumerate(data_rows):
         cols_present = sorted(row.keys())
@@ -686,9 +688,95 @@ def build_matrix_yaml(data_rows: list, header_paths: dict, total_cols: int) -> d
 
     all_rows_with_idx = [(row, i) for i, row in enumerate(data_rows)]
 
+    # --- Group value columns that share a nested "umbrella" header ---
+    #
+    # e.g. Front / Side / Rear all sit under one shared "Setback from
+    # Property Line" header. Needed below to detect when a note spans
+    # only THAT umbrella's own leaf columns (not the whole row) — see
+    # "collapsed_umbrella_text" in the main loop.
+    umbrella_members = {}
+    for path, cols in groups[1:]:
+        full_path = header_paths.get(cols[0], "")
+        if " > " in full_path:
+            parent_prefix = full_path.rsplit(" > ", 1)[0]
+            umbrella_members.setdefault(parent_prefix, []).append((path, cols))
+    umbrella_members = {k: v for k, v in umbrella_members.items() if len(v) >= 2}
+
+    # --- Does each candidate column ever show GENUINE variation anywhere
+    # in the table? ---
+    #
+    # The per-block absorption loop below already checks whether a
+    # candidate column is nested under a shared umbrella header (if so,
+    # it's a value field, never absorbed — e.g. "Front" under "Setback
+    # from Property Line"). But a FLAT, standalone header can be
+    # ambiguous even after that check: "Uses" and "Minimum Required
+    # Area" look structurally identical — both flat headers that can be
+    # uniformly rowspan-carried across a block — yet one is genuinely
+    # part of a row's identity (different zoning codes pair with
+    # different Uses) and the other is an ordinary value that happens to
+    # get carried along because a DIFFERENT column in the same block
+    # needed extra rows (e.g. a Setback note needing its own row,
+    # dragging the uniformly-repeated "Minimum Required Area" along for
+    # the ride).
+    #
+    # The two are told apart by looking at the WHOLE table rather than
+    # one block in isolation: does this exact column ever show 2+
+    # genuinely different, independently-originating values within any
+    # single block anywhere? If some other zoning code's block shows
+    # "Uses" varying (Commercial Uses vs Residential Uses on separate
+    # physical rows), that's real evidence the column is part of every
+    # row's identity — including in a block where THIS particular
+    # occurrence happens to be uniform. If a column NEVER varies within
+    # any block, anywhere, there's no evidence it's identity at all —
+    # it's an ordinary value field, however it happens to be rowspan'd
+    # in one specific spot.
+    #
+    # This deliberately checks only ONE column at a time (not a cascade
+    # of absorption decisions across the whole table at once) — an
+    # earlier attempt at table-wide evidence pooled decisions greedily
+    # across multiple absorption levels at once and caused runaway
+    # over-absorption on larger tables. Judging each column's own
+    # variation independently, while leaving the existing per-block loop
+    # structure otherwise untouched, avoids that failure mode.
+    column_has_variation = {}
+    for _, cols in groups[1:]:
+        col = cols[0]
+        has_variation = False
+        for rows_with_idx in block_rows.values():
+            if len(rows_with_idx) <= 1:
+                continue
+            spans = set()
+            for row, idx in rows_with_idx:
+                cell = row.get(col)
+                if cell is None:
+                    continue
+                sid = cell[2] if len(cell) > 2 else None
+                if sid is not None and first_seen_row.get(sid) == idx:
+                    spans.add(sid)
+            if len(spans) >= 2:
+                has_variation = True
+                break
+        column_has_variation[col] = has_variation
+
+    # One narrow, explicit carve-out: in a "Type of Property" /
+    # "Length of Frontage" table (a road-frontage signage schedule),
+    # "Length of Frontage" looks structurally identical to a genuine
+    # identity column like "Uses" elsewhere — both are flat, standalone
+    # headers that genuinely vary within a block — yet here it reads
+    # better left as a plain field per physical row rather than folded
+    # into the label. There's no general structural signal that tells
+    # the two apart, so rather than keep patching heuristics for every
+    # future table that looks like this one, this is a direct,
+    # named exception for this specific column pairing.
+    anchor_header = header_paths.get(anchor_col, "").strip().lower()
+    absorption_disabled = anchor_header == "type of property"
+
     depth_by_anchor = {}
     for span_id, rows_with_idx in block_rows.items():
         depth = 0
+        if absorption_disabled:
+            depth_by_anchor[span_id] = depth
+            continue
         current_label_cols = list(base_label_cols)
         remaining = list(groups[1:])
         # A block with only ONE row can never show repetition against
@@ -740,9 +828,17 @@ def build_matrix_yaml(data_rows: list, header_paths: dict, total_cols: int) -> d
             # is one of a peer group of VALUE fields, not a row's
             # identity — nobody nests a category label under an umbrella
             # header shared with unrelated numeric measurements.
+            #
+            # That guard alone still isn't enough: a FLAT header can be
+            # ambiguous too (see column_has_variation's docstring above,
+            # e.g. "Minimum Required Area" — flat, but never actually
+            # distinguishes anything). Requiring genuine variation
+            # SOMEWHERE in the table (not just "not nested") is what
+            # tells that apart from a real identity column like "Uses".
             candidate_col = remaining[0][1][0]
             candidate_header_is_nested = " > " in header_paths.get(candidate_col, "")
-            if multi_row_spans > 0 and not candidate_header_is_nested:
+            candidate_has_variation = column_has_variation.get(candidate_col, False)
+            if multi_row_spans > 0 and not candidate_header_is_nested and candidate_has_variation:
                 _, absorbed_cols = remaining.pop(0)
                 current_label_cols = current_label_cols + absorbed_cols
                 depth += 1
@@ -765,12 +861,54 @@ def build_matrix_yaml(data_rows: list, header_paths: dict, total_cols: int) -> d
                 break
         depth_by_anchor[span_id] = depth
 
+    # --- Count how many rows share each row's LEAF label span ---
+    #
+    # Divider checks #2b/#2c (below) need to know whether a row belongs
+    # to a genuine multi-row group sharing one undifferentiated label —
+    # but "sharing" has to be judged at the row's own LEAF level (after
+    # compound-label absorption), not at the outer anchor. An anchor can
+    # rowspan over several rows that each carry their OWN distinct
+    # absorbed sub-label (e.g. one zoning code's rowspan covering a
+    # "Residential Uses" row, an "Ag Bldg, Horses Only" row, and a
+    # "Commercial Horse Facility" row — three genuinely different,
+    # separately-identified items, each its own size-1 group at the
+    # leaf level) — very different from several rows that share the
+    # exact SAME leaf label with nothing distinguishing them (e.g.
+    # "External buffer" rowspan-carried across 7 rows with no absorbed
+    # sub-label at all, all 7 sharing one leaf span). Using the outer
+    # anchor's block size for this would treat the first case as if it
+    # were the second, and wrongly start swallowing "Residential Uses"'
+    # correctly-standalone value as a sub-divider heading.
+    leaf_block_size = {}
+    for row in data_rows:
+        anchor_cell = row.get(anchor_col)
+        a_span = anchor_cell[2] if anchor_cell and len(anchor_cell) > 2 else None
+        d = depth_by_anchor.get(a_span, 0)
+        leaf_cols = list(base_label_cols)
+        vgroups = list(groups[1:])
+        for _ in range(d):
+            if not vgroups:
+                break
+            _, absorbed = vgroups.pop(0)
+            leaf_cols = absorbed
+        cell = row.get(leaf_cols[0])
+        if cell is None:
+            continue
+        sid = cell[2] if len(cell) > 2 else None
+        if sid is None:
+            continue
+        leaf_block_size[sid] = leaf_block_size.get(sid, 0) + 1
+
     result = {}
     # section_node always points at "whichever dictionary new rows should
     # currently be added into" — starts as the top-level result, but gets
     # redirected into a nested dict whenever we hit a section divider.
     section_node = result
     row_counter = 0   # only used to disambiguate accidental duplicate labels
+    # Tracks, per multi-row block (by anchor span_id), whichever
+    # "OPTION 1"/"OPTION 2"-style local sub-divider is currently active
+    # within that block — see divider checks #2b/#2c below.
+    active_local_divider = {}
 
     for row in data_rows:
         cols_present = sorted(row.keys())
@@ -792,6 +930,15 @@ def build_matrix_yaml(data_rows: list, header_paths: dict, total_cols: int) -> d
         anchor_cell = row.get(anchor_col)
         anchor_span_id = anchor_cell[2] if anchor_cell and len(anchor_cell) > 2 else None
         depth = depth_by_anchor.get(anchor_span_id, 0)
+        # Track each absorbed level as its own SEGMENT (rather than one
+        # flat column list) so a genuine compound label — e.g. a zoning
+        # code's "Uses" column, or this table's "Length of Frontage" —
+        # becomes its own NESTED dict level in the output, the same way
+        # "Type of Property" already does, instead of being flattened
+        # into one hyphenated string. A row's true identity here is a
+        # PATH (Freestanding parcel → Each additional 400 feet...), not
+        # a single concatenated name.
+        label_segments = [list(base_label_cols)]
         label_group_cols = list(base_label_cols)
         value_groups = list(groups[1:])
         for _ in range(depth):
@@ -799,12 +946,23 @@ def build_matrix_yaml(data_rows: list, header_paths: dict, total_cols: int) -> d
                 break
             _, absorbed_cols = value_groups.pop(0)
             label_group_cols = label_group_cols + absorbed_cols
+            label_segments.append(absorbed_cols)
 
         # Collect this row's label text (only the non-blank pieces).
         label_vals_all = [row.get(c, ("", False))[0].strip() for c in label_group_cols]
         label_vals = [v for v in label_vals_all if v]
         row_key = " - ".join(dict.fromkeys(label_vals))   # dict.fromkeys() removes duplicates while keeping order
         full_label = len(label_vals) == len(label_group_cols)  # was EVERY label column filled in?
+
+        # Per-segment text, for nesting: one string per absorbed level
+        # (a segment can itself span 2+ columns if header-text merging
+        # already combined them — e.g. an item-number + item-name pair
+        # sharing one header — so still join WITHIN a segment, just not
+        # ACROSS segments).
+        segment_texts = []
+        for seg in label_segments:
+            seg_vals = [v for v in (row.get(c, ("", False))[0].strip() for c in seg) if v]
+            segment_texts.append(" - ".join(dict.fromkeys(seg_vals)))
 
         # --- Divider check #2: category-description colspan (see docstring) ---
         # A single physical cell spanning two or more value columns is
@@ -827,14 +985,111 @@ def build_matrix_yaml(data_rows: list, header_paths: dict, total_cols: int) -> d
             cell = row.get(cols[0])
             if cell and cell[0].strip():
                 value_span_ids.append(cell[2] if len(cell) > 2 else None)
-        if (
-            label_is_bold
-            and len(value_span_ids) >= 2
+        merged_single_cell = (
+            len(value_span_ids) >= 2
             and len(set(value_span_ids)) == 1
             and value_span_ids[0] is not None
-        ):
+        )
+        if label_is_bold and merged_single_cell:
             if row_key:
                 section_node = _get_or_create_child(result, row_key)
+            continue
+
+        # `block_parent` is where an ordinary row (or the leaf label
+        # itself) belongs — walk every absorbed label segment EXCEPT the
+        # last as nesting, landing on the dict this whole block's
+        # sibling rows share (the leaf segment then becomes that row's
+        # own KEY within it, same as always).
+        block_parent = section_node
+        for seg_text in segment_texts[:-1]:
+            if seg_text:
+                block_parent = _get_or_create_child(block_parent, seg_text)
+        leaf_text = segment_texts[-1] if segment_texts else ""
+        # How many OTHER rows share this exact LEAF-level label span (see
+        # leaf_block_size above) — used below to tell a genuinely
+        # shared, undifferentiated label ("External buffer" rowspan
+        # across 7 rows with no absorbed sub-label) apart from an outer
+        # anchor that merely rowspans over several rows that each carry
+        # their OWN distinct absorbed sub-label.
+        leaf_cell = row.get(label_segments[-1][0])
+        leaf_span_id = leaf_cell[2] if leaf_cell and len(leaf_cell) > 2 else None
+        this_leaf_block_size = leaf_block_size.get(leaf_span_id, 1)
+
+        # --- Divider check #2b: un-bolded local sub-divider within a
+        # genuine multi-row block ---
+        # Some tables mark a sub-heading purely by merging it across
+        # every value column, with NO bold styling anywhere (unlike
+        # check #2 above) — e.g. "OPTION 1" / "OPTION 2" headings inside
+        # one "External buffer" row that rowspans all of them. The bold
+        # test alone can't catch this, but there's a second signal
+        # available here that check #2 doesn't have: this row belongs
+        # to a genuine multi-row block sharing one undifferentiated leaf
+        # label (this_leaf_block_size > 1),
+        # and — critically — that SAME block also contains at least one
+        # row with real, separately-celled per-column values elsewhere
+        # (e.g. "6 / 6 / 30" under "Option 1"). A block that mixes real
+        # column-aligned data with merged single-cell rows is strong
+        # evidence the merged ones are sub-headings for the data around
+        # them, not data themselves.
+        #
+        # A short label like "OPTION 1" is told apart from an ordinary
+        # sentence describing that option (see check #2c) by whether the
+        # text ends in sentence-final punctuation — headings don't,
+        # prose does. This is a narrower, more exploratory heuristic
+        # than the other divider checks, introduced for this specific
+        # table pattern; it only fires when nothing else already claimed
+        # the row, so it can't preempt a case an earlier check handles.
+        merged_text = None
+        if merged_single_cell:
+            for path, cols in value_groups:
+                cell = row.get(cols[0])
+                if cell and cell[0].strip():
+                    merged_text = cell[0].strip()
+                    break
+        looks_like_heading = bool(merged_text) and not merged_text.rstrip().endswith((".", ":", ";"))
+
+        if merged_single_cell and this_leaf_block_size > 1 and looks_like_heading:
+            # Only NOW — actually about to create a local sub-divider —
+            # does the leaf label get promoted into a container (a
+            # side-effecting change, so it must stay lazy: computing
+            # this unconditionally for every row would plant an empty
+            # placeholder under the leaf label even for tables that
+            # never end up using it, corrupting the ordinary "Add this
+            # row" path below for every other row in the table).
+            block_own_node = _get_or_create_child(block_parent, leaf_text) if leaf_text else block_parent
+            local_node = _get_or_create_child(block_own_node, merged_text)
+            active_local_divider[leaf_span_id] = local_node
+            continue
+
+        # --- Divider check #2c: prose continuing the active local
+        # sub-divider ---
+        # A merged, sentence-like row (ends in '.', ':', or ';') right
+        # after a local sub-divider (check #2b) reads as explanatory
+        # text for that sub-divider, not a new heading or real data —
+        # e.g. the two sentences describing what "Option 2" requires.
+        # Filed the same way a purely-informational full-width row is
+        # filed elsewhere in this module: as its own key with an empty
+        # dict, since there's no further structure to hang under it.
+        # Kept as a uniform dict-of-dicts (rather than collapsing to a
+        # plain string/list) so every value in the output stays the
+        # same shape — anything walking this structure can always
+        # assume "this is a dict" without a type check, and a future
+        # table where real data DOES turn up under a heading like this
+        # needs no special-case migration to accommodate it.
+        # This only fires once a local divider is already active for
+        # this exact block — a merged sentence with no divider before it
+        # (e.g. a genuine footnote continuing a real data row, like a
+        # zoning table's "* If development ... acres.") falls through
+        # to the ordinary row handling below, unchanged.
+        if (
+            merged_single_cell
+            and this_leaf_block_size > 1
+            and not looks_like_heading
+            and leaf_span_id in active_local_divider
+        ):
+            local_node = active_local_divider[leaf_span_id]
+            if merged_text not in local_node:
+                local_node[merged_text] = {}
             continue
 
         # --- Build the value fields for this row ---
@@ -848,9 +1103,52 @@ def build_matrix_yaml(data_rows: list, header_paths: dict, total_cols: int) -> d
         # information. Silently dropping it would make that fact
         # unretrievable later. inner_full is what actually gets stored,
         # once we've confirmed this row isn't a divider.
+        #
+        # First, check whether a NOTE spans exactly one nested umbrella
+        # group's own leaf columns — e.g. "Side and Rear yards require a
+        # planting screen..." spanning Front/Side/Rear under "Setback
+        # from Property Line", while sibling columns outside that group
+        # (Minimum Required Area, Maximum Height) stay independently
+        # rowspan-carried. All of an umbrella's leaf columns sharing ONE
+        # physical span_id is inherently NOT per-leaf data — genuine
+        # data always uses separate cells (exactly like this same
+        # table's real "25' / 30' / 30'" row two rows down). Checking
+        # physical span_ids rather than the text itself keeps this
+        # purely structural, so it applies broadly rather than needing
+        # its own per-table carve-out.
+        collapsed_umbrella_text = {}
+        for parent_prefix, members in umbrella_members.items():
+            leaf_cols = [cols[0] for _, cols in members]
+            span_ids = set()
+            merged_text = None
+            all_present = True
+            for c in leaf_cols:
+                cell = row.get(c)
+                if cell is None or not cell[0].strip():
+                    all_present = False
+                    break
+                span_ids.add(cell[2] if len(cell) > 2 else None)
+                merged_text = cell[0].strip()
+            if all_present and len(span_ids) == 1 and next(iter(span_ids)) is not None:
+                collapsed_umbrella_text[parent_prefix] = merged_text
+
         inner_check = {}
         inner_full = {}
+        handled_umbrellas = set()
         for path, cols in value_groups:
+            full_path = header_paths.get(cols[0], "")
+            parent_prefix = full_path.rsplit(" > ", 1)[0] if " > " in full_path else None
+            if parent_prefix in collapsed_umbrella_text:
+                if parent_prefix in handled_umbrellas:
+                    continue   # already added this umbrella's one combined entry
+                handled_umbrellas.add(parent_prefix)
+                key = parent_prefix
+                if key in inner_full:
+                    key = f"{key} (col {cols[0] + 1})"
+                text = collapsed_umbrella_text[parent_prefix]
+                inner_check[key] = text
+                inner_full[key] = text
+                continue
             vals = [row[c][0].strip() for c in cols if row.get(c, ("", False))[0].strip()]
             key = path or f"Column {cols[0] + 1}"   # fallback name if header was blank
             # Two NON-adjacent groups can share the exact same header text
@@ -936,43 +1234,77 @@ def build_matrix_yaml(data_rows: list, header_paths: dict, total_cols: int) -> d
                 continue
 
         # --- Add this row into whichever section is currently active ---
-        row_counter += 1
-        key = row_key or f"Row {row_counter}"
-        if key in section_node:
+        # Normally that's this row's own per-block parent (block_parent,
+        # already computed above — walks every absorbed label segment
+        # except the last as nesting, landing on the dict this block's
+        # sibling rows share; the leaf label is then this row's own
+        # KEY within it). But if a local sub-divider (check #2b) is
+        # active for this exact block, the row nests ONE level deeper,
+        # inside that sub-divider instead — e.g. the real "6 / 6 / 30"
+        # data row lands inside "Option 1", not directly inside
+        # "External buffer". A row nested under a local sub-divider has
+        # no further identifying label of its own (its label IS the
+        # block's shared anchor text, already used as the sub-divider's
+        # parent key), so it falls to the same "Row N" naming used for
+        # any row with a blank label.
+        if leaf_span_id in active_local_divider:
+            target_node = active_local_divider[leaf_span_id]
+            row_counter += 1
+            key = f"Row {row_counter}"
+        else:
+            target_node = block_parent
+            row_counter += 1
+            key = leaf_text or f"Row {row_counter}"
+        if key in target_node:
             # Two physical rows collapsed to the exact same label — most
             # often a genuinely different row that just happens to reuse
             # the same name (e.g. two unrelated "Front" setback rows in
             # different sub-sections), which stays disambiguated with a
-            # numbered suffix below. But there's one common special case:
-            # a block like "Multi-family" whose rowspan carries every
-            # OTHER field identically across several physical rows, and
-            # the rows exist purely to stack multiple values for ONE
-            # trailing field (e.g. separate height limits for Rural/
-            # Suburban/Urban). There, every field except that one is
-            # already identical, so a numbered duplicate would just
-            # repeat five identical setback fields per copy to deliver
-            # one new value. Detecting that — exactly one field differs,
-            # everything else matches — and folding the new value into
-            # that one field (as a growing list) instead keeps the row
-            # as ONE entry with a multi-valued field, which is both more
-            # compact and more accurate: these rows were never separate
-            # ITEMS, just separate stated values for the same item.
-            existing = section_node[key]
-            if isinstance(existing, dict) and set(existing.keys()) == set(inner_full.keys()):
-                differing = [
-                    field for field in inner_full
+            # numbered suffix below. But there are two common special
+            # cases worth reconciling instead of just duplicating:
+            #
+            # 1. A block like "Multi-family" whose rowspan carries every
+            #    OTHER field identically across several physical rows,
+            #    existing purely to stack multiple values for ONE
+            #    trailing field (e.g. separate height limits for Rural/
+            #    Suburban/Urban) — same key SET on both sides, exactly
+            #    one shared field actually differs.
+            # 2. Complementary rows that share every field they BOTH
+            #    have, but each also contributes fields the OTHER
+            #    doesn't — e.g. a merged note covering an umbrella
+            #    group ("Setback from Property Line: <note>") followed
+            #    by a real per-leaf-column data row ("Front"/"Side"/
+            #    "Rear") for that same item. Different key sets, but
+            #    nothing actually CONFLICTS between them — the second
+            #    row is just filling in fields the first didn't have.
+            #
+            # Both are really the same underlying fact: these physical
+            # rows were never separate ITEMS, just separate pieces of
+            # information about the same one. Reconciling them keeps a
+            # single entry instead of a numbered duplicate that repeats
+            # every already-known field just to add one more.
+            existing = target_node[key]
+            if isinstance(existing, dict):
+                shared_keys = set(existing.keys()) & set(inner_full.keys())
+                new_keys = set(inner_full.keys()) - set(existing.keys())
+                conflicting = [
+                    field for field in shared_keys
                     if existing.get(field) != inner_full.get(field)
                 ]
-                if len(differing) == 1:
-                    field = differing[0]
-                    if isinstance(existing[field], list):
-                        if inner_full[field] not in existing[field]:
-                            existing[field].append(inner_full[field])
-                    else:
-                        existing[field] = [existing[field], inner_full[field]]
+                if len(conflicting) <= 1 and (new_keys or conflicting):
+                    for field in inner_full:   # stable insertion order, not set order
+                        if field in new_keys:
+                            existing[field] = inner_full[field]
+                    if len(conflicting) == 1:
+                        field = conflicting[0]
+                        if isinstance(existing[field], list):
+                            if inner_full[field] not in existing[field]:
+                                existing[field].append(inner_full[field])
+                        else:
+                            existing[field] = [existing[field], inner_full[field]]
                     continue
             key = f"{key} ({row_counter})"
-        section_node[key] = inner_full
+        target_node[key] = inner_full
 
     # Wrap every row under the label column's own header name (e.g. "Type
     # of Use", "Land Use", "USES") when that header had real text — this
@@ -1463,7 +1795,7 @@ class _WideKeyDumper(yaml.Dumper):
     Sections 16-19-010—16-19-080)"), so without this override, any long
     label silently switches to that harder-to-read "? / :" format — easy
     to misread as a missing or broken section rather than a normal entry.
-    This subclass raises that threshold generously (1024 chars) so
+    This subclass raises that threshold generously (8192 chars) so
     ordinary long labels stay in the familiar "key: value" form, while
     still correctly falling back to the safe explicit style for scalars
     that are genuinely empty or span multiple lines.
@@ -1477,7 +1809,7 @@ class _WideKeyDumper(yaml.Dumper):
         elif isinstance(self.event, ScalarEvent) and self.event.value is not None:
             length += len(self.analysis.scalar)
         return (
-            length < 1024
+            length < 8192
             and (
                 isinstance(self.event, AliasEvent)
                 or (

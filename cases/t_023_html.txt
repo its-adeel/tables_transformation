@@ -1,0 +1,124 @@
+<table class="thead3 table left makeExpandableTable makeFixedTable" cellpadding="3" cellspacing="0" border="1" rules="all" style="text-align: center;">
+                        <colgroup class="std">
+                           <col width="19.047619047619047%">
+                           <col width="19.047619047619047%">
+                           <col width="14.285714285714286%">
+                           <col width="14.285714285714286%">
+                           <col width="14.285714285714286%">
+                           <col width="19.047619047619047%">
+                        </colgroup>
+                        <thead><tr>
+                              <th style="vertical-align:middle; " colspan="6" class=" top ">
+                                 Table 2-7 (MI) MARINE INDUSTRIAL DISTRICT DIMENSIONAL STANDARDS
+                                 </th>
+                           </tr><tr>
+                              <th style="vertical-align:middle; " rowspan="2" colspan="1" class=" top ">
+                                 All uses and structures including boat slips, piers and docks
+                                 </th>
+                              <th style="vertical-align:middle; " rowspan="2" class=" top ">
+                                 Maximum Lot
+                                 <br>
+                                 Coverage
+                                 </th>
+                              <th style="vertical-align:middle; " colspan="3" class=" top ">
+                                 Setback from Property Line
+                                 <sup>
+                                    18,19
+                                    </sup>
+                                 </th>
+                              <th style="vertical-align:middle; " rowspan="2" class=" top ">
+                                 Maximum Height
+                                 <sup>
+                                    **
+                                    </sup>
+                                 </th>
+                           </tr><tr>
+                              <th style="vertical-align:middle; " class=" top ">
+                                 Front
+                                 <sup>
+                                    9
+                                    </sup>
+                                 </th>
+                              <th style="vertical-align:middle; " class=" top ">
+                                 Side
+                                 <sup>
+                                    9
+                                    </sup>
+                                 </th>
+                              <th style="vertical-align:middle; " class=" top ">
+                                 Rear
+                                 <sup>
+                                    9
+                                    </sup>
+                                 </th>
+                           </tr></thead><tbody>
+                           
+                           
+                           
+                           <tr>
+                              <td style="vertical-align:middle; " class=" top ">
+                                 Interior to the
+                                 <br>
+                                 Zoning District
+                                 </td>
+                              <td style="vertical-align:middle; " rowspan="2" class=" top ">
+                                 80% of Gross Area
+                                 </td>
+                              <td style="vertical-align:middle; " class=" top ">
+                                 25'
+                                 </td>
+                              <td style="vertical-align:middle; " class=" top ">
+                                 0'
+                                 </td>
+                              <td style="vertical-align:middle; " class=" top ">
+                                 0'
+                                 </td>
+                              <td style="vertical-align:middle; " rowspan="2" class=" top ">
+                                 50'
+                                 </td>
+                           </tr>
+                           <tr>
+                              <td style="vertical-align:middle; " class=" top ">
+                                 Exterior to the
+                                 <br>
+                                 Zoning District
+                                 </td>
+                              <td style="vertical-align:middle; " class=" top ">
+                                 50'
+                                 <sup>
+                                    *
+                                    </sup>
+                                 </td>
+                              <td style="vertical-align:middle; " class=" top ">
+                                 50'
+                                 <sup>
+                                    *
+                                    </sup>
+                                 </td>
+                              <td style="vertical-align:middle; " class=" top ">
+                                 50'
+                                 <sup>
+                                    *
+                                    </sup>
+                                 </td>
+                           </tr>
+                           <tr>
+                              <td style="vertical-align:middle; " colspan="6" class="left  top ">
+                                 <sup>
+                                    *
+                                    </sup>
+                                 Minimum setback for outside storage of bulk materials must be 100 ft. from the AIWW
+                                 and any wetlands.
+                                 </td>
+                           </tr>
+                           <tr>
+                              <td style="vertical-align:middle; " colspan="6" class=" top ">
+                                 <sup>
+                                    **
+                                    </sup>
+                                 All structures and accessory uses within 100 ft. of the AIWW or external district
+                                 boundary are limited to maximum height of 35 ft.
+                                 </td>
+                           </tr>
+                        </tbody>
+                     </table>
