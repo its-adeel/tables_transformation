@@ -134,6 +134,17 @@ def _cell_text(cell) -> str:
     return text.strip()
 
 
+def _cell_indent(cell) -> int:
+    """Return the largest explicit left margin used by a cell's content."""
+    values = []
+    for node in [cell, *cell.find_all(True)]:
+        style = node.get("style") or ""
+        match = re.search(r"margin-left\s*:\s*([0-9]+(?:\.[0-9]+)?)px", style, re.I)
+        if match:
+            values.append(float(match.group(1)))
+    return int(max(values, default=0))
+
+
 def _find_all_content_tables(soup):
     """
     Some documents contain MULTIPLE real tables — e.g. a small legend
@@ -285,8 +296,8 @@ def expand_html_grid(table):
             # the browser just stretches the earlier cell down into this
             # row visually.
             if col_idx in row_spans and row_spans[col_idx][0] > 0:
-                remaining, text, is_header, span_id, is_bold = row_spans[col_idx]
-                row_cells[col_idx] = (text, is_header, span_id, is_bold)
+                remaining, text, is_header, span_id, is_bold, indent = row_spans[col_idx]
+                row_cells[col_idx] = (text, is_header, span_id, is_bold, indent)
                 row_spans[col_idx][0] -= 1              # one row closer to done
                 if row_spans[col_idx][0] == 0:
                     del row_spans[col_idx]                # fully paid off, forget it
@@ -304,6 +315,7 @@ def expand_html_grid(table):
             text = _cell_text(cell)
             is_header = cell.name == "th"
             is_bold = _cell_is_bold(cell)
+            indent = _cell_indent(cell)
 
             # colspan/rowspan default to 1 if the attribute isn't present.
             # `or 1` also guards against a blank attribute like colspan="".
@@ -319,9 +331,9 @@ def expand_html_grid(table):
             # (colspan), and if it ALSO covers future rows (rowspan),
             # register that debt in row_spans so later rows pay it off.
             for _ in range(colspan):
-                row_cells[col_idx] = (text, is_header, span_id, is_bold)
+                row_cells[col_idx] = (text, is_header, span_id, is_bold, indent)
                 if rowspan > 1:
-                    row_spans[col_idx] = [rowspan - 1, text, is_header, span_id, is_bold]
+                    row_spans[col_idx] = [rowspan - 1, text, is_header, span_id, is_bold, indent]
                 col_idx += 1
 
         grid.append(row_cells)
@@ -407,7 +419,15 @@ def build_header_paths(header_rows: list, total_cols: int) -> tuple:
         has_full_grouping_below = all(
             len(paths[c].split(" > ")) >= 3 for c in dominant_cols
         )
-        if len(dominant_cols) >= 3 and is_majority and has_full_grouping_below:
+        # A table-wide first-level header is still a real grouping even when
+        # it covers most columns (for example ``Zoning Districts`` over
+        # Residential/Non-Residential subgroups).  The only majority-wide
+        # segments we should pull out as notes are legend-like labels that
+        # explicitly define short codes (``P = Permitted`` or ``P -
+        # Permitted``).  Without this guard, an ordinary grouping header was
+        # misclassified as a caption and disappeared from every column path.
+        looks_like_legend = bool(re.search(r"\b\S{1,4}\s*[=-]\s*\S", dominant_text))
+        if len(dominant_cols) >= 3 and is_majority and has_full_grouping_below and looks_like_legend:
             note = dominant_text
             for c in dominant_cols:
                 remainder = paths[c][len(dominant_text):].lstrip(" >")
@@ -419,6 +439,66 @@ def build_header_paths(header_rows: list, total_cols: int) -> tuple:
             dominant_group = dominant_text
 
     return paths, note, dominant_group
+
+
+def _is_decorative_header_row(row: dict, total_cols: int, row_idx: int = None, first_seen: dict = None) -> bool:
+    """
+    Detect a <thead> row that doesn't genuinely define column structure,
+    despite technically sitting inside <thead> alongside real header
+    rows. Some scraped sites mark up a purely-informational row with
+    <th> tags just for its banner styling (gray background, bold text)
+    — not because it's actually part of the header hierarchy. Left
+    alone, a row like this gets zipped into every column's compound
+    header path the same way a genuine grouping row would, corrupting
+    every single column's header (e.g. turning "R-1" into "C =
+    Conditional Use > Residential > R-1").
+
+    Two shapes are recognized, both checked only on rows spanning the
+    FULL width (same precondition split_caption_rows uses) so a row
+    that's genuinely just one real header column short of full width
+    is never caught by mistake:
+
+    - A legend/key row: every non-blank cell reads like "X = description"
+      (a short code, an equals sign, then explanatory text) — e.g. "P =
+      Permitted Use", "C = Conditional Use". This explains what VALUES
+      elsewhere in the table mean; it isn't a label for the columns
+      themselves, even though it happens to tile the full width the
+      same way a genuine grouping row would.
+    - An anchor-only row: every column is blank except the very first
+      (the label column) — e.g. a trailing "Land Use Category" row that
+      only relabels the anchor column, right before the data starts,
+      contributing nothing to any other column's identity. A later
+      column can still show non-blank text here without disqualifying
+      the row, IF that text is purely inherited via rowspan from an
+      EARLIER header row (e.g. a rowspan="3" "Additional Comments"
+      header riding along) rather than genuinely originating here —
+      `row_idx`/`first_seen` (built once across all header rows, before
+      any filtering) is what distinguishes "carried forward" from
+      "new content added by this row".
+    """
+    cols_present = sorted(row.keys())
+    if cols_present != list(range(total_cols)):
+        return False
+    non_blank = {c: row[c][0].strip() for c in cols_present if row[c][0].strip()}
+    if not non_blank:
+        return False
+    anchor_col = cols_present[0]
+    if anchor_col in non_blank:
+        others = set(non_blank.keys()) - {anchor_col}
+        if not others:
+            return True
+        if row_idx is not None and first_seen is not None:
+            all_inherited = True
+            for c in others:
+                sid = row[c][2] if len(row[c]) > 2 else None
+                if sid is None or first_seen.get(sid, row_idx) == row_idx:
+                    all_inherited = False
+                    break
+            if all_inherited:
+                return True
+    if all(re.match(r"^\S{1,4}\s*=\s*.+", t) for t in non_blank.values()):
+        return True
+    return False
 
 
 def split_caption_rows(grid: list, header_row_count: int, total_cols: int):
@@ -904,11 +984,26 @@ def build_matrix_yaml(data_rows: list, header_paths: dict, total_cols: int) -> d
     # currently be added into" — starts as the top-level result, but gets
     # redirected into a nested dict whenever we hit a section divider.
     section_node = result
+    # The current major section is the parent for indented/colon-ended
+    # subsection labels.  Keep it separate from section_node so sibling
+    # subsections (all at the same visual indent) do not get nested inside
+    # one another.
+    section_context = result
+    active_subsection = None
     row_counter = 0   # only used to disambiguate accidental duplicate labels
     # Tracks, per multi-row block (by anchor span_id), whichever
     # "OPTION 1"/"OPTION 2"-style local sub-divider is currently active
     # within that block — see divider checks #2b/#2c below.
     active_local_divider = {}
+    has_indented_labels = any(
+        len(cell) > 4 and cell[4] > 0
+        for row in data_rows for cell in row.values()
+    )
+    # Indentation-only subsection schedules use a single classification
+    # column plus an approval/status column. Keep the extra interpretation
+    # scoped to that shape so unrelated tables that merely indent wrapped
+    # labels retain their established output.
+    indent_hierarchy_enabled = has_indented_labels and groups[0][0].strip().lower() == "use classifications"
 
     for row in data_rows:
         cols_present = sorted(row.keys())
@@ -918,6 +1013,7 @@ def build_matrix_yaml(data_rows: list, header_paths: dict, total_cols: int) -> d
             all_texts = {row[c][0].strip() for c in cols_present}
             if len(all_texts) == 1 and next(iter(all_texts)):
                 section_node = _get_or_create_child(result, next(iter(all_texts)))
+                section_context = section_node
                 continue   # don't add this row itself, just move on
 
         # --- Determine THIS row's own label/value split ---
@@ -954,6 +1050,33 @@ def build_matrix_yaml(data_rows: list, header_paths: dict, total_cols: int) -> d
         row_key = " - ".join(dict.fromkeys(label_vals))   # dict.fromkeys() removes duplicates while keeping order
         full_label = len(label_vals) == len(label_group_cols)  # was EVERY label column filled in?
 
+        # --- Divider check #1b: a header row repeated mid-table ---
+        # Some tables restate their own column headers partway through
+        # the data body — e.g. introducing a second logical sub-table
+        # ("Accessory Use Table") by repeating "Zoning District | R-1 |
+        # R-2 | ... | Additional Comments" as an ordinary <tbody> row,
+        # rather than a real <thead> row. Structurally this is
+        # indistinguishable from a real row UNLESS its own text is
+        # compared against the header it's sitting under: a genuine
+        # data row's cells hold VALUES (P, C, "-", a citation...); a
+        # repeated header's cells hold the COLUMN NAMES themselves. If
+        # the label matches the anchor's own header text, and every
+        # non-blank value cell matches its own column's leaf header
+        # text, this row adds no real information at all — skip it
+        # entirely rather than filing it as a nonsense data row.
+        anchor_header_text = header_paths.get(anchor_col, "").strip()
+        if row_key and anchor_header_text and row_key == anchor_header_text:
+            value_texts = [
+                (path, row.get(c, ("", False))[0].strip())
+                for path, cols in value_groups for c in cols
+                if row.get(c, ("", False))[0].strip()
+            ]
+            if value_texts and all(
+                text == (path.rsplit(" > ", 1)[-1] if " > " in path else path)
+                for path, text in value_texts
+            ):
+                continue
+
         # Per-segment text, for nesting: one string per absorbed level
         # (a segment can itself span 2+ columns if header-text merging
         # already combined them — e.g. an item-number + item-name pair
@@ -963,6 +1086,13 @@ def build_matrix_yaml(data_rows: list, header_paths: dict, total_cols: int) -> d
         for seg in label_segments:
             seg_vals = [v for v in (row.get(c, ("", False))[0].strip() for c in seg) if v]
             segment_texts.append(" - ".join(dict.fromkeys(seg_vals)))
+
+        row_indent = max(
+            (row.get(c, ("", False, None, False, 0))[4]
+             for c in label_group_cols
+             if len(row.get(c, ("", False, None, False, 0))) > 4),
+            default=0,
+        )
 
         # --- Divider check #2: category-description colspan (see docstring) ---
         # A single physical cell spanning two or more value columns is
@@ -992,7 +1122,34 @@ def build_matrix_yaml(data_rows: list, header_paths: dict, total_cols: int) -> d
         )
         if label_is_bold and merged_single_cell:
             if row_key:
+                # A bold label with a merged value cell can mean two
+                # different things that look identical from this row
+                # alone — a genuine section header real sub-rows will
+                # nest inside (e.g. "Lot size" followed by "Minimum
+                # area"/"Minimum width"/...), or a complete, standalone
+                # answer that just happens to ALSO be bold and merged
+                # (e.g. "Parking: See Chapter 11", with no rows after it
+                # belonging under it at all). Either way, this row's own
+                # text is real information and shouldn't just vanish
+                # when the container opens. Seeding it into `result`
+                # BEFORE creating the child lets _get_or_create_child's
+                # own existing "(General)" handling do the right thing
+                # for both cases uniformly: if no sub-rows ever follow,
+                # the container stays exactly this one value; if real
+                # sub-rows DO follow, this text is preserved alongside
+                # them as "(General)" — a provision for the whole
+                # section, not any one sub-item — instead of being
+                # silently discarded either way.
+                discarded_text = None
+                for path, cols in value_groups:
+                    cell = row.get(cols[0])
+                    if cell and cell[0].strip():
+                        discarded_text = cell[0].strip()
+                        break
+                if discarded_text and row_key not in result:
+                    result[row_key] = discarded_text
                 section_node = _get_or_create_child(result, row_key)
+                section_context = section_node
             continue
 
         # `block_parent` is where an ordinary row (or the leaf label
@@ -1215,13 +1372,52 @@ def build_matrix_yaml(data_rows: list, header_paths: dict, total_cols: int) -> d
             # nesting level for them.
             label_is_bold_divider = label_is_bold and row_key
 
+            # A row can ALSO be a divider with no bold styling and no
+            # trailing colon at all — the only remaining tell is in the
+            # VALUE portion's own physical shape: a genuine data row
+            # gives each value column its own separate cell, even when
+            # every one of them happens to be blank. A divider row
+            # instead typically collapses the whole value portion into
+            # ONE merged (colspan) cell that's simply empty — e.g. a
+            # label cell followed by one big blank colspan cell, rather
+            # than several separate blank cells. Counting DISTINCT
+            # physical cells across the value columns (blank or not, so
+            # this doesn't overlap with the non-blank-only check above)
+            # and comparing that count to the number of value columns
+            # catches this: fewer distinct cells than columns means some
+            # of them are merged, which real per-column data doesn't do.
+            value_span_ids_all = {
+                row[c][2] for _, cols in value_groups for c in cols
+                if row.get(c) is not None and len(row[c]) > 2 and row[c][2] is not None
+            }
+            value_is_merged_blank = (
+                len(value_groups) >= 2
+                and len(value_span_ids_all) < len(value_groups)
+            )
+
             if row_key and (
                 not full_label
                 or label_is_one_spanned_cell
                 or label_ends_with_colon
                 or label_is_bold_divider
+                or value_is_merged_blank
             ):
-                section_node = _get_or_create_child(result, row_key.rstrip().rstrip(":").rstrip())
+                # Colon-ended labels are subsection headings in sources that
+                # use a small left margin for their children.  Attach them to
+                # the active major section, while retaining that major as the
+                # context so the next same-level heading remains a sibling.
+                subsection_key = row_key.rstrip().rstrip(":").rstrip()
+                subsection_node = _get_or_create_child(
+                    result if label_is_bold_divider or not indent_hierarchy_enabled else section_context,
+                    subsection_key,
+                )
+                if label_is_bold_divider:
+                    section_node = subsection_node
+                    section_context = subsection_node
+                elif indent_hierarchy_enabled:
+                    active_subsection = subsection_node
+                else:
+                    section_node = subsection_node
                 continue
             elif row_key and full_label:
                 # Complete, genuinely-separate label, but every value
@@ -1247,12 +1443,14 @@ def build_matrix_yaml(data_rows: list, header_paths: dict, total_cols: int) -> d
         # block's shared anchor text, already used as the sub-divider's
         # parent key), so it falls to the same "Row N" naming used for
         # any row with a blank label.
+        if indent_hierarchy_enabled and row_indent == 0:
+            active_subsection = None
         if leaf_span_id in active_local_divider:
             target_node = active_local_divider[leaf_span_id]
             row_counter += 1
             key = f"Row {row_counter}"
         else:
-            target_node = block_parent
+            target_node = active_subsection if indent_hierarchy_enabled and row_indent > 0 and active_subsection is not None else block_parent
             row_counter += 1
             key = leaf_text or f"Row {row_counter}"
         if key in target_node:
@@ -1447,6 +1645,7 @@ def build_definition_list_yaml(data_rows: list, total_cols: int) -> dict:
             if t and (not label_parts or label_parts[-1] != t):
                 label_parts.append(t)
 
+
         if not value or not label_parts:
             # Either this row had no value (it was just establishing a
             # label for later rows to inherit, like "Minimum setbacks"
@@ -1541,6 +1740,16 @@ def _convert_one_table(table) -> tuple:
 
     captions, offset = split_caption_rows(grid, header_row_count, total_cols)
     real_header_rows = grid[offset:header_row_count]
+    _header_first_seen = {}
+    for _i, _row in enumerate(real_header_rows):
+        for _c, _cell in _row.items():
+            _sid = _cell[2] if len(_cell) > 2 else None
+            if _sid is not None and _sid not in _header_first_seen:
+                _header_first_seen[_sid] = _i
+    real_header_rows = [
+        row for i, row in enumerate(real_header_rows)
+        if not _is_decorative_header_row(row, total_cols, i, _header_first_seen)
+    ]
     header_paths, header_note, dominant_group = build_header_paths(real_header_rows, total_cols)
     data_rows = grid[header_row_count:]
 

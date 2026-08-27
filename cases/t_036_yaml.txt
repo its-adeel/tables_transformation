@@ -1,0 +1,278 @@
+Use Classifications:
+  Industrial Uses:
+    Manufacturing and fabrication:
+      Aerospace manufacturing:
+        IC-1: P
+        'Additional Regulations See Section:': ''
+      Custom manufacturing:
+        IC-1: P
+        'Additional Regulations See Section:': ''
+      Electronics manufacturing:
+        IC-1: P
+        'Additional Regulations See Section:': ''
+      Fabricating products from finished rubber:
+        IC-1: P
+        'Additional Regulations See Section:': ''
+      Garment manufacturing:
+        IC-1: P
+        'Additional Regulations See Section:': ''
+      Instrument manufacturing:
+        IC-1: P
+        'Additional Regulations See Section:': ''
+      Office and related machinery:
+        IC-1: P
+        'Additional Regulations See Section:': ''
+      Plastics fabrication:
+        IC-1: P
+        'Additional Regulations See Section:': ''
+      Shoe manufacturing:
+        IC-1: P
+        'Additional Regulations See Section:': ''
+      Sign manufacturing:
+        IC-1: P
+        'Additional Regulations See Section:': ''
+      Textile manufacturing:
+        IC-1: P
+        'Additional Regulations See Section:': ''
+    Laboratories:
+      IC-1: P
+      'Additional Regulations See Section:': ''
+    Professional offices:
+      IC-1: P
+      'Additional Regulations See Section:': 10-2.1021(a)
+    Computer and data processing facilities:
+      IC-1: P
+      'Additional Regulations See Section:': ''
+    Coastal-related uses:
+      Ships chandlers:
+        IC-1: P
+        'Additional Regulations See Section:': ''
+      Sail manufacturing:
+        IC-1: P
+        'Additional Regulations See Section:': ''
+      Boat fittings:
+        IC-1: P
+        'Additional Regulations See Section:': ''
+      Marine research and labs:
+        IC-1: P
+        'Additional Regulations See Section:': ''
+      Boat building:
+        IC-1: C
+        'Additional Regulations See Section:': ''
+    Construction-related uses:
+      Building material storage yards:
+        IC-1: C
+        'Additional Regulations See Section:': ''
+      Contractor's plants, offices, and storage yards:
+        IC-1: C
+        'Additional Regulations See Section:': ''
+      Cement products manufacturing:
+        IC-1: C
+        'Additional Regulations See Section:': 10-2.1021(b)
+      Equipment leasing and rentals:
+        IC-1: C
+        'Additional Regulations See Section:': ''
+      Lumber yards:
+        IC-1: C
+        'Additional Regulations See Section:': ''
+      Stone monument works:
+        IC-1: C
+        'Additional Regulations See Section:': ''
+      Woodworking:
+        IC-1: C
+        'Additional Regulations See Section:': ''
+    Wholesaling/distribution/storage:
+      IC-1: P
+      'Additional Regulations See Section:': ''
+    Mini-warehousing and self-storage:
+      IC-1: C
+      'Additional Regulations See Section:': ''
+    Motor vehicle-related uses:
+      Motor vehicle body and fender shops:
+        IC-1: C
+        'Additional Regulations See Section:': 10-2.1606
+      Motor vehicle repair garages:
+        IC-1: C
+        'Additional Regulations See Section:': 10-2.1604
+      Motor vehicle towing and storage:
+        IC-1: C
+        'Additional Regulations See Section:': ''
+      Automobile dismantling:
+        IC-1: C
+        'Additional Regulations See Section:': 10-2.1021(c)
+    'Recycling facilities:':
+      IC-1: ''
+      'Additional Regulations See Section:': 10-2.1616
+    Reverse vending machines:
+      IC-1: P
+      'Additional Regulations See Section:': ''
+    Small collection facilities:
+      IC-1: P
+      'Additional Regulations See Section:': ''
+    Large collection facilities:
+      IC-1: C
+      'Additional Regulations See Section:': ''
+    Light processing facilities:
+      IC-1: C
+      'Additional Regulations See Section:': ''
+    Trucking terminals:
+      IC-1: C
+      'Additional Regulations See Section:': ''
+    Other industrial uses:
+      Ambulance services:
+        IC-1: C
+        'Additional Regulations See Section:': ''
+      Beverage manufacturing:
+        IC-1: P
+        'Additional Regulations See Section:': ''
+      with ancillary retail sales and/or tasting facilities for the public:
+        IC-1: C
+        'Additional Regulations See Section:': ''
+      Carpet cleaning plants:
+        IC-1: P
+        'Additional Regulations See Section:': ''
+      Communications facilities:
+        IC-1: C
+        'Additional Regulations See Section:': ''
+      Facilities maintenance and construction shops:
+        IC-1: P
+        'Additional Regulations See Section:': ''
+      Food products manufacturing:
+        IC-1: C
+        'Additional Regulations See Section:': ''
+      Foundries:
+        IC-1: C
+        'Additional Regulations See Section:': ''
+      Furniture manufacturing:
+        IC-1: C
+        'Additional Regulations See Section:': ''
+      Heliports and helistops:
+        IC-1: C
+        'Additional Regulations See Section:': ''
+      Household products manufacturing:
+        IC-1: P
+        'Additional Regulations See Section:': ''
+      Laundries and wholesale dry cleaning plants:
+        IC-1: P
+        'Additional Regulations See Section:': ''
+      Machine shops:
+        IC-1: P
+        'Additional Regulations See Section:': ''
+      Motion picture and sound studios:
+        IC-1: P
+        'Additional Regulations See Section:': ''
+      Pharmaceuticals manufacturing:
+        IC-1: P
+        'Additional Regulations See Section:': ''
+      Photo processing:
+        IC-1: P
+        'Additional Regulations See Section:': ''
+      Sheet metal shops:
+        IC-1: P
+        'Additional Regulations See Section:': ''
+      Spray painting businesses:
+        IC-1: C
+        'Additional Regulations See Section:': ''
+      Warehouse retail:
+        IC-1: C
+        'Additional Regulations See Section:': ''
+      Warehouse retail, specialty:
+        IC-1: C
+        'Additional Regulations See Section:': ''
+      Welding shops:
+        IC-1: C
+        'Additional Regulations See Section:': ''
+  Commercial Uses:
+    Banks and savings and loans:
+      IC-1: P
+      'Additional Regulations See Section:': ''
+    Building material sales:
+      IC-1: C
+      'Additional Regulations See Section:': ''
+    Commercial printing:
+      IC-1: P
+      'Additional Regulations See Section:': ''
+    Commercial printing, limited:
+      IC-1: P
+      'Additional Regulations See Section:': ''
+    Floor covering sales:
+      IC-1: C
+      'Additional Regulations See Section:': ''
+    Use classifications:
+      IC-1: IC-1
+      'Additional Regulations See Section:': 'Additional Regulations See Section:'
+    Furniture stores:
+      IC-1: C
+      'Additional Regulations See Section:': ''
+    Hardware and paint stores:
+      IC-1: C
+      'Additional Regulations See Section:': ''
+    Maintenance and repair services:
+      IC-1: P
+      'Additional Regulations See Section:': ''
+    'Personal improvement services:':
+      IC-1: ''
+      'Additional Regulations See Section:': Except music studios 2,000 sq. ft. or less floor area require an AUP
+    1,000 sq. ft. or less floor area - max. 10 occupants:
+      IC-1: P
+      'Additional Regulations See Section:': ''
+    1,001 - 2,000 sq. ft. floor area:
+      IC-1: A
+      'Additional Regulations See Section:': 10-2.2507
+    2,001 sq. ft. or greater floor area:
+      IC-1: C
+      'Additional Regulations See Section:': ''
+    Restaurants:
+      2,000 sq. ft. or less floor area with no drive-up service:
+        IC-1: P
+        'Additional Regulations See Section:': ''
+      more than 2,000 sq. ft. floor area or with drive-up service:
+        IC-1: C
+        'Additional Regulations See Section:': ''
+    Vehicle sales and services:
+      Sales, leasing, and rentals:
+        IC-1: C
+        'Additional Regulations See Section:': ''
+      Automobile washing:
+        IC-1: C
+        'Additional Regulations See Section:': ''
+      Service stations:
+        IC-1: C
+        'Additional Regulations See Section:': 10-2.1602
+    Other retail sales (when combined with an industrial use):
+      IC-1: C
+      'Additional Regulations See Section:': 10-2.1021(d)
+    Ancillary commercial uses:
+      IC-1: C
+      'Additional Regulations See Section:': 10-2.1021(e)
+  Other Uses:
+    Antennae for public communications:
+      IC-1: C
+      'Additional Regulations See Section:': ''
+    Child day care centers:
+      IC-1: C
+      'Additional Regulations See Section:': ''
+    Churches:
+      IC-1: C
+      'Additional Regulations See Section:': ''
+    Government maintenance facilities:
+      IC-1: C
+      'Additional Regulations See Section:': ''
+    Government offices:
+      IC-1: C
+      'Additional Regulations See Section:': ''
+    Parking lots:
+      IC-1: C
+      'Additional Regulations See Section:': ''
+    Public safety facilities:
+      IC-1: C
+      'Additional Regulations See Section:': ''
+    Public utility facilities:
+      IC-1: C
+      'Additional Regulations See Section:': 10-2.1614
+    Recreation facilities:
+      IC-1: C
+      'Additional Regulations See Section:': ''
+    Schools, public or private:
+      IC-1: C
+      'Additional Regulations See Section:': ''

@@ -1,0 +1,600 @@
+<table class="thead3 table left makeExpandableTable makeFixedTable" cellpadding="3" cellspacing="0" border="1" rules="all">
+                  <colgroup class="std">
+                     <col width="7.142857142857143%">
+                     <col width="17.857142857142858%">
+                     <col width="10.714285714285714%">
+                     <col width="10.714285714285714%">
+                     <col width="10.714285714285714%">
+                     <col width="10.714285714285714%">
+                     <col width="10.714285714285714%">
+                     <col width="10.714285714285714%">
+                     <col width="10.714285714285714%">
+                  </colgroup>
+                  <thead><tr>
+                        <th style="vertical-align:middle; background-color: Chocolate; font-size:10pt; " colspan="9" class="hasbg top ">
+                           Core Sub-district Street Design Standards
+                           </th>
+                     </tr><tr>
+                        <th style="vertical-align:middle; background-color: Chocolate; " rowspan="2" colspan="2" class="hasbgcenter  top ">
+                           Street Types →
+                           </th>
+                        <th style="vertical-align:middle; background-color: Chocolate; " rowspan="2" class="hasbg top ">
+                           Arterial
+                           </th>
+                        <th style="vertical-align:middle; background-color: Chocolate; " rowspan="2" class="hasbg top ">
+                           Collector (Divided)
+                           </th>
+                        <th style="vertical-align:middle; background-color: Chocolate; " rowspan="2" class="hasbg top ">
+                           Collector (Undivided)
+                           </th>
+                        <th style="vertical-align:middle; background-color: Chocolate; " colspan="2" class="hasbg top ">
+                           Local Street/ Private Vehicular Route
+                           </th>
+                        <th style="vertical-align:middle; background-color: Chocolate; " colspan="2" class="hasbg top ">
+                           Alley
+                           </th>
+                     </tr><tr>
+                        <th style="vertical-align:middle; background-color: Chocolate; " class="hasbg top ">
+                           Commercial
+                           </th>
+                        <th style="vertical-align:middle; background-color: Chocolate; " class="hasbg top ">
+                           Residential
+                           </th>
+                        <th style="vertical-align:middle; background-color: Chocolate; " class="hasbg top ">
+                           Commercial
+                           </th>
+                        <th style="vertical-align:middle; background-color: Chocolate; " class="hasbg top ">
+                           Residential
+                           </th>
+                     </tr></thead><tbody>
+                     
+                     
+                     
+                     <tr>
+                        <td style="vertical-align:middle; " colspan="2" class=" top ">
+                           ROW* (min—max)
+                           </td>
+                        <td style="vertical-align:middle; " class=" top ">
+                           74'—106'
+                           </td>
+                        <td style="vertical-align:middle; " class=" top ">
+                           84'—118'
+                           </td>
+                        <td style="vertical-align:middle; " class=" top ">
+                           52'—93'
+                           </td>
+                        <td style="vertical-align:middle; " class=" top ">
+                           52'—86'
+                           </td>
+                        <td style="vertical-align:middle; " class=" top ">
+                           52'—58'
+                           </td>
+                        <td style="vertical-align:middle; " class=" top ">
+                           32'
+                           </td>
+                        <td style="vertical-align:middle; " class=" top ">
+                           18'—58'
+                           </td>
+                     </tr>
+                     <tr>
+                        <td style="vertical-align:middle; " colspan="2" class=" top ">
+                           Design Speed
+                           </td>
+                        <td style="vertical-align:middle; " class=" top ">
+                           45 MPH
+                           </td>
+                        <td style="vertical-align:middle; " class=" top ">
+                           35—45 MPH
+                           </td>
+                        <td style="vertical-align:middle; " class=" top ">
+                           25—35 MPH
+                           </td>
+                        <td style="vertical-align:middle; " class=" top ">
+                           25 MPH
+                           </td>
+                        <td style="vertical-align:middle; " class=" top ">
+                           25 MPH
+                           </td>
+                        <td style="vertical-align:middle; " class=" top ">
+                           &lt;20 MPH
+                           </td>
+                        <td style="vertical-align:middle; " class=" top ">
+                           &lt;20 MPH
+                           </td>
+                     </tr>
+                     <tr>
+                        <td style="vertical-align:middle; background-color: LightGray; " colspan="9" class="hasbg top ">
+                           <span class="bold">Travel Zone</span>
+                           </td>
+                     </tr>
+                     <tr>
+                        <td style="vertical-align:middle; " colspan="2" class=" top ">
+                           Number of Lanes (min—max)
+                           </td>
+                        <td style="vertical-align:middle; " class=" top ">
+                           4—6
+                           </td>
+                        <td style="vertical-align:middle; " class=" top ">
+                           4
+                           </td>
+                        <td style="vertical-align:middle; " class=" top ">
+                           2—3
+                           </td>
+                        <td style="vertical-align:middle; " class=" top ">
+                           2
+                           </td>
+                        <td style="vertical-align:middle; " class=" top ">
+                           2
+                           </td>
+                        <td style="vertical-align:middle; " class=" top ">
+                           2
+                           </td>
+                        <td style="vertical-align:middle; " class=" top ">
+                           1 Yield
+                           </td>
+                     </tr>
+                     <tr>
+                        <td style="vertical-align:middle; " colspan="2" class=" top ">
+                           Lane Widths** (min—max)
+                           </td>
+                        <td style="vertical-align:middle; " class=" top ">
+                           11'
+                           </td>
+                        <td style="vertical-align:middle; " class=" top ">
+                           10'—11'
+                           </td>
+                        <td style="vertical-align:middle; " class=" top ">
+                           10'—11'
+                           </td>
+                        <td style="vertical-align:middle; " class=" top ">
+                           10'—11'
+                           </td>
+                        <td style="vertical-align:middle; " class=" top ">
+                           10'—11'
+                           </td>
+                        <td style="vertical-align:middle; " class=" top ">
+                           11'
+                           </td>
+                        <td style="vertical-align:middle; " class=" top ">
+                           Yield# (12'—15')
+                           </td>
+                     </tr>
+                     <tr>
+                        <td style="vertical-align:middle; " colspan="2" class=" top ">
+                           Median Required (Y/N; min—max)
+                           </td>
+                        <td style="vertical-align:middle; " class=" top ">
+                           Y(14'—16')
+                           </td>
+                        <td style="vertical-align:middle; " class=" top ">
+                           Y(12'—14')
+                           </td>
+                        <td style="vertical-align:middle; " class=" top ">
+                           N
+                           </td>
+                        <td style="vertical-align:middle; " class=" top ">
+                           N
+                           </td>
+                        <td style="vertical-align:middle; " class=" top ">
+                           N
+                           </td>
+                        <td style="vertical-align:middle; " class=" top ">
+                           N
+                           </td>
+                        <td style="vertical-align:middle; " class=" top ">
+                           N
+                           </td>
+                     </tr>
+                     <tr>
+                        <td style="vertical-align:middle; " colspan="2" class=" top ">
+                           On Street Parking Permitted (Y/N)
+                           </td>
+                        <td style="vertical-align:middle; " class=" top ">
+                           N
+                           </td>
+                        <td style="vertical-align:middle; " class=" top ">
+                           Y
+                           </td>
+                        <td style="vertical-align:middle; " class=" top ">
+                           Y
+                           </td>
+                        <td style="vertical-align:middle; " class=" top ">
+                           Y
+                           </td>
+                        <td style="vertical-align:middle; " class=" top ">
+                           Y
+                           </td>
+                        <td style="vertical-align:middle; " class=" top ">
+                           N
+                           </td>
+                        <td style="vertical-align:middle; " class=" top ">
+                           Y
+                           </td>
+                     </tr>
+                     <tr>
+                        <td style="vertical-align:middle; " colspan="2" class=" top ">
+                           On-Street Parking Required (Y/N)
+                           </td>
+                        <td style="vertical-align:middle; " class=" top ">
+                           N
+                           </td>
+                        <td style="vertical-align:middle; " class=" top ">
+                           Y
+                           </td>
+                        <td style="vertical-align:middle; " class=" top ">
+                           Y
+                           </td>
+                        <td style="vertical-align:middle; " class=" top ">
+                           Y
+                           </td>
+                        <td style="vertical-align:middle; " class=" top ">
+                           Y
+                           </td>
+                        <td style="vertical-align:middle; " class=" top ">
+                           N
+                           </td>
+                        <td style="vertical-align:middle; " class=" top ">
+                           N
+                           </td>
+                     </tr>
+                     <tr>
+                        <td style="vertical-align:middle; font-size:7pt; " rowspan="3" colspan="1" class="cw270  top ">
+                           <div>
+                              Allowable
+                              <br>
+                              Parking Design and
+                              <br>
+                              Min. Width
+                              </div>
+                        </td>
+                        <td style="vertical-align:middle; " class=" top ">
+                           Parallel (8' min.)
+                           </td>
+                        <td style="vertical-align:middle; " class=" top ">
+                           —
+                           </td>
+                        <td style="vertical-align:middle; " class=" top ">
+                           Y
+                           </td>
+                        <td style="vertical-align:middle; " class=" top ">
+                           Y
+                           </td>
+                        <td style="vertical-align:middle; " class=" top ">
+                           Y
+                           </td>
+                        <td style="vertical-align:middle; " class=" top ">
+                           Y
+                           </td>
+                        <td style="vertical-align:middle; " class=" top ">
+                           —
+                           </td>
+                        <td style="vertical-align:middle; " class=" top ">
+                           -Y
+                           </td>
+                     </tr>
+                     <tr>
+                        <td style="vertical-align:middle; " class=" top ">
+                           Angled (60 degree, 18')
+                           </td>
+                        <td style="vertical-align:middle; " class=" top ">
+                           —
+                           </td>
+                        <td style="vertical-align:middle; " class=" top ">
+                           Y
+                           </td>
+                        <td style="vertical-align:middle; " class=" top ">
+                           Y
+                           </td>
+                        <td style="vertical-align:middle; " class=" top ">
+                           Y
+                           </td>
+                        <td style="vertical-align:middle; " class=" top ">
+                           N
+                           </td>
+                        <td style="vertical-align:middle; " class=" top ">
+                           —
+                           </td>
+                        <td style="vertical-align:middle; " class=" top ">
+                           -Y
+                           </td>
+                     </tr>
+                     <tr>
+                        <td style="vertical-align:middle; " class=" top ">
+                           Head-in (20' min.)
+                           </td>
+                        <td style="vertical-align:middle; " class=" top ">
+                           —
+                           </td>
+                        <td style="vertical-align:middle; " class=" top ">
+                           N
+                           </td>
+                        <td style="vertical-align:middle; " class=" top ">
+                           N
+                           </td>
+                        <td style="vertical-align:middle; " class=" top ">
+                           Y
+                           <sup>
+                              ∈
+                              </sup>
+                           </td>
+                        <td style="vertical-align:middle; " class=" top ">
+                           N
+                           </td>
+                        <td style="vertical-align:middle; " class=" top ">
+                           —
+                           </td>
+                        <td style="vertical-align:middle; " class=" top ">
+                           -Y
+                           </td>
+                     </tr>
+                     <tr>
+                        <td style="vertical-align:middle; " colspan="2" class=" top ">
+                           On-Street Bike Lane***
+                           <br>
+                           Permitted (Y/N)
+                           </td>
+                        <td style="vertical-align:middle; " class=" top ">
+                           -N
+                           </td>
+                        <td style="vertical-align:middle; " class=" top ">
+                           Y
+                           </td>
+                        <td style="vertical-align:middle; " class=" top ">
+                           Y
+                           </td>
+                        <td style="vertical-align:middle; " class=" top ">
+                           Y
+                           </td>
+                        <td style="vertical-align:middle; " class=" top ">
+                           -N
+                           </td>
+                        <td style="vertical-align:middle; " class=" top ">
+                           -N
+                           </td>
+                        <td style="vertical-align:middle; " class=" top ">
+                           -N
+                           </td>
+                     </tr>
+                     <tr>
+                        <td style="vertical-align:middle; background-color: LightGray; " colspan="9" class="hasbg top ">
+                           <span class="bold">Streetscape Zone</span>
+                           </td>
+                     </tr>
+                     <tr>
+                        <td style="vertical-align:middle; " colspan="2" class=" top ">
+                           Total Streetscape Zone
+                           </td>
+                        <td style="vertical-align:middle; " class=" top "></td>
+                        <td style="vertical-align:middle; " class=" top "></td>
+                        <td style="vertical-align:middle; " class=" top "></td>
+                        <td style="vertical-align:middle; " class=" top "></td>
+                        <td style="vertical-align:middle; " class=" top "></td>
+                        <td style="vertical-align:middle; " class=" top "></td>
+                        <td style="vertical-align:middle; " class=" top "></td>
+                     </tr>
+                     <tr>
+                        <td style="vertical-align:middle; " colspan="2" class=" top ">
+                            Primary Pedestrian Street
+                           </td>
+                        <td style="vertical-align:middle; " class=" top ">
+                           12' (min.)
+                           </td>
+                        <td style="vertical-align:middle; " class=" top ">
+                           12' (min.)
+                           </td>
+                        <td style="vertical-align:middle; " class=" top ">
+                           12' (min.)
+                           </td>
+                        <td style="vertical-align:middle; " class=" top ">
+                           12' (min.)
+                           </td>
+                        <td style="vertical-align:middle; " class=" top ">
+                           10' (min.)
+                           </td>
+                        <td style="vertical-align:middle; " class=" top ">
+                           NA
+                           </td>
+                        <td style="vertical-align:middle; " class=" top ">
+                           NA
+                           </td>
+                     </tr>
+                     <tr>
+                        <td style="vertical-align:middle; " colspan="2" class=" top ">
+                            All other Streets
+                           </td>
+                        <td style="vertical-align:middle; " class=" top ">
+                           8' (min.)
+                           </td>
+                        <td style="vertical-align:middle; " class=" top ">
+                           8' (min.)
+                           </td>
+                        <td style="vertical-align:middle; " class=" top ">
+                           8' (min.)
+                           </td>
+                        <td style="vertical-align:middle; " class=" top ">
+                           8' (min.)
+                           </td>
+                        <td style="vertical-align:middle; " class=" top ">
+                           8' (min.)
+                           </td>
+                        <td style="vertical-align:middle; " class=" top ">
+                           NA
+                           </td>
+                        <td style="vertical-align:middle; " class=" top ">
+                           NA
+                           </td>
+                     </tr>
+                     <tr>
+                        <td style="vertical-align:middle; " colspan="2" class=" top ">
+                           Amenity Zone
+                           </td>
+                        <td style="vertical-align:middle; " class=" top "></td>
+                        <td style="vertical-align:middle; " class=" top "></td>
+                        <td style="vertical-align:middle; " class=" top "></td>
+                        <td style="vertical-align:middle; " class=" top "></td>
+                        <td style="vertical-align:middle; " class=" top "></td>
+                        <td style="vertical-align:middle; " class=" top "></td>
+                        <td style="vertical-align:middle; " class=" top "></td>
+                     </tr>
+                     <tr>
+                        <td style="vertical-align:middle; " colspan="2" class=" top ">
+                            Primary Pedestrian Street
+                           </td>
+                        <td style="vertical-align:middle; " class=" top ">
+                           6' (min.)
+                           </td>
+                        <td style="vertical-align:middle; " class=" top ">
+                           6' (min.)
+                           </td>
+                        <td style="vertical-align:middle; " class=" top ">
+                           6' (min.)
+                           </td>
+                        <td style="vertical-align:middle; " class=" top ">
+                           6' (min.)
+                           </td>
+                        <td style="vertical-align:middle; " class=" top ">
+                           4' (min.)
+                           </td>
+                        <td style="vertical-align:middle; " class=" top ">
+                           NA
+                           </td>
+                        <td style="vertical-align:middle; " class=" top ">
+                           NA
+                           </td>
+                     </tr>
+                     <tr>
+                        <td style="vertical-align:middle; " colspan="2" class=" top ">
+                            All other Streets
+                           </td>
+                        <td style="vertical-align:middle; " class=" top ">
+                           4' (min.)
+                           </td>
+                        <td style="vertical-align:middle; " class=" top ">
+                           4' (min.)
+                           </td>
+                        <td style="vertical-align:middle; " class=" top ">
+                           4' (min.)
+                           </td>
+                        <td style="vertical-align:middle; " class=" top ">
+                           4' (min.)
+                           </td>
+                        <td style="vertical-align:middle; " class=" top ">
+                           4' (min.)
+                           </td>
+                        <td style="vertical-align:middle; " class=" top ">
+                           NA
+                           </td>
+                        <td style="vertical-align:middle; " class=" top ">
+                           NA
+                           </td>
+                     </tr>
+                     <tr>
+                        <td style="vertical-align:middle; " colspan="2" class=" top ">
+                           Sidewalk (clear width)
+                           <sup>
+                              μ
+                              </sup>
+                           </td>
+                        <td style="vertical-align:middle; " class=" top "></td>
+                        <td style="vertical-align:middle; " class=" top "></td>
+                        <td style="vertical-align:middle; " class=" top "></td>
+                        <td style="vertical-align:middle; " class=" top "></td>
+                        <td style="vertical-align:middle; " class=" top "></td>
+                        <td style="vertical-align:middle; " class=" top "></td>
+                        <td style="vertical-align:middle; " class=" top "></td>
+                     </tr>
+                     <tr>
+                        <td style="vertical-align:middle; " colspan="2" class=" top ">
+                            Primary Pedestrian Street
+                           </td>
+                        <td style="vertical-align:middle; " class=" top ">
+                           6' (min.)
+                           </td>
+                        <td style="vertical-align:middle; " class=" top ">
+                           6' (min.)
+                           </td>
+                        <td style="vertical-align:middle; " class=" top ">
+                           6' (min.)
+                           </td>
+                        <td style="vertical-align:middle; " class=" top ">
+                           6' (min.)
+                           </td>
+                        <td style="vertical-align:middle; " class=" top ">
+                           6' (min.)
+                           </td>
+                        <td style="vertical-align:middle; " class=" top ">
+                           NA
+                           </td>
+                        <td style="vertical-align:middle; " class=" top ">
+                           NA
+                           </td>
+                     </tr>
+                     <tr>
+                        <td style="vertical-align:middle; " colspan="2" class=" top ">
+                            All other Streets
+                           </td>
+                        <td style="vertical-align:middle; " class=" top ">
+                           4' (min.)
+                           </td>
+                        <td style="vertical-align:middle; " class=" top ">
+                           4' (min.)
+                           </td>
+                        <td style="vertical-align:middle; " class=" top ">
+                           4' (min.)
+                           </td>
+                        <td style="vertical-align:middle; " class=" top ">
+                           4' (min.)
+                           </td>
+                        <td style="vertical-align:middle; " class=" top ">
+                           4' (min.)
+                           </td>
+                        <td style="vertical-align:middle; " class=" top ">
+                           NA
+                           </td>
+                        <td style="vertical-align:middle; " class=" top ">
+                           NA
+                           </td>
+                     </tr>
+                     <tr>
+                        <td style="vertical-align:middle; font-size:8pt; " colspan="9" class=" top ">
+                           * Standard ranges for width provided. Min. ROW widths may vary based on the Streetscape
+                           Zone. ROW widths for dedication along existing Streets shall be based on the City's
+                           adopted Thoroughfare Plan and LDR.
+                           </td>
+                     </tr>
+                     <tr>
+                        <td style="vertical-align:middle; font-size:8pt; " colspan="9" class=" top ">
+                           ** Total pavement widths shall be sufficient for fire access.
+                           </td>
+                     </tr>
+                     <tr>
+                        <td style="vertical-align:middle; font-size:8pt; " colspan="9" class=" top ">
+                           <sup>
+                              #
+                              </sup>
+                            Unless alley acts as a fire lane, then fire lane standards shall apply
+                           </td>
+                     </tr>
+                     <tr>
+                        <td style="vertical-align:middle; font-size:8pt; " colspan="9" class=" top ">
+                           <sup>
+                              ∈
+                              </sup>
+                            Lawn than 6,000 cars/day and non Primary Pedestrian frontage
+                           </td>
+                     </tr>
+                     <tr>
+                        <td style="vertical-align:middle; font-size:8pt; " colspan="9" class=" top ">
+                           *** Shall be based on way adopted bike plans
+                           </td>
+                     </tr>
+                     <tr>
+                        <td style="vertical-align:middle; font-size:8pt; " colspan="9" class=" top ">
+                           <sup>
+                              μ
+                              </sup>
+                            Any enhanced sidewalks shall meet the City's adopted Trail Plan standards
+                           </td>
+                     </tr>
+                  </tbody>
+               </table>

@@ -1,0 +1,533 @@
+Use:
+  'Accessory uses:':
+    Accessory uses and structures located on the same site as a permitted use:
+      MU: P
+      GC: P
+    Accessory uses and structures located on the same site as a use permitted subject to a conditional use permit:
+      MU: C
+      GC: C
+  'Commercial uses:':
+    Adult entertainment:
+      MU: X
+      GC: X
+    Agricultural:
+      MU: X
+      GC: X
+    Ambulance service:
+      MU: P
+      GC: DP
+    Antique shops:
+      MU: P
+      GC: P
+    Apparel stores (sales):
+      MU: P
+      GC: P
+    Appliance stores and repair:
+      MU: P
+      GC: P
+    Arcades:
+      MU: DP
+      GC: DP
+    Art galleries, music, dance studios, photographic studios and supply stores:
+      MU: P
+      GC: P
+    Auction houses:
+      MU: X
+      GC: C
+    Auto supply store:
+      MU: P
+      GC: P
+    Automobile repair:
+      MU: C
+      GC: DP
+    Automotive and light truck sales/service:
+      MU: DP
+      GC: P
+    Automotive dealerships subject to section 6-12-10 of this title:
+      MU: C
+      GC: P
+    Automotive paint and body:
+      MU: X
+      GC: DP
+    Automotive rental agencies (excluding outdoor storage):
+      MU: P
+      GC: P
+    Automotive rental agencies (including outdoor storage):
+      MU: DP
+      GC: DP
+    Automotive washing (self- or full service):
+      MU: X
+      GC: P
+    Bail bond services:
+      MU: P
+      GC: P
+    Bakeries (retail):
+      MU: P
+      GC: P
+    Barber and beauty shops:
+      MU: P
+      GC: P
+    Bicycle shops (nonmotorized):
+      MU: P
+      GC: P
+    Blueprint and photocopy services:
+      MU: P
+      GC: P
+    Boat and RV (sales only):
+      MU: C
+      GC: P
+    Book, gifts and stationery stores:
+      MU: P
+      GC: P
+    Building materials sales/home improvement (indoors):
+      MU: P
+      GC: P
+    Building materials sales/outdoor storage (masonry, sand, gravel):
+      MU: C
+      GC: C
+    Camera shops:
+      MU: P
+      GC: P
+    Candle shops:
+      MU: P
+      GC: P
+    Candy stores and confectioneries:
+      MU: P
+      GC: P
+    Cannabis cultivation, indoor (licenses for medical or adult-use, specialty cottage, specialty, small, medium, nurseries, and processors):
+      MU: X
+      GC: X
+    Cannabis cultivation, outdoor (licenses for medical or adult- use, specialty cottage, specialty, small, medium, nurseries, and processors):
+      MU: X
+      GC: X
+    Cannabis distributors and distributor transport only (license types 11 and 13):
+      MU: X
+      GC: X
+    Cannabis event organizers and temporary cannabis events (license type 14):
+      MU: X
+      GC: X
+    Cannabis manufacturer (medical or adult-use, license type 6, type 7, type N-infusions, and type P-packaging and labeling only):
+      MU: X
+      GC: X
+    Cannabis microbusiness (license type 12):
+      MU: X
+      GC: X
+    Cannabis retail sales/dispensary (license type 10):
+      MU: X
+      GC: X
+    Cannabis retail sales, non-storefront (license type 9):
+      MU: X
+      GC: X
+    Cannabis testing facility (license type 8):
+      MU: X
+      GC: X
+    Catering establishments:
+      MU: P
+      GC: P
+    Cemetery (human):
+      MU: X
+      GC: X
+    Cleaning and pressing establishments:
+      MU: P
+      GC: P
+    Clothing and costume rental:
+      MU: P
+      GC: P
+    Cocktail lounge/bar, including upgrading an existing ABC license (e.g., beer and wine to a hard liquor license) (refer to section 6-12-5 of this title):
+      MU: C
+      GC: C
+    Commercial recreational facilities (indoor):
+      MU: P
+      GC: P
+    Commercial recreational facilities (outdoor):
+      MU: C
+      GC: C
+    Communication and telecommunication facilities (radio and television):
+      MU: C
+      GC: C
+    Convenience store (including alcohol sales):
+      MU: C
+      GC: C
+    Convenience store (no alcohol sales):
+      MU: P
+      GC: P
+    Dairy products stores:
+      MU: P
+      GC: P
+    Department stores:
+      MU: P
+      GC: P
+    Drapery and decorating shops:
+      MU: P
+      GC: P
+    Dress making shops:
+      MU: P
+      GC: P
+    Drive-through businesses, including financial institutions, theaters, restaurants, and other similar businesses utilizing a drive-through lane subject to provisions of section 6-12-15 of this title:
+      MU: C
+      GC: C
+    Driving schools:
+      MU: P
+      GC: P
+    Drugstore/pharmacy:
+      MU: P
+      GC: P
+    With drive-through service (subject to provisions of section 6-12-15 of this title):
+      MU: C
+      GC: C
+    Electronic coin operated games (commercial operated) 5 or more games (subject to section 6-12-9 of this title):
+      MU: C
+      GC: C
+    Electronic coin operated games (commercial operated) less than 5 games:
+      MU: P
+      GC: P
+    Feed and tack stores:
+      MU: P
+      GC: P
+    Fireworks stand, subject to the provisions of section 6-12-17 of this title:
+      MU: P
+      GC: P
+    Floor covering stores (may include incidental repair):
+      MU: P
+      GC: P
+    Floral shops:
+      MU: P
+      GC: P
+    Food stores and supermarkets:
+      MU: P
+      GC: P
+    Furniture stores, repair and upholstery:
+      MU: P
+      GC: P
+    General retail stores:
+      MU: P
+      GC: P
+    Hardware stores (no outdoor storage):
+      MU: P
+      GC: P
+    Hardware stores (outdoor storage):
+      MU: C
+      GC: C
+    Health clubs, dance studios, martial arts, weight training and similar uses:
+      MU: P
+      GC: P
+    Hobby shops:
+      MU: P
+      GC: P
+    Home improvement (indoor):
+      MU: P
+      GC: P
+    Home improvement (outdoor):
+      MU: C
+      GC: C
+    Hookah lounges:
+      MU: X
+      GC: X
+    Hotels and motels:
+      MU: P
+      GC: P
+    Insurance services:
+      MU: P
+      GC: P
+    Internet café:
+      MU: P
+      GC: P
+    Janitorial services and supplies:
+      MU: P
+      GC: P
+    Jewelry stores:
+      MU: P
+      GC: P
+    Kiosks (parking lot film processing and key shops):
+      MU: P
+      GC: P
+    Laundry pick up and delivery agencies and self-service laundries (includes diaper service):
+      MU: P
+      GC: P
+    Liquor stores:
+      MU: C
+      GC: C
+    Locksmith shops:
+      MU: P
+      GC: P
+    Massage therapist (subject to provisions of title IV, chapter 20 of this Code):
+      MU: P
+      GC: P
+    Meat markets:
+      MU: P
+      GC: P
+    Medical marijuana dispensaries:
+      MU: X
+      GC: X
+    Mini-storage:
+      MU: C
+      GC: P
+    Miniature golf courses:
+      MU: DP
+      GC: P
+    Mortgage services:
+      MU: P
+      GC: P
+    Mortuaries:
+      MU: C
+      GC: C
+    Motorcycle shops (sales and service):
+      MU: P
+      GC: P
+    Music stores:
+      MU: P
+      GC: P
+    Newspaper and magazine stores:
+      MU: P
+      GC: P
+    Nurseries and garden supply stores (provided all equipment and supplies are kept within a building or fenced enclosed area):
+      MU: P
+      GC: P
+    Office and business machines stores (sales, service and repair):
+      MU: P
+      GC: P
+    Paint and wall covering stores:
+      MU: P
+      GC: P
+    Parking facilities (off site):
+      MU: DP
+      GC: DP
+    Pet shops:
+      MU: P
+      GC: P
+    Plumbing shops and supplies:
+      MU: P
+      GC: P
+    Political or philanthropic headquarters:
+      MU: P
+      GC: P
+    Pottery sales:
+      MU: P
+      GC: P
+    Printing and copy shops (other than newspaper):
+      MU: P
+      GC: P
+    Real estate services:
+      MU: P
+      GC: P
+  Recycling facilities (subject to provisions of section 6-12-22 of this title):
+    Reverse vending machines:
+      MU: P
+      GC: P
+    Small collection facilities:
+      MU: X
+      GC: C
+    Large collection facilities:
+      MU: X
+      GC: X
+  'Restaurants:':
+    With drive-through service (subject to provisions of section 6-12-15 of this title):
+      MU: P
+      GC: P
+    With entertainment and/or serving alcoholic beverages, including upgrading an existing ABC license (refer to section 6-12-5 of this title):
+      MU: C
+      GC: C
+    Secondhand stores/pawnshops:
+      MU: P
+      GC: P
+    Service stations (automotive, with alcoholic beverage sales) subject to sections 6-12-5 and 6-12-25 of this title:
+      MU: C
+      GC: C
+    Service stations (automotive, without alcoholic beverage sales) subject to section 6-12-25 of this title:
+      MU: P
+      GC: P
+    Shoe stores (repairs):
+      MU: P
+      GC: P
+    Shopping centers:
+      MU: X
+      GC: P
+    Sign painting shops within a completely enclosed building:
+      MU: P
+      GC: P
+    Smoking lounge, private (subject to provisions of section 6-12-30 of this title):
+      MU: C
+      GC: C
+    Sporting goods store:
+      MU: P
+      GC: P
+    Stamp and coin shops:
+      MU: P
+      GC: P
+    Stationery stores:
+      MU: P
+      GC: P
+    Statue shops:
+      MU: P
+      GC: P
+    Surveying services:
+      MU: P
+      GC: P
+    Swimming pool and spa (sales, service and supply):
+      MU: P
+      GC: P
+    Tailor shops:
+      MU: P
+      GC: P
+    Tattoo parlor:
+      MU: C
+      GC: C
+    Taxidermists (no processing):
+      MU: P
+      GC: P
+    Telegraph offices:
+      MU: P
+      GC: P
+    Televisions (radio sales and repair):
+      MU: P
+      GC: P
+    Theaters, including both motion picture and live performing arts:
+      MU: C
+      GC: C
+    Tire sales and service:
+      MU: C
+      GC: C
+    Tobacco shop (subject to provisions of section 6-12-30 of this title):
+      MU: C
+      GC: C
+    Toy stores:
+      MU: P
+      GC: P
+    Travel agencies:
+      MU: P
+      GC: P
+    Truck storage yard when adjacent to Industrial Zone District:
+      MU: X
+      GC: C
+    Upholstering shops (indoor only):
+      MU: P
+      GC: P
+    Variety stores:
+      MU: P
+      GC: P
+    Veterinary offices and animal hospitals, including exterior kennels, pens or runs:
+      MU: X
+      GC: C
+  'Manufacturing uses:':
+    Oil and gas exploration and production, subject to the provisions of chapter 10 of this title:
+      MU: C
+      GC: C
+  'Office and related uses:':
+    Administrative and executive offices:
+      MU: P
+      GC: P
+    Artist and photographic studio, including sale of equipment or supplies:
+      MU: P
+      GC: P
+    Clerical and professional offices:
+      MU: P
+      GC: P
+    Financial services and institutions:
+      MU: P
+      GC: P
+    With drive-through services (subject to provisions of section 6-12-15 of this title):
+      MU: C
+      GC: C
+    Medical, dental and related health services for humans, including clinics, laboratories and the sale of articles clearly incidental to services provided:
+      MU: P
+      GC: P
+  'Public and quasi-public uses:':
+    Auditoriums:
+      MU: C
+      GC: C
+    Churches, synagogues, mosques, temples:
+      MU: C
+      GC: C
+    Clubs, lodges, fraternities and sororities:
+      MU: DP
+      GC: DP
+    Communication and telecommunication facilities (not including radio and television):
+      MU: C
+      GC: C
+    Convalescent homes, hospitals:
+      MU: C
+      GC: C
+    Convention hall, trade show, exhibit building with incidental food services:
+      MU: C
+      GC: C
+    Dances, per title IV, chapter 6 of this Code:
+      MU: C
+      GC: P
+    Day nurseries, nursery schools and childcare facilities per State law:
+      MU: DP
+      GC: DP
+    Educational institutions (including public or private vocational schools):
+      MU: DP
+      GC: DP
+    Fire and police stations:
+      MU: P
+      GC: P
+    Post offices:
+      MU: P
+      GC: P
+    Public administration buildings and civic centers:
+      MU: P
+      GC: P
+    Public libraries and museums:
+      MU: P
+      GC: P
+    Public parks and recreation facilities (public or private):
+      MU: P
+      GC: P
+    Public utilities and public service substations, reservoirs, pumping plants and similar installations, not including public utility offices, unless project otherwise entails a public hearing, then permitted:
+      MU: C
+      GC: C
+    Public utility services offices:
+      MU: P
+      GC: P
+    Recreational vehicle parks:
+      MU: C
+      GC: C
+    Residential care facility (per State law):
+      MU: DP
+      GC: DP
+    Transportation facilities:
+      MU: C
+      GC: C
+  'Residential uses:':
+    Emergency shelters:
+      MU: X
+      GC: X
+    Low Barrier Navigation Center (see Section 6-12-35 of this title):
+      MU: P
+      GC: X
+    Multi-family residential dwellings, small (triplexes and fourplexes):
+      MU: P
+      GC: X
+    Multi-family residential dwellings, (5 or more units subject to Site Plan Review per section 6-2-9 ):
+      MU: P
+      GC: X
+    Residence in conjunction with a business:
+      MU: C
+      GC: X
+    Residential Facilities and Group Homes (6 persons or less):
+      MU: X
+      GC: X
+    Residential Facilities and Group Homes (7 persons or more):
+      MU: P
+      GC: X
+    Single-family residential dwellings:
+      MU: X
+      GC: X
+    Single-Room Occupancy Units (see section 6-12-37 of this title):
+      MU: P
+      GC: X
+    Supportive housing (per section 6-12-36 of this title):
+      MU: P
+      GC: X
+    Transitional housing:
+      MU: P
+      GC: X
+    Two-Unit dwelling:
+      MU: P
+      GC: X
+  'Temporary uses:':
+    Temporary uses as prescribed in section 6-2-10 of this title, are permitted subject to issuance of a temporary use permit:
+      MU: P
+      GC: P
+  Other uses similar to, and no more objectionable than, the uses identified above, shall be reviewed per the process required by the similar use, as determined by the Planning Commission: {}

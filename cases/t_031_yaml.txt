@@ -1,0 +1,1407 @@
+Land Use:
+  Retail and consumer service uses:
+    Alcohol sales:
+      C-1/C-P: All sales require a conditional use permit, regardless of primary use
+      C-P-S: All sales require a conditional use permit, regardless of primary use
+      C-O: All sales require a conditional use permit, regardless of primary use
+      I-P: All sales require a conditional use permit, regardless of primary use
+      M-SC: All sales require a conditional use permit, regardless of primary use
+      M-M: All sales require a conditional use permit, regardless of primary use
+      M-H: All sales require a conditional use permit, regardless of primary use
+      W-1: All sales require a conditional use permit, regardless of primary use
+      Special Provisions: Section 120.04.090
+    Banks and financial institutions:
+      C-1/C-P: P
+      C-P-S: P
+      C-O: P
+      I-P: P
+      M-SC: P
+      M-M: P
+      M-H: P
+      W-1: ''
+      Special Provisions: ''
+    Barbershop and beauty shops:
+      C-1/C-P: P
+      C-P-S: P
+      C-O: ''
+      I-P: P
+      M-SC: P
+      M-M: P
+      M-H: P
+      W-1: ''
+      Special Provisions: ''
+    Bars and cocktail lounges:
+      C-1/C-P: C
+      C-P-S: C
+      C-O: C
+      I-P: ''
+      M-SC: ''
+      M-M: ''
+      M-H: ''
+      W-1: ''
+      Special Provisions: ''
+    Cigar, cigarette and tobacco sales:
+      C-1/C-P: C
+      C-P-S: C
+      C-O: ''
+      I-P: ''
+      M-SC: ''
+      M-M: ''
+      M-H: ''
+      W-1: ''
+      Special Provisions: ''
+    Cigar, hookah, and cigarette lounges:
+      C-1/C-P: C
+      C-P-S: C
+      C-O: ''
+      I-P: ''
+      M-SC: ''
+      M-M: ''
+      M-H: ''
+      W-1: ''
+      Special Provisions: ''
+    Clinics, including medical, dental, chiropractic:
+      C-1/C-P: P
+      C-P-S: P
+      C-O: C
+      I-P: ''
+      M-SC: ''
+      M-M: ''
+      M-H: ''
+      W-1: ''
+      Special Provisions: ''
+    Day care centers:
+      C-1/C-P: P
+      C-P-S: P
+      C-O: P
+      I-P: P
+      M-SC: P
+      M-M: P
+      M-H: P
+      W-1: ''
+      Special Provisions: ''
+    Department stores:
+      C-1/C-P: P
+      C-P-S: P
+      C-O: ''
+      I-P: ''
+      M-SC: ''
+      M-M: ''
+      M-H: ''
+      W-1: ''
+      Special Provisions: ''
+    Drive-in or drive-through operations or facilities (any use):
+      C-1/C-P: C
+      C-P-S: C
+      C-O: C
+      I-P: C
+      M-SC: ''
+      M-M: ''
+      M-H: ''
+      W-1: ''
+      Special Provisions: ''
+    Farmers' markets:
+      C-1/C-P: C
+      C-P-S: C
+      C-O: C
+      I-P: ''
+      M-SC: ''
+      M-M: ''
+      M-H: ''
+      W-1: ''
+      Special Provisions: Section 120.04.100
+    Fortunetelling, spiritualism or similar activity:
+      C-1/C-P: P
+      C-P-S: ''
+      C-O: ''
+      I-P: ''
+      M-SC: P
+      M-M: ''
+      M-H: ''
+      W-1: ''
+      Special Provisions: ''
+    Grocery stores/market/ food stores:
+      C-1/C-P: P
+      C-P-S: P
+      C-O: ''
+      I-P: ''
+      M-SC: ''
+      M-M: ''
+      M-H: ''
+      W-1: ''
+      Special Provisions: ''
+    Hardware and home improvement centers:
+      C-1/C-P: P
+      C-P-S: P
+      C-O: ''
+      I-P: ''
+      M-SC: P
+      M-M: P
+      M-H: P
+      W-1: ''
+      Special Provisions: ''
+    Hotels and motels:
+      C-1/C-P: P
+      C-P-S: P
+      C-O: C
+      I-P: P
+      M-SC: P
+      M-M: P
+      M-H: P
+      W-1: ''
+      Special Provisions: ''
+    Liquor stores:
+      C-1/C-P: C
+      C-P-S: C
+      C-O: ''
+      I-P: ''
+      M-SC: ''
+      M-M: ''
+      M-H: ''
+      W-1: ''
+      Special Provisions: Section 120.04.090
+    Massage parlors, Turkish baths or similar personal service establishments:
+      C-1/C-P: C
+      C-P-S: C
+      C-O: ''
+      I-P: ''
+      M-SC: ''
+      M-M: ''
+      M-H: ''
+      W-1: ''
+      Special Provisions: ''
+    Medicinal cannabis retailer, delivery-only:
+      C-1/C-P: ''
+      C-P-S: ''
+      C-O: ''
+      I-P: C
+      M-SC: C
+      M-M: ''
+      M-H: ''
+      W-1: ''
+      Special Provisions: Section 120.04.150
+    Nurseries and garden supply stores:
+      C-1/C-P: P
+      C-P-S: P
+      C-O: ''
+      I-P: ''
+      M-SC: P
+      M-M: P
+      M-H: P
+      W-1: ''
+      Special Provisions: ''
+    Religious institutions:
+      C-1/C-P: P
+      C-P-S: ''
+      C-O: P
+      I-P: P
+      M-SC: P
+      M-M: P
+      M-H: P
+      W-1: ''
+      Special Provisions: ''
+    Restaurants and other eating establishments, including fast food restaurants and sandwich shops (see drive-in and drive-through uses):
+      C-1/C-P: P
+      C-P-S: P
+      C-O: C
+      I-P: P
+      M-SC: P
+      M-M: P
+      M-H: P
+      W-1: ''
+      Special Provisions: ''
+    Retail sales and services, small scale G:
+      C-1/C-P: P
+      C-P-S: P
+      C-O: C
+      I-P: C
+      M-SC: C
+      M-M: C
+      M-H: C
+      W-1: ''
+      Special Provisions: ''
+    Schools, business and professional, including art, barber, beauty, dance, drama, music and swimming:
+      C-1/C-P: C
+      C-P-S: C
+      C-O: C
+      I-P: ''
+      M-SC: ''
+      M-M: ''
+      M-H: ''
+      W-1: ''
+      Special Provisions: ''
+    Swap meets:
+      C-1/C-P: C
+      C-P-S: ''
+      C-O: ''
+      I-P: ''
+      M-SC: ''
+      M-M: C
+      M-H: C
+      W-1: ''
+      Special Provisions: ''
+    Tattoo parlors:
+      C-1/C-P: C
+      C-P-S: C
+      C-O: ''
+      I-P: ''
+      M-SC: ''
+      M-M: ''
+      M-H: ''
+      W-1: ''
+      Special Provisions: ''
+    Theaters, not including drive-ins:
+      C-1/C-P: P
+      C-P-S: P
+      C-O: ''
+      I-P: ''
+      M-SC: ''
+      M-M: ''
+      M-H: ''
+      W-1: ''
+      Special Provisions: ''
+    Tourist information centers:
+      C-1/C-P: P
+      C-P-S: P
+      C-O: P
+      I-P: ''
+      M-SC: ''
+      M-M: ''
+      M-H: ''
+      W-1: ''
+      Special Provisions: ''
+    Wedding chapels:
+      C-1/C-P: ''
+      C-P-S: P
+      C-O: ''
+      I-P: ''
+      M-SC: ''
+      M-M: ''
+      M-H: ''
+      W-1: ''
+      Special Provisions: ''
+  Business operations and services uses:
+    Alternative Fueling Station such as but not limited to hydrogen, propane, biodiesel, etc. (with or without retail, rest stop facility, or office):
+      C-1/C-P: ''
+      C-P-S: ''
+      C-O: ''
+      I-P: C
+      M-SC: C
+      M-M: C
+      M-H: C
+      W-1: ''
+      Special Provisions: ''
+    Animal hospitals:
+      C-1/C-P: C
+      C-P-S: C
+      C-O: ''
+      I-P: P
+      M-SC: ''
+      M-M: ''
+      M-H: ''
+      W-1: ''
+      Special Provisions: ''
+    Animal training:
+      C-1/C-P: ''
+      C-P-S: ''
+      C-O: ''
+      I-P: P
+      M-SC: ''
+      M-M: P
+      M-H: ''
+      W-1: ''
+      Special Provisions: ''
+    Apiaries:
+      C-1/C-P: ''
+      C-P-S: ''
+      C-O: ''
+      I-P: ''
+      M-SC: ''
+      M-M: ''
+      M-H: ''
+      W-1: P
+      Special Provisions: ''
+    Aquaculture:
+      C-1/C-P: ''
+      C-P-S: ''
+      C-O: ''
+      I-P: ''
+      M-SC: ''
+      M-M: ''
+      M-H: ''
+      W-1: P
+      Special Provisions: ''
+    Auction houses:
+      C-1/C-P: P
+      C-P-S: ''
+      C-O: ''
+      I-P: ''
+      M-SC: ''
+      M-M: ''
+      M-H: ''
+      W-1: ''
+      Special Provisions: ''
+    Automobile parts and supply stores:
+      C-1/C-P: P
+      C-P-S: P
+      C-O: ''
+      I-P: P
+      M-SC: ''
+      M-M: ''
+      M-H: ''
+      W-1: ''
+      Special Provisions: ''
+    Automobile service and repair:
+      C-1/C-P: C
+      C-P-S: C
+      C-O: ''
+      I-P: P
+      M-SC: P
+      M-M: P
+      M-H: P
+      W-1: ''
+      Special Provisions: ''
+    Blueprint and duplicating services:
+      C-1/C-P: P
+      C-P-S: P
+      C-O: ''
+      I-P: P
+      M-SC: P
+      M-M: P
+      M-H: P
+      W-1: ''
+      Special Provisions: ''
+    Boat and other marine sales and rental:
+      C-1/C-P: C
+      C-P-S: C
+      C-O: ''
+      I-P: P
+      M-SC: ''
+      M-M: ''
+      M-H: ''
+      W-1: ''
+      Special Provisions: ''
+    Boat services:
+      C-1/C-P: ''
+      C-P-S: C
+      C-O: ''
+      I-P: P
+      M-SC: ''
+      M-M: ''
+      M-H: ''
+      W-1: ''
+      Special Provisions: ''
+    Body and fender shops and spray painting:
+      C-1/C-P: ''
+      C-P-S: ''
+      C-O: ''
+      I-P: ''
+      M-SC: P
+      M-M: P
+      M-H: P
+      W-1: ''
+      Special Provisions: ''
+    Building materials sales yards:
+      C-1/C-P: ''
+      C-P-S: ''
+      C-O: ''
+      I-P: ''
+      M-SC: P
+      M-M: P
+      M-H: P
+      W-1: ''
+      Special Provisions: ''
+    Building movers storage yard:
+      C-1/C-P: ''
+      C-P-S: ''
+      C-O: ''
+      I-P: ''
+      M-SC: P
+      M-M: P
+      M-H: P
+      W-1: ''
+      Special Provisions: ''
+    Car and truck washes(with or without drive-through operation):
+      C-1/C-P: ''
+      C-P-S: ''
+      C-O: ''
+      I-P: C
+      M-SC: C
+      M-M: C
+      M-H: C
+      W-1: ''
+      Special Provisions: ''
+    Electric Vehicle Charging Station, Small:
+      C-1/C-P: p
+      C-P-S: p
+      C-O: p
+      I-P: p
+      M-SC: p
+      M-M: p
+      M-H: p
+      W-1: ''
+      Special Provisions: Chapter 110.96
+    Electric Vehicle Charging Station, Large:
+      C-1/C-P: p
+      C-P-S: p
+      C-O: p
+      I-P: p
+      M-SC: p
+      M-M: p
+      M-H: p
+      W-1: ''
+      Special Provisions: Chapter 110.96
+    Employment agencies:
+      C-1/C-P: P
+      C-P-S: P
+      C-O: P
+      I-P: ''
+      M-SC: ''
+      M-M: ''
+      M-H: ''
+      W-1: ''
+      Special Provisions: ''
+    Equipment rental services:
+      C-1/C-P: P
+      C-P-S: C
+      C-O: ''
+      I-P: ''
+      M-SC: ''
+      M-M: ''
+      M-H: ''
+      W-1: ''
+      Special Provisions: ''
+    Equipment sales and storage:
+      C-1/C-P: ''
+      C-P-S: ''
+      C-O: ''
+      I-P: P
+      M-SC: ''
+      M-M: ''
+      M-H: ''
+      W-1: ''
+      Special Provisions: ''
+    Feed and grain sales:
+      C-1/C-P: P
+      C-P-S: P
+      C-O: ''
+      I-P: ''
+      M-SC: P
+      M-M: P
+      M-H: P
+      W-1: ''
+      Special Provisions: ''
+    Gasoline service stations, not including the concurrent sale of beer and wine for off-premises consumption:
+      C-1/C-P: ''
+      C-P-S: ''
+      C-O: ''
+      I-P: C
+      M-SC: C
+      M-M: C
+      M-H: C
+      W-1: ''
+      Special Provisions: ''
+    Gasoline service stations, with concurrent sale of beer and wine for off-premises consumption:
+      C-1/C-P: ''
+      C-P-S: ''
+      C-O: ''
+      I-P: C
+      M-SC: C
+      M-M: C
+      M-H: C
+      W-1: ''
+      Special Provisions: ''
+    Golf cart sales and service:
+      C-1/C-P: P
+      C-P-S: P
+      C-O: ''
+      I-P: ''
+      M-SC: ''
+      M-M: ''
+      M-H: ''
+      W-1: ''
+      Special Provisions: ''
+    Golf courses, not including the construction of buildings:
+      C-1/C-P: ''
+      C-P-S: ''
+      C-O: ''
+      I-P: ''
+      M-SC: ''
+      M-M: ''
+      M-H: ''
+      W-1: P
+      Special Provisions: ''
+    Laboratories, film, dental, medical, research or testing:
+      C-1/C-P: P
+      C-P-S: P
+      C-O: C
+      I-P: P
+      M-SC: P
+      M-M: P
+      M-H: P
+      W-1: ''
+      Special Provisions: ''
+    Liquid petroleum service stations G:
+      C-1/C-P: C
+      C-P-S: C
+      C-O: ''
+      I-P: ''
+      M-SC: ''
+      M-M: ''
+      M-H: ''
+      W-1: ''
+      Special Provisions: ''
+    Lumberyards, including only incidental millwork:
+      C-1/C-P: ''
+      C-P-S: ''
+      C-O: ''
+      I-P: P
+      M-SC: P
+      M-M: P
+      M-H: ''
+      W-1: ''
+      Special Provisions: ''
+    Meteorological towers:
+      C-1/C-P: ''
+      C-P-S: ''
+      C-O: ''
+      I-P: ''
+      M-SC: ''
+      M-M: ''
+      M-H: ''
+      W-1: P
+      Special Provisions: ''
+    Mini-storage:
+      C-1/C-P: ''
+      C-P-S: ''
+      C-O: ''
+      I-P: C
+      M-SC: C
+      M-M: C
+      M-H: C
+      W-1: ''
+      Special Provisions: Section 120.04.020
+    Mobilehome sales and storage, trailer sales and rental house trailers:
+      C-1/C-P: P
+      C-P-S: ''
+      C-O: ''
+      I-P: ''
+      M-SC: ''
+      M-M: ''
+      M-H: ''
+      W-1: ''
+      Special Provisions: ''
+    Mobilehome sales lot:
+      C-1/C-P: ''
+      C-P-S: ''
+      C-O: ''
+      I-P: ''
+      M-SC: P
+      M-M: P
+      M-H: P
+      W-1: ''
+      Special Provisions: ''
+    Parcel Delivery Services:
+      C-1/C-P: ''
+      C-P-S: ''
+      C-O: ''
+      I-P: P
+      M-SC: P
+      M-M: P
+      M-H: P
+      W-1: ''
+      Special Provisions: ''
+    Petroleum and Bulk Fuel Storage, above ground:
+      C-1/C-P: ''
+      C-P-S: ''
+      C-O: ''
+      I-P: ''
+      M-SC: C
+      M-M: C
+      M-H: C
+      W-1: ''
+      Special Provisions: ''
+    Printers or Publishers:
+      C-1/C-P: P
+      C-P-S: P
+      C-O: ''
+      I-P: P
+      M-SC: P
+      M-M: P
+      M-H: P
+      W-1: ''
+      Special Provisions: ''
+    Professional Offices:
+      C-1/C-P: P
+      C-P-S: P
+      C-O: P
+      I-P: P
+      M-SC: P
+      M-M: P
+      M-H: P
+      W-1: ''
+      Special Provisions: ''
+    Sale, Rental, Repair, or Demonstration of Motorcycles, Scooters, and Motorbikes:
+      C-1/C-P: C
+      C-P-S: C
+      C-O: ''
+      I-P: P
+      M-SC: ''
+      M-M: ''
+      M-H: ''
+      W-1: ''
+      Special Provisions: ''
+    Sex-oriented Businesses:
+      C-1/C-P: Subject to the provisions of the Eastvale Municipal Code
+      C-P-S: Subject to the provisions of the Eastvale Municipal Code
+      C-O: Subject to the provisions of the Eastvale Municipal Code
+      I-P: Subject to the provisions of the Eastvale Municipal Code
+      M-SC: Subject to the provisions of the Eastvale Municipal Code
+      M-M: Subject to the provisions of the Eastvale Municipal Code
+      M-H: Subject to the provisions of the Eastvale Municipal Code
+      W-1: Subject to the provisions of the Eastvale Municipal Code
+      Special Provisions: Subject to the provisions of the Eastvale Municipal Code
+    Stations, Bus, Railroad and Taxi:
+      C-1/C-P: P
+      C-P-S: P
+      C-O: ''
+      I-P: ''
+      M-SC: ''
+      M-M: ''
+      M-H: ''
+      W-1: ''
+      Special Provisions: ''
+    Tire Recapping:
+      C-1/C-P: ''
+      C-P-S: ''
+      C-O: ''
+      I-P: ''
+      M-SC: ''
+      M-M: ''
+      M-H: P
+      W-1: ''
+      Special Provisions: ''
+    Tire Sales and Service, not including recapping:
+      C-1/C-P: P
+      C-P-S: C
+      C-O: ''
+      I-P: P
+      M-SC: ''
+      M-M: ''
+      M-H: ''
+      W-1: ''
+      Special Provisions: ''
+    Trailer and Boat Storage:
+      C-1/C-P: P
+      C-P-S: ''
+      C-O: ''
+      I-P: ''
+      M-SC: ''
+      M-M: ''
+      M-H: ''
+      W-1: ''
+      Special Provisions: ''
+    Travel Trailers and Recreational Vehicle Sales and Service:
+      C-1/C-P: ''
+      C-P-S: C
+      C-O: ''
+      I-P: ''
+      M-SC: ''
+      M-M: ''
+      M-H: ''
+      W-1: ''
+      Special Provisions: ''
+    Truck and Trailer Sales, Rental, and Storage:
+      C-1/C-P: ''
+      C-P-S: ''
+      C-O: ''
+      I-P: C
+      M-SC: C
+      M-M: C
+      M-H: C
+      W-1: ''
+      Special Provisions: ''
+    Truck Service:
+      C-1/C-P: C
+      C-P-S: C
+      C-O: ''
+      I-P: ''
+      M-SC: P
+      M-M: P
+      M-H: P
+      W-1: ''
+      Special Provisions: ''
+  Public and quasi-public uses:
+    Airports:
+      C-1/C-P: ''
+      C-P-S: ''
+      C-O: ''
+      I-P: C
+      M-SC: C
+      M-M: C
+      M-H: C
+      W-1: ''
+      Special Provisions: ''
+    Ambulance Services:
+      C-1/C-P: C
+      C-P-S: C
+      C-O: ''
+      I-P: P
+      M-SC: P
+      M-M: P
+      M-H: P
+      W-1: ''
+      Special Provisions: ''
+    Cemeteries, Crematories and Mausoleums:
+      C-1/C-P: ''
+      C-P-S: ''
+      C-O: ''
+      I-P: ''
+      M-SC: C
+      M-M: C
+      M-H: ''
+      W-1: ''
+      Special Provisions: ''
+    Communications and Microwave Installations:
+      C-1/C-P: ''
+      C-P-S: ''
+      C-O: ''
+      I-P: ''
+      M-SC: P
+      M-M: P
+      M-H: P
+      W-1: ''
+      Special Provisions: Section 120.04.140
+    Fire and Police Stations:
+      C-1/C-P: ''
+      C-P-S: ''
+      C-O: ''
+      I-P: P
+      M-SC: P
+      M-M: P
+      M-H: P
+      W-1: ''
+      Special Provisions: ''
+    Hazardous Waste Facilities:
+      C-1/C-P: ''
+      C-P-S: ''
+      C-O: ''
+      I-P: ''
+      M-SC: ''
+      M-M: ''
+      M-H: C
+      W-1: ''
+      Special Provisions: ''
+    Heliports:
+      C-1/C-P: C
+      C-P-S: C
+      C-O: ''
+      I-P: C
+      M-SC: P
+      M-M: P
+      M-H: P
+      W-1: ''
+      Special Provisions: ''
+    Hospitals:
+      C-1/C-P: C
+      C-P-S: C
+      C-O: ''
+      I-P: ''
+      M-SC: ''
+      M-M: ''
+      M-H: ''
+      W-1: ''
+      Special Provisions: ''
+    Mortuaries:
+      C-1/C-P: P
+      C-P-S: C
+      C-O: ''
+      I-P: ''
+      M-SC: ''
+      M-M: ''
+      M-H: ''
+      W-1: ''
+      Special Provisions: ''
+    Public utility substations and storage yards:
+      C-1/C-P: ''
+      C-P-S: ''
+      C-O: ''
+      I-P: P
+      M-SC: P
+      M-M: P
+      M-H: P
+      W-1: ''
+      Special Provisions: ''
+    Sewage treatment plants:
+      C-1/C-P: ''
+      C-P-S: ''
+      C-O: ''
+      I-P: ''
+      M-SC: ''
+      M-M: C
+      M-H: C
+      W-1: ''
+      Special Provisions: ''
+  Recreation, education, and public assembly uses:
+    Art gallery, library, reading room, museum:
+      C-1/C-P: P
+      C-P-S: P
+      C-O: P
+      I-P: ''
+      M-SC: ''
+      M-M: ''
+      M-H: ''
+      W-1: ''
+      Special Provisions: ''
+    'Indoor amusement/entertainment facility: establishments providing indoor amusement and entertainment services as primary uses for a fee or admission charge, including dance halls and ballrooms and electronic game arcades. Establishments with four or more electronic games or coin-operated amusements, or where 50 percent or more of the floor area is occupied by amusement devices, are considered an electronic game arcade as described in this category; three or fewer machines are not considered a land use separate from the primary use of the site':
+      C-1/C-P: P
+      C-P-S: P
+      C-O: ''
+      I-P: ''
+      M-SC: ''
+      M-M: ''
+      M-H: ''
+      W-1: ''
+      Special Provisions: ''
+    'Indoor fitness and sports facility: predominantly participant sports and health activities conducted entirely within an enclosed building. Typical uses include bowling alleys, billiard parlors, ice/roller skating rinks, indoor racquetball courts, indoor climbing facilities, soccer areas, athletic clubs and health clubs':
+      C-1/C-P: C
+      C-P-S: C
+      C-O: C
+      I-P: P
+      M-SC: P
+      M-M: P
+      M-H: P
+      W-1: ''
+      Special Provisions: ''
+    'Outdoor commercial recreation: facility for various outdoor participant sports and types of recreation where a fee is charged for use (e.g., amphitheaters, amusement and theme parks, golf driving ranges, health and athletic clubs with outdoor facilities, miniature golf courses, skateboard parks, stadiums and coliseums, swim and tennis clubs, water slides, zoos)':
+      C-1/C-P: C
+      C-P-S: C
+      C-O: ''
+      I-P: ''
+      M-SC: ''
+      M-M: ''
+      M-H: ''
+      W-1: C
+      Special Provisions: ''
+    Public or private recreation, including parks:
+      C-1/C-P: ''
+      C-P-S: ''
+      C-O: ''
+      I-P: ''
+      M-SC: ''
+      M-M: ''
+      M-H: ''
+      W-1: C
+      Special Provisions: ''
+    Recreational vehicle parks:
+      C-1/C-P: ''
+      C-P-S: ''
+      C-O: ''
+      I-P: ''
+      M-SC: ''
+      M-M: ''
+      M-H: ''
+      W-1: C
+      Special Provisions: ''
+    Hunting clubs, skeet, trap, rifle and pistol ranges:
+      C-1/C-P: ''
+      C-P-S: ''
+      C-O: ''
+      I-P: ''
+      M-SC: ''
+      M-M: ''
+      M-H: ''
+      W-1: C
+      Special Provisions: ''
+  Industrial, manufacturing and processing uses:
+    Abattoirs:
+      C-1/C-P: ''
+      C-P-S: ''
+      C-O: ''
+      I-P: ''
+      M-SC: ''
+      M-M: C
+      M-H: C
+      W-1: ''
+      Special Provisions: ''
+    Acid and abrasives manufacturing:
+      C-1/C-P: ''
+      C-P-S: ''
+      C-O: ''
+      I-P: ''
+      M-SC: C
+      M-M: C
+      M-H: C
+      W-1: ''
+      Special Provisions: ''
+    Auto wrecking and junkyards:
+      C-1/C-P: ''
+      C-P-S: ''
+      C-O: ''
+      I-P: ''
+      M-SC: ''
+      M-M: C
+      M-H: C
+      W-1: ''
+      Special Provisions: ''
+    Blast furnaces:
+      C-1/C-P: ''
+      C-P-S: ''
+      C-O: ''
+      I-P: ''
+      M-SC: ''
+      M-M: ''
+      M-H: C
+      W-1: ''
+      Special Provisions: ''
+    Breweries, distilleries and wineries:
+      C-1/C-P: ''
+      C-P-S: ''
+      C-O: ''
+      I-P: ''
+      M-SC: C
+      M-M: P
+      M-H: P
+      W-1: ''
+      Special Provisions: ''
+    Casting metals:
+      C-1/C-P: ''
+      C-P-S: ''
+      C-O: ''
+      I-P: ''
+      M-SC: ''
+      M-M: ''
+      M-H: C
+      W-1: ''
+      Special Provisions: ''
+    Cold storage plant:
+      C-1/C-P: ''
+      C-P-S: ''
+      C-O: ''
+      I-P: ''
+      M-SC: P
+      M-M: P
+      M-H: P
+      W-1: ''
+      Special Provisions: ''
+    Communications and microwave installations:
+      C-1/C-P: ''
+      C-P-S: ''
+      C-O: ''
+      I-P: P
+      M-SC: P
+      M-M: P
+      M-H: P
+      W-1: ''
+      Special Provisions: Section 120.04.140
+    Concrete batch plants and asphalt plants:
+      C-1/C-P: ''
+      C-P-S: ''
+      C-O: ''
+      I-P: ''
+      M-SC: C
+      M-M: C
+      M-H: C
+      W-1: ''
+      Special Provisions: ''
+    Contractor storage yards:
+      C-1/C-P: ''
+      C-P-S: ''
+      C-O: ''
+      I-P: ''
+      M-SC: P
+      M-M: P
+      M-H: P
+      W-1: ''
+      Special Provisions: ''
+    Disposal service operations:
+      C-1/C-P: ''
+      C-P-S: ''
+      C-O: ''
+      I-P: ''
+      M-SC: ''
+      M-M: C
+      M-H: C
+      W-1: ''
+      Special Provisions: ''
+    Disposal service operations, not including transfer stations:
+      C-1/C-P: ''
+      C-P-S: ''
+      C-O: ''
+      I-P: ''
+      M-SC: C
+      M-M: ''
+      M-H: ''
+      W-1: ''
+      Special Provisions: ''
+    Fertilizer production and processing organic or inorganic:
+      C-1/C-P: ''
+      C-P-S: ''
+      C-O: ''
+      I-P: ''
+      M-SC: C
+      M-M: C
+      M-H: C
+      W-1: ''
+      Special Provisions: Section 120.04.060
+    Field, tree and bush crops; flower and herb gardening:
+      C-1/C-P: ''
+      C-P-S: ''
+      C-O: ''
+      I-P: ''
+      M-SC: ''
+      M-M: ''
+      M-H: ''
+      W-1: P
+      Special Provisions: ''
+    Hauling, freighting and trucking operations:
+      C-1/C-P: ''
+      C-P-S: ''
+      C-O: ''
+      I-P: ''
+      M-SC: C
+      M-M: P
+      M-H: P
+      W-1: ''
+      Special Provisions: ''
+    Industrial and manufacturing uses:
+      C-1/C-P: ''
+      C-P-S: ''
+      C-O: ''
+      I-P: P
+      M-SC: P
+      M-M: P
+      M-H: P
+      W-1: ''
+      Special Provisions: ''
+    'Manufacturing, limited: limited manufacturing, fabricating, processing, packaging, treating, and incidental storage related thereto, provided any such activity shall be in the same line of merchandise or service as the trade or service business conducted on the premises':
+      C-1/C-P: ''
+      C-P-S: ''
+      C-O: ''
+      I-P: P
+      M-SC: P
+      M-M: P
+      M-H: P
+      W-1: ''
+      Special Provisions: ''
+    'Manufacturing, minor: manufacturing, fabrication, processing and assembly of materials from parts that are already in processed form and that, in their maintenance, assembly, manufacture or plant operation, do not create excessive amounts of smoke, gas, odor, dust, sound or other objectionable influences that might be obnoxious to persons conducting business on-site or on an adjacent site. Uses include but are not limited to furniture manufacturing and cabinet shops, laundry and dry cleaning plants, metal products fabrication, and food and beverage manufacturing':
+      C-1/C-P: ''
+      C-P-S: ''
+      C-O: ''
+      I-P: C
+      M-SC: P
+      M-M: P
+      M-H: P
+      W-1: ''
+      Special Provisions: ''
+    'Manufacturing, major: manufacturing, fabrication, processing and assembly of materials in a raw form. Uses in this category typically create greater than usual amounts of smoke, gas, odor, dust, sound or other objectionable influences that might be obnoxious to persons conducting business on-site or on an adjacent site. Uses include but are not limited to batch plants, rendering plants, aggregate processing facilities, plastics and rubber products manufacturing':
+      C-1/C-P: ''
+      C-P-S: ''
+      C-O: ''
+      I-P: ''
+      M-SC: C
+      M-M: P
+      M-H: P
+      W-1: ''
+      Special Provisions: ''
+    Meat and poultry products, not including meat packing or slaughtering:
+      C-1/C-P: ''
+      C-P-S: ''
+      C-O: ''
+      I-P: ''
+      M-SC: P
+      M-M: P
+      M-H: P
+      W-1: ''
+      Special Provisions: ''
+    Meat packing plants:
+      C-1/C-P: ''
+      C-P-S: ''
+      C-O: ''
+      I-P: ''
+      M-SC: C
+      M-M: ''
+      M-H: ''
+      W-1: ''
+      Special Provisions: ''
+    Paints and varnishes:
+      C-1/C-P: ''
+      C-P-S: ''
+      C-O: ''
+      I-P: ''
+      M-SC: ''
+      M-M: ''
+      M-H: P
+      W-1: ''
+      Special Provisions: ''
+    Paints and varnishes manufacturing and incidental storage:
+      C-1/C-P: ''
+      C-P-S: ''
+      C-O: ''
+      I-P: ''
+      M-SC: C
+      M-M: C
+      M-H: ''
+      W-1: ''
+      Special Provisions: ''
+    Paper storage and recycling, not within a building:
+      C-1/C-P: ''
+      C-P-S: ''
+      C-O: ''
+      I-P: ''
+      M-SC: C
+      M-M: C
+      M-H: C
+      W-1: ''
+      Special Provisions: Section 120.04.110
+    Poultry and egg processing:
+      C-1/C-P: ''
+      C-P-S: ''
+      C-O: ''
+      I-P: ''
+      M-SC: C
+      M-M: C
+      M-H: C
+      W-1: ''
+      Special Provisions: ''
+    Railroad yards and stations:
+      C-1/C-P: ''
+      C-P-S: ''
+      C-O: ''
+      I-P: ''
+      M-SC: P
+      M-M: P
+      M-H: P
+      W-1: ''
+      Special Provisions: ''
+    Recycling collection facilities:
+      C-1/C-P: P
+      C-P-S: P
+      C-O: ''
+      I-P: P
+      M-SC: P
+      M-M: P
+      M-H: P
+      W-1: ''
+      Special Provisions: Section 120.04.110
+    Recycling of wood, metal, construction wastes and other materials:
+      C-1/C-P: ''
+      C-P-S: ''
+      C-O: ''
+      I-P: C
+      M-SC: C
+      M-M: C
+      M-H: P
+      W-1: ''
+      Special Provisions: Section 120.04.110
+    Sand blasting:
+      C-1/C-P: ''
+      C-P-S: ''
+      C-O: ''
+      I-P: ''
+      M-SC: ''
+      M-M: C
+      M-H: C
+      W-1: ''
+      Special Provisions: ''
+    Smelting metal and foundries:
+      C-1/C-P: ''
+      C-P-S: ''
+      C-O: ''
+      I-P: ''
+      M-SC: ''
+      M-M: C
+      M-H: C
+      W-1: ''
+      Special Provisions: ''
+    Trailer and boat storage, outdoor:
+      C-1/C-P: ''
+      C-P-S: ''
+      C-O: ''
+      I-P: ''
+      M-SC: C
+      M-M: C
+      M-H: C
+      W-1: ''
+      Special Provisions: ''
+    Trailer, recreational vehicle and boat storage within an enclosed building:
+      C-1/C-P: ''
+      C-P-S: ''
+      C-O: ''
+      I-P: P
+      M-SC: P
+      M-M: P
+      M-H: P
+      W-1: ''
+      Special Provisions: ''
+    Vehicle storage and impoundment within an enclosed building:
+      C-1/C-P: ''
+      C-P-S: ''
+      C-O: ''
+      I-P: P
+      M-SC: P
+      M-M: P
+      M-H: P
+      W-1: ''
+      Special Provisions: ''
+    Vehicle storage and impoundment, outdoor:
+      C-1/C-P: ''
+      C-P-S: ''
+      C-O: ''
+      I-P: ''
+      M-SC: C
+      M-M: C
+      M-H: C
+      W-1: ''
+      Special Provisions: ''
+    Vehicles, aircraft, boats and parts manufacture:
+      C-1/C-P: ''
+      C-P-S: ''
+      C-O: ''
+      I-P: ''
+      M-SC: P
+      M-M: P
+      M-H: P
+      W-1: ''
+      Special Provisions: ''
+    Warehousing and distribution:
+      C-1/C-P: ''
+      C-P-S: ''
+      C-O: ''
+      I-P: ''
+      M-SC: P
+      M-M: P
+      M-H: P
+      W-1: ''
+      Special Provisions: ''
+    Warehousing and distribution, including mini-storage facilities:
+      C-1/C-P: ''
+      C-P-S: ''
+      C-O: ''
+      I-P: P
+      M-SC: P
+      M-M: P
+      M-H: P
+      W-1: ''
+      Special Provisions: Section 120.04.120
+  Agricultural uses:
+    Agricultural uses of the soils for crops:
+      C-1/C-P: ''
+      C-P-S: ''
+      C-O: ''
+      I-P: ''
+      M-SC: P
+      M-M: P
+      M-H: P
+      W-1: ''
+      Special Provisions: ''
+    Grazing G:
+      C-1/C-P: ''
+      C-P-S: ''
+      C-O: ''
+      I-P: ''
+      M-SC: ''
+      M-M: ''
+      M-H: ''
+      W-1: P
+      Special Provisions: ''
+    Kennel and cattery, class I G:
+      C-1/C-P: ''
+      C-P-S: ''
+      C-O: ''
+      I-P: ''
+      M-SC: P
+      M-M: P
+      M-H: P
+      W-1: ''
+      Special Provisions: Section 120.04.070
+    Kennel and cattery, class II G:
+      C-1/C-P: ''
+      C-P-S: ''
+      C-O: ''
+      I-P: ''
+      M-SC: P
+      M-M: P
+      M-H: P
+      W-1: ''
+      Special Provisions: ''
+    Kennel and cattery, class III G:
+      C-1/C-P: ''
+      C-P-S: ''
+      C-O: ''
+      I-P: ''
+      M-SC: P
+      M-M: P
+      M-H: P
+      W-1: ''
+      Special Provisions: ''
+    Kennel and cattery, class IV G:
+      C-1/C-P: ''
+      C-P-S: ''
+      C-O: ''
+      I-P: ''
+      M-SC: C
+      M-M: C
+      M-H: C
+      W-1: ''
+      Special Provisions: ''
+    Residential uses:
+      C-1/C-P: ''
+      C-P-S: ''
+      C-O: ''
+      I-P: ''
+      M-SC: ''
+      M-M: ''
+      M-H: ''
+      W-1: ''
+      Special Provisions: ''
+    Caretaker's unit G:
+      C-1/C-P: P
+      C-P-S: P
+      C-O: ''
+      I-P: P
+      M-SC: P
+      M-M: P
+      M-H: P
+      W-1: ''
+      Special Provisions: ''
+    Congregate care residential facilities (7 or more persons):
+      C-1/C-P: C
+      C-P-S: ''
+      C-O: ''
+      I-P: ''
+      M-SC: ''
+      M-M: ''
+      M-H: ''
+      W-1: ''
+      Special Provisions: Section 120.04.030
+    Emergency shelters:
+      C-1/C-P: ''
+      C-P-S: ''
+      C-O: ''
+      I-P: P
+      M-SC: ''
+      M-M: ''
+      M-H: ''
+      W-1: ''
+      Special Provisions: ''
+    Mobilehomes:
+      C-1/C-P: P
+      C-P-S: P
+      C-O: ''
+      I-P: P
+      M-SC: P
+      M-M: P
+      M-H: P
+      W-1: ''
+      Special Provisions: Section 120.04.020
+    Single-room occupancy units:
+      C-1/C-P: C
+      C-P-S: ''
+      C-O: ''
+      I-P: ''
+      M-SC: ''
+      M-M: ''
+      M-H: ''
+      W-1: ''
+      Special Provisions: ''

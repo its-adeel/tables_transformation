@@ -1,0 +1,440 @@
+TABLE 24-13-1 PERMITTED LAND USES IN THE AGRICULTURE ZONES [1] [2]:
+  Key P Permitted use, subject to Zoning Clearance A Administrative Permit required M Minor Use Permit required C Conditional Use Permit required - Use not allowed:
+    Agricultural Uses:
+      Agricultural Processing:
+        Zone > AG: P
+        Zone > AS: P
+        Applicable Regulations: ''
+      Animal Grazing:
+        Zone > AG: P
+        Zone > AS: P
+        Applicable Regulations: ''
+      Animal Processing:
+        Zone > AG: C
+        Zone > AS: C
+        Applicable Regulations: ''
+      Animal Processing, Custom:
+        Zone > AG: P
+        Zone > AS: P
+        Applicable Regulations: ''
+      Crop Cultivation:
+        Zone > AG: P
+        Zone > AS: P
+        Applicable Regulations: ''
+      Feed Store:
+        Zone > AG: C
+        Zone > AS: P
+        Applicable Regulations: ''
+      Intensive Animal Operations:
+        Zone > AG: C
+        Zone > AS: C
+        Applicable Regulations: ''
+      Stables, Commercial:
+        Zone > AG: C
+        Zone > AS: C
+        Applicable Regulations: ''
+      Stables, Private:
+        Zone > AG: P [3]
+        Zone > AS: P [3]
+        Applicable Regulations: ''
+      Stables, Semiprivate:
+        Zone > AG: P [3]
+        Zone > AS: P [3]
+        Applicable Regulations: ''
+    Natural Resource Uses:
+      Forestry and Logging:
+        Zone > AG: P
+        Zone > AS: '-'
+        Applicable Regulations: ''
+      Mining and Surface Mining Operations:
+        Zone > AG: C
+        Zone > AS: C
+        Applicable Regulations: Chapter 33B Butte County Code
+      Oil and Gas Extraction, including reinjection wells for natural gas:
+        Zone > AG: C
+        Zone > AS: C
+        Applicable Regulations: ''
+      Oil and Gas Extraction, storage or disposal of Well Stimulation Byproducts:
+        Zone > AG: '-'
+        Zone > AS: '-'
+        Applicable Regulations: Section 24-167.1
+      Oil and Gas Extraction by means of Hydraulic Fracturing:
+        Zone > AG: '-'
+        Zone > AS: '-'
+        Applicable Regulations: Butte County Code 33B
+      Timber Processing:
+        Zone > AG: '-'
+        Zone > AS: '-'
+        Applicable Regulations: ''
+    Residential Uses:
+      Accessory Dwelling Units:
+        Zone > AG: P [4]
+        Zone > AS: '-'
+        Applicable Regulations: Section 24-172
+      Agricultural Worker Housing Center:
+        Zone > AG: A[3]
+        Zone > AS: '-'
+        Applicable Regulations: Section 24-14 (G)
+      Caretaker Quarters:
+        Zone > AG: '-'
+        Zone > AS: A [3]
+        Applicable Regulations: ''
+      Duplex Home:
+        Zone > AG: '-'
+        Zone > AS: '-'
+        Applicable Regulations: ''
+      Home Occupations - Major:
+        Zone > AG: M
+        Zone > AS: '-'
+        Applicable Regulations: Section 24-162
+      Home Occupations - Minor:
+        Zone > AG: A
+        Zone > AS: '-'
+        Applicable Regulations: Section 24-162
+      Live/Work Unit:
+        Zone > AG: '-'
+        Zone > AS: '-'
+        Applicable Regulations: ''
+      Mobile Home Park:
+        Zone > AG: '-'
+        Zone > AS: '-'
+        Applicable Regulations: ''
+      Multiple-Family Dwelling:
+        Zone > AG: '-'
+        Zone > AS: '-'
+        Applicable Regulations: ''
+      Residential Care Homes, Large:
+        Zone > AG: '-'
+        Zone > AS: '-'
+        Applicable Regulations: ''
+      Residential Care Homes, Small:
+        Zone > AG: P
+        Zone > AS: '-'
+        Applicable Regulations: ''
+      Single-Family Home:
+        Zone > AG: P [4]
+        Zone > AS: '-'
+        Applicable Regulations: ''
+      Short-Term Rental:
+        Zone > AG: A
+        Zone > AS: '-'
+        Applicable Regulations: Section 24-172.1
+    Community Uses:
+      Cemeteries, Private:
+        Zone > AG: '-'
+        Zone > AS: '-'
+        Applicable Regulations: ''
+      Cemeteries, Public:
+        Zone > AG: '-'
+        Zone > AS: '-'
+        Applicable Regulations: ''
+      Child Care Center:
+        Zone > AG: '-'
+        Zone > AS: '-'
+        Applicable Regulations: ''
+      Clubs, Lodges and Private Meeting Halls:
+        Zone > AG: M [5]
+        Zone > AS: M [5]
+        Applicable Regulations: ''
+      Community Centers:
+        Zone > AG: '-'
+        Zone > AS: '-'
+        Applicable Regulations: ''
+      Correctional Institutions and Facilities:
+        Zone > AG: '-'
+        Zone > AS: '-'
+        Applicable Regulations: ''
+      Cultural Institutions:
+        Zone > AG: C
+        Zone > AS: '-'
+        Applicable Regulations: ''
+      Emergency Shelter:
+        Zone > AG: '-'
+        Zone > AS: '-'
+        Applicable Regulations: ''
+      Golf Courses and Country Clubs:
+        Zone > AG: '-'
+        Zone > AS: '-'
+        Applicable Regulations: ''
+      Family Daycare Home, Large:
+        Zone > AG: P
+        Zone > AS: '-'
+        Applicable Regulations: Section 24-159
+      Family Daycare Home, Small:
+        Zone > AG: P
+        Zone > AS: '-'
+        Applicable Regulations: Section 24-159
+      Hospital:
+        Zone > AG: '-'
+        Zone > AS: '-'
+        Applicable Regulations: ''
+      Office, Governmental:
+        Zone > AG: '-'
+        Zone > AS: '-'
+        Applicable Regulations: ''
+      Outdoor Education:
+        Zone > AG: P
+        Zone > AS: '-'
+        Applicable Regulations: ''
+      Parks and Recreational Facilities:
+        Zone > AG: C
+        Zone > AS: C
+        Applicable Regulations: ''
+      Public Safety Facilities:
+        Zone > AG: C
+        Zone > AS: C
+        Applicable Regulations: ''
+      Religious Facilities:
+        Zone > AG: C
+        Zone > AS: C
+        Applicable Regulations: ''
+      Schools, Public and Private:
+        Zone > AG: '-'
+        Zone > AS: '-'
+        Applicable Regulations: ''
+      Water Ski Lakes:
+        Zone > AG: '-'
+        Zone > AS: '-'
+        Applicable Regulations: ''
+    Commercial Uses:
+      Adult Businesses:
+        Zone > AG: '-'
+        Zone > AS: '-'
+        Applicable Regulations: ''
+      Agricultural Product Sales, Off-Site:
+        Zone > AG: M
+        Zone > AS: M
+        Applicable Regulations: ''
+      Agricultural Product Sales, On-Site:
+        Zone > AG: P
+        Zone > AS: P
+        Applicable Regulations: ''
+      Agricultural Support Services, General:
+        Zone > AG: '-'
+        Zone > AS: C
+        Applicable Regulations: ''
+      Agricultural Support Services, Light:
+        Zone > AG: '-'
+        Zone > AS: P
+        Applicable Regulations: ''
+      Animal Services:
+        Zone > AG: C [7]
+        Zone > AS: C
+        Applicable Regulations: Section 24-158
+      Animal Processing, Limited:
+        Zone > AG: '-'
+        Zone > AS: '-'
+        Applicable Regulations: ''
+      Assessment Facility:
+        Zone > AG: '-'
+        Zone > AS: '-'
+        Applicable Regulations: ''
+      Bars, Nightclubs and Lounges:
+        Zone > AG: '-'
+        Zone > AS: '-'
+        Applicable Regulations: ''
+      Bed and Breakfast:
+        Zone > AG: M
+        Zone > AS: '-'
+        Applicable Regulations: ''
+      Commercial Recreation, Indoor:
+        Zone > AG: '-'
+        Zone > AS: '-'
+        Applicable Regulations: ''
+      Commercial Recreation, Outdoor:
+        Zone > AG: '-'
+        Zone > AS: '-'
+        Applicable Regulations: ''
+      Construction, Maintenance and Repair Services:
+        Zone > AG: '-'
+        Zone > AS: '-'
+        Applicable Regulations: ''
+      Drive-through Facility:
+        Zone > AG: '-'
+        Zone > AS: '-'
+        Applicable Regulations: ''
+      Equipment Sales and Rental:
+        Zone > AG: '-'
+        Zone > AS: '-'
+        Applicable Regulations: ''
+      Firewood Storage, Processing and Off-Site Sales, Small:
+        Zone > AG: P
+        Zone > AS: P
+        Applicable Regulations: ''
+      Firewood Storage, Processing and Off-Site Sales, Medium:
+        Zone > AG: M
+        Zone > AS: M
+        Applicable Regulations: ''
+      Firewood Storage, Processing and Off-Site/On-Site Sales, Large:
+        Zone > AG: C
+        Zone > AS: C
+        Applicable Regulations: ''
+      Gas and Service Stations:
+        Zone > AG: '-'
+        Zone > AS: '-'
+        Applicable Regulations: ''
+      Heavy Equipment Storage:
+        Zone > AG: P
+        Zone > AS: P
+        Applicable Regulations: Section 24-173
+      Hotel and Motel:
+        Zone > AG: '-'
+        Zone > AS: '-'
+        Applicable Regulations: ''
+      Hunting and Fishing Clubs:
+        Zone > AG: P [7]
+        Zone > AS: '-'
+        Applicable Regulations: ''
+      Medical Offices and Clinics:
+        Zone > AG: '-'
+        Zone > AS: '-'
+        Applicable Regulations: ''
+      Offices, Professional:
+        Zone > AG: '-'
+        Zone > AS: '-'
+        Applicable Regulations: ''
+      Nursery, Retail:
+        Zone > AG: '-'
+        Zone > AS: '-'
+        Applicable Regulations: ''
+      Nursery, Wholesale:
+        Zone > AG: P
+        Zone > AS: P
+        Applicable Regulations: ''
+      Personal Services:
+        Zone > AG: '-'
+        Zone > AS: '-'
+        Applicable Regulations: ''
+      Personal Services, Restricted:
+        Zone > AG: '-'
+        Zone > AS: '-'
+        Applicable Regulations: ''
+      Public/Mini-Storage:
+        Zone > AG: '-'
+        Zone > AS: '-'
+        Applicable Regulations: ''
+      Recreational Vehicle Parks:
+        Zone > AG: A [7]
+        Zone > AS: A [7]
+        Applicable Regulations: ''
+      Restaurant:
+        Zone > AG: '-'
+        Zone > AS: '-'
+        Applicable Regulations: ''
+      Retail, General:
+        Zone > AG: '-'
+        Zone > AS: '-'
+        Applicable Regulations: ''
+      Retail, Large Projects:
+        Zone > AG: '-'
+        Zone > AS: '-'
+        Applicable Regulations: Section 24-163
+      Retail, Restricted:
+        Zone > AG: '-'
+        Zone > AS: '-'
+        Applicable Regulations: ''
+      Vehicle Repair:
+        Zone > AG: '-'
+        Zone > AS: '-'
+        Applicable Regulations: ''
+      Vehicle Sales and Rental:
+        Zone > AG: '-'
+        Zone > AS: '-'
+        Applicable Regulations: ''
+      Vehicle Service and Maintenance:
+        Zone > AG: '-'
+        Zone > AS: '-'
+        Applicable Regulations: ''
+      Wine, Olive Oil, Fruit and Nut, Micro-Brewery and Micro-Distillery Facilities:
+        Zone > AG: Section 24-175
+        Zone > AS: ''
+        Applicable Regulations: ''
+    Industrial Uses:
+      Composting Facilities:
+        Zone > AG: M
+        Zone > AS: M
+        Applicable Regulations: ''
+      Manufacturing, General:
+        Zone > AG: '-'
+        Zone > AS: '- [6]'
+        Applicable Regulations: ''
+      Manufacturing, Heavy:
+        Zone > AG: '-'
+        Zone > AS: '- [6]'
+        Applicable Regulations: ''
+      Manufacturing, Light:
+        Zone > AG: '-'
+        Zone > AS: '- [6]'
+        Applicable Regulations: ''
+      Research and Development:
+        Zone > AG: '-'
+        Zone > AS: '-'
+        Applicable Regulations: ''
+      Warehousing, Wholesaling and Distribution:
+        Zone > AG: '-'
+        Zone > AS: '-'
+        Applicable Regulations: Transportation, Communication, and Utility Uses
+      Aerial Applicator and Support Services:
+        Zone > AG: M
+        Zone > AS: C
+        Applicable Regulations: ''
+      Airport-Related Uses:
+        Zone > AG: '-'
+        Zone > AS: '-'
+        Applicable Regulations: ''
+      Farm Airstrips:
+        Zone > AG: P
+        Zone > AS: P
+        Applicable Regulations: ''
+      Freight and Truck Terminals and Yards:
+        Zone > AG: '-'
+        Zone > AS: '-'
+        Applicable Regulations: ''
+      Recycling Collection Facility, Large:
+        Zone > AG: '-'
+        Zone > AS: '-'
+        Applicable Regulations: ''
+      Recycling Collection Facility, Small:
+        Zone > AG: A
+        Zone > AS: A
+        Applicable Regulations: Section 24-170
+      Recycling Processing Facility, Heavy:
+        Zone > AG: '-'
+        Zone > AS: '-'
+        Applicable Regulations: Section 24-170
+      Recycling Processing Facility, Light:
+        Zone > AG: '-'
+        Zone > AS: A
+        Applicable Regulations: Section 24-170
+      Reverse Vending Machine:
+        Zone > AG: A
+        Zone > AS: A
+        Applicable Regulations: Section 24-170
+      Runways and Heliports:
+        Zone > AG: M [3]
+        Zone > AS: M [3]
+        Applicable Regulations: ''
+      Telecommunications Facilities:
+        Zone > AG: Article 26
+        Zone > AS: ''
+        Applicable Regulations: ''
+      Utilities, Major:
+        Zone > AG: C [8]
+        Zone > AS: C [8]
+        Applicable Regulations: Section 24-157
+      Utilities, Intermediate:
+        Zone > AG: M [8]
+        Zone > AS: M [8]
+        Applicable Regulations: Section 24-157
+      Utilities, Accessory:
+        Zone > AG: A
+        Zone > AS: A
+        Applicable Regulations: Section 24-157
+      Utilities, Minor:
+        Zone > AG: P
+        Zone > AS: P
+        Applicable Regulations: Section 24-157
+    Other Uses:
+      Accessory Uses and Structures:
+        Zone: Section 24-156
+        Applicable Regulations: ''

@@ -1,0 +1,2931 @@
+<table class="thead5 table left makeExpandableTable makeFixedTable" cellpadding="3" cellspacing="0" border="1" rules="all" style="text-align: left;">
+                     <colgroup class="std">
+                        <col width="20.634920634920636%">
+                        <col width="4.761904761904762%">
+                        <col width="4.761904761904762%">
+                        <col width="4.761904761904762%">
+                        <col width="4.761904761904762%">
+                        <col width="4.761904761904762%">
+                        <col width="4.761904761904762%">
+                        <col width="4.761904761904762%">
+                        <col width="4.761904761904762%">
+                        <col width="4.761904761904762%">
+                        <col width="4.761904761904762%">
+                        <col width="31.746031746031747%">
+                     </colgroup>
+                     <thead><tr>
+                           <th style="background-color: LightGray; " colspan="12" class="hasbg top ">
+                              <a href="https://library.municode.com/mo/mexico/codes/code_of_ordinances?nodeId=COOR_CH42ZO_ARTIVDIDIREGE_S42-212PEUSTA" data-chunk-id="COOR_CH42ZO_ARTIVDIDIREGE_S42-212PEUSTA" class="section-link" data-product-id="11095" data-original-title="" title=""><span class="popoverPositioner"></span>SECTION 42-212</a> PERMITTED USE TABLE
+                              </th>
+                        </tr><tr>
+                           <th style="background-color: LightGray; " class="hasbg top ">
+                              P = Permitted Use
+                              </th>
+                           <th style="background-color: LightGray; " colspan="4" class="hasbg top ">
+                              C = Conditional Use
+                              </th>
+                           <th style="background-color: LightGray; " colspan="7" class="hasbg top ">
+                              A = Accessory Use
+                              </th>
+                        </tr><tr>
+                           <th style="background-color: LightGray; " rowspan="2" colspan="1" class="hasbg top ">
+                              Zoning District
+                              </th>
+                           <th style="background-color: LightGray; " colspan="4" class="hasbg top ">
+                              Residential
+                              </th>
+                           <th style="background-color: LightGray; " colspan="3" class="hasbg top ">
+                              Commercial
+                              </th>
+                           <th style="background-color: LightGray; " colspan="2" class="hasbg top ">
+                              Industrial
+                              </th>
+                           <th style="background-color: LightGray; " class="hasbg top ">
+                              Ag
+                              </th>
+                           <th style="background-color: LightGray; " rowspan="3" class="hasbg top ">
+                              Additional Comments
+                              </th>
+                        </tr><tr>
+                           <th style="background-color: LightGray; " class="hasbg top ">
+                              R-1
+                              </th>
+                           <th style="background-color: LightGray; " class="hasbg top ">
+                              R-2
+                              </th>
+                           <th style="background-color: LightGray; " class="hasbg top ">
+                              R-3A
+                              </th>
+                           <th style="background-color: LightGray; " class="hasbg top ">
+                              R-3B
+                              </th>
+                           <th style="background-color: LightGray; " class="hasbg top ">
+                              C-1
+                              </th>
+                           <th style="background-color: LightGray; " class="hasbg top ">
+                              C-2
+                              </th>
+                           <th style="background-color: LightGray; " class="hasbg top ">
+                              C-3
+                              </th>
+                           <th style="background-color: LightGray; " class="hasbg top ">
+                              I-1
+                              </th>
+                           <th style="background-color: LightGray; " class="hasbg top ">
+                              I-2
+                              </th>
+                           <th style="background-color: LightGray; " class="hasbg top ">
+                              A
+                              </th>
+                        </tr><tr>
+                           <th style="background-color: LightGray; " class="hasbg top ">
+                              Land Use Category
+                              </th>
+                           <th style="background-color: LightGray; " colspan="10" class="hasbg top "></th>
+                        </tr></thead><tbody>
+                        
+                        
+                        
+                        
+                        
+                        <tr>
+                           <td style="background-color: LightGray; " class="hasbg top ">
+                              <span class="bold">Residential Uses</span>
+                              </td>
+                           <td style="background-color: LightGray; " colspan="10" class="hasbg top "></td>
+                           <td style="background-color: LightGray; " class="hasbg top "></td>
+                        </tr>
+                        <tr>
+                           <td style="background-color: LightGray; " class="hasbg top ">
+                              Household Living
+                              </td>
+                           <td style="background-color: LightGray; " colspan="10" class="hasbg top "></td>
+                           <td style="background-color: LightGray; " class="hasbg top "></td>
+                        </tr>
+                        <tr>
+                           <td class=" top ">
+                              Single Family Dwelling
+                              </td>
+                           <td class=" top ">
+                              P
+                              </td>
+                           <td class=" top ">
+                              P
+                              </td>
+                           <td class=" top ">
+                              P
+                              </td>
+                           <td class=" top ">
+                              P
+                              </td>
+                           <td class=" top ">
+                              P
+                              </td>
+                           <td class=" top ">
+                              P
+                              </td>
+                           <td class=" top ">
+                              P
+                              </td>
+                           <td class=" top ">
+                              P
+                              </td>
+                           <td class=" top ">
+                              -
+                              </td>
+                           <td class=" top ">
+                              P*
+                              </td>
+                           <td class=" top ">
+                              *See 42.534 for Agriculture District regulations for detached dwellings. See 42-1
+                              (Definitions) for "Modular
+                              <br>
+                              Homes."
+                              </td>
+                        </tr>
+                        <tr>
+                           <td class=" top ">
+                              Two-Family Dwelling
+                              </td>
+                           <td class=" top ">
+                              -
+                              </td>
+                           <td class=" top ">
+                              P
+                              </td>
+                           <td class=" top ">
+                              P
+                              </td>
+                           <td class=" top ">
+                              P
+                              </td>
+                           <td class=" top ">
+                              P
+                              </td>
+                           <td class=" top ">
+                              P
+                              </td>
+                           <td class=" top ">
+                              P
+                              </td>
+                           <td class=" top ">
+                              P
+                              </td>
+                           <td class=" top ">
+                              -
+                              </td>
+                           <td class=" top ">
+                              -
+                              </td>
+                           <td class=" top "></td>
+                        </tr>
+                        <tr>
+                           <td class=" top ">
+                              Multiple-dwelling
+                              </td>
+                           <td class=" top ">
+                              -
+                              </td>
+                           <td class=" top ">
+                              -
+                              </td>
+                           <td class=" top ">
+                              P
+                              </td>
+                           <td class=" top ">
+                              P
+                              </td>
+                           <td class=" top ">
+                              P
+                              </td>
+                           <td class=" top ">
+                              P
+                              </td>
+                           <td class=" top ">
+                              P
+                              </td>
+                           <td class=" top ">
+                              P
+                              </td>
+                           <td class=" top "></td>
+                           <td class=" top "></td>
+                           <td class=" top "></td>
+                        </tr>
+                        <tr>
+                           <td class=" top ">
+                              Mobile Home
+                              </td>
+                           <td class=" top ">
+                              C
+                              </td>
+                           <td class=" top ">
+                              C
+                              </td>
+                           <td class=" top ">
+                              C
+                              </td>
+                           <td class=" top ">
+                              C
+                              </td>
+                           <td class=" top ">
+                              C
+                              </td>
+                           <td class=" top ">
+                              C
+                              </td>
+                           <td class=" top ">
+                              C
+                              </td>
+                           <td class=" top ">
+                              C
+                              </td>
+                           <td class=" top ">
+                              -
+                              </td>
+                           <td class=" top ">
+                              C
+                              </td>
+                           <td class=" top ">
+                              Conditional Use via permit from City Council per <a href="https://library.municode.com/mo/mexico/codes/code_of_ordinances?nodeId=COOR_CH42ZO_ARTXIADUSRE_S42-678ADBUUSAUUPPEOBGE" data-chunk-id="COOR_CH42ZO_ARTXIADUSRE_S42-678ADBUUSAUUPPEOBGE" class="section-link" data-product-id="11095"><span class="popoverPositioner"></span>42-678</a> and adhering to Article XIV of <a href="https://library.municode.com/mo/mexico/codes/code_of_ordinances?nodeId=COOR_CH42ZO" data-chunk-id="COOR_CH42ZO" class="section-link" data-product-id="11095"><span class="popoverPositioner"></span>Chapter 42</a> (MANUFACTURED AND MOBILE
+                              <br>
+                              HOME PARKS).
+                              </td>
+                        </tr>
+                        <tr>
+                           <td style="background-color: LightGray; " class="hasbg top ">
+                              Group Living
+                              </td>
+                           <td style="background-color: LightGray; " colspan="10" class="hasbg top "></td>
+                           <td style="background-color: LightGray; " class="hasbg top "></td>
+                        </tr>
+                        <tr>
+                           <td class=" top ">
+                              Rooming house, boardinghouse, apartment hotel, and tourist home
+                              </td>
+                           <td class=" top ">
+                              -
+                              </td>
+                           <td class=" top ">
+                              -
+                              </td>
+                           <td class=" top ">
+                              P
+                              </td>
+                           <td class=" top ">
+                              P
+                              </td>
+                           <td class=" top ">
+                              P
+                              </td>
+                           <td class=" top ">
+                              P
+                              </td>
+                           <td class=" top ">
+                              P
+                              </td>
+                           <td class=" top ">
+                              P
+                              </td>
+                           <td class=" top ">
+                              -
+                              </td>
+                           <td class=" top ">
+                              -
+                              </td>
+                           <td class=" top "></td>
+                        </tr>
+                        <tr>
+                           <td class=" top ">
+                              Private club, fraternity, sorority or lodge, excepting one the chief activity of which
+                              is a service customarily carried on as a business.
+                              </td>
+                           <td class=" top ">
+                              -
+                              </td>
+                           <td class=" top ">
+                              -
+                              </td>
+                           <td class=" top ">
+                              P
+                              </td>
+                           <td class=" top ">
+                              P
+                              </td>
+                           <td class=" top ">
+                              P
+                              </td>
+                           <td class=" top ">
+                              P
+                              </td>
+                           <td class=" top ">
+                              P
+                              </td>
+                           <td class=" top ">
+                              P
+                              </td>
+                           <td class=" top ">
+                              -
+                              </td>
+                           <td class=" top ">
+                              -
+                              </td>
+                           <td class=" top "></td>
+                        </tr>
+                        <tr>
+                           <td class=" top ">
+                              Nursing homes
+                              </td>
+                           <td class=" top ">
+                              C
+                              </td>
+                           <td class=" top ">
+                              C
+                              </td>
+                           <td class=" top ">
+                              C
+                              </td>
+                           <td class=" top ">
+                              P
+                              </td>
+                           <td class=" top ">
+                              P
+                              </td>
+                           <td class=" top ">
+                              P
+                              </td>
+                           <td class=" top ">
+                              P
+                              </td>
+                           <td class=" top ">
+                              P
+                              </td>
+                           <td class=" top ">
+                              -
+                              </td>
+                           <td class=" top ">
+                              C
+                              </td>
+                           <td class=" top ">
+                              See <a href="https://library.municode.com/mo/mexico/codes/code_of_ordinances?nodeId=COOR_CH42ZO_ARTIINGE_S42-1DE" data-chunk-id="COOR_CH42ZO_ARTIINGE_S42-1DE" class="section-link" data-product-id="11095"><span class="popoverPositioner"></span>42-1</a> (Definitions) for additional information.
+                              </td>
+                        </tr>
+                        <tr>
+                           <td style="background-color: LightGray; " class="hasbg top ">
+                              <span class="bold">Public and Institutional Uses</span>
+                              </td>
+                           <td style="background-color: LightGray; " colspan="10" class="hasbg top "></td>
+                           <td style="background-color: LightGray; " class="hasbg top "></td>
+                        </tr>
+                        <tr>
+                           <td class=" top ">
+                              Adult day care
+                              </td>
+                           <td class=" top ">
+                              -
+                              </td>
+                           <td class=" top ">
+                              -
+                              </td>
+                           <td class=" top ">
+                              -
+                              </td>
+                           <td class=" top ">
+                              -
+                              </td>
+                           <td class=" top ">
+                              P
+                              </td>
+                           <td class=" top ">
+                              P
+                              </td>
+                           <td class=" top ">
+                              P
+                              </td>
+                           <td class=" top ">
+                              P
+                              </td>
+                           <td class=" top ">
+                              -
+                              </td>
+                           <td class=" top ">
+                              -
+                              </td>
+                           <td class=" top "></td>
+                        </tr>
+                        <tr>
+                           <td style="background-color: LightGray; " class="hasbg top ">
+                              Community Service
+                              </td>
+                           <td style="background-color: LightGray; " colspan="10" class="hasbg top "></td>
+                           <td style="background-color: LightGray; " class="hasbg top "></td>
+                        </tr>
+                        <tr>
+                           <td class=" top ">
+                              Religious, education, eleemosynary institution of a philanthropic nature, but not
+                              a penal or mental institution.
+                              </td>
+                           <td class=" top ">
+                              -
+                              </td>
+                           <td class=" top ">
+                              -
+                              </td>
+                           <td class=" top ">
+                              P
+                              </td>
+                           <td class=" top ">
+                              P
+                              </td>
+                           <td class=" top ">
+                              P
+                              </td>
+                           <td class=" top ">
+                              P
+                              </td>
+                           <td class=" top ">
+                              P
+                              </td>
+                           <td class=" top ">
+                              P
+                              </td>
+                           <td class=" top ">
+                              P
+                              </td>
+                           <td class=" top ">
+                              -
+                              </td>
+                           <td class=" top "></td>
+                        </tr>
+                        <tr>
+                           <td class=" top ">
+                              Hospital or sanitarium except a criminal, mental or animal hospital
+                              </td>
+                           <td class=" top ">
+                              -
+                              </td>
+                           <td class=" top ">
+                              -
+                              </td>
+                           <td class=" top ">
+                              P
+                              </td>
+                           <td class=" top ">
+                              P
+                              </td>
+                           <td class=" top ">
+                              P
+                              </td>
+                           <td class=" top ">
+                              P
+                              </td>
+                           <td class=" top ">
+                              P
+                              </td>
+                           <td class=" top ">
+                              P
+                              </td>
+                           <td class=" top ">
+                              -
+                              </td>
+                           <td class=" top ">
+                              -
+                              </td>
+                           <td class=" top "></td>
+                        </tr>
+                        <tr>
+                           <td class=" top ">
+                              Public school, elementary and high, and educational institutions having a curriculum
+                              the same as ordinarily given in public schools.
+                              </td>
+                           <td class=" top ">
+                              P
+                              </td>
+                           <td class=" top ">
+                              P
+                              </td>
+                           <td class=" top ">
+                              P
+                              </td>
+                           <td class=" top ">
+                              P
+                              </td>
+                           <td class=" top ">
+                              P
+                              </td>
+                           <td class=" top ">
+                              P
+                              </td>
+                           <td class=" top ">
+                              P
+                              </td>
+                           <td class=" top ">
+                              P
+                              </td>
+                           <td class=" top ">
+                              P
+                              </td>
+                           <td class=" top ">
+                              -
+                              </td>
+                           <td class=" top "></td>
+                        </tr>
+                        <tr>
+                           <td class=" top ">
+                              Church or other place of worship
+                              </td>
+                           <td class=" top ">
+                              P
+                              </td>
+                           <td class=" top ">
+                              P
+                              </td>
+                           <td class=" top ">
+                              P
+                              </td>
+                           <td class=" top ">
+                              P
+                              </td>
+                           <td class=" top ">
+                              P
+                              </td>
+                           <td class=" top ">
+                              P
+                              </td>
+                           <td class=" top ">
+                              P
+                              </td>
+                           <td class=" top ">
+                              P
+                              </td>
+                           <td class=" top ">
+                              P
+                              </td>
+                           <td class=" top ">
+                              -
+                              </td>
+                           <td class=" top "></td>
+                        </tr>
+                        <tr>
+                           <td class=" top ">
+                              Business or commercial school
+                              </td>
+                           <td class=" top ">
+                              -
+                              </td>
+                           <td class=" top ">
+                              -
+                              </td>
+                           <td class=" top ">
+                              -
+                              </td>
+                           <td class=" top ">
+                              -
+                              </td>
+                           <td class=" top ">
+                              -
+                              </td>
+                           <td class=" top ">
+                              P
+                              </td>
+                           <td class=" top ">
+                              P
+                              </td>
+                           <td class=" top ">
+                              P
+                              </td>
+                           <td class=" top ">
+                              P
+                              </td>
+                           <td class=" top ">
+                              -
+                              </td>
+                           <td class=" top "></td>
+                        </tr>
+                        <tr>
+                           <td class=" top ">
+                              Radio or television broadcasting station or studio
+                              </td>
+                           <td class=" top ">
+                              -
+                              </td>
+                           <td class=" top ">
+                              -
+                              </td>
+                           <td class=" top ">
+                              -
+                              </td>
+                           <td class=" top ">
+                              -
+                              </td>
+                           <td class=" top ">
+                              -
+                              </td>
+                           <td class=" top ">
+                              P
+                              </td>
+                           <td class=" top ">
+                              P
+                              </td>
+                           <td class=" top ">
+                              P
+                              </td>
+                           <td class=" top ">
+                              P
+                              </td>
+                           <td class=" top ">
+                              -
+                              </td>
+                           <td class=" top "></td>
+                        </tr>
+                        <tr>
+                           <td class=" top ">
+                              Agricultural Activity and Uses
+                              </td>
+                           <td class=" top ">
+                              -
+                              </td>
+                           <td class=" top ">
+                              -
+                              </td>
+                           <td class=" top ">
+                              -
+                              </td>
+                           <td class=" top ">
+                              -
+                              </td>
+                           <td class=" top ">
+                              -
+                              </td>
+                           <td class=" top ">
+                              -
+                              </td>
+                           <td class=" top ">
+                              -
+                              </td>
+                           <td class=" top ">
+                              -
+                              </td>
+                           <td class=" top ">
+                              P
+                              </td>
+                           <td class=" top ">
+                              P
+                              </td>
+                           <td class=" top ">
+                              See <a href="https://library.municode.com/mo/mexico/codes/code_of_ordinances?nodeId=COOR_CH42ZO_ARTVIIIAGDI_S42-534USRE" data-chunk-id="COOR_CH42ZO_ARTVIIIAGDI_S42-534USRE" class="section-link" data-product-id="11095"><span class="popoverPositioner"></span>Section 42-534</a> for a list of permitted agricultural uses; Also see <a href="https://library.municode.com/mo/mexico/codes/code_of_ordinances?nodeId=COOR_CH42ZO_ARTXIADUSRE_S42-678ADBUUSAUUPPEOBGE" data-chunk-id="COOR_CH42ZO_ARTXIADUSRE_S42-678ADBUUSAUUPPEOBGE" class="section-link" data-product-id="11095"><span class="popoverPositioner"></span>Section 42-678</a> for agriculture-related uses subject to permit which must be first obtained from
+                              the city council.
+                              </td>
+                        </tr>
+                        <tr>
+                           <td class=" top ">
+                              Florist Shop and Greenhouse
+                              </td>
+                           <td class=" top ">
+                              -
+                              </td>
+                           <td class=" top ">
+                              -
+                              </td>
+                           <td class=" top ">
+                              -
+                              </td>
+                           <td class=" top ">
+                              -
+                              </td>
+                           <td class=" top ">
+                              P
+                              </td>
+                           <td class=" top ">
+                              P
+                              </td>
+                           <td class=" top ">
+                              P
+                              </td>
+                           <td class=" top ">
+                              P
+                              </td>
+                           <td class=" top ">
+                              P
+                              </td>
+                           <td class=" top ">
+                              P*
+                              </td>
+                           <td class=" top ">
+                              *Greenhouses are allowed in the A district but do not include salesrooms or roadside
+                              stands. See <a href="https://library.municode.com/mo/mexico/codes/code_of_ordinances?nodeId=COOR_CH42ZO_ARTVIIIAGDI_S42-534USRE" data-chunk-id="COOR_CH42ZO_ARTVIIIAGDI_S42-534USRE" class="section-link" data-product-id="11095"><span class="popoverPositioner"></span>Section 42-534</a>. Also see Section 42- 678 as this use is subject to permit which must be first obtained
+                              from the city council.
+                              </td>
+                        </tr>
+                        <tr>
+                           <td class=" top ">
+                              Animal hospitals and veterinary clinic
+                              </td>
+                           <td class=" top ">
+                              -
+                              </td>
+                           <td class=" top ">
+                              -
+                              </td>
+                           <td class=" top ">
+                              -
+                              </td>
+                           <td class=" top ">
+                              -
+                              </td>
+                           <td class=" top ">
+                              -
+                              </td>
+                           <td class=" top ">
+                              P
+                              </td>
+                           <td class=" top ">
+                              P
+                              </td>
+                           <td class=" top ">
+                              P
+                              </td>
+                           <td class=" top ">
+                              P
+                              </td>
+                           <td class=" top ">
+                              -
+                              </td>
+                           <td class=" top "></td>
+                        </tr>
+                        <tr>
+                           <td class=" top ">
+                              Roadside Stand for the display or sale of agricultural products
+                              </td>
+                           <td class=" top ">
+                              A
+                              </td>
+                           <td class=" top ">
+                              A
+                              </td>
+                           <td class=" top ">
+                              A
+                              </td>
+                           <td class=" top ">
+                              A
+                              </td>
+                           <td class=" top ">
+                              A
+                              </td>
+                           <td class=" top ">
+                              A
+                              </td>
+                           <td class=" top ">
+                              A
+                              </td>
+                           <td class=" top ">
+                              A
+                              </td>
+                           <td class=" top ">
+                              A
+                              </td>
+                           <td class=" top ">
+                              c*
+                              </td>
+                           <td class=" top ">
+                              *Seasonal sale of produce grown on site is allowed in the A district. Also see <a href="https://library.municode.com/mo/mexico/codes/code_of_ordinances?nodeId=COOR_CH42ZO_ARTXIADUSRE_S42-678ADBUUSAUUPPEOBGE" data-chunk-id="COOR_CH42ZO_ARTXIADUSRE_S42-678ADBUUSAUUPPEOBGE" class="section-link" data-product-id="11095"><span class="popoverPositioner"></span>Section 42-678</a> as this use is subject to permit which must be
+                              <br>
+                              first obtained from the city council.
+                              </td>
+                        </tr>
+                        <tr>
+                           <td style="background-color: LightGray; " class="hasbg top ">
+                              Food and Beverage Services
+                              </td>
+                           <td style="background-color: LightGray; " colspan="10" class="hasbg top "></td>
+                           <td style="background-color: LightGray; " class="hasbg top "></td>
+                        </tr>
+                        <tr>
+                           <td class=" top ">
+                              Restaurants
+                              </td>
+                           <td class=" top ">
+                              -
+                              </td>
+                           <td class=" top ">
+                              -
+                              </td>
+                           <td class=" top ">
+                              -
+                              </td>
+                           <td class=" top ">
+                              -
+                              </td>
+                           <td class=" top ">
+                              P
+                              </td>
+                           <td class=" top ">
+                              P
+                              </td>
+                           <td class=" top ">
+                              P
+                              </td>
+                           <td class=" top ">
+                              P
+                              </td>
+                           <td class=" top ">
+                              P
+                              </td>
+                           <td class=" top ">
+                              -
+                              </td>
+                           <td class=" top "></td>
+                        </tr>
+                        <tr>
+                           <td class=" top ">
+                              Frozen Food Locker
+                              </td>
+                           <td class=" top ">
+                              -
+                              </td>
+                           <td class=" top ">
+                              -
+                              </td>
+                           <td class=" top ">
+                              -
+                              </td>
+                           <td class=" top ">
+                              -
+                              </td>
+                           <td class=" top ">
+                              -
+                              </td>
+                           <td class=" top ">
+                              P
+                              </td>
+                           <td class=" top ">
+                              P
+                              </td>
+                           <td class=" top ">
+                              P
+                              </td>
+                           <td class=" top ">
+                              P
+                              </td>
+                           <td class=" top ">
+                              -
+                              </td>
+                           <td class=" top "></td>
+                        </tr>
+                        <tr>
+                           <td style="background-color: LightGray; " class="hasbg top ">
+                              Guest Accommodations
+                              </td>
+                           <td style="background-color: LightGray; " colspan="10" class="hasbg top "></td>
+                           <td style="background-color: LightGray; " class="hasbg top "></td>
+                        </tr>
+                        <tr>
+                           <td class=" top ">
+                              Hotels and Motels
+                              </td>
+                           <td class=" top ">
+                              -
+                              </td>
+                           <td class=" top ">
+                              -
+                              </td>
+                           <td class=" top ">
+                              -
+                              </td>
+                           <td class=" top ">
+                              -
+                              </td>
+                           <td class=" top ">
+                              -
+                              </td>
+                           <td class=" top ">
+                              P
+                              </td>
+                           <td class=" top ">
+                              P
+                              </td>
+                           <td class=" top ">
+                              P
+                              </td>
+                           <td class=" top ">
+                              -
+                              </td>
+                           <td class=" top ">
+                              -
+                              </td>
+                           <td class=" top "></td>
+                        </tr>
+                        <tr>
+                           <td style="background-color: LightGray; " class="hasbg top ">
+                              Office
+                              </td>
+                           <td style="background-color: LightGray; " colspan="10" class="hasbg top "></td>
+                           <td style="background-color: LightGray; " class="hasbg top "></td>
+                        </tr>
+                        <tr>
+                           <td class=" top ">
+                              Banks and Financial Institutions
+                              </td>
+                           <td class=" top ">
+                              -
+                              </td>
+                           <td class=" top ">
+                              -
+                              </td>
+                           <td class=" top ">
+                              -
+                              </td>
+                           <td class=" top ">
+                              -
+                              </td>
+                           <td class=" top ">
+                              P
+                              </td>
+                           <td class=" top ">
+                              P
+                              </td>
+                           <td class=" top ">
+                              P
+                              </td>
+                           <td class=" top ">
+                              P
+                              </td>
+                           <td class=" top ">
+                              P
+                              </td>
+                           <td class=" top ">
+                              -
+                              </td>
+                           <td class=" top ">
+                              See <a href="https://library.municode.com/mo/mexico/codes/code_of_ordinances?nodeId=COOR_CH42ZO_ARTIINGE_S42-1DE" data-chunk-id="COOR_CH42ZO_ARTIINGE_S42-1DE" class="section-link" data-product-id="11095"><span class="popoverPositioner"></span>Section 42-1</a> (Definitions)
+                              </td>
+                        </tr>
+                        <tr>
+                           <td class=" top ">
+                              Laboratory, research, experimental or testing facility.
+                              </td>
+                           <td class=" top ">
+                              -
+                              </td>
+                           <td class=" top ">
+                              -
+                              </td>
+                           <td class=" top ">
+                              -
+                              </td>
+                           <td class=" top ">
+                              -
+                              </td>
+                           <td class=" top ">
+                              -
+                              </td>
+                           <td class=" top ">
+                              P
+                              </td>
+                           <td class=" top ">
+                              P
+                              </td>
+                           <td class=" top ">
+                              P
+                              </td>
+                           <td class=" top ">
+                              -
+                              </td>
+                           <td class=" top ">
+                              -
+                              </td>
+                           <td class=" top "></td>
+                        </tr>
+                        <tr>
+                           <td class=" top ">
+                              Newspaper publishing and sales
+                              </td>
+                           <td class=" top ">
+                              -
+                              </td>
+                           <td class=" top ">
+                              -
+                              </td>
+                           <td class=" top ">
+                              -
+                              </td>
+                           <td class=" top ">
+                              -
+                              </td>
+                           <td class=" top ">
+                              P
+                              </td>
+                           <td class=" top ">
+                              P
+                              </td>
+                           <td class=" top ">
+                              P
+                              </td>
+                           <td class=" top ">
+                              P
+                              </td>
+                           <td class=" top ">
+                              P
+                              </td>
+                           <td class=" top ">
+                              -
+                              </td>
+                           <td class=" top "></td>
+                        </tr>
+                        <tr>
+                           <td class=" top ">
+                              Office or office building
+                              </td>
+                           <td class=" top ">
+                              -
+                              </td>
+                           <td class=" top ">
+                              -
+                              </td>
+                           <td class=" top ">
+                              -
+                              </td>
+                           <td class=" top ">
+                              P
+                              </td>
+                           <td class=" top ">
+                              P
+                              </td>
+                           <td class=" top ">
+                              P
+                              </td>
+                           <td class=" top ">
+                              P
+                              </td>
+                           <td class=" top ">
+                              P
+                              </td>
+                           <td class=" top "></td>
+                           <td class=" top ">
+                              -
+                              </td>
+                           <td class=" top "></td>
+                        </tr>
+                        <tr>
+                           <td class=" top ">
+                              Display and salesroom
+                              </td>
+                           <td class=" top ">
+                              -
+                              </td>
+                           <td class=" top ">
+                              -
+                              </td>
+                           <td class=" top ">
+                              -
+                              </td>
+                           <td class=" top ">
+                              -
+                              </td>
+                           <td class=" top ">
+                              P
+                              </td>
+                           <td class=" top ">
+                              P
+                              </td>
+                           <td class=" top ">
+                              P
+                              </td>
+                           <td class=" top ">
+                              P
+                              </td>
+                           <td class=" top ">
+                              P
+                              </td>
+                           <td class=" top ">
+                              -
+                              </td>
+                           <td class=" top ">
+                              For merchandise to be sold at wholesale where merchandise sold is stored elsewhere
+                              </td>
+                        </tr>
+                        <tr>
+                           <td class=" top ">
+                              Medical Marijuana Dispensaries
+                              </td>
+                           <td class=" top ">
+                              -
+                              </td>
+                           <td class=" top ">
+                              -
+                              </td>
+                           <td class=" top ">
+                              -
+                              </td>
+                           <td class=" top ">
+                              -
+                              </td>
+                           <td class=" top ">
+                              -
+                              </td>
+                           <td class=" top ">
+                              P
+                              </td>
+                           <td class=" top ">
+                              -
+                              </td>
+                           <td class=" top ">
+                              -
+                              </td>
+                           <td class=" top ">
+                              -
+                              </td>
+                           <td class=" top ">
+                              -
+                              </td>
+                           <td class=" top ">
+                              See Article VII A - <a href="https://library.municode.com/mo/mexico/codes/code_of_ordinances?nodeId=COOR_CH42ZO_ARTVIII-AMEMADIDI_S42-546DE" data-chunk-id="COOR_CH42ZO_ARTVIII-AMEMADIDI_S42-546DE" class="section-link" data-product-id="11095"><span class="popoverPositioner"></span>Sections 42-546</a> to <a href="https://library.municode.com/mo/mexico/codes/code_of_ordinances?nodeId=COOR_CH42ZO_ARTVIII-AMEMADIDI_S42-547USRE" data-chunk-id="COOR_CH42ZO_ARTVIII-AMEMADIDI_S42-547USRE" class="section-link" data-product-id="11095"><span class="popoverPositioner"></span>42-547</a>
+                              </td>
+                        </tr>
+                        <tr>
+                           <td class=" top ">
+                              Home occupation
+                              </td>
+                           <td class=" top ">
+                              P
+                              </td>
+                           <td class=" top ">
+                              P
+                              </td>
+                           <td class=" top ">
+                              P
+                              </td>
+                           <td class=" top ">
+                              P
+                              </td>
+                           <td class=" top ">
+                              P
+                              </td>
+                           <td class=" top ">
+                              P
+                              </td>
+                           <td class=" top ">
+                              P
+                              </td>
+                           <td class=" top ">
+                              P
+                              </td>
+                           <td class=" top ">
+                              -
+                              </td>
+                           <td class=" top ">
+                              -
+                              </td>
+                           <td class=" top "></td>
+                        </tr>
+                        <tr>
+                           <td style="background-color: LightGray; " class="hasbg top ">
+                              Personal Services
+                              </td>
+                           <td style="background-color: LightGray; " colspan="10" class="hasbg top "></td>
+                           <td style="background-color: LightGray; " class="hasbg top "></td>
+                        </tr>
+                        <tr>
+                           <td class=" top ">
+                              Medical clinics
+                              </td>
+                           <td class=" top "></td>
+                           <td class=" top "></td>
+                           <td class=" top "></td>
+                           <td class=" top ">
+                              P
+                              </td>
+                           <td class=" top ">
+                              P
+                              </td>
+                           <td class=" top ">
+                              P
+                              </td>
+                           <td class=" top ">
+                              P
+                              </td>
+                           <td class=" top ">
+                              P
+                              </td>
+                           <td class=" top ">
+                              -
+                              </td>
+                           <td class=" top ">
+                              -
+                              </td>
+                           <td class=" top ">
+                              A pharmacy operating as an accessory use that offers filling of prescription or proprietary
+                              drugs, toiletries, confections, photographic equipment and supplies, stationery, greeting
+                              cards, medical and physical treatment equipment and supplies, newspapers and magazines,
+                              and cosmetics may be located on property occupied by a medical clinic.
+                              </td>
+                        </tr>
+                        <tr>
+                           <td class=" top ">
+                              Personal service shops, such as beauty and barbershops
+                              </td>
+                           <td class=" top ">
+                              -
+                              </td>
+                           <td class=" top ">
+                              -
+                              </td>
+                           <td class=" top ">
+                              -
+                              </td>
+                           <td class=" top ">
+                              P
+                              </td>
+                           <td class=" top ">
+                              P
+                              </td>
+                           <td class=" top ">
+                              P
+                              </td>
+                           <td class=" top ">
+                              P
+                              </td>
+                           <td class=" top ">
+                              P
+                              </td>
+                           <td class=" top ">
+                              P
+                              </td>
+                           <td class=" top ">
+                              -
+                              </td>
+                           <td class=" top "></td>
+                        </tr>
+                        <tr>
+                           <td class=" top ">
+                              Personal service uses including photographic or art studios, messenger, taxicab, newspaper
+                              or telegraphic branch, service stations, dry cleaning receiving stations.
+                              </td>
+                           <td class=" top ">
+                              -
+                              </td>
+                           <td class=" top ">
+                              -
+                              </td>
+                           <td class=" top ">
+                              -
+                              </td>
+                           <td class=" top ">
+                              -
+                              </td>
+                           <td class=" top ">
+                              P
+                              </td>
+                           <td class=" top ">
+                              P
+                              </td>
+                           <td class=" top ">
+                              P
+                              </td>
+                           <td class=" top ">
+                              P
+                              </td>
+                           <td class=" top ">
+                              P
+                              </td>
+                           <td class=" top ">
+                              -
+                              </td>
+                           <td class=" top "></td>
+                        </tr>
+                        <tr>
+                           <td class=" top ">
+                              Self-service laundry or cleaning establishment
+                              </td>
+                           <td class=" top ">
+                              -
+                              </td>
+                           <td class=" top ">
+                              -
+                              </td>
+                           <td class=" top ">
+                              -
+                              </td>
+                           <td class=" top ">
+                              -
+                              </td>
+                           <td class=" top ">
+                              P
+                              </td>
+                           <td class=" top ">
+                              P
+                              </td>
+                           <td class=" top ">
+                              P
+                              </td>
+                           <td class=" top ">
+                              P
+                              </td>
+                           <td class=" top ">
+                              P
+                              </td>
+                           <td class=" top ">
+                              -
+                              </td>
+                           <td class=" top ">
+                              Includes "Laundromats" per <a href="https://library.municode.com/mo/mexico/codes/code_of_ordinances?nodeId=COOR_CH42ZO_ARTIINGE_S42-1DE" data-chunk-id="COOR_CH42ZO_ARTIINGE_S42-1DE" class="section-link" data-product-id="11095"><span class="popoverPositioner"></span>Section 42-1</a> Definitions
+                              </td>
+                        </tr>
+                        <tr>
+                           <td class=" top ">
+                              Undertaking Establishment
+                              </td>
+                           <td class=" top "></td>
+                           <td class=" top "></td>
+                           <td class=" top "></td>
+                           <td class=" top "></td>
+                           <td class=" top ">
+                              P
+                              </td>
+                           <td class=" top ">
+                              P
+                              </td>
+                           <td class=" top ">
+                              P
+                              </td>
+                           <td class=" top ">
+                              P
+                              </td>
+                           <td class=" top ">
+                              P
+                              </td>
+                           <td class=" top ">
+                              -
+                              </td>
+                           <td class=" top "></td>
+                        </tr>
+                        <tr>
+                           <td style="background-color: LightGray; " class="hasbg top ">
+                              Recreation &amp; Entertainment
+                              </td>
+                           <td style="background-color: LightGray; " colspan="10" class="hasbg top "></td>
+                           <td style="background-color: LightGray; " class="hasbg top "></td>
+                        </tr>
+                        <tr>
+                           <td class=" top ">
+                              Publicly owned or operated park, playground or community building, museum, library
+                              or art gallery
+                              </td>
+                           <td class=" top ">
+                              P
+                              </td>
+                           <td class=" top ">
+                              P
+                              </td>
+                           <td class=" top ">
+                              P
+                              </td>
+                           <td class=" top ">
+                              P
+                              </td>
+                           <td class=" top ">
+                              P
+                              </td>
+                           <td class=" top ">
+                              P
+                              </td>
+                           <td class=" top ">
+                              P
+                              </td>
+                           <td class=" top ">
+                              P
+                              </td>
+                           <td class=" top ">
+                              P
+                              </td>
+                           <td class=" top ">
+                              -
+                              </td>
+                           <td class=" top "></td>
+                        </tr>
+                        <tr>
+                           <td class=" top ">
+                              Golf club or grounds
+                              </td>
+                           <td class=" top ">
+                              P
+                              </td>
+                           <td class=" top ">
+                              P
+                              </td>
+                           <td class=" top ">
+                              P
+                              </td>
+                           <td class=" top ">
+                              P
+                              </td>
+                           <td class=" top ">
+                              P
+                              </td>
+                           <td class=" top ">
+                              P
+                              </td>
+                           <td class=" top ">
+                              P
+                              </td>
+                           <td class=" top ">
+                              P
+                              </td>
+                           <td class=" top ">
+                              P
+                              </td>
+                           <td class=" top ">
+                              -
+                              </td>
+                           <td class=" top ">
+                              This use does not include miniature golf courses and practice tees
+                              <br>
+                              operated for commercial purposes.
+                              </td>
+                        </tr>
+                        <tr>
+                           <td class=" top ">
+                              Miniature golf courses and golf driving ranges
+                              </td>
+                           <td class=" top ">
+                              -
+                              </td>
+                           <td class=" top ">
+                              -
+                              </td>
+                           <td class=" top ">
+                              -
+                              </td>
+                           <td class=" top ">
+                              -
+                              </td>
+                           <td class=" top "></td>
+                           <td class=" top ">
+                              P
+                              </td>
+                           <td class=" top ">
+                              P
+                              </td>
+                           <td class=" top ">
+                              P
+                              </td>
+                           <td class=" top "></td>
+                           <td class=" top "></td>
+                           <td class=" top "></td>
+                        </tr>
+                        <tr>
+                           <td class=" top ">
+                              Establishment for sale of beer and alcoholic beverages
+                              </td>
+                           <td class=" top ">
+                              -
+                              </td>
+                           <td class=" top ">
+                              -
+                              </td>
+                           <td class=" top ">
+                              -
+                              </td>
+                           <td class=" top ">
+                              -
+                              </td>
+                           <td class=" top ">
+                              -
+                              </td>
+                           <td class=" top ">
+                              P
+                              </td>
+                           <td class=" top ">
+                              P
+                              </td>
+                           <td class=" top ">
+                              P
+                              </td>
+                           <td class=" top ">
+                              P
+                              </td>
+                           <td class=" top ">
+                              -
+                              </td>
+                           <td class=" top ">
+                              Use must be at least 50 ft from R district in relation to the C-2 district
+                              </td>
+                        </tr>
+                        <tr>
+                           <td class=" top ">
+                              Bowling alley or billiard parlor
+                              </td>
+                           <td class=" top ">
+                              -
+                              </td>
+                           <td class=" top ">
+                              -
+                              </td>
+                           <td class=" top ">
+                              -
+                              </td>
+                           <td class=" top "></td>
+                           <td class=" top ">
+                              -
+                              </td>
+                           <td class=" top ">
+                              P
+                              </td>
+                           <td class=" top ">
+                              P
+                              </td>
+                           <td class=" top ">
+                              P
+                              </td>
+                           <td class=" top ">
+                              P
+                              </td>
+                           <td class=" top ">
+                              -
+                              </td>
+                           <td class=" top ">
+                              Use must be at least 50 ft from R district in relation to the C-2 district
+                              </td>
+                        </tr>
+                        <tr>
+                           <td class=" top ">
+                              Private schools including all types of private learning institutions including dancing
+                              schools and cosmetology.
+                              </td>
+                           <td class=" top ">
+                              -
+                              </td>
+                           <td class=" top ">
+                              -
+                              </td>
+                           <td class=" top ">
+                              -
+                              </td>
+                           <td class=" top ">
+                              -
+                              </td>
+                           <td class=" top ">
+                              P
+                              </td>
+                           <td class=" top ">
+                              P
+                              </td>
+                           <td class=" top ">
+                              P
+                              </td>
+                           <td class=" top ">
+                              P
+                              </td>
+                           <td class=" top ">
+                              P
+                              </td>
+                           <td class=" top ">
+                              -
+                              </td>
+                           <td class=" top "></td>
+                        </tr>
+                        <tr>
+                           <td class=" top ">
+                              Drive-In Restaurant
+                              </td>
+                           <td class=" top "></td>
+                           <td class=" top "></td>
+                           <td class=" top "></td>
+                           <td class=" top "></td>
+                           <td class=" top "></td>
+                           <td class=" top ">
+                              P
+                              </td>
+                           <td class=" top ">
+                              P
+                              </td>
+                           <td class=" top ">
+                              P
+                              </td>
+                           <td class=" top ">
+                              P
+                              </td>
+                           <td class=" top ">
+                              -
+                              </td>
+                           <td class=" top ">
+                              Use must be at least 50 ft from R district in relation to the C-2 district
+                              </td>
+                        </tr>
+                        <tr>
+                           <td class=" top ">
+                              Theater, Indoor
+                              </td>
+                           <td class=" top ">
+                              -
+                              </td>
+                           <td class=" top ">
+                              -
+                              </td>
+                           <td class=" top ">
+                              -
+                              </td>
+                           <td class=" top ">
+                              -
+                              </td>
+                           <td class=" top ">
+                              P
+                              </td>
+                           <td class=" top ">
+                              P
+                              </td>
+                           <td class=" top ">
+                              P
+                              </td>
+                           <td class=" top ">
+                              P
+                              </td>
+                           <td class=" top ">
+                              P
+                              </td>
+                           <td class=" top ">
+                              -
+                              </td>
+                           <td class=" top "></td>
+                        </tr>
+                        <tr>
+                           <td class=" top ">
+                              Theater, Drive-in
+                              </td>
+                           <td class=" top ">
+                              -
+                              </td>
+                           <td class=" top ">
+                              -
+                              </td>
+                           <td class=" top ">
+                              -
+                              </td>
+                           <td class=" top ">
+                              -
+                              </td>
+                           <td class=" top ">
+                              -
+                              </td>
+                           <td class=" top ">
+                              P
+                              </td>
+                           <td class=" top ">
+                              P
+                              </td>
+                           <td class=" top ">
+                              P
+                              </td>
+                           <td class=" top ">
+                              P
+                              </td>
+                           <td class=" top ">
+                              -
+                              </td>
+                           <td class=" top ">
+                              Use must be at least 50 ft from R district in relation to the C-2 district
+                              </td>
+                        </tr>
+                        <tr>
+                           <td style="background-color: LightGray; " class="hasbg top ">
+                              Retail
+                              </td>
+                           <td style="background-color: LightGray; " colspan="10" class="hasbg top "></td>
+                           <td style="background-color: LightGray; " class="hasbg top "></td>
+                        </tr>
+                        <tr>
+                           <td class=" top ">
+                              Studios or photographers, artists and musicians
+                              </td>
+                           <td class=" top ">
+                              -
+                              </td>
+                           <td class=" top ">
+                              -
+                              </td>
+                           <td class=" top ">
+                              -
+                              </td>
+                           <td class=" top ">
+                              P
+                              </td>
+                           <td class=" top ">
+                              P
+                              </td>
+                           <td class=" top ">
+                              P
+                              </td>
+                           <td class=" top ">
+                              P
+                              </td>
+                           <td class=" top ">
+                              P
+                              </td>
+                           <td class=" top ">
+                              P
+                              </td>
+                           <td class=" top ">
+                              -
+                              </td>
+                           <td class=" top "></td>
+                        </tr>
+                        <tr>
+                           <td class=" top ">
+                              Shoe repairing, repair of household appliances and bicycles, catering and bakery with
+                              sale of bakery products on the premises.
+                              </td>
+                           <td class=" top ">
+                              -
+                              </td>
+                           <td class=" top ">
+                              -
+                              </td>
+                           <td class=" top ">
+                              -
+                              </td>
+                           <td class=" top ">
+                              -
+                              </td>
+                           <td class=" top ">
+                              P
+                              </td>
+                           <td class=" top ">
+                              P
+                              </td>
+                           <td class=" top ">
+                              P
+                              </td>
+                           <td class=" top ">
+                              P
+                              </td>
+                           <td class=" top ">
+                              P
+                              </td>
+                           <td class=" top ">
+                              -
+                              </td>
+                           <td class=" top "></td>
+                        </tr>
+                        <tr>
+                           <td class=" top ">
+                              Farm implement display and salesroom
+                              </td>
+                           <td class=" top ">
+                              -
+                              </td>
+                           <td class=" top ">
+                              -
+                              </td>
+                           <td class=" top ">
+                              -
+                              </td>
+                           <td class=" top ">
+                              -
+                              </td>
+                           <td class=" top ">
+                              -
+                              </td>
+                           <td class=" top ">
+                              P
+                              </td>
+                           <td class=" top ">
+                              P
+                              </td>
+                           <td class=" top ">
+                              P
+                              </td>
+                           <td class=" top ">
+                              P
+                              </td>
+                           <td class=" top ">
+                              -
+                              </td>
+                           <td class=" top "></td>
+                        </tr>
+                        <tr>
+                           <td class=" top ">
+                              Professional services including dyeing and cleaning establishment or laundry, painting,
+                              plumbing, and tinsmithing shop.
+                              </td>
+                           <td class=" top ">
+                              -
+                              </td>
+                           <td class=" top ">
+                              -
+                              </td>
+                           <td class=" top ">
+                              -
+                              </td>
+                           <td class=" top ">
+                              -
+                              </td>
+                           <td class=" top ">
+                              -
+                              </td>
+                           <td class=" top ">
+                              P
+                              </td>
+                           <td class=" top ">
+                              P
+                              </td>
+                           <td class=" top ">
+                              P
+                              </td>
+                           <td class=" top ">
+                              P
+                              </td>
+                           <td class=" top ">
+                              -
+                              </td>
+                           <td class=" top "></td>
+                        </tr>
+                        <tr>
+                           <td class=" top ">
+                              Retail Store with no slaughtering of animals nor fish cleaning on premises
+                              </td>
+                           <td class=" top ">
+                              -
+                              </td>
+                           <td class=" top ">
+                              -
+                              </td>
+                           <td class=" top ">
+                              -
+                              </td>
+                           <td class=" top ">
+                              -
+                              </td>
+                           <td class=" top ">
+                              P
+                              </td>
+                           <td class=" top ">
+                              P
+                              </td>
+                           <td class=" top ">
+                              P
+                              </td>
+                           <td class=" top ">
+                              P
+                              </td>
+                           <td class=" top ">
+                              P
+                              </td>
+                           <td class=" top ">
+                              -
+                              </td>
+                           <td class=" top "></td>
+                        </tr>
+                        <tr>
+                           <td class=" top ">
+                              Building material and lumberyard
+                              </td>
+                           <td class=" top ">
+                              -
+                              </td>
+                           <td class=" top ">
+                              -
+                              </td>
+                           <td class=" top ">
+                              -
+                              </td>
+                           <td class=" top ">
+                              -
+                              </td>
+                           <td class=" top ">
+                              -
+                              </td>
+                           <td class=" top ">
+                              -
+                              </td>
+                           <td class=" top ">
+                              -
+                              </td>
+                           <td class=" top ">
+                              P
+                              </td>
+                           <td class=" top ">
+                              P
+                              </td>
+                           <td class=" top ">
+                              -
+                              </td>
+                           <td class=" top "></td>
+                        </tr>
+                        <tr>
+                           <td class=" top ">
+                              Winery
+                              </td>
+                           <td class=" top "></td>
+                           <td class=" top "></td>
+                           <td class=" top "></td>
+                           <td class=" top "></td>
+                           <td class=" top "></td>
+                           <td class=" top "></td>
+                           <td class=" top "></td>
+                           <td class=" top "></td>
+                           <td class=" top "></td>
+                           <td class=" top ">
+                              P
+                              </td>
+                           <td class=" top ">
+                              See <a href="https://library.municode.com/mo/mexico/codes/code_of_ordinances?nodeId=COOR_CH42ZO_ARTIINGE_S42-1DE" data-chunk-id="COOR_CH42ZO_ARTIINGE_S42-1DE" class="section-link" data-product-id="11095"><span class="popoverPositioner"></span>42-1</a> Definitions and Section 42- 534
+                              </td>
+                        </tr>
+                        <tr>
+                           <td style="background-color: LightGray; " class="hasbg top ">
+                              Vehicles and Equipment
+                              </td>
+                           <td style="background-color: LightGray; " colspan="10" class="hasbg top "></td>
+                           <td style="background-color: LightGray; " class="hasbg top "></td>
+                        </tr>
+                        <tr>
+                           <td class=" top ">
+                              Used car sales or storage lot
+                              </td>
+                           <td class=" top ">
+                              -
+                              </td>
+                           <td class=" top ">
+                              -
+                              </td>
+                           <td class=" top ">
+                              -
+                              </td>
+                           <td class=" top ">
+                              -
+                              </td>
+                           <td class=" top ">
+                              -
+                              </td>
+                           <td class=" top ">
+                              P
+                              </td>
+                           <td class=" top ">
+                              P
+                              </td>
+                           <td class=" top ">
+                              P
+                              </td>
+                           <td class=" top ">
+                              P
+                              </td>
+                           <td class=" top ">
+                              -
+                              </td>
+                           <td class=" top "></td>
+                        </tr>
+                        <tr>
+                           <td class=" top ">
+                              Automobile or Trailer display and salesroom
+                              </td>
+                           <td class=" top ">
+                              -
+                              </td>
+                           <td class=" top ">
+                              -
+                              </td>
+                           <td class=" top ">
+                              -
+                              </td>
+                           <td class=" top "></td>
+                           <td class=" top ">
+                              -
+                              </td>
+                           <td class=" top ">
+                              P
+                              </td>
+                           <td class=" top ">
+                              P
+                              </td>
+                           <td class=" top ">
+                              P
+                              </td>
+                           <td class=" top ">
+                              P
+                              </td>
+                           <td class=" top ">
+                              -
+                              </td>
+                           <td class=" top "></td>
+                        </tr>
+                        <tr>
+                           <td class=" top ">
+                              Automobile service station or repair facility
+                              </td>
+                           <td class=" top ">
+                              -
+                              </td>
+                           <td class=" top ">
+                              -
+                              </td>
+                           <td class=" top ">
+                              -
+                              </td>
+                           <td class=" top "></td>
+                           <td class=" top ">
+                              -
+                              </td>
+                           <td class=" top ">
+                              P
+                              </td>
+                           <td class=" top ">
+                              P
+                              </td>
+                           <td class=" top ">
+                              P
+                              </td>
+                           <td class=" top ">
+                              P
+                              </td>
+                           <td class=" top ">
+                              -
+                              </td>
+                           <td class=" top "></td>
+                        </tr>
+                        <tr>
+                           <td class=" top ">
+                              Gasoline filling station
+                              </td>
+                           <td class=" top "></td>
+                           <td class=" top "></td>
+                           <td class=" top "></td>
+                           <td class=" top "></td>
+                           <td class=" top ">
+                              P
+                              </td>
+                           <td class=" top ">
+                              P
+                              </td>
+                           <td class=" top ">
+                              P
+                              </td>
+                           <td class=" top ">
+                              P
+                              </td>
+                           <td class=" top ">
+                              P
+                              </td>
+                           <td class=" top ">
+                              -
+                              </td>
+                           <td class=" top ">
+                              See Definitions in <a href="https://library.municode.com/mo/mexico/codes/code_of_ordinances?nodeId=COOR_CH42ZO_ARTIINGE_S42-1DE" data-chunk-id="COOR_CH42ZO_ARTIINGE_S42-1DE" class="section-link" data-product-id="11095"><span class="popoverPositioner"></span>Section 42-1</a>
+                              </td>
+                        </tr>
+                        <tr>
+                           <td class=" top ">
+                              Convenience Store
+                              </td>
+                           <td class=" top "></td>
+                           <td class=" top "></td>
+                           <td class=" top "></td>
+                           <td class=" top "></td>
+                           <td class=" top "></td>
+                           <td class=" top "></td>
+                           <td class=" top "></td>
+                           <td class=" top "></td>
+                           <td class=" top "></td>
+                           <td class=" top "></td>
+                           <td class=" top ">
+                              See Definitions in <a href="https://library.municode.com/mo/mexico/codes/code_of_ordinances?nodeId=COOR_CH42ZO_ARTIINGE_S42-1DE" data-chunk-id="COOR_CH42ZO_ARTIINGE_S42-1DE" class="section-link" data-product-id="11095"><span class="popoverPositioner"></span>Section 42-1</a>.
+                              <br>
+                              Accessory uses do NOT include automobile repairs or video gambling devices as regulated
+                              by State law.
+                              </td>
+                        </tr>
+                        <tr>
+                           <td class=" top ">
+                              Automobile parking lot, including parking garages and parking structures
+                              </td>
+                           <td class=" top ">
+                              -
+                              </td>
+                           <td class=" top ">
+                              -
+                              </td>
+                           <td class=" top ">
+                              -
+                              </td>
+                           <td class=" top ">
+                              -
+                              </td>
+                           <td class=" top ">
+                              P
+                              </td>
+                           <td class=" top ">
+                              P
+                              </td>
+                           <td class=" top ">
+                              P
+                              </td>
+                           <td class=" top ">
+                              P
+                              </td>
+                           <td class=" top ">
+                              P
+                              </td>
+                           <td class=" top ">
+                              -
+                              </td>
+                           <td class=" top ">
+                              See <a href="https://library.municode.com/mo/mexico/codes/code_of_ordinances?nodeId=COOR_CH42ZO_ARTIINGE_S42-1DE" data-chunk-id="COOR_CH42ZO_ARTIINGE_S42-1DE" class="section-link" data-product-id="11095"><span class="popoverPositioner"></span>42-1</a> Definitions. Use is intended to include traditional off-street
+                              <br>
+                              parking lots and garages.
+                              </td>
+                        </tr>
+                        <tr>
+                           <td class=" top ">
+                              Motor Vehicle Storage Facility
+                              </td>
+                           <td class=" top "></td>
+                           <td class=" top "></td>
+                           <td class=" top "></td>
+                           <td class=" top "></td>
+                           <td class=" top "></td>
+                           <td class=" top ">
+                              P
+                              </td>
+                           <td class=" top ">
+                              P
+                              </td>
+                           <td class=" top ">
+                              P
+                              </td>
+                           <td class=" top ">
+                              P
+                              </td>
+                           <td class=" top "></td>
+                           <td class=" top ">
+                              See <a href="https://library.municode.com/mo/mexico/codes/code_of_ordinances?nodeId=COOR_CH42ZO_ARTIINGE_S42-1DE" data-chunk-id="COOR_CH42ZO_ARTIINGE_S42-1DE" class="section-link" data-product-id="11095"><span class="popoverPositioner"></span>42-1</a> Definitions. By way of example, use is intended for vehicle storage for 30+ days
+                              at mini- warehouse facilities or lots where automobiles are placed prior to sale or
+                              transfer for re-sale.
+                              </td>
+                        </tr>
+                        <tr>
+                           <td class=" top ">
+                              Tire sales and service, upholstering
+                              </td>
+                           <td class=" top ">
+                              -
+                              </td>
+                           <td class=" top ">
+                              -
+                              </td>
+                           <td class=" top ">
+                              -
+                              </td>
+                           <td class=" top ">
+                              -
+                              </td>
+                           <td class=" top ">
+                              -
+                              </td>
+                           <td class=" top ">
+                              P
+                              </td>
+                           <td class=" top ">
+                              P
+                              </td>
+                           <td class=" top ">
+                              P
+                              </td>
+                           <td class=" top ">
+                              P
+                              </td>
+                           <td class=" top ">
+                              -
+                              </td>
+                           <td class=" top "></td>
+                        </tr>
+                        <tr>
+                           <td class=" top ">
+                              Auto wrecking yards and junkyards
+                              </td>
+                           <td class=" top ">
+                              -
+                              </td>
+                           <td class=" top ">
+                              -
+                              </td>
+                           <td class=" top ">
+                              -
+                              </td>
+                           <td class=" top ">
+                              -
+                              </td>
+                           <td class=" top ">
+                              -
+                              </td>
+                           <td class=" top ">
+                              -
+                              </td>
+                           <td class=" top ">
+                              -
+                              </td>
+                           <td class=" top ">
+                              -
+                              </td>
+                           <td class=" top ">
+                              C
+                              </td>
+                           <td class=" top ">
+                              -
+                              </td>
+                           <td class=" top ">
+                              See Section 42.519
+                              </td>
+                        </tr>
+                        <tr>
+                           <td style="background-color: LightGray; " class="hasbg top ">
+                              <span class="bold">Industrial Uses</span>
+                              </td>
+                           <td style="background-color: LightGray; " colspan="10" class="hasbg top "></td>
+                           <td style="background-color: LightGray; " class="hasbg top "></td>
+                        </tr>
+                        <tr>
+                           <td class=" top ">
+                              Storage and Distribution
+                              </td>
+                           <td class=" top ">
+                              -
+                              </td>
+                           <td class=" top ">
+                              -
+                              </td>
+                           <td class=" top ">
+                              -
+                              </td>
+                           <td class=" top "></td>
+                           <td class=" top ">
+                              -
+                              </td>
+                           <td class=" top ">
+                              -
+                              </td>
+                           <td class=" top ">
+                              -
+                              </td>
+                           <td class=" top ">
+                              P
+                              </td>
+                           <td class=" top ">
+                              P
+                              </td>
+                           <td class=" top ">
+                              -
+                              </td>
+                           <td class=" top "></td>
+                        </tr>
+                        <tr>
+                           <td class=" top ">
+                              Carting, express, hauling or storage yard; Contractor storage yard, commercial
+                              </td>
+                           <td class=" top ">
+                              -
+                              </td>
+                           <td class=" top ">
+                              -
+                              </td>
+                           <td class=" top ">
+                              -
+                              </td>
+                           <td class=" top ">
+                              -
+                              </td>
+                           <td class=" top ">
+                              -
+                              </td>
+                           <td class=" top ">
+                              P
+                              </td>
+                           <td class=" top ">
+                              P
+                              </td>
+                           <td class=" top ">
+                              P
+                              </td>
+                           <td class=" top ">
+                              P
+                              </td>
+                           <td class=" top ">
+                              -
+                              </td>
+                           <td class=" top ">
+                              See Definitions <a href="https://library.municode.com/mo/mexico/codes/code_of_ordinances?nodeId=COOR_CH42ZO_ARTIINGE_S42-1DE" data-chunk-id="COOR_CH42ZO_ARTIINGE_S42-1DE" class="section-link" data-product-id="11095"><span class="popoverPositioner"></span>42-1</a>
+                              </td>
+                        </tr>
+                        <tr>
+                           <td class=" top ">
+                              Contractor's storage yard, industrial
+                              </td>
+                           <td class=" top "></td>
+                           <td class=" top "></td>
+                           <td class=" top "></td>
+                           <td class=" top "></td>
+                           <td class=" top "></td>
+                           <td class=" top "></td>
+                           <td class=" top "></td>
+                           <td class=" top ">
+                              P
+                              </td>
+                           <td class=" top ">
+                              P
+                              </td>
+                           <td class=" top ">
+                              -
+                              </td>
+                           <td class=" top ">
+                              See Definitions <a href="https://library.municode.com/mo/mexico/codes/code_of_ordinances?nodeId=COOR_CH42ZO_ARTIINGE_S42-1DE" data-chunk-id="COOR_CH42ZO_ARTIINGE_S42-1DE" class="section-link" data-product-id="11095"><span class="popoverPositioner"></span>42-1</a>
+                              </td>
+                        </tr>
+                        <tr>
+                           <td class=" top ">
+                              Petroleum Storage
+                              </td>
+                           <td class=" top ">
+                              -
+                              </td>
+                           <td class=" top ">
+                              -
+                              </td>
+                           <td class=" top ">
+                              -
+                              </td>
+                           <td class=" top ">
+                              -
+                              </td>
+                           <td class=" top ">
+                              -
+                              </td>
+                           <td class=" top ">
+                              -
+                              </td>
+                           <td class=" top ">
+                              -
+                              </td>
+                           <td class=" top ">
+                              P
+                              </td>
+                           <td class=" top ">
+                              P
+                              </td>
+                           <td class=" top ">
+                              -
+                              </td>
+                           <td class=" top ">
+                              Only after location and treatment of the premises have been approved by the public
+                              safety director
+                              </td>
+                        </tr>
+                        <tr>
+                           <td class=" top ">
+                              Wholesale or distributing establishment
+                              <br>
+                              or warehouse or wholesale market
+                              </td>
+                           <td class=" top ">
+                              -
+                              </td>
+                           <td class=" top ">
+                              -
+                              </td>
+                           <td class=" top ">
+                              -
+                              </td>
+                           <td class=" top ">
+                              -
+                              </td>
+                           <td class=" top ">
+                              -
+                              </td>
+                           <td class=" top ">
+                              -
+                              </td>
+                           <td class=" top ">
+                              P
+                              </td>
+                           <td class=" top ">
+                              P
+                              </td>
+                           <td class=" top ">
+                              P
+                              </td>
+                           <td class=" top ">
+                              -
+                              </td>
+                           <td class=" top "></td>
+                        </tr>
+                        <tr>
+                           <td class=" top ">
+                              Medical marijuana-infused product manufacturing facilities
+                              </td>
+                           <td class=" top ">
+                              -
+                              </td>
+                           <td class=" top ">
+                              -
+                              </td>
+                           <td class=" top ">
+                              -
+                              </td>
+                           <td class=" top ">
+                              -
+                              </td>
+                           <td class=" top ">
+                              -
+                              </td>
+                           <td class=" top ">
+                              -
+                              </td>
+                           <td class=" top ">
+                              -
+                              </td>
+                           <td class=" top ">
+                              -
+                              </td>
+                           <td class=" top ">
+                              P
+                              </td>
+                           <td class=" top ">
+                              -
+                              </td>
+                           <td class=" top ">
+                              See Article VIII A, <a href="https://library.municode.com/mo/mexico/codes/code_of_ordinances?nodeId=COOR_CH42ZO_ARTVIII-AMEMADIDI_S42-546DE" data-chunk-id="COOR_CH42ZO_ARTVIII-AMEMADIDI_S42-546DE" class="section-link" data-product-id="11095"><span class="popoverPositioner"></span>Sections 42-546</a> to <a href="https://library.municode.com/mo/mexico/codes/code_of_ordinances?nodeId=COOR_CH42ZO_ARTVIII-AMEMADIDI_S42-547USRE" data-chunk-id="COOR_CH42ZO_ARTVIII-AMEMADIDI_S42-547USRE" class="section-link" data-product-id="11095"><span class="popoverPositioner"></span>42-547</a>
+                              </td>
+                        </tr>
+                        <tr>
+                           <td class=" top ">
+                              Medical Marijuana Cultivation facilities
+                              </td>
+                           <td class=" top ">
+                              -
+                              </td>
+                           <td class=" top ">
+                              -
+                              </td>
+                           <td class=" top ">
+                              -
+                              </td>
+                           <td class=" top ">
+                              -
+                              </td>
+                           <td class=" top ">
+                              -
+                              </td>
+                           <td class=" top ">
+                              -
+                              </td>
+                           <td class=" top ">
+                              -
+                              </td>
+                           <td class=" top ">
+                              -
+                              </td>
+                           <td class=" top ">
+                              P
+                              </td>
+                           <td class=" top ">
+                              -
+                              </td>
+                           <td class=" top ">
+                              See Article VIII A, <a href="https://library.municode.com/mo/mexico/codes/code_of_ordinances?nodeId=COOR_CH42ZO_ARTVIII-AMEMADIDI_S42-546DE" data-chunk-id="COOR_CH42ZO_ARTVIII-AMEMADIDI_S42-546DE" class="section-link" data-product-id="11095"><span class="popoverPositioner"></span>Sections 42-546</a> to <a href="https://library.municode.com/mo/mexico/codes/code_of_ordinances?nodeId=COOR_CH42ZO_ARTVIII-AMEMADIDI_S42-547USRE" data-chunk-id="COOR_CH42ZO_ARTVIII-AMEMADIDI_S42-547USRE" class="section-link" data-product-id="11095"><span class="popoverPositioner"></span>42-547</a>
+                              </td>
+                        </tr>
+                        <tr>
+                           <td class=" top ">
+                              Printing, publishing or engraving
+                              </td>
+                           <td class=" top ">
+                              -
+                              </td>
+                           <td class=" top ">
+                              -
+                              </td>
+                           <td class=" top ">
+                              -
+                              </td>
+                           <td class=" top ">
+                              -
+                              </td>
+                           <td class=" top ">
+                              -
+                              </td>
+                           <td class=" top ">
+                              P
+                              </td>
+                           <td class=" top ">
+                              P
+                              </td>
+                           <td class=" top ">
+                              P
+                              </td>
+                           <td class=" top ">
+                              P
+                              </td>
+                           <td class=" top ">
+                              -
+                              </td>
+                           <td class=" top "></td>
+                        </tr>
+                        <tr>
+                           <td class=" top ">
+                              Coal, coke or woodyard
+                              </td>
+                           <td class=" top ">
+                              -
+                              </td>
+                           <td class=" top ">
+                              -
+                              </td>
+                           <td class=" top ">
+                              -
+                              </td>
+                           <td class=" top ">
+                              -
+                              </td>
+                           <td class=" top ">
+                              -
+                              </td>
+                           <td class=" top ">
+                              -
+                              </td>
+                           <td class=" top ">
+                              -
+                              </td>
+                           <td class=" top ">
+                              P
+                              </td>
+                           <td class=" top ">
+                              P
+                              </td>
+                           <td class=" top ">
+                              -
+                              </td>
+                           <td class=" top "></td>
+                        </tr>
+                        <tr>
+                           <td class=" top ">
+                              The manufacture, compounding, processing, packaging or treatment of such goods, materials,
+                              and products
+                              </td>
+                           <td class=" top "></td>
+                           <td class=" top "></td>
+                           <td class=" top "></td>
+                           <td class=" top "></td>
+                           <td class=" top "></td>
+                           <td class=" top "></td>
+                           <td class=" top ">
+                              P
+                              </td>
+                           <td class=" top ">
+                              P
+                              </td>
+                           <td class=" top ">
+                              P
+                              </td>
+                           <td class=" top ">
+                              -
+                              </td>
+                           <td class=" top ">
+                              Section 42-499 identifies the following examples: Bakery goods, bottling works, candy,
+                              cosmetic, pharmaceuticals, toiletries, food products excepting fish and meat products,
+                              sauerkraut, vinegar, yeast and the rendering of fats and oils; Articles made from
+                              previously prepared materials such as bone, canvas, cellophane, cloth, cork, feathers,
+                              felt, fiber, fur, glass, hair, horn, leather, paper, plastics, precious or semiprecious
+                              metals or stones, shells, textiles, wax, wire, yarns and the like;
+                              <br>
+                              Musical instruments, toys, novelties, rubber, or metal stamps, and other small molded
+                              rubber products; Fabrication and repair of electric or neon signs or commercial advertising
+                              structures, light sheet metal products, and the like
+                              </td>
+                        </tr>
+                        <tr>
+                           <td class=" top ">
+                              Assembly and manufacture from prefabricated parts of household appliances, electronic
+                              products and similar products or the processing or assembling of parts for production
+                              of finished equipment
+                              </td>
+                           <td class=" top "></td>
+                           <td class=" top "></td>
+                           <td class=" top "></td>
+                           <td class=" top "></td>
+                           <td class=" top "></td>
+                           <td class=" top "></td>
+                           <td class=" top "></td>
+                           <td class=" top ">
+                              P
+                              </td>
+                           <td class=" top ">
+                              P
+                              </td>
+                           <td class=" top ">
+                              -
+                              </td>
+                           <td class=" top ">
+                              This category excludes petroleum storage for distribution over more extensive areas
+                              than the city and environs
+                              </td>
+                        </tr>
+                        <tr>
+                           <td class=" top ">
+                              Industrial and manufacturing plants where the process of manufacturing or the treatment
+                              of materials is such that only a nominal amount of dust, odor, gas, smoke or noise
+                              is emitted and not more than ten percent of the lot is used for the open storage of
+                              products, materials or equipment.
+                              </td>
+                           <td class=" top ">
+                              -
+                              </td>
+                           <td class=" top ">
+                              -
+                              </td>
+                           <td class=" top ">
+                              -
+                              </td>
+                           <td class=" top ">
+                              -
+                              </td>
+                           <td class=" top ">
+                              -
+                              </td>
+                           <td class=" top ">
+                              -
+                              </td>
+                           <td class=" top ">
+                              -
+                              </td>
+                           <td class=" top ">
+                              P
+                              </td>
+                           <td class=" top ">
+                              P
+                              </td>
+                           <td class=" top ">
+                              -
+                              </td>
+                           <td class=" top "></td>
+                        </tr>
+                        <tr>
+                           <td class=" top ">
+                              Heavy Manufacturing
+                              </td>
+                           <td class=" top ">
+                              -
+                              </td>
+                           <td class=" top ">
+                              -
+                              </td>
+                           <td class=" top ">
+                              -
+                              </td>
+                           <td class=" top ">
+                              -
+                              </td>
+                           <td class=" top ">
+                              -
+                              </td>
+                           <td class=" top ">
+                              -
+                              </td>
+                           <td class=" top ">
+                              -
+                              </td>
+                           <td class=" top ">
+                              -
+                              </td>
+                           <td class=" top ">
+                              C
+                              </td>
+                           <td class=" top ">
+                              -
+                              </td>
+                           <td class=" top ">
+                              Uses classified as "Heavy
+                              <br>
+                              Manufacturing" with potential offensive or noxious impacts are listed in <a href="https://library.municode.com/mo/mexico/codes/code_of_ordinances?nodeId=COOR_CH42ZO_ARTVIIINDI_DIV3HEINDIRE_S42-519USRE" data-chunk-id="COOR_CH42ZO_ARTVIIINDI_DIV3HEINDIRE_S42-519USRE" class="section-link" data-product-id="11095"><span class="popoverPositioner"></span>Section 42-519</a> and are subject to approval by the city council after report by the planning and
+                              zoning commission. See <a href="https://library.municode.com/mo/mexico/codes/code_of_ordinances?nodeId=COOR_CH42ZO_ARTXIADUSRE_S42-681PENECO" data-chunk-id="COOR_CH42ZO_ARTXIADUSRE_S42-681PENECO" class="section-link" data-product-id="11095"><span class="popoverPositioner"></span>Section 42-681</a> for Approval procedures for these uses.
+                              </td>
+                        </tr>
+                        <tr>
+                           <td class=" top ">
+                              Wind Energy Conversion System
+                              </td>
+                           <td class=" top "></td>
+                           <td class=" top "></td>
+                           <td class=" top "></td>
+                           <td class=" top "></td>
+                           <td class=" top "></td>
+                           <td class=" top "></td>
+                           <td class=" top "></td>
+                           <td class=" top "></td>
+                           <td class=" top "></td>
+                           <td class=" top ">
+                              P
+                              </td>
+                           <td class=" top ">
+                              See <a href="https://library.municode.com/mo/mexico/codes/code_of_ordinances?nodeId=COOR_CH42ZO_ARTVIIIAGDI_S42-534USRE" data-chunk-id="COOR_CH42ZO_ARTVIIIAGDI_S42-534USRE" class="section-link" data-product-id="11095"><span class="popoverPositioner"></span>Section 42-534</a>
+                              </td>
+                        </tr>
+                        <tr>
+                           <td class=" top ">
+                              Electric Substations for public and quasi-public utilities
+                              </td>
+                           <td class=" top "></td>
+                           <td class=" top "></td>
+                           <td class=" top "></td>
+                           <td class=" top "></td>
+                           <td class=" top "></td>
+                           <td class=" top "></td>
+                           <td class=" top "></td>
+                           <td class=" top "></td>
+                           <td class=" top "></td>
+                           <td class=" top ">
+                              P
+                              </td>
+                           <td class=" top ">
+                              See <a href="https://library.municode.com/mo/mexico/codes/code_of_ordinances?nodeId=COOR_CH42ZO_ARTVIIIAGDI_S42-534USRE" data-chunk-id="COOR_CH42ZO_ARTVIIIAGDI_S42-534USRE" class="section-link" data-product-id="11095"><span class="popoverPositioner"></span>Section 42-534</a>
+                              </td>
+                        </tr>
+                        <tr>
+                           <td class=" top ">
+                              Railroad
+                              </td>
+                           <td class=" top "></td>
+                           <td class=" top "></td>
+                           <td class=" top "></td>
+                           <td class=" top "></td>
+                           <td class=" top "></td>
+                           <td class=" top "></td>
+                           <td class=" top "></td>
+                           <td class=" top "></td>
+                           <td class=" top "></td>
+                           <td class=" top ">
+                              P
+                              </td>
+                           <td class=" top ">
+                              See <a href="https://library.municode.com/mo/mexico/codes/code_of_ordinances?nodeId=COOR_CH42ZO_ARTVIIIAGDI_S42-534USRE" data-chunk-id="COOR_CH42ZO_ARTVIIIAGDI_S42-534USRE" class="section-link" data-product-id="11095"><span class="popoverPositioner"></span>Section 42-534</a>
+                              </td>
+                        </tr>
+                        <tr>
+                           <td colspan="12" class=" top ">
+                              See section 42.678 for additional uses authorized upon permit obtained in any zoning
+                              district.
+                              <br>
+                              All uses must adhere to the maximum height and minimum front, side and rear building
+                              setbacks, lot area, lot width and lot size requires per the Height and Area Table
+                              in <a href="https://library.municode.com/mo/mexico/codes/code_of_ordinances?nodeId=COOR_CH42ZO_ARTIXHEARRE_DIV2RE_S42-579HEARTA" data-chunk-id="COOR_CH42ZO_ARTIXHEARRE_DIV2RE_S42-579HEARTA" class="section-link" data-product-id="11095"><span class="popoverPositioner"></span>Sec. 42-579</a>.
+                              <br>
+                              R-1, R-2, R-3A, R-3B, C-1, C-2 and C-3 allow for any other use of similar character
+                              which is not objectionable by reason of the emission of odor, dust, smoke, gas fumes,
+                              noise or vibration or which is not specifically prohibited, or regulated in article
+                              VII of <a href="https://library.municode.com/mo/mexico/codes/code_of_ordinances?nodeId=COOR_CH42ZO" data-chunk-id="COOR_CH42ZO" class="section-link" data-product-id="11095"><span class="popoverPositioner"></span>Chapter 42</a>.
+                              </td>
+                        </tr>
+                        <tr>
+                           <td colspan="12" class=" top ">
+                              <span class="bold">Accessory Use Table</span>
+                              </td>
+                        </tr>
+                        <tr>
+                           <td style="background-color: LightGray; " class="hasbg top ">
+                              Zoning District
+                              </td>
+                           <td style="background-color: LightGray; " class="hasbg top ">
+                              R-1
+                              </td>
+                           <td style="background-color: LightGray; " class="hasbg top ">
+                              R-2
+                              </td>
+                           <td style="background-color: LightGray; " class="hasbg top ">
+                              R-3A
+                              </td>
+                           <td style="background-color: LightGray; " class="hasbg top ">
+                              R-3B
+                              </td>
+                           <td style="background-color: LightGray; " class="hasbg top ">
+                              C-1
+                              </td>
+                           <td style="background-color: LightGray; " class="hasbg top ">
+                              C-2
+                              </td>
+                           <td style="background-color: LightGray; " class="hasbg top ">
+                              C-3
+                              </td>
+                           <td style="background-color: LightGray; " class="hasbg top ">
+                              I-1
+                              </td>
+                           <td style="background-color: LightGray; " class="hasbg top ">
+                              I-2
+                              </td>
+                           <td style="background-color: LightGray; " class="hasbg top ">
+                              A
+                              </td>
+                           <td style="background-color: LightGray; " class="hasbg top ">
+                              Additional Comments
+                              </td>
+                        </tr>
+                        <tr>
+                           <td class=" top ">
+                              Accessory Building or Use
+                              </td>
+                           <td class=" top ">
+                              P
+                              </td>
+                           <td class=" top ">
+                              P
+                              </td>
+                           <td class=" top ">
+                              P
+                              </td>
+                           <td class=" top ">
+                              P
+                              </td>
+                           <td class=" top ">
+                              P
+                              </td>
+                           <td class=" top ">
+                              P
+                              </td>
+                           <td class=" top ">
+                              P
+                              </td>
+                           <td class=" top ">
+                              P
+                              </td>
+                           <td class=" top ">
+                              P
+                              </td>
+                           <td class=" top ">
+                              P
+                              </td>
+                           <td class=" top ">
+                              In all Districts, Accessory Buildings and Uses are subject to Section 42- 622; In
+                              A, these buildings and uses are subject to <a href="https://library.municode.com/mo/mexico/codes/code_of_ordinances?nodeId=COOR_CH42ZO_ARTVIIIAGDI_S42-534USRE" data-chunk-id="COOR_CH42ZO_ARTVIIIAGDI_S42-534USRE" class="section-link" data-product-id="11095"><span class="popoverPositioner"></span>42-534</a>
+                              </td>
+                        </tr>
+                        <tr>
+                           <td class=" top ">
+                              Roadside Stand for the display or sale of agricultural products
+                              </td>
+                           <td class=" top ">
+                              P
+                              </td>
+                           <td class=" top ">
+                              P
+                              </td>
+                           <td class=" top ">
+                              P
+                              </td>
+                           <td class=" top ">
+                              P
+                              </td>
+                           <td class=" top ">
+                              P
+                              </td>
+                           <td class=" top ">
+                              P
+                              </td>
+                           <td class=" top ">
+                              P
+                              </td>
+                           <td class=" top ">
+                              P
+                              </td>
+                           <td class=" top ">
+                              P
+                              </td>
+                           <td class=" top ">
+                              P
+                              </td>
+                           <td class=" top ">
+                              Seasonal sale of produce grown on site is allowed as accessory use in all districts,
+                              subject to requirements of <a href="https://library.municode.com/mo/mexico/codes/code_of_ordinances?nodeId=COOR_CH42ZO_ARTXIADUSRE_S42-678ADBUUSAUUPPEOBGE" data-chunk-id="COOR_CH42ZO_ARTXIADUSRE_S42-678ADBUUSAUUPPEOBGE" class="section-link" data-product-id="11095"><span class="popoverPositioner"></span>Section 42-678</a> first being met.
+                              </td>
+                        </tr>
+                        <tr>
+                           <td class=" top ">
+                              Tasting rooms associated with wine, beer, or distillery.
+                              </td>
+                           <td class=" top "></td>
+                           <td class=" top "></td>
+                           <td class=" top "></td>
+                           <td class=" top "></td>
+                           <td class=" top "></td>
+                           <td class=" top ">
+                              P
+                              </td>
+                           <td class=" top ">
+                              P
+                              </td>
+                           <td class=" top ">
+                              P
+                              </td>
+                           <td class=" top "></td>
+                           <td class=" top ">
+                              P
+                              </td>
+                           <td class=" top ">
+                              Tasting room shall be comprised of 20% or less of gross floor area of principal building
+                              </td>
+                        </tr>
+                     </tbody>
+                  </table>

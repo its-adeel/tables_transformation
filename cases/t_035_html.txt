@@ -1,0 +1,1409 @@
+<table class="thead3 table left makeExpandableTable makeFixedTable" cellpadding="3" cellspacing="0" border="1" rules="all">
+                     <colgroup class="std">
+                        <col width="42.857142857142854%">
+                        <col width="14.285714285714286%">
+                        <col width="14.285714285714286%">
+                        <col width="28.571428571428573%">
+                     </colgroup>
+                     <thead><tr>
+                           <th colspan="4" class=" top ">
+                              TABLE 24-13-1 PERMITTED LAND USES IN THE AGRICULTURE ZONES [1] [2]
+                              </th>
+                        </tr><tr>
+                           <th rowspan="2" colspan="1" class=" top ">
+                              <span class="bold">Key</span>
+                              <br>
+                              <span class="bold">P</span> Permitted use, subject to Zoning Clearance
+                              <br><span class="bold">A</span> Administrative Permit required
+                              <br><span class="bold">M</span> Minor Use Permit required
+                              <br><span class="bold">C</span> Conditional Use Permit required
+                              <br><span class="bold">-</span> Use not allowed
+                              </th>
+                           <th colspan="2" class=" top ">
+                              Zone
+                              </th>
+                           <th rowspan="2" class=" top ">
+                              Applicable
+                              <br>
+                              Regulations
+                              </th>
+                        </tr><tr>
+                           <th class=" top ">
+                              AG
+                              </th>
+                           <th class=" top ">
+                              AS
+                              </th>
+                        </tr></thead><tbody>
+                        
+                        
+                        
+                        <tr>
+                           <td colspan="4" class=" top ">
+                              <span class="bold">Agricultural Uses</span>
+                              </td>
+                        </tr>
+                        <tr>
+                           <td class=" top ">
+                              Agricultural Processing
+                              </td>
+                           <td class=" top ">
+                              P
+                              </td>
+                           <td class=" top ">
+                              P
+                              </td>
+                           <td class=" top "></td>
+                        </tr>
+                        <tr>
+                           <td class=" top ">
+                              Animal Grazing
+                              </td>
+                           <td class=" top ">
+                              P
+                              </td>
+                           <td class=" top ">
+                              P
+                              </td>
+                           <td class=" top "></td>
+                        </tr>
+                        <tr>
+                           <td class=" top ">
+                              Animal Processing
+                              </td>
+                           <td class=" top ">
+                              C
+                              </td>
+                           <td class=" top ">
+                              C
+                              </td>
+                           <td class=" top "></td>
+                        </tr>
+                        <tr>
+                           <td class=" top ">
+                              Animal Processing, Custom
+                              </td>
+                           <td class=" top ">
+                              P
+                              </td>
+                           <td class=" top ">
+                              P
+                              </td>
+                           <td class=" top "></td>
+                        </tr>
+                        <tr>
+                           <td class=" top ">
+                              Crop Cultivation
+                              </td>
+                           <td class=" top ">
+                              P
+                              </td>
+                           <td class=" top ">
+                              P
+                              </td>
+                           <td class=" top "></td>
+                        </tr>
+                        <tr>
+                           <td class=" top ">
+                              Feed Store
+                              </td>
+                           <td class=" top ">
+                              C
+                              </td>
+                           <td class=" top ">
+                              P
+                              </td>
+                           <td class=" top "></td>
+                        </tr>
+                        <tr>
+                           <td class=" top ">
+                              Intensive Animal Operations
+                              </td>
+                           <td class=" top ">
+                              C
+                              </td>
+                           <td class=" top ">
+                              C
+                              </td>
+                           <td class=" top "></td>
+                        </tr>
+                        <tr>
+                           <td class=" top ">
+                              Stables, Commercial
+                              </td>
+                           <td class=" top ">
+                              C
+                              </td>
+                           <td class=" top ">
+                              C
+                              </td>
+                           <td class=" top "></td>
+                        </tr>
+                        <tr>
+                           <td class=" top ">
+                              Stables, Private
+                              </td>
+                           <td class=" top ">
+                              P [3]
+                              </td>
+                           <td class=" top ">
+                              P [3]
+                              </td>
+                           <td class=" top "></td>
+                        </tr>
+                        <tr>
+                           <td class=" top ">
+                              Stables, Semiprivate
+                              </td>
+                           <td class=" top ">
+                              P [3]
+                              </td>
+                           <td class=" top ">
+                              P [3]
+                              </td>
+                           <td class=" top "></td>
+                        </tr>
+                        <tr>
+                           <td colspan="4" class=" top ">
+                              <span class="bold">Natural Resource Uses</span>
+                              </td>
+                        </tr>
+                        <tr>
+                           <td class=" top ">
+                              Forestry and Logging
+                              </td>
+                           <td class=" top ">
+                              P
+                              </td>
+                           <td class=" top ">
+                              -
+                              </td>
+                           <td class=" top "></td>
+                        </tr>
+                        <tr>
+                           <td class=" top ">
+                              Mining and Surface Mining Operations
+                              </td>
+                           <td class=" top ">
+                              C
+                              </td>
+                           <td class=" top ">
+                              C
+                              </td>
+                           <td class=" top ">
+                              <a href="https://library.municode.com/ca/butte_county/codes/code_of_ordinances?nodeId=CH33BBAHYFRWIBUCO" data-chunk-id="CH33BBAHYFRWIBUCO" class="section-link" data-product-id="16065"><span class="popoverPositioner"></span>Chapter 33B</a> Butte County Code
+                              </td>
+                        </tr>
+                        <tr>
+                           <td class=" top ">
+                              Oil and Gas Extraction, including reinjection wells for natural gas
+                              </td>
+                           <td class=" top ">
+                              C
+                              </td>
+                           <td class=" top ">
+                              C
+                              </td>
+                           <td class=" top "></td>
+                        </tr>
+                        <tr>
+                           <td class=" top ">
+                              Oil and Gas Extraction, storage or disposal of Well Stimulation Byproducts
+                              </td>
+                           <td class=" top ">
+                              -
+                              </td>
+                           <td class=" top ">
+                              -
+                              </td>
+                           <td class=" top ">
+                              Section <a href="https://library.municode.com/ca/butte_county/codes/code_of_ordinances?nodeId=CH24ZO_ARTIVSUUSRE_DIV1SUUSRE_24-167.1OIGAEXTODIWESTBYPR" data-chunk-id="CH24ZO_ARTIVSUUSRE_DIV1SUUSRE_24-167.1OIGAEXTODIWESTBYPR" class="section-link" data-product-id="16065"><span class="popoverPositioner"></span>24-167.1</a>
+                              </td>
+                        </tr>
+                        <tr>
+                           <td class=" top ">
+                              Oil and Gas Extraction by means of Hydraulic Fracturing
+                              </td>
+                           <td class=" top ">
+                              -
+                              </td>
+                           <td class=" top ">
+                              -
+                              </td>
+                           <td class=" top ">
+                              Butte County Code 33B
+                              </td>
+                        </tr>
+                        <tr>
+                           <td class=" top ">
+                              Timber Processing
+                              </td>
+                           <td class=" top ">
+                              -
+                              </td>
+                           <td class=" top ">
+                              -
+                              </td>
+                           <td class=" top "></td>
+                        </tr>
+                        <tr>
+                           <td colspan="4" class=" top ">
+                              <span class="bold">Residential Uses</span>
+                              </td>
+                        </tr>
+                        <tr>
+                           <td class=" top ">
+                              Accessory Dwelling Units
+                              </td>
+                           <td class=" top ">
+                              P [4]
+                              </td>
+                           <td class=" top ">
+                              -
+                              </td>
+                           <td class=" top ">
+                              Section <a href="https://library.municode.com/ca/butte_county/codes/code_of_ordinances?nodeId=CH24ZO_ARTIVSUUSRE_DIV1SUUSRE_24-172ACDWUNJUACDWUN" data-chunk-id="CH24ZO_ARTIVSUUSRE_DIV1SUUSRE_24-172ACDWUNJUACDWUN" class="section-link" data-product-id="16065"><span class="popoverPositioner"></span>24-172</a>
+                              </td>
+                        </tr>
+                        <tr>
+                           <td class=" top ">
+                              Agricultural Worker Housing Center
+                              </td>
+                           <td class=" top ">
+                              A[3]
+                              </td>
+                           <td class=" top ">
+                              -
+                              </td>
+                           <td class=" top ">
+                              Section <a href="https://library.municode.com/ca/butte_county/codes/code_of_ordinances?nodeId=CH24ZO_ARTIIZODILAUSDEST_DIV1AGZO_24-14DESTAGZO" data-chunk-id="CH24ZO_ARTIIZODILAUSDEST_DIV1AGZO_24-14DESTAGZO" class="section-link" data-product-id="16065"><span class="popoverPositioner"></span>24-14</a> (G)
+                              </td>
+                        </tr>
+                        <tr>
+                           <td class=" top ">
+                              Caretaker Quarters
+                              </td>
+                           <td class=" top ">
+                              -
+                              </td>
+                           <td class=" top ">
+                              A [3]
+                              </td>
+                           <td class=" top "></td>
+                        </tr>
+                        <tr>
+                           <td class=" top ">
+                              Duplex Home
+                              </td>
+                           <td class=" top ">
+                              -
+                              </td>
+                           <td class=" top ">
+                              -
+                              </td>
+                           <td class=" top "></td>
+                        </tr>
+                        <tr>
+                           <td class=" top ">
+                              Home Occupations - Major
+                              </td>
+                           <td class=" top ">
+                              M
+                              </td>
+                           <td class=" top ">
+                              -
+                              </td>
+                           <td class=" top ">
+                              Section <a href="https://library.municode.com/ca/butte_county/codes/code_of_ordinances?nodeId=CH24ZO_ARTIVSUUSRE_DIV1SUUSRE_24-162HOOC" data-chunk-id="CH24ZO_ARTIVSUUSRE_DIV1SUUSRE_24-162HOOC" class="section-link" data-product-id="16065"><span class="popoverPositioner"></span>24-162</a>
+                              </td>
+                        </tr>
+                        <tr>
+                           <td class=" top ">
+                              Home Occupations - Minor
+                              </td>
+                           <td class=" top ">
+                              A
+                              </td>
+                           <td class=" top ">
+                              -
+                              </td>
+                           <td class=" top ">
+                              Section <a href="https://library.municode.com/ca/butte_county/codes/code_of_ordinances?nodeId=CH24ZO_ARTIVSUUSRE_DIV1SUUSRE_24-162HOOC" data-chunk-id="CH24ZO_ARTIVSUUSRE_DIV1SUUSRE_24-162HOOC" class="section-link" data-product-id="16065"><span class="popoverPositioner"></span>24-162</a>
+                              </td>
+                        </tr>
+                        <tr>
+                           <td class=" top ">
+                              Live/Work Unit
+                              </td>
+                           <td class=" top ">
+                              -
+                              </td>
+                           <td class=" top ">
+                              -
+                              </td>
+                           <td class=" top "></td>
+                        </tr>
+                        <tr>
+                           <td class=" top ">
+                              Mobile Home Park
+                              </td>
+                           <td class=" top ">
+                              -
+                              </td>
+                           <td class=" top ">
+                              -
+                              </td>
+                           <td class=" top "></td>
+                        </tr>
+                        <tr>
+                           <td class=" top ">
+                              Multiple-Family Dwelling
+                              </td>
+                           <td class=" top ">
+                              -
+                              </td>
+                           <td class=" top ">
+                              -
+                              </td>
+                           <td class=" top "></td>
+                        </tr>
+                        <tr>
+                           <td class=" top ">
+                              Residential Care Homes, Large
+                              </td>
+                           <td class=" top ">
+                              -
+                              </td>
+                           <td class=" top ">
+                              -
+                              </td>
+                           <td class=" top "></td>
+                        </tr>
+                        <tr>
+                           <td class=" top ">
+                              Residential Care Homes, Small
+                              </td>
+                           <td class=" top ">
+                              P
+                              </td>
+                           <td class=" top ">
+                              -
+                              </td>
+                           <td class=" top "></td>
+                        </tr>
+                        <tr>
+                           <td class=" top ">
+                              Single-Family Home
+                              </td>
+                           <td class=" top ">
+                              P [4]
+                              </td>
+                           <td class=" top ">
+                              -
+                              </td>
+                           <td class=" top "></td>
+                        </tr>
+                        <tr>
+                           <td class=" top ">
+                              Short-Term Rental
+                              </td>
+                           <td class=" top ">
+                              A
+                              </td>
+                           <td class=" top ">
+                              -
+                              </td>
+                           <td class=" top ">
+                              Section <a href="https://library.municode.com/ca/butte_county/codes/code_of_ordinances?nodeId=CH24ZO_ARTIVSUUSRE_DIV1SUUSRE_24-172.1BUCOSHRMREOR" data-chunk-id="CH24ZO_ARTIVSUUSRE_DIV1SUUSRE_24-172.1BUCOSHRMREOR" class="section-link" data-product-id="16065"><span class="popoverPositioner"></span>24-172.1</a>
+                              </td>
+                        </tr>
+                        <tr>
+                           <td colspan="4" class=" top ">
+                              <span class="bold">Community Uses</span>
+                              </td>
+                        </tr>
+                        <tr>
+                           <td class=" top ">
+                              Cemeteries, Private
+                              </td>
+                           <td class=" top ">
+                              -
+                              </td>
+                           <td class=" top ">
+                              -
+                              </td>
+                           <td class=" top "></td>
+                        </tr>
+                        <tr>
+                           <td class=" top ">
+                              Cemeteries, Public
+                              </td>
+                           <td class=" top ">
+                              -
+                              </td>
+                           <td class=" top ">
+                              -
+                              </td>
+                           <td class=" top "></td>
+                        </tr>
+                        <tr>
+                           <td class=" top ">
+                              Child Care Center
+                              </td>
+                           <td class=" top ">
+                              -
+                              </td>
+                           <td class=" top ">
+                              -
+                              </td>
+                           <td class=" top "></td>
+                        </tr>
+                        <tr>
+                           <td class=" top ">
+                              Clubs, Lodges and Private Meeting Halls
+                              </td>
+                           <td class=" top ">
+                              M [5]
+                              </td>
+                           <td class=" top ">
+                              M [5]
+                              </td>
+                           <td class=" top "></td>
+                        </tr>
+                        <tr>
+                           <td class=" top ">
+                              Community Centers
+                              </td>
+                           <td class=" top ">
+                              -
+                              </td>
+                           <td class=" top ">
+                              -
+                              </td>
+                           <td class=" top "></td>
+                        </tr>
+                        <tr>
+                           <td class=" top ">
+                              Correctional Institutions and Facilities
+                              </td>
+                           <td class=" top ">
+                              -
+                              </td>
+                           <td class=" top ">
+                              -
+                              </td>
+                           <td class=" top "></td>
+                        </tr>
+                        <tr>
+                           <td class=" top ">
+                              Cultural Institutions
+                              </td>
+                           <td class=" top ">
+                              C
+                              </td>
+                           <td class=" top ">
+                              -
+                              </td>
+                           <td class=" top "></td>
+                        </tr>
+                        <tr>
+                           <td class=" top ">
+                              Emergency Shelter
+                              </td>
+                           <td class=" top ">
+                              -
+                              </td>
+                           <td class=" top ">
+                              -
+                              </td>
+                           <td class=" top "></td>
+                        </tr>
+                        <tr>
+                           <td class=" top ">
+                              Golf Courses and Country Clubs
+                              </td>
+                           <td class=" top ">
+                              -
+                              </td>
+                           <td class=" top ">
+                              -
+                              </td>
+                           <td class=" top "></td>
+                        </tr>
+                        <tr>
+                           <td class=" top ">
+                              Family Daycare Home, Large
+                              </td>
+                           <td class=" top ">
+                              P
+                              </td>
+                           <td class=" top ">
+                              -
+                              </td>
+                           <td class=" top ">
+                              Section <a href="https://library.municode.com/ca/butte_county/codes/code_of_ordinances?nodeId=CH24ZO_ARTIVSUUSRE_DIV1SUUSRE_24-159CHCAFA" data-chunk-id="CH24ZO_ARTIVSUUSRE_DIV1SUUSRE_24-159CHCAFA" class="section-link" data-product-id="16065"><span class="popoverPositioner"></span>24-159</a>
+                              </td>
+                        </tr>
+                        <tr>
+                           <td class=" top ">
+                              Family Daycare Home, Small
+                              </td>
+                           <td class=" top ">
+                              P
+                              </td>
+                           <td class=" top ">
+                              -
+                              </td>
+                           <td class=" top ">
+                              Section <a href="https://library.municode.com/ca/butte_county/codes/code_of_ordinances?nodeId=CH24ZO_ARTIVSUUSRE_DIV1SUUSRE_24-159CHCAFA" data-chunk-id="CH24ZO_ARTIVSUUSRE_DIV1SUUSRE_24-159CHCAFA" class="section-link" data-product-id="16065"><span class="popoverPositioner"></span>24-159</a>
+                              </td>
+                        </tr>
+                        <tr>
+                           <td class=" top ">
+                              Hospital
+                              </td>
+                           <td class=" top ">
+                              -
+                              </td>
+                           <td class=" top ">
+                              -
+                              </td>
+                           <td class=" top "></td>
+                        </tr>
+                        <tr>
+                           <td class=" top ">
+                              Office, Governmental
+                              </td>
+                           <td class=" top ">
+                              -
+                              </td>
+                           <td class=" top ">
+                              -
+                              </td>
+                           <td class=" top "></td>
+                        </tr>
+                        <tr>
+                           <td class=" top ">
+                              Outdoor Education
+                              </td>
+                           <td class=" top ">
+                              P
+                              </td>
+                           <td class=" top ">
+                              -
+                              </td>
+                           <td class=" top "></td>
+                        </tr>
+                        <tr>
+                           <td class=" top ">
+                              Parks and Recreational Facilities
+                              </td>
+                           <td class=" top ">
+                              C
+                              </td>
+                           <td class=" top ">
+                              C
+                              </td>
+                           <td class=" top "></td>
+                        </tr>
+                        <tr>
+                           <td class=" top ">
+                              Public Safety Facilities
+                              </td>
+                           <td class=" top ">
+                              C
+                              </td>
+                           <td class=" top ">
+                              C
+                              </td>
+                           <td class=" top "></td>
+                        </tr>
+                        <tr>
+                           <td class=" top ">
+                              Religious Facilities
+                              </td>
+                           <td class=" top ">
+                              C
+                              </td>
+                           <td class=" top ">
+                              C
+                              </td>
+                           <td class=" top "></td>
+                        </tr>
+                        <tr>
+                           <td class=" top ">
+                              Schools, Public and Private
+                              </td>
+                           <td class=" top ">
+                              -
+                              </td>
+                           <td class=" top ">
+                              -
+                              </td>
+                           <td class=" top "></td>
+                        </tr>
+                        <tr>
+                           <td class=" top ">
+                              Water Ski Lakes
+                              </td>
+                           <td class=" top ">
+                              -
+                              </td>
+                           <td class=" top ">
+                              -
+                              </td>
+                           <td class=" top "></td>
+                        </tr>
+                        <tr>
+                           <td colspan="4" class=" top ">
+                              <span class="bold">Commercial Uses</span>
+                              </td>
+                        </tr>
+                        <tr>
+                           <td class=" top ">
+                              Adult Businesses
+                              </td>
+                           <td class=" top ">
+                              -
+                              </td>
+                           <td class=" top ">
+                              -
+                              </td>
+                           <td class=" top "></td>
+                        </tr>
+                        <tr>
+                           <td class=" top ">
+                              Agricultural Product Sales, Off-Site
+                              </td>
+                           <td class=" top ">
+                              M
+                              </td>
+                           <td class=" top ">
+                              M
+                              </td>
+                           <td class=" top "></td>
+                        </tr>
+                        <tr>
+                           <td class=" top ">
+                              Agricultural Product Sales, On-Site
+                              </td>
+                           <td class=" top ">
+                              P
+                              </td>
+                           <td class=" top ">
+                              P
+                              </td>
+                           <td class=" top "></td>
+                        </tr>
+                        <tr>
+                           <td class=" top ">
+                              Agricultural Support Services, General
+                              </td>
+                           <td class=" top ">
+                              -
+                              </td>
+                           <td class=" top ">
+                              C
+                              </td>
+                           <td class=" top "></td>
+                        </tr>
+                        <tr>
+                           <td class=" top ">
+                              Agricultural Support Services, Light
+                              </td>
+                           <td class=" top ">
+                              -
+                              </td>
+                           <td class=" top ">
+                              P
+                              </td>
+                           <td class=" top "></td>
+                        </tr>
+                        <tr>
+                           <td class=" top ">
+                              Animal Services
+                              </td>
+                           <td class=" top ">
+                              C [7]
+                              </td>
+                           <td class=" top ">
+                              C
+                              </td>
+                           <td class=" top ">
+                              Section <a href="https://library.municode.com/ca/butte_county/codes/code_of_ordinances?nodeId=CH24ZO_ARTIVSUUSRE_DIV1SUUSRE_24-158ANKE" data-chunk-id="CH24ZO_ARTIVSUUSRE_DIV1SUUSRE_24-158ANKE" class="section-link" data-product-id="16065"><span class="popoverPositioner"></span>24-158</a>
+                              </td>
+                        </tr>
+                        <tr>
+                           <td class=" top ">
+                              Animal Processing, Limited
+                              </td>
+                           <td class=" top ">
+                              -
+                              </td>
+                           <td class=" top ">
+                              -
+                              </td>
+                           <td class=" top "></td>
+                        </tr>
+                        <tr>
+                           <td class=" top ">
+                              Assessment Facility
+                              </td>
+                           <td class=" top ">
+                              -
+                              </td>
+                           <td class=" top ">
+                              -
+                              </td>
+                           <td class=" top "></td>
+                        </tr>
+                        <tr>
+                           <td class=" top ">
+                              Bars, Nightclubs and Lounges
+                              </td>
+                           <td class=" top ">
+                              -
+                              </td>
+                           <td class=" top ">
+                              -
+                              </td>
+                           <td class=" top "></td>
+                        </tr>
+                        <tr>
+                           <td class=" top ">
+                              Bed and Breakfast
+                              </td>
+                           <td class=" top ">
+                              M
+                              </td>
+                           <td class=" top ">
+                              -
+                              </td>
+                           <td class=" top "></td>
+                        </tr>
+                        <tr>
+                           <td class=" top ">
+                              Commercial Recreation, Indoor
+                              </td>
+                           <td class=" top ">
+                              -
+                              </td>
+                           <td class=" top ">
+                              -
+                              </td>
+                           <td class=" top "></td>
+                        </tr>
+                        <tr>
+                           <td class=" top ">
+                              Commercial Recreation, Outdoor
+                              </td>
+                           <td class=" top ">
+                              -
+                              </td>
+                           <td class=" top ">
+                              -
+                              </td>
+                           <td class=" top "></td>
+                        </tr>
+                        <tr>
+                           <td class=" top ">
+                              Construction, Maintenance and Repair Services
+                              </td>
+                           <td class=" top ">
+                              -
+                              </td>
+                           <td class=" top ">
+                              -
+                              </td>
+                           <td class=" top "></td>
+                        </tr>
+                        <tr>
+                           <td class=" top ">
+                              Drive-through Facility
+                              </td>
+                           <td class=" top ">
+                              -
+                              </td>
+                           <td class=" top ">
+                              -
+                              </td>
+                           <td class=" top "></td>
+                        </tr>
+                        <tr>
+                           <td class=" top ">
+                              Equipment Sales and Rental
+                              </td>
+                           <td class=" top ">
+                              -
+                              </td>
+                           <td class=" top ">
+                              -
+                              </td>
+                           <td class=" top "></td>
+                        </tr>
+                        <tr>
+                           <td class=" top ">
+                              Firewood Storage, Processing and Off-Site Sales, Small
+                              </td>
+                           <td class=" top ">
+                              P
+                              </td>
+                           <td class=" top ">
+                              P
+                              </td>
+                           <td class=" top "></td>
+                        </tr>
+                        <tr>
+                           <td class=" top ">
+                              Firewood Storage, Processing and Off-Site Sales, Medium
+                              </td>
+                           <td class=" top ">
+                              M
+                              </td>
+                           <td class=" top ">
+                              M
+                              </td>
+                           <td class=" top "></td>
+                        </tr>
+                        <tr>
+                           <td class=" top ">
+                              Firewood Storage, Processing and Off-Site/On-Site Sales, Large
+                              </td>
+                           <td class=" top ">
+                              C
+                              </td>
+                           <td class=" top ">
+                              C
+                              </td>
+                           <td class=" top "></td>
+                        </tr>
+                        <tr>
+                           <td class=" top ">
+                              Gas and Service Stations
+                              </td>
+                           <td class=" top ">
+                              -
+                              </td>
+                           <td class=" top ">
+                              -
+                              </td>
+                           <td class=" top "></td>
+                        </tr>
+                        <tr>
+                           <td class=" top ">
+                              Heavy Equipment Storage
+                              </td>
+                           <td class=" top ">
+                              P
+                              </td>
+                           <td class=" top ">
+                              P
+                              </td>
+                           <td class=" top ">
+                              Section 24-173
+                              </td>
+                        </tr>
+                        <tr>
+                           <td class=" top ">
+                              Hotel and Motel
+                              </td>
+                           <td class=" top ">
+                              -
+                              </td>
+                           <td class=" top ">
+                              -
+                              </td>
+                           <td class=" top "></td>
+                        </tr>
+                        <tr>
+                           <td class=" top ">
+                              Hunting and Fishing Clubs
+                              </td>
+                           <td class=" top ">
+                              P [7]
+                              </td>
+                           <td class=" top ">
+                              -
+                              </td>
+                           <td class=" top "></td>
+                        </tr>
+                        <tr>
+                           <td class=" top ">
+                              Medical Offices and Clinics
+                              </td>
+                           <td class=" top ">
+                              -
+                              </td>
+                           <td class=" top ">
+                              -
+                              </td>
+                           <td class=" top "></td>
+                        </tr>
+                        <tr>
+                           <td class=" top ">
+                              Offices, Professional
+                              </td>
+                           <td class=" top ">
+                              -
+                              </td>
+                           <td class=" top ">
+                              -
+                              </td>
+                           <td class=" top "></td>
+                        </tr>
+                        <tr>
+                           <td class=" top ">
+                              Nursery, Retail
+                              </td>
+                           <td class=" top ">
+                              -
+                              </td>
+                           <td class=" top ">
+                              -
+                              </td>
+                           <td class=" top "></td>
+                        </tr>
+                        <tr>
+                           <td class=" top ">
+                              Nursery, Wholesale
+                              </td>
+                           <td class=" top ">
+                              P
+                              </td>
+                           <td class=" top ">
+                              P
+                              </td>
+                           <td class=" top "></td>
+                        </tr>
+                        <tr>
+                           <td class=" top ">
+                              Personal Services
+                              </td>
+                           <td class=" top ">
+                              -
+                              </td>
+                           <td class=" top ">
+                              -
+                              </td>
+                           <td class=" top "></td>
+                        </tr>
+                        <tr>
+                           <td class=" top ">
+                              Personal Services, Restricted
+                              </td>
+                           <td class=" top ">
+                              -
+                              </td>
+                           <td class=" top ">
+                              -
+                              </td>
+                           <td class=" top "></td>
+                        </tr>
+                        <tr>
+                           <td class=" top ">
+                              Public/Mini-Storage
+                              </td>
+                           <td class=" top ">
+                              -
+                              </td>
+                           <td class=" top ">
+                              -
+                              </td>
+                           <td class=" top "></td>
+                        </tr>
+                        <tr>
+                           <td class=" top ">
+                              Recreational Vehicle Parks
+                              </td>
+                           <td class=" top ">
+                              A [7]
+                              </td>
+                           <td class=" top ">
+                              A [7]
+                              </td>
+                           <td class=" top "></td>
+                        </tr>
+                        <tr>
+                           <td class=" top ">
+                              Restaurant
+                              </td>
+                           <td class=" top ">
+                              -
+                              </td>
+                           <td class=" top ">
+                              -
+                              </td>
+                           <td class=" top "></td>
+                        </tr>
+                        <tr>
+                           <td class=" top ">
+                              Retail, General
+                              </td>
+                           <td class=" top ">
+                              -
+                              </td>
+                           <td class=" top ">
+                              -
+                              </td>
+                           <td class=" top "></td>
+                        </tr>
+                        <tr>
+                           <td class=" top ">
+                              Retail, Large Projects
+                              </td>
+                           <td class=" top ">
+                              -
+                              </td>
+                           <td class=" top ">
+                              -
+                              </td>
+                           <td class=" top ">
+                              Section <a href="https://library.municode.com/ca/butte_county/codes/code_of_ordinances?nodeId=CH24ZO_ARTIVSUUSRE_DIV1SUUSRE_24-163LAREPR" data-chunk-id="CH24ZO_ARTIVSUUSRE_DIV1SUUSRE_24-163LAREPR" class="section-link" data-product-id="16065"><span class="popoverPositioner"></span>24-163</a>
+                              </td>
+                        </tr>
+                        <tr>
+                           <td class=" top ">
+                              Retail, Restricted
+                              </td>
+                           <td class=" top ">
+                              -
+                              </td>
+                           <td class=" top ">
+                              -
+                              </td>
+                           <td class=" top "></td>
+                        </tr>
+                        <tr>
+                           <td class=" top ">
+                              Vehicle Repair
+                              </td>
+                           <td class=" top ">
+                              -
+                              </td>
+                           <td class=" top ">
+                              -
+                              </td>
+                           <td class=" top "></td>
+                        </tr>
+                        <tr>
+                           <td class=" top ">
+                              Vehicle Sales and Rental
+                              </td>
+                           <td class=" top ">
+                              -
+                              </td>
+                           <td class=" top ">
+                              -
+                              </td>
+                           <td class=" top "></td>
+                        </tr>
+                        <tr>
+                           <td class=" top ">
+                              Vehicle Service and Maintenance
+                              </td>
+                           <td class=" top ">
+                              -
+                              </td>
+                           <td class=" top ">
+                              -
+                              </td>
+                           <td class=" top "></td>
+                        </tr>
+                        <tr>
+                           <td class=" top ">
+                              Wine, Olive Oil, Fruit and Nut, Micro-Brewery and Micro-Distillery Facilities
+                              </td>
+                           <td class=" top ">
+                              Section <a href="https://library.municode.com/ca/butte_county/codes/code_of_ordinances?nodeId=CH24ZO_ARTIVSUUSRE_DIV1SUUSRE_24-175WIOLOIFRNUMIEWMISTPRFA" data-chunk-id="CH24ZO_ARTIVSUUSRE_DIV1SUUSRE_24-175WIOLOIFRNUMIEWMISTPRFA" class="section-link" data-product-id="16065"><span class="popoverPositioner"></span>24-175</a>
+                              </td>
+                           <td class=" top "></td>
+                           <td class=" top "></td>
+                        </tr>
+                        <tr>
+                           <td colspan="4" class=" top ">
+                              <span class="bold">Industrial Uses</span>
+                              </td>
+                        </tr>
+                        <tr>
+                           <td class=" top ">
+                              Composting Facilities
+                              </td>
+                           <td class=" top ">
+                              M
+                              </td>
+                           <td class=" top ">
+                              M
+                              </td>
+                           <td class=" top "></td>
+                        </tr>
+                        <tr>
+                           <td class=" top ">
+                              Manufacturing, General
+                              </td>
+                           <td class=" top ">
+                              -
+                              </td>
+                           <td class=" top ">
+                              - [6]
+                              </td>
+                           <td class=" top "></td>
+                        </tr>
+                        <tr>
+                           <td class=" top ">
+                              Manufacturing, Heavy
+                              </td>
+                           <td class=" top ">
+                              -
+                              </td>
+                           <td class=" top ">
+                              - [6]
+                              </td>
+                           <td class=" top "></td>
+                        </tr>
+                        <tr>
+                           <td class=" top ">
+                              Manufacturing, Light
+                              </td>
+                           <td class=" top ">
+                              -
+                              </td>
+                           <td class=" top ">
+                              - [6]
+                              </td>
+                           <td class=" top "></td>
+                        </tr>
+                        <tr>
+                           <td class=" top ">
+                              Research and Development
+                              </td>
+                           <td class=" top ">
+                              -
+                              </td>
+                           <td class=" top ">
+                              -
+                              </td>
+                           <td class=" top "></td>
+                        </tr>
+                        <tr>
+                           <td class=" top ">
+                              Warehousing, Wholesaling and Distribution
+                              </td>
+                           <td class=" top ">
+                              -
+                              </td>
+                           <td class=" top ">
+                              -
+                              </td>
+                           <td class=" top ">
+                              Transportation, Communication, and Utility Uses
+                              </td>
+                        </tr>
+                        <tr>
+                           <td class=" top ">
+                              Aerial Applicator and Support Services
+                              </td>
+                           <td class=" top ">
+                              M
+                              </td>
+                           <td class=" top ">
+                              C
+                              </td>
+                           <td class=" top "></td>
+                        </tr>
+                        <tr>
+                           <td class=" top ">
+                              Airport-Related Uses
+                              </td>
+                           <td class=" top ">
+                              -
+                              </td>
+                           <td class=" top ">
+                              -
+                              </td>
+                           <td class=" top "></td>
+                        </tr>
+                        <tr>
+                           <td class=" top ">
+                              Farm Airstrips
+                              </td>
+                           <td class=" top ">
+                              P
+                              </td>
+                           <td class=" top ">
+                              P
+                              </td>
+                           <td class=" top "></td>
+                        </tr>
+                        <tr>
+                           <td class=" top ">
+                              Freight and Truck Terminals and Yards
+                              </td>
+                           <td class=" top ">
+                              -
+                              </td>
+                           <td class=" top ">
+                              -
+                              </td>
+                           <td class=" top "></td>
+                        </tr>
+                        <tr>
+                           <td class=" top ">
+                              Recycling Collection Facility, Large
+                              </td>
+                           <td class=" top ">
+                              -
+                              </td>
+                           <td class=" top ">
+                              -
+                              </td>
+                           <td class=" top "></td>
+                        </tr>
+                        <tr>
+                           <td class=" top ">
+                              Recycling Collection Facility, Small
+                              </td>
+                           <td class=" top ">
+                              A
+                              </td>
+                           <td class=" top ">
+                              A
+                              </td>
+                           <td class=" top ">
+                              Section <a href="https://library.municode.com/ca/butte_county/codes/code_of_ordinances?nodeId=CH24ZO_ARTIVSUUSRE_DIV1SUUSRE_24-170RECOFA" data-chunk-id="CH24ZO_ARTIVSUUSRE_DIV1SUUSRE_24-170RECOFA" class="section-link" data-product-id="16065"><span class="popoverPositioner"></span>24-170</a>
+                              </td>
+                        </tr>
+                        <tr>
+                           <td class=" top ">
+                              Recycling Processing Facility, Heavy
+                              </td>
+                           <td class=" top ">
+                              -
+                              </td>
+                           <td class=" top ">
+                              -
+                              </td>
+                           <td class=" top ">
+                              Section <a href="https://library.municode.com/ca/butte_county/codes/code_of_ordinances?nodeId=CH24ZO_ARTIVSUUSRE_DIV1SUUSRE_24-170RECOFA" data-chunk-id="CH24ZO_ARTIVSUUSRE_DIV1SUUSRE_24-170RECOFA" class="section-link" data-product-id="16065"><span class="popoverPositioner"></span>24-170</a>
+                              </td>
+                        </tr>
+                        <tr>
+                           <td class=" top ">
+                              Recycling Processing Facility, Light
+                              </td>
+                           <td class=" top ">
+                              -
+                              </td>
+                           <td class=" top ">
+                              A
+                              </td>
+                           <td class=" top ">
+                              Section <a href="https://library.municode.com/ca/butte_county/codes/code_of_ordinances?nodeId=CH24ZO_ARTIVSUUSRE_DIV1SUUSRE_24-170RECOFA" data-chunk-id="CH24ZO_ARTIVSUUSRE_DIV1SUUSRE_24-170RECOFA" class="section-link" data-product-id="16065"><span class="popoverPositioner"></span>24-170</a>
+                              </td>
+                        </tr>
+                        <tr>
+                           <td class=" top ">
+                              Reverse Vending Machine
+                              </td>
+                           <td class=" top ">
+                              A
+                              </td>
+                           <td class=" top ">
+                              A
+                              </td>
+                           <td class=" top ">
+                              Section <a href="https://library.municode.com/ca/butte_county/codes/code_of_ordinances?nodeId=CH24ZO_ARTIVSUUSRE_DIV1SUUSRE_24-170RECOFA" data-chunk-id="CH24ZO_ARTIVSUUSRE_DIV1SUUSRE_24-170RECOFA" class="section-link" data-product-id="16065"><span class="popoverPositioner"></span>24-170</a>
+                              </td>
+                        </tr>
+                        <tr>
+                           <td class=" top ">
+                              Runways and Heliports
+                              </td>
+                           <td class=" top ">
+                              M [3]
+                              </td>
+                           <td class=" top ">
+                              M [3]
+                              </td>
+                           <td class=" top "></td>
+                        </tr>
+                        <tr>
+                           <td class=" top ">
+                              Telecommunications Facilities
+                              </td>
+                           <td class=" top ">
+                              Article 26
+                              </td>
+                           <td class=" top "></td>
+                        </tr>
+                        <tr>
+                           <td class=" top ">
+                              Utilities, Major
+                              </td>
+                           <td class=" top ">
+                              C [8]
+                              </td>
+                           <td class=" top ">
+                              C [8]
+                              </td>
+                           <td class=" top ">
+                              Section <a href="https://library.municode.com/ca/butte_county/codes/code_of_ordinances?nodeId=CH24ZO_ARTIVSUUSRE_DIV1SUUSRE_24-157ALENST" data-chunk-id="CH24ZO_ARTIVSUUSRE_DIV1SUUSRE_24-157ALENST" class="section-link" data-product-id="16065"><span class="popoverPositioner"></span>24-157</a>
+                              </td>
+                        </tr>
+                        <tr>
+                           <td class=" top ">
+                              Utilities, Intermediate
+                              </td>
+                           <td class=" top ">
+                              M [8]
+                              </td>
+                           <td class=" top ">
+                              M [8]
+                              </td>
+                           <td class=" top ">
+                              Section <a href="https://library.municode.com/ca/butte_county/codes/code_of_ordinances?nodeId=CH24ZO_ARTIVSUUSRE_DIV1SUUSRE_24-157ALENST" data-chunk-id="CH24ZO_ARTIVSUUSRE_DIV1SUUSRE_24-157ALENST" class="section-link" data-product-id="16065"><span class="popoverPositioner"></span>24-157</a>
+                              </td>
+                        </tr>
+                        <tr>
+                           <td class=" top ">
+                              Utilities, Accessory
+                              </td>
+                           <td class=" top ">
+                              A
+                              </td>
+                           <td class=" top ">
+                              A
+                              </td>
+                           <td class=" top ">
+                              Section <a href="https://library.municode.com/ca/butte_county/codes/code_of_ordinances?nodeId=CH24ZO_ARTIVSUUSRE_DIV1SUUSRE_24-157ALENST" data-chunk-id="CH24ZO_ARTIVSUUSRE_DIV1SUUSRE_24-157ALENST" class="section-link" data-product-id="16065"><span class="popoverPositioner"></span>24-157</a>
+                              </td>
+                        </tr>
+                        <tr>
+                           <td class=" top ">
+                              Utilities, Minor
+                              </td>
+                           <td class=" top ">
+                              P
+                              </td>
+                           <td class=" top ">
+                              P
+                              </td>
+                           <td class=" top ">
+                              Section <a href="https://library.municode.com/ca/butte_county/codes/code_of_ordinances?nodeId=CH24ZO_ARTIVSUUSRE_DIV1SUUSRE_24-157ALENST" data-chunk-id="CH24ZO_ARTIVSUUSRE_DIV1SUUSRE_24-157ALENST" class="section-link" data-product-id="16065"><span class="popoverPositioner"></span>24-157</a>
+                              </td>
+                        </tr>
+                        <tr>
+                           <td colspan="4" class=" top ">
+                              <span class="bold">Other Uses</span>
+                              </td>
+                        </tr>
+                        <tr>
+                           <td class=" top ">
+                              Accessory Uses and Structures
+                              </td>
+                           <td colspan="2" class=" top ">
+                              Section <a href="https://library.municode.com/ca/butte_county/codes/code_of_ordinances?nodeId=CH24ZO_ARTIVSUUSRE_DIV1SUUSRE_24-156ACUSST" data-chunk-id="CH24ZO_ARTIVSUUSRE_DIV1SUUSRE_24-156ACUSST" class="section-link" data-product-id="16065"><span class="popoverPositioner"></span>24-156</a>
+                              </td>
+                           <td class=" top "></td>
+                        </tr>
+                     </tbody>
+                  </table>

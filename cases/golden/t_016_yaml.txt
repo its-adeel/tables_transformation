@@ -1,6 +1,7 @@
 Table 4.12. BP and I Zone Development Standards:
   Development Feature:
     Lot size:
+      (General): Minimum area and width required for each lot in a new subdivision
       Minimum area:
         Requirement by Zone > BP Business Park: 20,000 sf
         Requirement by Zone > I Industrial: 20,000 sf
@@ -11,6 +12,7 @@ Table 4.12. BP and I Zone Development Standards:
         Requirement by Zone > BP Business Park: 100 ft
         Requirement by Zone > I Industrial: 100 ft
     Setbacks Primary structure:
+      (General): Minimum setbacks required. See Chapter 12 for modifications, reductions, and encroachments. See Chapter 7 for any setback requirements applicable to a specific land use.
       Front:
         Requirement by Zone > BP Business Park: 0 ft
         Requirement by Zone > I Industrial: 0 ft
@@ -26,26 +28,26 @@ Table 4.12. BP and I Zone Development Standards:
       Garage front:
         Requirement by Zone > BP Business Park: NA
         Requirement by Zone > I Industrial: NA
-      Detached accessory structure:
-        Requirement by Zone > BP Business Park: ''
-        Requirement by Zone > I Industrial: ''
-      Front (10):
+    Detached accessory structure:
+      Front:
         Requirement by Zone > BP Business Park: Not Permitted
         Requirement by Zone > I Industrial: Not Permitted
-      Side – Interior (each) (11):
+      Side – Interior (each):
         Requirement by Zone > BP Business Park: 4 ft
         Requirement by Zone > I Industrial: 4 ft
       Side – Street:
         Requirement by Zone > BP Business Park: 10 ft
         Requirement by Zone > I Industrial: 10 ft
-      Rear (13):
+      Rear:
         Requirement by Zone > BP Business Park: 5 ft
         Requirement by Zone > I Industrial: 5 ft
     Site coverage:
+      (General): Floor Area Ratio. The gross floor area of all buildings on a lot divided by the building site area.
       Maximum Coverage Floor Area Ratio:
         Requirement by Zone > BP Business Park: '1.5'
         Requirement by Zone > I Industrial: '0.6'
     Height limit Maximum height:
+      (General): Maximum allowable height of structures. See Glossary for height measurement requirements, and Chapter 12 for height limit modifications.
       Principal building:
         Requirement by Zone > BP Business Park: 40 ft
         Requirement by Zone > I Industrial: 40 ft
@@ -55,6 +57,9 @@ Table 4.12. BP and I Zone Development Standards:
       Usable open space:
         Requirement by Zone > BP Business Park: NA
         Requirement by Zone > I Industrial: NA
-    Fencing, landscaping, and tree preservation: {}
-    Parking: {}
-    Signs: {}
+    Fencing, landscaping, and tree preservation:
+      (General): See Chapters 13 , 14 , and 17
+    Parking:
+      (General): See Chapter 11
+    Signs:
+      (General): See Chapter 20

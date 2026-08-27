@@ -1,0 +1,941 @@
+SECTION 42-212 PERMITTED USE TABLE:
+  Zoning District:
+    Residential Uses: {}
+    Household Living:
+      Single Family Dwelling:
+        Residential > R-1: P
+        Residential > R-2: P
+        Residential > R-3A: P
+        Residential > R-3B: P
+        Commercial > C-1: P
+        Commercial > C-2: P
+        Commercial > C-3: P
+        Industrial > I-1: P
+        Industrial > I-2: '-'
+        Ag > A: P*
+        Additional Comments: '*See 42.534 for Agriculture District regulations for detached dwellings. See 42-1 (Definitions) for "Modular Homes."'
+      Two-Family Dwelling:
+        Residential > R-1: '-'
+        Residential > R-2: P
+        Residential > R-3A: P
+        Residential > R-3B: P
+        Commercial > C-1: P
+        Commercial > C-2: P
+        Commercial > C-3: P
+        Industrial > I-1: P
+        Industrial > I-2: '-'
+        Ag > A: '-'
+        Additional Comments: ''
+      Multiple-dwelling:
+        Residential > R-1: '-'
+        Residential > R-2: '-'
+        Residential > R-3A: P
+        Residential > R-3B: P
+        Commercial > C-1: P
+        Commercial > C-2: P
+        Commercial > C-3: P
+        Industrial > I-1: P
+        Industrial > I-2: ''
+        Ag > A: ''
+        Additional Comments: ''
+      Mobile Home:
+        Residential > R-1: C
+        Residential > R-2: C
+        Residential > R-3A: C
+        Residential > R-3B: C
+        Commercial > C-1: C
+        Commercial > C-2: C
+        Commercial > C-3: C
+        Industrial > I-1: C
+        Industrial > I-2: '-'
+        Ag > A: C
+        Additional Comments: Conditional Use via permit from City Council per 42-678 and adhering to Article XIV of Chapter 42 (MANUFACTURED AND MOBILE HOME PARKS).
+    Group Living:
+      Rooming house, boardinghouse, apartment hotel, and tourist home:
+        Residential > R-1: '-'
+        Residential > R-2: '-'
+        Residential > R-3A: P
+        Residential > R-3B: P
+        Commercial > C-1: P
+        Commercial > C-2: P
+        Commercial > C-3: P
+        Industrial > I-1: P
+        Industrial > I-2: '-'
+        Ag > A: '-'
+        Additional Comments: ''
+      Private club, fraternity, sorority or lodge, excepting one the chief activity of which is a service customarily carried on as a business.:
+        Residential > R-1: '-'
+        Residential > R-2: '-'
+        Residential > R-3A: P
+        Residential > R-3B: P
+        Commercial > C-1: P
+        Commercial > C-2: P
+        Commercial > C-3: P
+        Industrial > I-1: P
+        Industrial > I-2: '-'
+        Ag > A: '-'
+        Additional Comments: ''
+      Nursing homes:
+        Residential > R-1: C
+        Residential > R-2: C
+        Residential > R-3A: C
+        Residential > R-3B: P
+        Commercial > C-1: P
+        Commercial > C-2: P
+        Commercial > C-3: P
+        Industrial > I-1: P
+        Industrial > I-2: '-'
+        Ag > A: C
+        Additional Comments: See 42-1 (Definitions) for additional information.
+    Public and Institutional Uses:
+      Adult day care:
+        Residential > R-1: '-'
+        Residential > R-2: '-'
+        Residential > R-3A: '-'
+        Residential > R-3B: '-'
+        Commercial > C-1: P
+        Commercial > C-2: P
+        Commercial > C-3: P
+        Industrial > I-1: P
+        Industrial > I-2: '-'
+        Ag > A: '-'
+        Additional Comments: ''
+    Community Service:
+      Religious, education, eleemosynary institution of a philanthropic nature, but not a penal or mental institution.:
+        Residential > R-1: '-'
+        Residential > R-2: '-'
+        Residential > R-3A: P
+        Residential > R-3B: P
+        Commercial > C-1: P
+        Commercial > C-2: P
+        Commercial > C-3: P
+        Industrial > I-1: P
+        Industrial > I-2: P
+        Ag > A: '-'
+        Additional Comments: ''
+      Hospital or sanitarium except a criminal, mental or animal hospital:
+        Residential > R-1: '-'
+        Residential > R-2: '-'
+        Residential > R-3A: P
+        Residential > R-3B: P
+        Commercial > C-1: P
+        Commercial > C-2: P
+        Commercial > C-3: P
+        Industrial > I-1: P
+        Industrial > I-2: '-'
+        Ag > A: '-'
+        Additional Comments: ''
+      Public school, elementary and high, and educational institutions having a curriculum the same as ordinarily given in public schools.:
+        Residential > R-1: P
+        Residential > R-2: P
+        Residential > R-3A: P
+        Residential > R-3B: P
+        Commercial > C-1: P
+        Commercial > C-2: P
+        Commercial > C-3: P
+        Industrial > I-1: P
+        Industrial > I-2: P
+        Ag > A: '-'
+        Additional Comments: ''
+      Church or other place of worship:
+        Residential > R-1: P
+        Residential > R-2: P
+        Residential > R-3A: P
+        Residential > R-3B: P
+        Commercial > C-1: P
+        Commercial > C-2: P
+        Commercial > C-3: P
+        Industrial > I-1: P
+        Industrial > I-2: P
+        Ag > A: '-'
+        Additional Comments: ''
+      Business or commercial school:
+        Residential > R-1: '-'
+        Residential > R-2: '-'
+        Residential > R-3A: '-'
+        Residential > R-3B: '-'
+        Commercial > C-1: '-'
+        Commercial > C-2: P
+        Commercial > C-3: P
+        Industrial > I-1: P
+        Industrial > I-2: P
+        Ag > A: '-'
+        Additional Comments: ''
+      Radio or television broadcasting station or studio:
+        Residential > R-1: '-'
+        Residential > R-2: '-'
+        Residential > R-3A: '-'
+        Residential > R-3B: '-'
+        Commercial > C-1: '-'
+        Commercial > C-2: P
+        Commercial > C-3: P
+        Industrial > I-1: P
+        Industrial > I-2: P
+        Ag > A: '-'
+        Additional Comments: ''
+      Agricultural Activity and Uses:
+        Residential > R-1: '-'
+        Residential > R-2: '-'
+        Residential > R-3A: '-'
+        Residential > R-3B: '-'
+        Commercial > C-1: '-'
+        Commercial > C-2: '-'
+        Commercial > C-3: '-'
+        Industrial > I-1: '-'
+        Industrial > I-2: P
+        Ag > A: P
+        Additional Comments: See Section 42-534 for a list of permitted agricultural uses; Also see Section 42-678 for agriculture-related uses subject to permit which must be first obtained from the city council.
+      Florist Shop and Greenhouse:
+        Residential > R-1: '-'
+        Residential > R-2: '-'
+        Residential > R-3A: '-'
+        Residential > R-3B: '-'
+        Commercial > C-1: P
+        Commercial > C-2: P
+        Commercial > C-3: P
+        Industrial > I-1: P
+        Industrial > I-2: P
+        Ag > A: P*
+        Additional Comments: '*Greenhouses are allowed in the A district but do not include salesrooms or roadside stands. See Section 42-534 . Also see Section 42- 678 as this use is subject to permit which must be first obtained from the city council.'
+      Animal hospitals and veterinary clinic:
+        Residential > R-1: '-'
+        Residential > R-2: '-'
+        Residential > R-3A: '-'
+        Residential > R-3B: '-'
+        Commercial > C-1: '-'
+        Commercial > C-2: P
+        Commercial > C-3: P
+        Industrial > I-1: P
+        Industrial > I-2: P
+        Ag > A: '-'
+        Additional Comments: ''
+      Roadside Stand for the display or sale of agricultural products:
+        Residential > R-1: A
+        Residential > R-2: A
+        Residential > R-3A: A
+        Residential > R-3B: A
+        Commercial > C-1: A
+        Commercial > C-2: A
+        Commercial > C-3: A
+        Industrial > I-1: A
+        Industrial > I-2: A
+        Ag > A: c*
+        Additional Comments: '*Seasonal sale of produce grown on site is allowed in the A district. Also see Section 42-678 as this use is subject to permit which must be first obtained from the city council.'
+    Food and Beverage Services:
+      Restaurants:
+        Residential > R-1: '-'
+        Residential > R-2: '-'
+        Residential > R-3A: '-'
+        Residential > R-3B: '-'
+        Commercial > C-1: P
+        Commercial > C-2: P
+        Commercial > C-3: P
+        Industrial > I-1: P
+        Industrial > I-2: P
+        Ag > A: '-'
+        Additional Comments: ''
+      Frozen Food Locker:
+        Residential > R-1: '-'
+        Residential > R-2: '-'
+        Residential > R-3A: '-'
+        Residential > R-3B: '-'
+        Commercial > C-1: '-'
+        Commercial > C-2: P
+        Commercial > C-3: P
+        Industrial > I-1: P
+        Industrial > I-2: P
+        Ag > A: '-'
+        Additional Comments: ''
+    Guest Accommodations:
+      Hotels and Motels:
+        Residential > R-1: '-'
+        Residential > R-2: '-'
+        Residential > R-3A: '-'
+        Residential > R-3B: '-'
+        Commercial > C-1: '-'
+        Commercial > C-2: P
+        Commercial > C-3: P
+        Industrial > I-1: P
+        Industrial > I-2: '-'
+        Ag > A: '-'
+        Additional Comments: ''
+    Office:
+      Banks and Financial Institutions:
+        Residential > R-1: '-'
+        Residential > R-2: '-'
+        Residential > R-3A: '-'
+        Residential > R-3B: '-'
+        Commercial > C-1: P
+        Commercial > C-2: P
+        Commercial > C-3: P
+        Industrial > I-1: P
+        Industrial > I-2: P
+        Ag > A: '-'
+        Additional Comments: See Section 42-1 (Definitions)
+      Laboratory, research, experimental or testing facility.:
+        Residential > R-1: '-'
+        Residential > R-2: '-'
+        Residential > R-3A: '-'
+        Residential > R-3B: '-'
+        Commercial > C-1: '-'
+        Commercial > C-2: P
+        Commercial > C-3: P
+        Industrial > I-1: P
+        Industrial > I-2: '-'
+        Ag > A: '-'
+        Additional Comments: ''
+      Newspaper publishing and sales:
+        Residential > R-1: '-'
+        Residential > R-2: '-'
+        Residential > R-3A: '-'
+        Residential > R-3B: '-'
+        Commercial > C-1: P
+        Commercial > C-2: P
+        Commercial > C-3: P
+        Industrial > I-1: P
+        Industrial > I-2: P
+        Ag > A: '-'
+        Additional Comments: ''
+      Office or office building:
+        Residential > R-1: '-'
+        Residential > R-2: '-'
+        Residential > R-3A: '-'
+        Residential > R-3B: P
+        Commercial > C-1: P
+        Commercial > C-2: P
+        Commercial > C-3: P
+        Industrial > I-1: P
+        Industrial > I-2: ''
+        Ag > A: '-'
+        Additional Comments: ''
+      Display and salesroom:
+        Residential > R-1: '-'
+        Residential > R-2: '-'
+        Residential > R-3A: '-'
+        Residential > R-3B: '-'
+        Commercial > C-1: P
+        Commercial > C-2: P
+        Commercial > C-3: P
+        Industrial > I-1: P
+        Industrial > I-2: P
+        Ag > A: '-'
+        Additional Comments: For merchandise to be sold at wholesale where merchandise sold is stored elsewhere
+      Medical Marijuana Dispensaries:
+        Residential > R-1: '-'
+        Residential > R-2: '-'
+        Residential > R-3A: '-'
+        Residential > R-3B: '-'
+        Commercial > C-1: '-'
+        Commercial > C-2: P
+        Commercial > C-3: '-'
+        Industrial > I-1: '-'
+        Industrial > I-2: '-'
+        Ag > A: '-'
+        Additional Comments: See Article VII A - Sections 42-546 to 42-547
+      Home occupation:
+        Residential > R-1: P
+        Residential > R-2: P
+        Residential > R-3A: P
+        Residential > R-3B: P
+        Commercial > C-1: P
+        Commercial > C-2: P
+        Commercial > C-3: P
+        Industrial > I-1: P
+        Industrial > I-2: '-'
+        Ag > A: '-'
+        Additional Comments: ''
+    Personal Services:
+      Medical clinics:
+        Residential > R-1: ''
+        Residential > R-2: ''
+        Residential > R-3A: ''
+        Residential > R-3B: P
+        Commercial > C-1: P
+        Commercial > C-2: P
+        Commercial > C-3: P
+        Industrial > I-1: P
+        Industrial > I-2: '-'
+        Ag > A: '-'
+        Additional Comments: A pharmacy operating as an accessory use that offers filling of prescription or proprietary drugs, toiletries, confections, photographic equipment and supplies, stationery, greeting cards, medical and physical treatment equipment and supplies, newspapers and magazines, and cosmetics may be located on property occupied by a medical clinic.
+      Personal service shops, such as beauty and barbershops:
+        Residential > R-1: '-'
+        Residential > R-2: '-'
+        Residential > R-3A: '-'
+        Residential > R-3B: P
+        Commercial > C-1: P
+        Commercial > C-2: P
+        Commercial > C-3: P
+        Industrial > I-1: P
+        Industrial > I-2: P
+        Ag > A: '-'
+        Additional Comments: ''
+      Personal service uses including photographic or art studios, messenger, taxicab, newspaper or telegraphic branch, service stations, dry cleaning receiving stations.:
+        Residential > R-1: '-'
+        Residential > R-2: '-'
+        Residential > R-3A: '-'
+        Residential > R-3B: '-'
+        Commercial > C-1: P
+        Commercial > C-2: P
+        Commercial > C-3: P
+        Industrial > I-1: P
+        Industrial > I-2: P
+        Ag > A: '-'
+        Additional Comments: ''
+      Self-service laundry or cleaning establishment:
+        Residential > R-1: '-'
+        Residential > R-2: '-'
+        Residential > R-3A: '-'
+        Residential > R-3B: '-'
+        Commercial > C-1: P
+        Commercial > C-2: P
+        Commercial > C-3: P
+        Industrial > I-1: P
+        Industrial > I-2: P
+        Ag > A: '-'
+        Additional Comments: Includes "Laundromats" per Section 42-1 Definitions
+      Undertaking Establishment:
+        Residential > R-1: ''
+        Residential > R-2: ''
+        Residential > R-3A: ''
+        Residential > R-3B: ''
+        Commercial > C-1: P
+        Commercial > C-2: P
+        Commercial > C-3: P
+        Industrial > I-1: P
+        Industrial > I-2: P
+        Ag > A: '-'
+        Additional Comments: ''
+    Recreation & Entertainment:
+      Publicly owned or operated park, playground or community building, museum, library or art gallery:
+        Residential > R-1: P
+        Residential > R-2: P
+        Residential > R-3A: P
+        Residential > R-3B: P
+        Commercial > C-1: P
+        Commercial > C-2: P
+        Commercial > C-3: P
+        Industrial > I-1: P
+        Industrial > I-2: P
+        Ag > A: '-'
+        Additional Comments: ''
+      Golf club or grounds:
+        Residential > R-1: P
+        Residential > R-2: P
+        Residential > R-3A: P
+        Residential > R-3B: P
+        Commercial > C-1: P
+        Commercial > C-2: P
+        Commercial > C-3: P
+        Industrial > I-1: P
+        Industrial > I-2: P
+        Ag > A: '-'
+        Additional Comments: This use does not include miniature golf courses and practice tees operated for commercial purposes.
+      Miniature golf courses and golf driving ranges:
+        Residential > R-1: '-'
+        Residential > R-2: '-'
+        Residential > R-3A: '-'
+        Residential > R-3B: '-'
+        Commercial > C-1: ''
+        Commercial > C-2: P
+        Commercial > C-3: P
+        Industrial > I-1: P
+        Industrial > I-2: ''
+        Ag > A: ''
+        Additional Comments: ''
+      Establishment for sale of beer and alcoholic beverages:
+        Residential > R-1: '-'
+        Residential > R-2: '-'
+        Residential > R-3A: '-'
+        Residential > R-3B: '-'
+        Commercial > C-1: '-'
+        Commercial > C-2: P
+        Commercial > C-3: P
+        Industrial > I-1: P
+        Industrial > I-2: P
+        Ag > A: '-'
+        Additional Comments: Use must be at least 50 ft from R district in relation to the C-2 district
+      Bowling alley or billiard parlor:
+        Residential > R-1: '-'
+        Residential > R-2: '-'
+        Residential > R-3A: '-'
+        Residential > R-3B: ''
+        Commercial > C-1: '-'
+        Commercial > C-2: P
+        Commercial > C-3: P
+        Industrial > I-1: P
+        Industrial > I-2: P
+        Ag > A: '-'
+        Additional Comments: Use must be at least 50 ft from R district in relation to the C-2 district
+      Private schools including all types of private learning institutions including dancing schools and cosmetology.:
+        Residential > R-1: '-'
+        Residential > R-2: '-'
+        Residential > R-3A: '-'
+        Residential > R-3B: '-'
+        Commercial > C-1: P
+        Commercial > C-2: P
+        Commercial > C-3: P
+        Industrial > I-1: P
+        Industrial > I-2: P
+        Ag > A: '-'
+        Additional Comments: ''
+      Drive-In Restaurant:
+        Residential > R-1: ''
+        Residential > R-2: ''
+        Residential > R-3A: ''
+        Residential > R-3B: ''
+        Commercial > C-1: ''
+        Commercial > C-2: P
+        Commercial > C-3: P
+        Industrial > I-1: P
+        Industrial > I-2: P
+        Ag > A: '-'
+        Additional Comments: Use must be at least 50 ft from R district in relation to the C-2 district
+      Theater, Indoor:
+        Residential > R-1: '-'
+        Residential > R-2: '-'
+        Residential > R-3A: '-'
+        Residential > R-3B: '-'
+        Commercial > C-1: P
+        Commercial > C-2: P
+        Commercial > C-3: P
+        Industrial > I-1: P
+        Industrial > I-2: P
+        Ag > A: '-'
+        Additional Comments: ''
+      Theater, Drive-in:
+        Residential > R-1: '-'
+        Residential > R-2: '-'
+        Residential > R-3A: '-'
+        Residential > R-3B: '-'
+        Commercial > C-1: '-'
+        Commercial > C-2: P
+        Commercial > C-3: P
+        Industrial > I-1: P
+        Industrial > I-2: P
+        Ag > A: '-'
+        Additional Comments: Use must be at least 50 ft from R district in relation to the C-2 district
+    Retail:
+      Studios or photographers, artists and musicians:
+        Residential > R-1: '-'
+        Residential > R-2: '-'
+        Residential > R-3A: '-'
+        Residential > R-3B: P
+        Commercial > C-1: P
+        Commercial > C-2: P
+        Commercial > C-3: P
+        Industrial > I-1: P
+        Industrial > I-2: P
+        Ag > A: '-'
+        Additional Comments: ''
+      Shoe repairing, repair of household appliances and bicycles, catering and bakery with sale of bakery products on the premises.:
+        Residential > R-1: '-'
+        Residential > R-2: '-'
+        Residential > R-3A: '-'
+        Residential > R-3B: '-'
+        Commercial > C-1: P
+        Commercial > C-2: P
+        Commercial > C-3: P
+        Industrial > I-1: P
+        Industrial > I-2: P
+        Ag > A: '-'
+        Additional Comments: ''
+      Farm implement display and salesroom:
+        Residential > R-1: '-'
+        Residential > R-2: '-'
+        Residential > R-3A: '-'
+        Residential > R-3B: '-'
+        Commercial > C-1: '-'
+        Commercial > C-2: P
+        Commercial > C-3: P
+        Industrial > I-1: P
+        Industrial > I-2: P
+        Ag > A: '-'
+        Additional Comments: ''
+      Professional services including dyeing and cleaning establishment or laundry, painting, plumbing, and tinsmithing shop.:
+        Residential > R-1: '-'
+        Residential > R-2: '-'
+        Residential > R-3A: '-'
+        Residential > R-3B: '-'
+        Commercial > C-1: '-'
+        Commercial > C-2: P
+        Commercial > C-3: P
+        Industrial > I-1: P
+        Industrial > I-2: P
+        Ag > A: '-'
+        Additional Comments: ''
+      Retail Store with no slaughtering of animals nor fish cleaning on premises:
+        Residential > R-1: '-'
+        Residential > R-2: '-'
+        Residential > R-3A: '-'
+        Residential > R-3B: '-'
+        Commercial > C-1: P
+        Commercial > C-2: P
+        Commercial > C-3: P
+        Industrial > I-1: P
+        Industrial > I-2: P
+        Ag > A: '-'
+        Additional Comments: ''
+      Building material and lumberyard:
+        Residential > R-1: '-'
+        Residential > R-2: '-'
+        Residential > R-3A: '-'
+        Residential > R-3B: '-'
+        Commercial > C-1: '-'
+        Commercial > C-2: '-'
+        Commercial > C-3: '-'
+        Industrial > I-1: P
+        Industrial > I-2: P
+        Ag > A: '-'
+        Additional Comments: ''
+      Winery:
+        Residential > R-1: ''
+        Residential > R-2: ''
+        Residential > R-3A: ''
+        Residential > R-3B: ''
+        Commercial > C-1: ''
+        Commercial > C-2: ''
+        Commercial > C-3: ''
+        Industrial > I-1: ''
+        Industrial > I-2: ''
+        Ag > A: P
+        Additional Comments: See 42-1 Definitions and Section 42- 534
+    Vehicles and Equipment:
+      Used car sales or storage lot:
+        Residential > R-1: '-'
+        Residential > R-2: '-'
+        Residential > R-3A: '-'
+        Residential > R-3B: '-'
+        Commercial > C-1: '-'
+        Commercial > C-2: P
+        Commercial > C-3: P
+        Industrial > I-1: P
+        Industrial > I-2: P
+        Ag > A: '-'
+        Additional Comments: ''
+      Automobile or Trailer display and salesroom:
+        Residential > R-1: '-'
+        Residential > R-2: '-'
+        Residential > R-3A: '-'
+        Residential > R-3B: ''
+        Commercial > C-1: '-'
+        Commercial > C-2: P
+        Commercial > C-3: P
+        Industrial > I-1: P
+        Industrial > I-2: P
+        Ag > A: '-'
+        Additional Comments: ''
+      Automobile service station or repair facility:
+        Residential > R-1: '-'
+        Residential > R-2: '-'
+        Residential > R-3A: '-'
+        Residential > R-3B: ''
+        Commercial > C-1: '-'
+        Commercial > C-2: P
+        Commercial > C-3: P
+        Industrial > I-1: P
+        Industrial > I-2: P
+        Ag > A: '-'
+        Additional Comments: ''
+      Gasoline filling station:
+        Residential > R-1: ''
+        Residential > R-2: ''
+        Residential > R-3A: ''
+        Residential > R-3B: ''
+        Commercial > C-1: P
+        Commercial > C-2: P
+        Commercial > C-3: P
+        Industrial > I-1: P
+        Industrial > I-2: P
+        Ag > A: '-'
+        Additional Comments: See Definitions in Section 42-1
+      Convenience Store:
+        Residential > R-1: ''
+        Residential > R-2: ''
+        Residential > R-3A: ''
+        Residential > R-3B: ''
+        Commercial > C-1: ''
+        Commercial > C-2: ''
+        Commercial > C-3: ''
+        Industrial > I-1: ''
+        Industrial > I-2: ''
+        Ag > A: ''
+        Additional Comments: See Definitions in Section 42-1 . Accessory uses do NOT include automobile repairs or video gambling devices as regulated by State law.
+      Automobile parking lot, including parking garages and parking structures:
+        Residential > R-1: '-'
+        Residential > R-2: '-'
+        Residential > R-3A: '-'
+        Residential > R-3B: '-'
+        Commercial > C-1: P
+        Commercial > C-2: P
+        Commercial > C-3: P
+        Industrial > I-1: P
+        Industrial > I-2: P
+        Ag > A: '-'
+        Additional Comments: See 42-1 Definitions. Use is intended to include traditional off-street parking lots and garages.
+      Motor Vehicle Storage Facility:
+        Residential > R-1: ''
+        Residential > R-2: ''
+        Residential > R-3A: ''
+        Residential > R-3B: ''
+        Commercial > C-1: ''
+        Commercial > C-2: P
+        Commercial > C-3: P
+        Industrial > I-1: P
+        Industrial > I-2: P
+        Ag > A: ''
+        Additional Comments: See 42-1 Definitions. By way of example, use is intended for vehicle storage for 30+ days at mini- warehouse facilities or lots where automobiles are placed prior to sale or transfer for re-sale.
+      Tire sales and service, upholstering:
+        Residential > R-1: '-'
+        Residential > R-2: '-'
+        Residential > R-3A: '-'
+        Residential > R-3B: '-'
+        Commercial > C-1: '-'
+        Commercial > C-2: P
+        Commercial > C-3: P
+        Industrial > I-1: P
+        Industrial > I-2: P
+        Ag > A: '-'
+        Additional Comments: ''
+      Auto wrecking yards and junkyards:
+        Residential > R-1: '-'
+        Residential > R-2: '-'
+        Residential > R-3A: '-'
+        Residential > R-3B: '-'
+        Commercial > C-1: '-'
+        Commercial > C-2: '-'
+        Commercial > C-3: '-'
+        Industrial > I-1: '-'
+        Industrial > I-2: C
+        Ag > A: '-'
+        Additional Comments: See Section 42.519
+    Industrial Uses:
+      Storage and Distribution:
+        Residential > R-1: '-'
+        Residential > R-2: '-'
+        Residential > R-3A: '-'
+        Residential > R-3B: ''
+        Commercial > C-1: '-'
+        Commercial > C-2: '-'
+        Commercial > C-3: '-'
+        Industrial > I-1: P
+        Industrial > I-2: P
+        Ag > A: '-'
+        Additional Comments: ''
+      Carting, express, hauling or storage yard; Contractor storage yard, commercial:
+        Residential > R-1: '-'
+        Residential > R-2: '-'
+        Residential > R-3A: '-'
+        Residential > R-3B: '-'
+        Commercial > C-1: '-'
+        Commercial > C-2: P
+        Commercial > C-3: P
+        Industrial > I-1: P
+        Industrial > I-2: P
+        Ag > A: '-'
+        Additional Comments: See Definitions 42-1
+      Contractor's storage yard, industrial:
+        Residential > R-1: ''
+        Residential > R-2: ''
+        Residential > R-3A: ''
+        Residential > R-3B: ''
+        Commercial > C-1: ''
+        Commercial > C-2: ''
+        Commercial > C-3: ''
+        Industrial > I-1: P
+        Industrial > I-2: P
+        Ag > A: '-'
+        Additional Comments: See Definitions 42-1
+      Petroleum Storage:
+        Residential > R-1: '-'
+        Residential > R-2: '-'
+        Residential > R-3A: '-'
+        Residential > R-3B: '-'
+        Commercial > C-1: '-'
+        Commercial > C-2: '-'
+        Commercial > C-3: '-'
+        Industrial > I-1: P
+        Industrial > I-2: P
+        Ag > A: '-'
+        Additional Comments: Only after location and treatment of the premises have been approved by the public safety director
+      Wholesale or distributing establishment or warehouse or wholesale market:
+        Residential > R-1: '-'
+        Residential > R-2: '-'
+        Residential > R-3A: '-'
+        Residential > R-3B: '-'
+        Commercial > C-1: '-'
+        Commercial > C-2: '-'
+        Commercial > C-3: P
+        Industrial > I-1: P
+        Industrial > I-2: P
+        Ag > A: '-'
+        Additional Comments: ''
+      Medical marijuana-infused product manufacturing facilities:
+        Residential > R-1: '-'
+        Residential > R-2: '-'
+        Residential > R-3A: '-'
+        Residential > R-3B: '-'
+        Commercial > C-1: '-'
+        Commercial > C-2: '-'
+        Commercial > C-3: '-'
+        Industrial > I-1: '-'
+        Industrial > I-2: P
+        Ag > A: '-'
+        Additional Comments: See Article VIII A, Sections 42-546 to 42-547
+      Medical Marijuana Cultivation facilities:
+        Residential > R-1: '-'
+        Residential > R-2: '-'
+        Residential > R-3A: '-'
+        Residential > R-3B: '-'
+        Commercial > C-1: '-'
+        Commercial > C-2: '-'
+        Commercial > C-3: '-'
+        Industrial > I-1: '-'
+        Industrial > I-2: P
+        Ag > A: '-'
+        Additional Comments: See Article VIII A, Sections 42-546 to 42-547
+      Printing, publishing or engraving:
+        Residential > R-1: '-'
+        Residential > R-2: '-'
+        Residential > R-3A: '-'
+        Residential > R-3B: '-'
+        Commercial > C-1: '-'
+        Commercial > C-2: P
+        Commercial > C-3: P
+        Industrial > I-1: P
+        Industrial > I-2: P
+        Ag > A: '-'
+        Additional Comments: ''
+      Coal, coke or woodyard:
+        Residential > R-1: '-'
+        Residential > R-2: '-'
+        Residential > R-3A: '-'
+        Residential > R-3B: '-'
+        Commercial > C-1: '-'
+        Commercial > C-2: '-'
+        Commercial > C-3: '-'
+        Industrial > I-1: P
+        Industrial > I-2: P
+        Ag > A: '-'
+        Additional Comments: ''
+      The manufacture, compounding, processing, packaging or treatment of such goods, materials, and products:
+        Residential > R-1: ''
+        Residential > R-2: ''
+        Residential > R-3A: ''
+        Residential > R-3B: ''
+        Commercial > C-1: ''
+        Commercial > C-2: ''
+        Commercial > C-3: P
+        Industrial > I-1: P
+        Industrial > I-2: P
+        Ag > A: '-'
+        Additional Comments: 'Section 42-499 identifies the following examples: Bakery goods, bottling works, candy, cosmetic, pharmaceuticals, toiletries, food products excepting fish and meat products, sauerkraut, vinegar, yeast and the rendering of fats and oils; Articles made from previously prepared materials such as bone, canvas, cellophane, cloth, cork, feathers, felt, fiber, fur, glass, hair, horn, leather, paper, plastics, precious or semiprecious metals or stones, shells, textiles, wax, wire, yarns and the like; Musical instruments, toys, novelties, rubber, or metal stamps, and other small molded rubber products; Fabrication and repair of electric or neon signs or commercial advertising structures, light sheet metal products, and the like'
+      Assembly and manufacture from prefabricated parts of household appliances, electronic products and similar products or the processing or assembling of parts for production of finished equipment:
+        Residential > R-1: ''
+        Residential > R-2: ''
+        Residential > R-3A: ''
+        Residential > R-3B: ''
+        Commercial > C-1: ''
+        Commercial > C-2: ''
+        Commercial > C-3: ''
+        Industrial > I-1: P
+        Industrial > I-2: P
+        Ag > A: '-'
+        Additional Comments: This category excludes petroleum storage for distribution over more extensive areas than the city and environs
+      Industrial and manufacturing plants where the process of manufacturing or the treatment of materials is such that only a nominal amount of dust, odor, gas, smoke or noise is emitted and not more than ten percent of the lot is used for the open storage of products, materials or equipment.:
+        Residential > R-1: '-'
+        Residential > R-2: '-'
+        Residential > R-3A: '-'
+        Residential > R-3B: '-'
+        Commercial > C-1: '-'
+        Commercial > C-2: '-'
+        Commercial > C-3: '-'
+        Industrial > I-1: P
+        Industrial > I-2: P
+        Ag > A: '-'
+        Additional Comments: ''
+      Heavy Manufacturing:
+        Residential > R-1: '-'
+        Residential > R-2: '-'
+        Residential > R-3A: '-'
+        Residential > R-3B: '-'
+        Commercial > C-1: '-'
+        Commercial > C-2: '-'
+        Commercial > C-3: '-'
+        Industrial > I-1: '-'
+        Industrial > I-2: C
+        Ag > A: '-'
+        Additional Comments: Uses classified as "Heavy Manufacturing" with potential offensive or noxious impacts are listed in Section 42-519 and are subject to approval by the city council after report by the planning and zoning commission. See Section 42-681 for Approval procedures for these uses.
+      Wind Energy Conversion System:
+        Residential > R-1: ''
+        Residential > R-2: ''
+        Residential > R-3A: ''
+        Residential > R-3B: ''
+        Commercial > C-1: ''
+        Commercial > C-2: ''
+        Commercial > C-3: ''
+        Industrial > I-1: ''
+        Industrial > I-2: ''
+        Ag > A: P
+        Additional Comments: See Section 42-534
+      Electric Substations for public and quasi-public utilities:
+        Residential > R-1: ''
+        Residential > R-2: ''
+        Residential > R-3A: ''
+        Residential > R-3B: ''
+        Commercial > C-1: ''
+        Commercial > C-2: ''
+        Commercial > C-3: ''
+        Industrial > I-1: ''
+        Industrial > I-2: ''
+        Ag > A: P
+        Additional Comments: See Section 42-534
+      Railroad:
+        Residential > R-1: ''
+        Residential > R-2: ''
+        Residential > R-3A: ''
+        Residential > R-3B: ''
+        Commercial > C-1: ''
+        Commercial > C-2: ''
+        Commercial > C-3: ''
+        Industrial > I-1: ''
+        Industrial > I-2: ''
+        Ag > A: P
+        Additional Comments: See Section 42-534
+    See section 42.678 for additional uses authorized upon permit obtained in any zoning district. All uses must adhere to the maximum height and minimum front, side and rear building setbacks, lot area, lot width and lot size requires per the Height and Area Table in Sec. 42-579 . R-1, R-2, R-3A, R-3B, C-1, C-2 and C-3 allow for any other use of similar character which is not objectionable by reason of the emission of odor, dust, smoke, gas fumes, noise or vibration or which is not specifically prohibited, or regulated in article VII of Chapter 42 .: {}
+    Accessory Use Table:
+      Accessory Building or Use:
+        Residential > R-1: P
+        Residential > R-2: P
+        Residential > R-3A: P
+        Residential > R-3B: P
+        Commercial > C-1: P
+        Commercial > C-2: P
+        Commercial > C-3: P
+        Industrial > I-1: P
+        Industrial > I-2: P
+        Ag > A: P
+        Additional Comments: In all Districts, Accessory Buildings and Uses are subject to Section 42- 622; In A, these buildings and uses are subject to 42-534
+      Roadside Stand for the display or sale of agricultural products:
+        Residential > R-1: P
+        Residential > R-2: P
+        Residential > R-3A: P
+        Residential > R-3B: P
+        Commercial > C-1: P
+        Commercial > C-2: P
+        Commercial > C-3: P
+        Industrial > I-1: P
+        Industrial > I-2: P
+        Ag > A: P
+        Additional Comments: Seasonal sale of produce grown on site is allowed as accessory use in all districts, subject to requirements of Section 42-678 first being met.
+      Tasting rooms associated with wine, beer, or distillery.:
+        Residential > R-1: ''
+        Residential > R-2: ''
+        Residential > R-3A: ''
+        Residential > R-3B: ''
+        Commercial > C-1: ''
+        Commercial > C-2: P
+        Commercial > C-3: P
+        Industrial > I-1: P
+        Industrial > I-2: ''
+        Ag > A: P
+        Additional Comments: Tasting room shall be comprised of 20% or less of gross floor area of principal building

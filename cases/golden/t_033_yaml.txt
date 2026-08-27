@@ -1,0 +1,1715 @@
+Table 17.08.030-1 Commercial, Office, and Industrial Use Table P = Use is Permitted by Right C = Use Requires Conditional Use Permit A = Use Requires Administrative Use Permit T = Use Requires Temporary Use Permit Blank = Use is Not Allowed:
+  Land Uses:
+    Accessory and Support Uses:
+      A1 - Automated teller machine (ATM):
+        Commercial and Mixed Use Zones > C-N: P
+        Commercial and Mixed Use Zones > C-S: P
+        Commercial and Mixed Use Zones > MU: P
+        Office, Industrial, Public, and Open Space Zones > PO: P
+        Office, Industrial, Public, and Open Space Zones > I: P
+        Office, Industrial, Public, and Open Space Zones > PF: P
+        Office, Industrial, Public, and Open Space Zones > OS: ''
+        Specific Land Use Standards (See identified Section): ''
+      A2 - Caretaker residence or quarters:
+        Commercial and Mixed Use Zones > C-N: C
+        Commercial and Mixed Use Zones > C-S: P
+        Commercial and Mixed Use Zones > MU: P
+        Office, Industrial, Public, and Open Space Zones > PO: P
+        Office, Industrial, Public, and Open Space Zones > I: P
+        Office, Industrial, Public, and Open Space Zones > PF: C
+        Office, Industrial, Public, and Open Space Zones > OS: ''
+        Specific Land Use Standards (See identified Section): ''
+      A3 - Cottage food operation:
+        Commercial and Mixed Use Zones > C-N: A
+        Commercial and Mixed Use Zones > C-S: A
+        Commercial and Mixed Use Zones > MU: A
+        Office, Industrial, Public, and Open Space Zones > PO: A
+        Office, Industrial, Public, and Open Space Zones > I: ''
+        Office, Industrial, Public, and Open Space Zones > PF: ''
+        Office, Industrial, Public, and Open Space Zones > OS: ''
+        Specific Land Use Standards (See identified Section): 17.60.060
+      A4 - Daycare primarily for children of employees on the same site as a permitted use:
+        Commercial and Mixed Use Zones > C-N: P
+        Commercial and Mixed Use Zones > C-S: C
+        Commercial and Mixed Use Zones > MU: P
+        Office, Industrial, Public, and Open Space Zones > PO: P
+        Office, Industrial, Public, and Open Space Zones > I: C
+        Office, Industrial, Public, and Open Space Zones > PF: P
+        Office, Industrial, Public, and Open Space Zones > OS: ''
+        Specific Land Use Standards (See identified Section): 17.60.070
+      A5 - Drive-thru pick-up window meeting all standards of 17.60.080:
+        Commercial and Mixed Use Zones > C-N: P
+        Commercial and Mixed Use Zones > C-S: P
+        Commercial and Mixed Use Zones > MU: C
+        Office, Industrial, Public, and Open Space Zones > PO: ''
+        Office, Industrial, Public, and Open Space Zones > I: C
+        Office, Industrial, Public, and Open Space Zones > PF: ''
+        Office, Industrial, Public, and Open Space Zones > OS: ''
+        Specific Land Use Standards (See identified Section): 17.60.080
+      A6 - Drive-thru pick-up window not meeting all standards of 17.60.080:
+        Commercial and Mixed Use Zones > C-N: C
+        Commercial and Mixed Use Zones > C-S: C
+        Commercial and Mixed Use Zones > MU: C
+        Office, Industrial, Public, and Open Space Zones > PO: ''
+        Office, Industrial, Public, and Open Space Zones > I: C
+        Office, Industrial, Public, and Open Space Zones > PF: ''
+        Office, Industrial, Public, and Open Space Zones > OS: ''
+        Specific Land Use Standards (See identified Section): 17.60.080
+      A7 - Electric vehicle recharging facility:
+        Commercial and Mixed Use Zones > C-N: P
+        Commercial and Mixed Use Zones > C-S: P
+        Commercial and Mixed Use Zones > MU: P
+        Office, Industrial, Public, and Open Space Zones > PO: P
+        Office, Industrial, Public, and Open Space Zones > I: P
+        Office, Industrial, Public, and Open Space Zones > PF: P
+        Office, Industrial, Public, and Open Space Zones > OS: P
+        Specific Land Use Standards (See identified Section): ''
+      A8 - Food service primarily for employees on the same site as a permitted use:
+        Commercial and Mixed Use Zones > C-N: P
+        Commercial and Mixed Use Zones > C-S: P
+        Commercial and Mixed Use Zones > MU: P
+        Office, Industrial, Public, and Open Space Zones > PO: P
+        Office, Industrial, Public, and Open Space Zones > I: P
+        Office, Industrial, Public, and Open Space Zones > PF: P
+        Office, Industrial, Public, and Open Space Zones > OS: P
+        Specific Land Use Standards (See identified Section): ''
+      A9 - Home occupation:
+        Commercial and Mixed Use Zones > C-N: A
+        Commercial and Mixed Use Zones > C-S: A
+        Commercial and Mixed Use Zones > MU: A
+        Office, Industrial, Public, and Open Space Zones > PO: A
+        Office, Industrial, Public, and Open Space Zones > I: ''
+        Office, Industrial, Public, and Open Space Zones > PF: ''
+        Office, Industrial, Public, and Open Space Zones > OS: ''
+        Specific Land Use Standards (See identified Section): Chapter 17.78
+      A10 - Keeping of household pets:
+        Commercial and Mixed Use Zones > C-N: P
+        Commercial and Mixed Use Zones > C-S: P
+        Commercial and Mixed Use Zones > MU: P
+        Office, Industrial, Public, and Open Space Zones > PO: P
+        Office, Industrial, Public, and Open Space Zones > I: ''
+        Office, Industrial, Public, and Open Space Zones > PF: ''
+        Office, Industrial, Public, and Open Space Zones > OS: ''
+        Specific Land Use Standards (See identified Section): Title 6
+      A11 - Mobile vendor or food truck:
+        Commercial and Mixed Use Zones > C-N: A
+        Commercial and Mixed Use Zones > C-S: A
+        Commercial and Mixed Use Zones > MU: A
+        Office, Industrial, Public, and Open Space Zones > PO: A
+        Office, Industrial, Public, and Open Space Zones > I: A
+        Office, Industrial, Public, and Open Space Zones > PF: A
+        Office, Industrial, Public, and Open Space Zones > OS: A
+        Specific Land Use Standards (See identified Section): 17.60.120
+      A12 - Outdoor advertising structure:
+        Commercial and Mixed Use Zones > C-N: ''
+        Commercial and Mixed Use Zones > C-S: ''
+        Commercial and Mixed Use Zones > MU: ''
+        Office, Industrial, Public, and Open Space Zones > PO: ''
+        Office, Industrial, Public, and Open Space Zones > I: ''
+        Office, Industrial, Public, and Open Space Zones > PF: ''
+        Office, Industrial, Public, and Open Space Zones > OS: ''
+        Specific Land Use Standards (See identified Section): ''
+      A13 - Outdoor storage ancillary to and on the same site as a permitted use:
+        Commercial and Mixed Use Zones > C-N: ''
+        Commercial and Mixed Use Zones > C-S: P
+        Commercial and Mixed Use Zones > MU: P
+        Office, Industrial, Public, and Open Space Zones > PO: ''
+        Office, Industrial, Public, and Open Space Zones > I: P
+        Office, Industrial, Public, and Open Space Zones > PF: P
+        Office, Industrial, Public, and Open Space Zones > OS: ''
+        Specific Land Use Standards (See identified Section): 17.60.150 17.60.180
+      A14 - Temporary materials and/or equipment storage yard:
+        Commercial and Mixed Use Zones > C-N: T
+        Commercial and Mixed Use Zones > C-S: T
+        Commercial and Mixed Use Zones > MU: T
+        Office, Industrial, Public, and Open Space Zones > PO: T
+        Office, Industrial, Public, and Open Space Zones > I: P
+        Office, Industrial, Public, and Open Space Zones > PF: P
+        Office, Industrial, Public, and Open Space Zones > OS: ''
+        Specific Land Use Standards (See identified Section): ''
+      A15 - Temporary outdoor sales (including parking lot):
+        Commercial and Mixed Use Zones > C-N: T
+        Commercial and Mixed Use Zones > C-S: T
+        Commercial and Mixed Use Zones > MU: T
+        Office, Industrial, Public, and Open Space Zones > PO: T
+        Office, Industrial, Public, and Open Space Zones > I: T
+        Office, Industrial, Public, and Open Space Zones > PF: ''
+        Office, Industrial, Public, and Open Space Zones > OS: T
+        Specific Land Use Standards (See identified Section): ''
+      A16 - Vending machines:
+        Commercial and Mixed Use Zones > C-N: P
+        Commercial and Mixed Use Zones > C-S: P
+        Commercial and Mixed Use Zones > MU: P
+        Office, Industrial, Public, and Open Space Zones > PO: P
+        Office, Industrial, Public, and Open Space Zones > I: P
+        Office, Industrial, Public, and Open Space Zones > PF: P
+        Office, Industrial, Public, and Open Space Zones > OS: P
+        Specific Land Use Standards (See identified Section): 17.60.190
+    Eating and Drinking Establishment Uses:
+      B1 - Artisan food and beverage production and sales:
+        Commercial and Mixed Use Zones > C-N: P
+        Commercial and Mixed Use Zones > C-S: P
+        Commercial and Mixed Use Zones > MU: P
+        Office, Industrial, Public, and Open Space Zones > PO: C
+        Office, Industrial, Public, and Open Space Zones > I: P
+        Office, Industrial, Public, and Open Space Zones > PF: ''
+        Office, Industrial, Public, and Open Space Zones > OS: ''
+        Specific Land Use Standards (See identified Section): ''
+      B2 - Bar, nightclub, or lounge:
+        Commercial and Mixed Use Zones > C-N: C
+        Commercial and Mixed Use Zones > C-S: C
+        Commercial and Mixed Use Zones > MU: C
+        Office, Industrial, Public, and Open Space Zones > PO: ''
+        Office, Industrial, Public, and Open Space Zones > I: ''
+        Office, Industrial, Public, and Open Space Zones > PF: ''
+        Office, Industrial, Public, and Open Space Zones > OS: ''
+        Specific Land Use Standards (See identified Section): ''
+      B3 - Brewpub:
+        Commercial and Mixed Use Zones > C-N: C
+        Commercial and Mixed Use Zones > C-S: P
+        Commercial and Mixed Use Zones > MU: P
+        Office, Industrial, Public, and Open Space Zones > PO: ''
+        Office, Industrial, Public, and Open Space Zones > I: C
+        Office, Industrial, Public, and Open Space Zones > PF: ''
+        Office, Industrial, Public, and Open Space Zones > OS: ''
+        Specific Land Use Standards (See identified Section): ''
+      B4 - Microbrewery:
+        Commercial and Mixed Use Zones > C-N: C
+        Commercial and Mixed Use Zones > C-S: P
+        Commercial and Mixed Use Zones > MU: P
+        Office, Industrial, Public, and Open Space Zones > PO: ''
+        Office, Industrial, Public, and Open Space Zones > I: P
+        Office, Industrial, Public, and Open Space Zones > PF: ''
+        Office, Industrial, Public, and Open Space Zones > OS: ''
+        Specific Land Use Standards (See identified Section): ''
+      B5 - Restaurant, full service:
+        Commercial and Mixed Use Zones > C-N: P
+        Commercial and Mixed Use Zones > C-S: P
+        Commercial and Mixed Use Zones > MU: P
+        Office, Industrial, Public, and Open Space Zones > PO: ''
+        Office, Industrial, Public, and Open Space Zones > I: C
+        Office, Industrial, Public, and Open Space Zones > PF: ''
+        Office, Industrial, Public, and Open Space Zones > OS: ''
+        Specific Land Use Standards (See identified Section): ''
+      B6 - Restaurant, limited service with drive-thru pickup window meeting all standards of 17.60.080:
+        Commercial and Mixed Use Zones > C-N: P
+        Commercial and Mixed Use Zones > C-S: P
+        Commercial and Mixed Use Zones > MU: P
+        Office, Industrial, Public, and Open Space Zones > PO: ''
+        Office, Industrial, Public, and Open Space Zones > I: C
+        Office, Industrial, Public, and Open Space Zones > PF: ''
+        Office, Industrial, Public, and Open Space Zones > OS: ''
+        Specific Land Use Standards (See identified Section): 17.60.080
+      B7 - Restaurant, limited service with drive-thru pickup window not meeting all standards of 17.60.080:
+        Commercial and Mixed Use Zones > C-N: C
+        Commercial and Mixed Use Zones > C-S: C
+        Commercial and Mixed Use Zones > MU: C
+        Office, Industrial, Public, and Open Space Zones > PO: ''
+        Office, Industrial, Public, and Open Space Zones > I: C
+        Office, Industrial, Public, and Open Space Zones > PF: ''
+        Office, Industrial, Public, and Open Space Zones > OS: ''
+        Specific Land Use Standards (See identified Section): 17.60.080
+      B8 - Restaurant, limited service without drive-thru pickup window:
+        Commercial and Mixed Use Zones > C-N: P
+        Commercial and Mixed Use Zones > C-S: P
+        Commercial and Mixed Use Zones > MU: P
+        Office, Industrial, Public, and Open Space Zones > PO: ''
+        Office, Industrial, Public, and Open Space Zones > I: C
+        Office, Industrial, Public, and Open Space Zones > PF: ''
+        Office, Industrial, Public, and Open Space Zones > OS: ''
+        Specific Land Use Standards (See identified Section): ''
+    Education and Assembly Uses:
+      C1 - Assembly facility (e.g. meeting facilities, churches, community centers):
+        Commercial and Mixed Use Zones > C-N: P
+        Commercial and Mixed Use Zones > C-S: P
+        Commercial and Mixed Use Zones > MU: P
+        Office, Industrial, Public, and Open Space Zones > PO: C
+        Office, Industrial, Public, and Open Space Zones > I: C
+        Office, Industrial, Public, and Open Space Zones > PF: ''
+        Office, Industrial, Public, and Open Space Zones > OS: ''
+        Specific Land Use Standards (See identified Section): ''
+      C2 - Auditorium:
+        Commercial and Mixed Use Zones > C-N: ''
+        Commercial and Mixed Use Zones > C-S: ''
+        Commercial and Mixed Use Zones > MU: P
+        Office, Industrial, Public, and Open Space Zones > PO: P
+        Office, Industrial, Public, and Open Space Zones > I: ''
+        Office, Industrial, Public, and Open Space Zones > PF: P
+        Office, Industrial, Public, and Open Space Zones > OS: ''
+        Specific Land Use Standards (See identified Section): ''
+      C3 - Card room:
+        Commercial and Mixed Use Zones > C-N: ''
+        Commercial and Mixed Use Zones > C-S: C
+        Commercial and Mixed Use Zones > MU: ''
+        Office, Industrial, Public, and Open Space Zones > PO: ''
+        Office, Industrial, Public, and Open Space Zones > I: C
+        Office, Industrial, Public, and Open Space Zones > PF: ''
+        Office, Industrial, Public, and Open Space Zones > OS: ''
+        Specific Land Use Standards (See identified Section): ''
+      C4 - Club, lodge, or private meeting hall:
+        Commercial and Mixed Use Zones > C-N: P
+        Commercial and Mixed Use Zones > C-S: P
+        Commercial and Mixed Use Zones > MU: P
+        Office, Industrial, Public, and Open Space Zones > PO: C
+        Office, Industrial, Public, and Open Space Zones > I: ''
+        Office, Industrial, Public, and Open Space Zones > PF: ''
+        Office, Industrial, Public, and Open Space Zones > OS: ''
+        Specific Land Use Standards (See identified Section): ''
+      C5 - Carnival or circus:
+        Commercial and Mixed Use Zones > C-N: T
+        Commercial and Mixed Use Zones > C-S: T
+        Commercial and Mixed Use Zones > MU: T
+        Office, Industrial, Public, and Open Space Zones > PO: ''
+        Office, Industrial, Public, and Open Space Zones > I: T
+        Office, Industrial, Public, and Open Space Zones > PF: ''
+        Office, Industrial, Public, and Open Space Zones > OS: T
+        Specific Land Use Standards (See identified Section): ''
+      C6 - College or university, public or private:
+        Commercial and Mixed Use Zones > C-N: C
+        Commercial and Mixed Use Zones > C-S: C
+        Commercial and Mixed Use Zones > MU: C
+        Office, Industrial, Public, and Open Space Zones > PO: ''
+        Office, Industrial, Public, and Open Space Zones > I: ''
+        Office, Industrial, Public, and Open Space Zones > PF: P
+        Office, Industrial, Public, and Open Space Zones > OS: ''
+        Specific Land Use Standards (See identified Section): ''
+      C7 - Convention or conference center:
+        Commercial and Mixed Use Zones > C-N: ''
+        Commercial and Mixed Use Zones > C-S: ''
+        Commercial and Mixed Use Zones > MU: P
+        Office, Industrial, Public, and Open Space Zones > PO: ''
+        Office, Industrial, Public, and Open Space Zones > I: ''
+        Office, Industrial, Public, and Open Space Zones > PF: P
+        Office, Industrial, Public, and Open Space Zones > OS: ''
+        Specific Land Use Standards (See identified Section): ''
+      C8 - Funeral home or mortuary:
+        Commercial and Mixed Use Zones > C-N: ''
+        Commercial and Mixed Use Zones > C-S: C
+        Commercial and Mixed Use Zones > MU: C
+        Office, Industrial, Public, and Open Space Zones > PO: C
+        Office, Industrial, Public, and Open Space Zones > I: ''
+        Office, Industrial, Public, and Open Space Zones > PF: ''
+        Office, Industrial, Public, and Open Space Zones > OS: ''
+        Specific Land Use Standards (See identified Section): ''
+      C9 - Library, museum, or cultural facility:
+        Commercial and Mixed Use Zones > C-N: P
+        Commercial and Mixed Use Zones > C-S: ''
+        Commercial and Mixed Use Zones > MU: P
+        Office, Industrial, Public, and Open Space Zones > PO: P
+        Office, Industrial, Public, and Open Space Zones > I: ''
+        Office, Industrial, Public, and Open Space Zones > PF: P
+        Office, Industrial, Public, and Open Space Zones > OS: ''
+        Specific Land Use Standards (See identified Section): ''
+      C10 - Pool hall or billiard parlor:
+        Commercial and Mixed Use Zones > C-N: ''
+        Commercial and Mixed Use Zones > C-S: C
+        Commercial and Mixed Use Zones > MU: C
+        Office, Industrial, Public, and Open Space Zones > PO: ''
+        Office, Industrial, Public, and Open Space Zones > I: ''
+        Office, Industrial, Public, and Open Space Zones > PF: ''
+        Office, Industrial, Public, and Open Space Zones > OS: ''
+        Specific Land Use Standards (See identified Section): ''
+      C11 - School, private (kindergarten to 12 th grade):
+        Commercial and Mixed Use Zones > C-N: ''
+        Commercial and Mixed Use Zones > C-S: ''
+        Commercial and Mixed Use Zones > MU: C
+        Office, Industrial, Public, and Open Space Zones > PO: ''
+        Office, Industrial, Public, and Open Space Zones > I: ''
+        Office, Industrial, Public, and Open Space Zones > PF: C
+        Office, Industrial, Public, and Open Space Zones > OS: ''
+        Specific Land Use Standards (See identified Section): ''
+      C12 - School, public (kindergarten to 12 th grade):
+        Commercial and Mixed Use Zones > C-N: ''
+        Commercial and Mixed Use Zones > C-S: ''
+        Commercial and Mixed Use Zones > MU: ''
+        Office, Industrial, Public, and Open Space Zones > PO: ''
+        Office, Industrial, Public, and Open Space Zones > I: ''
+        Office, Industrial, Public, and Open Space Zones > PF: P
+        Office, Industrial, Public, and Open Space Zones > OS: ''
+        Specific Land Use Standards (See identified Section): ''
+      C13 - School; charter, trade, vocational, art, business, or professional:
+        Commercial and Mixed Use Zones > C-N: ''
+        Commercial and Mixed Use Zones > C-S: P
+        Commercial and Mixed Use Zones > MU: C
+        Office, Industrial, Public, and Open Space Zones > PO: C
+        Office, Industrial, Public, and Open Space Zones > I: C
+        Office, Industrial, Public, and Open Space Zones > PF: P
+        Office, Industrial, Public, and Open Space Zones > OS: ''
+        Specific Land Use Standards (See identified Section): ''
+      C14 - Studio for martial arts, music, dance, yoga, exercise, gymnastics or similar:
+        Commercial and Mixed Use Zones > C-N: P
+        Commercial and Mixed Use Zones > C-S: P
+        Commercial and Mixed Use Zones > MU: P
+        Office, Industrial, Public, and Open Space Zones > PO: P
+        Office, Industrial, Public, and Open Space Zones > I: P
+        Office, Industrial, Public, and Open Space Zones > PF: P
+        Office, Industrial, Public, and Open Space Zones > OS: ''
+        Specific Land Use Standards (See identified Section): ''
+      C15 - Theater, live or movie:
+        Commercial and Mixed Use Zones > C-N: C
+        Commercial and Mixed Use Zones > C-S: C
+        Commercial and Mixed Use Zones > MU: P
+        Office, Industrial, Public, and Open Space Zones > PO: ''
+        Office, Industrial, Public, and Open Space Zones > I: ''
+        Office, Industrial, Public, and Open Space Zones > PF: A
+        Office, Industrial, Public, and Open Space Zones > OS: A
+        Specific Land Use Standards (See identified Section): ''
+    Manufacturing and Processing Uses:
+      D1 - Agricultural crop production:
+        Commercial and Mixed Use Zones > C-N: ''
+        Commercial and Mixed Use Zones > C-S: ''
+        Commercial and Mixed Use Zones > MU: ''
+        Office, Industrial, Public, and Open Space Zones > PO: ''
+        Office, Industrial, Public, and Open Space Zones > I: C
+        Office, Industrial, Public, and Open Space Zones > PF: P
+        Office, Industrial, Public, and Open Space Zones > OS: C
+        Specific Land Use Standards (See identified Section): ''
+      D2 - Agricultural products packing, packaging, preparing, or processing:
+        Commercial and Mixed Use Zones > C-N: ''
+        Commercial and Mixed Use Zones > C-S: ''
+        Commercial and Mixed Use Zones > MU: ''
+        Office, Industrial, Public, and Open Space Zones > PO: ''
+        Office, Industrial, Public, and Open Space Zones > I: P
+        Office, Industrial, Public, and Open Space Zones > PF: ''
+        Office, Industrial, Public, and Open Space Zones > OS: ''
+        Specific Land Use Standards (See identified Section): ''
+      D3 - Animal raising:
+        Commercial and Mixed Use Zones > C-N: ''
+        Commercial and Mixed Use Zones > C-S: ''
+        Commercial and Mixed Use Zones > MU: ''
+        Office, Industrial, Public, and Open Space Zones > PO: ''
+        Office, Industrial, Public, and Open Space Zones > I: ''
+        Office, Industrial, Public, and Open Space Zones > PF: ''
+        Office, Industrial, Public, and Open Space Zones > OS: ''
+        Specific Land Use Standards (See identified Section): ''
+      D4 - Brewery, winery, or distillery:
+        Commercial and Mixed Use Zones > C-N: ''
+        Commercial and Mixed Use Zones > C-S: C
+        Commercial and Mixed Use Zones > MU: ''
+        Office, Industrial, Public, and Open Space Zones > PO: ''
+        Office, Industrial, Public, and Open Space Zones > I: C
+        Office, Industrial, Public, and Open Space Zones > PF: ''
+        Office, Industrial, Public, and Open Space Zones > OS: ''
+        Specific Land Use Standards (See identified Section): ''
+      D5 - Hazardous waste facility:
+        Commercial and Mixed Use Zones > C-N: ''
+        Commercial and Mixed Use Zones > C-S: ''
+        Commercial and Mixed Use Zones > MU: ''
+        Office, Industrial, Public, and Open Space Zones > PO: ''
+        Office, Industrial, Public, and Open Space Zones > I: C
+        Office, Industrial, Public, and Open Space Zones > PF: ''
+        Office, Industrial, Public, and Open Space Zones > OS: ''
+        Specific Land Use Standards (See identified Section): ''
+      D6 - Industrial or manufacturing facility, heavy:
+        Commercial and Mixed Use Zones > C-N: ''
+        Commercial and Mixed Use Zones > C-S: ''
+        Commercial and Mixed Use Zones > MU: ''
+        Office, Industrial, Public, and Open Space Zones > PO: ''
+        Office, Industrial, Public, and Open Space Zones > I: C
+        Office, Industrial, Public, and Open Space Zones > PF: ''
+        Office, Industrial, Public, and Open Space Zones > OS: ''
+        Specific Land Use Standards (See identified Section): ''
+      D7 - Industrial or manufacturing facility, light:
+        Commercial and Mixed Use Zones > C-N: ''
+        Commercial and Mixed Use Zones > C-S: P
+        Commercial and Mixed Use Zones > MU: ''
+        Office, Industrial, Public, and Open Space Zones > PO: ''
+        Office, Industrial, Public, and Open Space Zones > I: P
+        Office, Industrial, Public, and Open Space Zones > PF: P 1
+        Office, Industrial, Public, and Open Space Zones > OS: ''
+        Specific Land Use Standards (See identified Section): 17.30.020
+      D8 - Meat packing or slaughterhouse:
+        Commercial and Mixed Use Zones > C-N: ''
+        Commercial and Mixed Use Zones > C-S: ''
+        Commercial and Mixed Use Zones > MU: ''
+        Office, Industrial, Public, and Open Space Zones > PO: ''
+        Office, Industrial, Public, and Open Space Zones > I: P
+        Office, Industrial, Public, and Open Space Zones > PF: ''
+        Office, Industrial, Public, and Open Space Zones > OS: ''
+        Specific Land Use Standards (See identified Section): ''
+      D9 - Mining, quarry, or sand and gravel excavation:
+        Commercial and Mixed Use Zones > C-N: ''
+        Commercial and Mixed Use Zones > C-S: ''
+        Commercial and Mixed Use Zones > MU: ''
+        Office, Industrial, Public, and Open Space Zones > PO: ''
+        Office, Industrial, Public, and Open Space Zones > I: C
+        Office, Industrial, Public, and Open Space Zones > PF: ''
+        Office, Industrial, Public, and Open Space Zones > OS: ''
+        Specific Land Use Standards (See identified Section): ''
+      D10 - Research and development facility:
+        Commercial and Mixed Use Zones > C-N: ''
+        Commercial and Mixed Use Zones > C-S: P
+        Commercial and Mixed Use Zones > MU: ''
+        Office, Industrial, Public, and Open Space Zones > PO: P
+        Office, Industrial, Public, and Open Space Zones > I: P
+        Office, Industrial, Public, and Open Space Zones > PF: ''
+        Office, Industrial, Public, and Open Space Zones > OS: ''
+        Specific Land Use Standards (See identified Section): ''
+    Office and Medical Uses:
+      E1 - Call center:
+        Commercial and Mixed Use Zones > C-N: ''
+        Commercial and Mixed Use Zones > C-S: ''
+        Commercial and Mixed Use Zones > MU: ''
+        Office, Industrial, Public, and Open Space Zones > PO: C
+        Office, Industrial, Public, and Open Space Zones > I: C
+        Office, Industrial, Public, and Open Space Zones > PF: ''
+        Office, Industrial, Public, and Open Space Zones > OS: ''
+        Specific Land Use Standards (See identified Section): ''
+      E2 - Communications broadcasting or media studio:
+        Commercial and Mixed Use Zones > C-N: ''
+        Commercial and Mixed Use Zones > C-S: P
+        Commercial and Mixed Use Zones > MU: P
+        Office, Industrial, Public, and Open Space Zones > PO: P
+        Office, Industrial, Public, and Open Space Zones > I: P
+        Office, Industrial, Public, and Open Space Zones > PF: ''
+        Office, Industrial, Public, and Open Space Zones > OS: ''
+        Specific Land Use Standards (See identified Section): ''
+      E3 - Laboratory; general, medical, or dental:
+        Commercial and Mixed Use Zones > C-N: ''
+        Commercial and Mixed Use Zones > C-S: P
+        Commercial and Mixed Use Zones > MU: P
+        Office, Industrial, Public, and Open Space Zones > PO: P
+        Office, Industrial, Public, and Open Space Zones > I: C
+        Office, Industrial, Public, and Open Space Zones > PF: ''
+        Office, Industrial, Public, and Open Space Zones > OS: ''
+        Specific Land Use Standards (See identified Section): ''
+      E4 - Hospital, general or psychiatric:
+        Commercial and Mixed Use Zones > C-N: ''
+        Commercial and Mixed Use Zones > C-S: ''
+        Commercial and Mixed Use Zones > MU: P
+        Office, Industrial, Public, and Open Space Zones > PO: P
+        Office, Industrial, Public, and Open Space Zones > I: ''
+        Office, Industrial, Public, and Open Space Zones > PF: P
+        Office, Industrial, Public, and Open Space Zones > OS: ''
+        Specific Land Use Standards (See identified Section): ''
+      E5 - Office; medical, dental, or optometry:
+        Commercial and Mixed Use Zones > C-N: P
+        Commercial and Mixed Use Zones > C-S: P
+        Commercial and Mixed Use Zones > MU: P
+        Office, Industrial, Public, and Open Space Zones > PO: P
+        Office, Industrial, Public, and Open Space Zones > I: ''
+        Office, Industrial, Public, and Open Space Zones > PF: ''
+        Office, Industrial, Public, and Open Space Zones > OS: ''
+        Specific Land Use Standards (See identified Section): ''
+      E6 - Office; professional or commercial:
+        Commercial and Mixed Use Zones > C-N: P
+        Commercial and Mixed Use Zones > C-S: P
+        Commercial and Mixed Use Zones > MU: P
+        Office, Industrial, Public, and Open Space Zones > PO: P
+        Office, Industrial, Public, and Open Space Zones > I: ''
+        Office, Industrial, Public, and Open Space Zones > PF: ''
+        Office, Industrial, Public, and Open Space Zones > OS: ''
+        Specific Land Use Standards (See identified Section): ''
+      E7 - Pharmacy:
+        Commercial and Mixed Use Zones > C-N: P
+        Commercial and Mixed Use Zones > C-S: P
+        Commercial and Mixed Use Zones > MU: P
+        Office, Industrial, Public, and Open Space Zones > PO: P
+        Office, Industrial, Public, and Open Space Zones > I: ''
+        Office, Industrial, Public, and Open Space Zones > PF: ''
+        Office, Industrial, Public, and Open Space Zones > OS: ''
+        Specific Land Use Standards (See identified Section): ''
+      E8 - Urgent care center or other walk-in clinic:
+        Commercial and Mixed Use Zones > C-N: P
+        Commercial and Mixed Use Zones > C-S: P
+        Commercial and Mixed Use Zones > MU: P
+        Office, Industrial, Public, and Open Space Zones > PO: P
+        Office, Industrial, Public, and Open Space Zones > I: ''
+        Office, Industrial, Public, and Open Space Zones > PF: ''
+        Office, Industrial, Public, and Open Space Zones > OS: ''
+        Specific Land Use Standards (See identified Section): ''
+    Public and Quasi-Public Uses:
+      F1 - Cemetery:
+        Commercial and Mixed Use Zones > C-N: ''
+        Commercial and Mixed Use Zones > C-S: ''
+        Commercial and Mixed Use Zones > MU: ''
+        Office, Industrial, Public, and Open Space Zones > PO: ''
+        Office, Industrial, Public, and Open Space Zones > I: ''
+        Office, Industrial, Public, and Open Space Zones > PF: P
+        Office, Industrial, Public, and Open Space Zones > OS: ''
+        Specific Land Use Standards (See identified Section): ''
+      F2 - Community center or facility:
+        Commercial and Mixed Use Zones > C-N: P
+        Commercial and Mixed Use Zones > C-S: P
+        Commercial and Mixed Use Zones > MU: P
+        Office, Industrial, Public, and Open Space Zones > PO: ''
+        Office, Industrial, Public, and Open Space Zones > I: ''
+        Office, Industrial, Public, and Open Space Zones > PF: P
+        Office, Industrial, Public, and Open Space Zones > OS: ''
+        Specific Land Use Standards (See identified Section): ''
+      F3 - Community garden:
+        Commercial and Mixed Use Zones > C-N: P
+        Commercial and Mixed Use Zones > C-S: P
+        Commercial and Mixed Use Zones > MU: P
+        Office, Industrial, Public, and Open Space Zones > PO: P
+        Office, Industrial, Public, and Open Space Zones > I: ''
+        Office, Industrial, Public, and Open Space Zones > PF: P
+        Office, Industrial, Public, and Open Space Zones > OS: P
+        Specific Land Use Standards (See identified Section): ''
+      F4 - Electrical substation, gas regulator station, communications equipment building, public service pumping station, or elevated pressure tank:
+        Commercial and Mixed Use Zones > C-N: C
+        Commercial and Mixed Use Zones > C-S: C
+        Commercial and Mixed Use Zones > MU: C
+        Office, Industrial, Public, and Open Space Zones > PO: C
+        Office, Industrial, Public, and Open Space Zones > I: C
+        Office, Industrial, Public, and Open Space Zones > PF: C
+        Office, Industrial, Public, and Open Space Zones > OS: C
+        Specific Land Use Standards (See identified Section): ''
+      F5 - Fairgrounds:
+        Commercial and Mixed Use Zones > C-N: ''
+        Commercial and Mixed Use Zones > C-S: ''
+        Commercial and Mixed Use Zones > MU: ''
+        Office, Industrial, Public, and Open Space Zones > PO: ''
+        Office, Industrial, Public, and Open Space Zones > I: ''
+        Office, Industrial, Public, and Open Space Zones > PF: P
+        Office, Industrial, Public, and Open Space Zones > OS: ''
+        Specific Land Use Standards (See identified Section): ''
+      F6 - Government office; local, state, or federal:
+        Commercial and Mixed Use Zones > C-N: C
+        Commercial and Mixed Use Zones > C-S: P
+        Commercial and Mixed Use Zones > MU: P
+        Office, Industrial, Public, and Open Space Zones > PO: P
+        Office, Industrial, Public, and Open Space Zones > I: ''
+        Office, Industrial, Public, and Open Space Zones > PF: P
+        Office, Industrial, Public, and Open Space Zones > OS: ''
+        Specific Land Use Standards (See identified Section): ''
+      F7 - Post office:
+        Commercial and Mixed Use Zones > C-N: ''
+        Commercial and Mixed Use Zones > C-S: ''
+        Commercial and Mixed Use Zones > MU: P
+        Office, Industrial, Public, and Open Space Zones > PO: P
+        Office, Industrial, Public, and Open Space Zones > I: ''
+        Office, Industrial, Public, and Open Space Zones > PF: P
+        Office, Industrial, Public, and Open Space Zones > OS: ''
+        Specific Land Use Standards (See identified Section): ''
+      F8 - Public corporation yard, utility yard, or vehicle and heavy equipment maintenance and storage yard:
+        Commercial and Mixed Use Zones > C-N: ''
+        Commercial and Mixed Use Zones > C-S: ''
+        Commercial and Mixed Use Zones > MU: ''
+        Office, Industrial, Public, and Open Space Zones > PO: ''
+        Office, Industrial, Public, and Open Space Zones > I: ''
+        Office, Industrial, Public, and Open Space Zones > PF: P
+        Office, Industrial, Public, and Open Space Zones > OS: ''
+        Specific Land Use Standards (See identified Section): ''
+      F9 - Public safety facility or station:
+        Commercial and Mixed Use Zones > C-N: P
+        Commercial and Mixed Use Zones > C-S: ''
+        Commercial and Mixed Use Zones > MU: P
+        Office, Industrial, Public, and Open Space Zones > PO: ''
+        Office, Industrial, Public, and Open Space Zones > I: P
+        Office, Industrial, Public, and Open Space Zones > PF: P
+        Office, Industrial, Public, and Open Space Zones > OS: ''
+        Specific Land Use Standards (See identified Section): ''
+      F10 - Social service office, assistance center, or guidance center:
+        Commercial and Mixed Use Zones > C-N: P
+        Commercial and Mixed Use Zones > C-S: P
+        Commercial and Mixed Use Zones > MU: P
+        Office, Industrial, Public, and Open Space Zones > PO: P
+        Office, Industrial, Public, and Open Space Zones > I: ''
+        Office, Industrial, Public, and Open Space Zones > PF: P
+        Office, Industrial, Public, and Open Space Zones > OS: ''
+        Specific Land Use Standards (See identified Section): ''
+      F11 - Storm drainage basin, with or without a park:
+        Commercial and Mixed Use Zones > C-N: P
+        Commercial and Mixed Use Zones > C-S: P
+        Commercial and Mixed Use Zones > MU: P
+        Office, Industrial, Public, and Open Space Zones > PO: P
+        Office, Industrial, Public, and Open Space Zones > I: P
+        Office, Industrial, Public, and Open Space Zones > PF: P
+        Office, Industrial, Public, and Open Space Zones > OS: P
+        Specific Land Use Standards (See identified Section): ''
+      F12 - Wireless communication facility (WCF):
+        Commercial and Mixed Use Zones > C-N: ''
+        Commercial and Mixed Use Zones > C-S: ''
+        Commercial and Mixed Use Zones > MU: ''
+        Office, Industrial, Public, and Open Space Zones > PO: ''
+        Office, Industrial, Public, and Open Space Zones > I: P
+        Office, Industrial, Public, and Open Space Zones > PF: P
+        Office, Industrial, Public, and Open Space Zones > OS: C
+        Specific Land Use Standards (See identified Section): Chapter 17.68
+    Recreation Uses:
+      G1 - Athletic complex or ball field:
+        Commercial and Mixed Use Zones > C-N: ''
+        Commercial and Mixed Use Zones > C-S: ''
+        Commercial and Mixed Use Zones > MU: ''
+        Office, Industrial, Public, and Open Space Zones > PO: ''
+        Office, Industrial, Public, and Open Space Zones > I: ''
+        Office, Industrial, Public, and Open Space Zones > PF: P
+        Office, Industrial, Public, and Open Space Zones > OS: P
+        Specific Land Use Standards (See identified Section): ''
+      G2 - Commercial recreation facility, indoor:
+        Commercial and Mixed Use Zones > C-N: C
+        Commercial and Mixed Use Zones > C-S: P
+        Commercial and Mixed Use Zones > MU: P
+        Office, Industrial, Public, and Open Space Zones > PO: ''
+        Office, Industrial, Public, and Open Space Zones > I: C
+        Office, Industrial, Public, and Open Space Zones > PF: ''
+        Office, Industrial, Public, and Open Space Zones > OS: ''
+        Specific Land Use Standards (See identified Section): ''
+      G3 - Commercial recreation facility, outdoor:
+        Commercial and Mixed Use Zones > C-N: ''
+        Commercial and Mixed Use Zones > C-S: ''
+        Commercial and Mixed Use Zones > MU: ''
+        Office, Industrial, Public, and Open Space Zones > PO: ''
+        Office, Industrial, Public, and Open Space Zones > I: C
+        Office, Industrial, Public, and Open Space Zones > PF: C
+        Office, Industrial, Public, and Open Space Zones > OS: C
+        Specific Land Use Standards (See identified Section): ''
+      G4 - Golf course or country club:
+        Commercial and Mixed Use Zones > C-N: ''
+        Commercial and Mixed Use Zones > C-S: ''
+        Commercial and Mixed Use Zones > MU: ''
+        Office, Industrial, Public, and Open Space Zones > PO: ''
+        Office, Industrial, Public, and Open Space Zones > I: ''
+        Office, Industrial, Public, and Open Space Zones > PF: C
+        Office, Industrial, Public, and Open Space Zones > OS: C
+        Specific Land Use Standards (See identified Section): ''
+      G5 - Health or fitness facility, large:
+        Commercial and Mixed Use Zones > C-N: ''
+        Commercial and Mixed Use Zones > C-S: P
+        Commercial and Mixed Use Zones > MU: P
+        Office, Industrial, Public, and Open Space Zones > PO: ''
+        Office, Industrial, Public, and Open Space Zones > I: ''
+        Office, Industrial, Public, and Open Space Zones > PF: ''
+        Office, Industrial, Public, and Open Space Zones > OS: ''
+        Specific Land Use Standards (See identified Section): ''
+      G6 - Health or fitness facility, small:
+        Commercial and Mixed Use Zones > C-N: P
+        Commercial and Mixed Use Zones > C-S: P
+        Commercial and Mixed Use Zones > MU: P
+        Office, Industrial, Public, and Open Space Zones > PO: P
+        Office, Industrial, Public, and Open Space Zones > I: C
+        Office, Industrial, Public, and Open Space Zones > PF: ''
+        Office, Industrial, Public, and Open Space Zones > OS: ''
+        Specific Land Use Standards (See identified Section): ''
+      G7 - Park or playground:
+        Commercial and Mixed Use Zones > C-N: P
+        Commercial and Mixed Use Zones > C-S: P
+        Commercial and Mixed Use Zones > MU: P
+        Office, Industrial, Public, and Open Space Zones > PO: P
+        Office, Industrial, Public, and Open Space Zones > I: ''
+        Office, Industrial, Public, and Open Space Zones > PF: P
+        Office, Industrial, Public, and Open Space Zones > OS: P
+        Specific Land Use Standards (See identified Section): ''
+    Residential Uses:
+      H1 - Assisted living, skilled nursing, or hospice facility:
+        Commercial and Mixed Use Zones > C-N: ''
+        Commercial and Mixed Use Zones > C-S: ''
+        Commercial and Mixed Use Zones > MU: C
+        Office, Industrial, Public, and Open Space Zones > PO: C
+        Office, Industrial, Public, and Open Space Zones > I: ''
+        Office, Industrial, Public, and Open Space Zones > PF: ''
+        Office, Industrial, Public, and Open Space Zones > OS: ''
+        Specific Land Use Standards (See identified Section): ''
+      H2 - Bed and breakfast inn:
+        Commercial and Mixed Use Zones > C-N: C
+        Commercial and Mixed Use Zones > C-S: ''
+        Commercial and Mixed Use Zones > MU: C
+        Office, Industrial, Public, and Open Space Zones > PO: ''
+        Office, Industrial, Public, and Open Space Zones > I: ''
+        Office, Industrial, Public, and Open Space Zones > PF: ''
+        Office, Industrial, Public, and Open Space Zones > OS: ''
+        Specific Land Use Standards (See identified Section): 17.60.050
+      H3 - Boarding or rooming house:
+        Commercial and Mixed Use Zones > C-N: ''
+        Commercial and Mixed Use Zones > C-S: ''
+        Commercial and Mixed Use Zones > MU: C
+        Office, Industrial, Public, and Open Space Zones > PO: ''
+        Office, Industrial, Public, and Open Space Zones > I: ''
+        Office, Industrial, Public, and Open Space Zones > PF: ''
+        Office, Industrial, Public, and Open Space Zones > OS: ''
+        Specific Land Use Standards (See identified Section): ''
+      H4 - Emergency shelter:
+        Commercial and Mixed Use Zones > C-N: P
+        Commercial and Mixed Use Zones > C-S: P
+        Commercial and Mixed Use Zones > MU: P
+        Office, Industrial, Public, and Open Space Zones > PO: ''
+        Office, Industrial, Public, and Open Space Zones > I: ''
+        Office, Industrial, Public, and Open Space Zones > PF: ''
+        Office, Industrial, Public, and Open Space Zones > OS: ''
+        Specific Land Use Standards (See identified Section): 17.60.030
+      H5 - Employee housing, small (six (6) or fewer employees):
+        Commercial and Mixed Use Zones > C-N: ''
+        Commercial and Mixed Use Zones > C-S: ''
+        Commercial and Mixed Use Zones > MU: P
+        Office, Industrial, Public, and Open Space Zones > PO: ''
+        Office, Industrial, Public, and Open Space Zones > I: ''
+        Office, Industrial, Public, and Open Space Zones > PF: ''
+        Office, Industrial, Public, and Open Space Zones > OS: ''
+        Specific Land Use Standards (See identified Section): ''
+      H6 - Employee housing, large (more than six (6) employees):
+        Commercial and Mixed Use Zones > C-N: ''
+        Commercial and Mixed Use Zones > C-S: ''
+        Commercial and Mixed Use Zones > MU: ''
+        Office, Industrial, Public, and Open Space Zones > PO: ''
+        Office, Industrial, Public, and Open Space Zones > I: ''
+        Office, Industrial, Public, and Open Space Zones > PF: ''
+        Office, Industrial, Public, and Open Space Zones > OS: ''
+        Specific Land Use Standards (See identified Section): ''
+      H7 - Hotel or motel:
+        Commercial and Mixed Use Zones > C-N: C
+        Commercial and Mixed Use Zones > C-S: C
+        Commercial and Mixed Use Zones > MU: P
+        Office, Industrial, Public, and Open Space Zones > PO: ''
+        Office, Industrial, Public, and Open Space Zones > I: ''
+        Office, Industrial, Public, and Open Space Zones > PF: ''
+        Office, Industrial, Public, and Open Space Zones > OS: ''
+        Specific Land Use Standards (See identified Section): ''
+      H8 - Live/work facility:
+        Commercial and Mixed Use Zones > C-N: P
+        Commercial and Mixed Use Zones > C-S: P
+        Commercial and Mixed Use Zones > MU: P
+        Office, Industrial, Public, and Open Space Zones > PO: P
+        Office, Industrial, Public, and Open Space Zones > I: C
+        Office, Industrial, Public, and Open Space Zones > PF: ''
+        Office, Industrial, Public, and Open Space Zones > OS: ''
+        Specific Land Use Standards (See identified Section): ''
+      H9 - Manufactured home not within a mobile home park, more than 10 years old:
+        Commercial and Mixed Use Zones > C-N: ''
+        Commercial and Mixed Use Zones > C-S: ''
+        Commercial and Mixed Use Zones > MU: ''
+        Office, Industrial, Public, and Open Space Zones > PO: ''
+        Office, Industrial, Public, and Open Space Zones > I: ''
+        Office, Industrial, Public, and Open Space Zones > PF: ''
+        Office, Industrial, Public, and Open Space Zones > OS: ''
+        Specific Land Use Standards (See identified Section): 17.60.100
+      H10 - Manufactured home not within a mobile home park, less than 10 years old:
+        Commercial and Mixed Use Zones > C-N: ''
+        Commercial and Mixed Use Zones > C-S: ''
+        Commercial and Mixed Use Zones > MU: C
+        Office, Industrial, Public, and Open Space Zones > PO: C
+        Office, Industrial, Public, and Open Space Zones > I: ''
+        Office, Industrial, Public, and Open Space Zones > PF: ''
+        Office, Industrial, Public, and Open Space Zones > OS: ''
+        Specific Land Use Standards (See identified Section): 17.60.100
+      H11 - Mobile home or manufactured home park:
+        Commercial and Mixed Use Zones > C-N: ''
+        Commercial and Mixed Use Zones > C-S: ''
+        Commercial and Mixed Use Zones > MU: ''
+        Office, Industrial, Public, and Open Space Zones > PO: ''
+        Office, Industrial, Public, and Open Space Zones > I: ''
+        Office, Industrial, Public, and Open Space Zones > PF: ''
+        Office, Industrial, Public, and Open Space Zones > OS: ''
+        Specific Land Use Standards (See identified Section): 17.60.130
+      H12 - Multi-family dwelling, two (2) units per building (duplex):
+        Commercial and Mixed Use Zones > C-N: C
+        Commercial and Mixed Use Zones > C-S: ''
+        Commercial and Mixed Use Zones > MU: P
+        Office, Industrial, Public, and Open Space Zones > PO: ''
+        Office, Industrial, Public, and Open Space Zones > I: ''
+        Office, Industrial, Public, and Open Space Zones > PF: ''
+        Office, Industrial, Public, and Open Space Zones > OS: ''
+        Specific Land Use Standards (See identified Section): ''
+      H13 - Multi-family dwelling, three (3) or four (4) units per building (triplex or fourplex):
+        Commercial and Mixed Use Zones > C-N: C
+        Commercial and Mixed Use Zones > C-S: ''
+        Commercial and Mixed Use Zones > MU: P
+        Office, Industrial, Public, and Open Space Zones > PO: ''
+        Office, Industrial, Public, and Open Space Zones > I: ''
+        Office, Industrial, Public, and Open Space Zones > PF: ''
+        Office, Industrial, Public, and Open Space Zones > OS: ''
+        Specific Land Use Standards (See identified Section): ''
+      H14 - Multi-family dwelling, five (5) or more units per building:
+        Commercial and Mixed Use Zones > C-N: C
+        Commercial and Mixed Use Zones > C-S: ''
+        Commercial and Mixed Use Zones > MU: P
+        Office, Industrial, Public, and Open Space Zones > PO: ''
+        Office, Industrial, Public, and Open Space Zones > I: ''
+        Office, Industrial, Public, and Open Space Zones > PF: ''
+        Office, Industrial, Public, and Open Space Zones > OS: ''
+        Specific Land Use Standards (See identified Section): ''
+      H15 - Recreational vehicle park:
+        Commercial and Mixed Use Zones > C-N: ''
+        Commercial and Mixed Use Zones > C-S: ''
+        Commercial and Mixed Use Zones > MU: ''
+        Office, Industrial, Public, and Open Space Zones > PO: ''
+        Office, Industrial, Public, and Open Space Zones > I: C
+        Office, Industrial, Public, and Open Space Zones > PF: ''
+        Office, Industrial, Public, and Open Space Zones > OS: ''
+        Specific Land Use Standards (See identified Section): ''
+      H16 - Residential care facility, up to six (6) persons:
+        Commercial and Mixed Use Zones > C-N: C
+        Commercial and Mixed Use Zones > C-S: ''
+        Commercial and Mixed Use Zones > MU: P
+        Office, Industrial, Public, and Open Space Zones > PO: P
+        Office, Industrial, Public, and Open Space Zones > I: ''
+        Office, Industrial, Public, and Open Space Zones > PF: ''
+        Office, Industrial, Public, and Open Space Zones > OS: ''
+        Specific Land Use Standards (See identified Section): ''
+      H17 - Residential care facility, seven (7) or more persons:
+        Commercial and Mixed Use Zones > C-N: C
+        Commercial and Mixed Use Zones > C-S: ''
+        Commercial and Mixed Use Zones > MU: P
+        Office, Industrial, Public, and Open Space Zones > PO: P
+        Office, Industrial, Public, and Open Space Zones > I: ''
+        Office, Industrial, Public, and Open Space Zones > PF: ''
+        Office, Industrial, Public, and Open Space Zones > OS: ''
+        Specific Land Use Standards (See identified Section): ''
+      H18 - Residential dwelling located in same building with office or commercial use:
+        Commercial and Mixed Use Zones > C-N: C
+        Commercial and Mixed Use Zones > C-S: C
+        Commercial and Mixed Use Zones > MU: P
+        Office, Industrial, Public, and Open Space Zones > PO: C
+        Office, Industrial, Public, and Open Space Zones > I: ''
+        Office, Industrial, Public, and Open Space Zones > PF: ''
+        Office, Industrial, Public, and Open Space Zones > OS: ''
+        Specific Land Use Standards (See identified Section): ''
+      H19 - Single-family dwelling, attached:
+        Commercial and Mixed Use Zones > C-N: ''
+        Commercial and Mixed Use Zones > C-S: ''
+        Commercial and Mixed Use Zones > MU: P
+        Office, Industrial, Public, and Open Space Zones > PO: P
+        Office, Industrial, Public, and Open Space Zones > I: ''
+        Office, Industrial, Public, and Open Space Zones > PF: ''
+        Office, Industrial, Public, and Open Space Zones > OS: ''
+        Specific Land Use Standards (See identified Section): ''
+      H20 - Single-family dwelling, detached:
+        Commercial and Mixed Use Zones > C-N: ''
+        Commercial and Mixed Use Zones > C-S: ''
+        Commercial and Mixed Use Zones > MU: P
+        Office, Industrial, Public, and Open Space Zones > PO: P
+        Office, Industrial, Public, and Open Space Zones > I: ''
+        Office, Industrial, Public, and Open Space Zones > PF: ''
+        Office, Industrial, Public, and Open Space Zones > OS: ''
+        Specific Land Use Standards (See identified Section): ''
+      H21 - Single-room occupancy (SRO):
+        Commercial and Mixed Use Zones > C-N: C
+        Commercial and Mixed Use Zones > C-S: C
+        Commercial and Mixed Use Zones > MU: P
+        Office, Industrial, Public, and Open Space Zones > PO: ''
+        Office, Industrial, Public, and Open Space Zones > I: ''
+        Office, Industrial, Public, and Open Space Zones > PF: ''
+        Office, Industrial, Public, and Open Space Zones > OS: ''
+        Specific Land Use Standards (See identified Section): ''
+      H22 - Supportive housing:
+        Commercial and Mixed Use Zones > C-N: P
+        Commercial and Mixed Use Zones > C-S: ''
+        Commercial and Mixed Use Zones > MU: P
+        Office, Industrial, Public, and Open Space Zones > PO: P
+        Office, Industrial, Public, and Open Space Zones > I: ''
+        Office, Industrial, Public, and Open Space Zones > PF: ''
+        Office, Industrial, Public, and Open Space Zones > OS: ''
+        Specific Land Use Standards (See identified Section): 17.60.240
+      H23 - Transitional housing:
+        Commercial and Mixed Use Zones > C-N: P
+        Commercial and Mixed Use Zones > C-S: ''
+        Commercial and Mixed Use Zones > MU: P
+        Office, Industrial, Public, and Open Space Zones > PO: P
+        Office, Industrial, Public, and Open Space Zones > I: ''
+        Office, Industrial, Public, and Open Space Zones > PF: ''
+        Office, Industrial, Public, and Open Space Zones > OS: ''
+        Specific Land Use Standards (See identified Section): 17.60.240
+    Retail Uses:
+      I1 - Adult entertainment establishment:
+        Commercial and Mixed Use Zones > C-N: ''
+        Commercial and Mixed Use Zones > C-S: A
+        Commercial and Mixed Use Zones > MU: ''
+        Office, Industrial, Public, and Open Space Zones > PO: ''
+        Office, Industrial, Public, and Open Space Zones > I: A
+        Office, Industrial, Public, and Open Space Zones > PF: ''
+        Office, Industrial, Public, and Open Space Zones > OS: ''
+        Specific Land Use Standards (See identified Section): '17.62'
+      I2 - Auction or sales house:
+        Commercial and Mixed Use Zones > C-N: ''
+        Commercial and Mixed Use Zones > C-S: P
+        Commercial and Mixed Use Zones > MU: P
+        Office, Industrial, Public, and Open Space Zones > PO: ''
+        Office, Industrial, Public, and Open Space Zones > I: C
+        Office, Industrial, Public, and Open Space Zones > PF: ''
+        Office, Industrial, Public, and Open Space Zones > OS: ''
+        Specific Land Use Standards (See identified Section): ''
+      I3 - Auction or sales yard:
+        Commercial and Mixed Use Zones > C-N: ''
+        Commercial and Mixed Use Zones > C-S: C
+        Commercial and Mixed Use Zones > MU: ''
+        Office, Industrial, Public, and Open Space Zones > PO: ''
+        Office, Industrial, Public, and Open Space Zones > I: C
+        Office, Industrial, Public, and Open Space Zones > PF: ''
+        Office, Industrial, Public, and Open Space Zones > OS: ''
+        Specific Land Use Standards (See identified Section): ''
+      I4 - Automobile and pick-up sales, new and used:
+        Commercial and Mixed Use Zones > C-N: ''
+        Commercial and Mixed Use Zones > C-S: C
+        Commercial and Mixed Use Zones > MU: ''
+        Office, Industrial, Public, and Open Space Zones > PO: ''
+        Office, Industrial, Public, and Open Space Zones > I: C
+        Office, Industrial, Public, and Open Space Zones > PF: ''
+        Office, Industrial, Public, and Open Space Zones > OS: ''
+        Specific Land Use Standards (See identified Section): 17.60.170
+      I5 - Automobile and pick-up sales, used only:
+        Commercial and Mixed Use Zones > C-N: ''
+        Commercial and Mixed Use Zones > C-S: C
+        Commercial and Mixed Use Zones > MU: ''
+        Office, Industrial, Public, and Open Space Zones > PO: ''
+        Office, Industrial, Public, and Open Space Zones > I: C
+        Office, Industrial, Public, and Open Space Zones > PF: ''
+        Office, Industrial, Public, and Open Space Zones > OS: ''
+        Specific Land Use Standards (See identified Section): 17.60.170
+      I6 - Boat, recreational vehicle (RV), and truck sales:
+        Commercial and Mixed Use Zones > C-N: ''
+        Commercial and Mixed Use Zones > C-S: P
+        Commercial and Mixed Use Zones > MU: ''
+        Office, Industrial, Public, and Open Space Zones > PO: ''
+        Office, Industrial, Public, and Open Space Zones > I: C
+        Office, Industrial, Public, and Open Space Zones > PF: ''
+        Office, Industrial, Public, and Open Space Zones > OS: ''
+        Specific Land Use Standards (See identified Section): ''
+      I7 - Building materials and supply or home improvement store:
+        Commercial and Mixed Use Zones > C-N: C
+        Commercial and Mixed Use Zones > C-S: P
+        Commercial and Mixed Use Zones > MU: P
+        Office, Industrial, Public, and Open Space Zones > PO: ''
+        Office, Industrial, Public, and Open Space Zones > I: C
+        Office, Industrial, Public, and Open Space Zones > PF: ''
+        Office, Industrial, Public, and Open Space Zones > OS: ''
+        Specific Land Use Standards (See identified Section): ''
+      I8 - Convenience store, with or without fuel sales:
+        Commercial and Mixed Use Zones > C-N: P
+        Commercial and Mixed Use Zones > C-S: P
+        Commercial and Mixed Use Zones > MU: C
+        Office, Industrial, Public, and Open Space Zones > PO: C
+        Office, Industrial, Public, and Open Space Zones > I: C
+        Office, Industrial, Public, and Open Space Zones > PF: ''
+        Office, Industrial, Public, and Open Space Zones > OS: ''
+        Specific Land Use Standards (See identified Section): ''
+      I9 - Farm or construction equipment sales or service:
+        Commercial and Mixed Use Zones > C-N: ''
+        Commercial and Mixed Use Zones > C-S: P
+        Commercial and Mixed Use Zones > MU: ''
+        Office, Industrial, Public, and Open Space Zones > PO: ''
+        Office, Industrial, Public, and Open Space Zones > I: ''
+        Office, Industrial, Public, and Open Space Zones > PF: ''
+        Office, Industrial, Public, and Open Space Zones > OS: ''
+        Specific Land Use Standards (See identified Section): ''
+      I10 - Farmers market:
+        Commercial and Mixed Use Zones > C-N: A
+        Commercial and Mixed Use Zones > C-S: A
+        Commercial and Mixed Use Zones > MU: A
+        Office, Industrial, Public, and Open Space Zones > PO: A
+        Office, Industrial, Public, and Open Space Zones > I: ''
+        Office, Industrial, Public, and Open Space Zones > PF: A
+        Office, Industrial, Public, and Open Space Zones > OS: A
+        Specific Land Use Standards (See identified Section): ''
+      I11 - Feed and seed store:
+        Commercial and Mixed Use Zones > C-N: ''
+        Commercial and Mixed Use Zones > C-S: P
+        Commercial and Mixed Use Zones > MU: ''
+        Office, Industrial, Public, and Open Space Zones > PO: ''
+        Office, Industrial, Public, and Open Space Zones > I: P
+        Office, Industrial, Public, and Open Space Zones > PF: ''
+        Office, Industrial, Public, and Open Space Zones > OS: ''
+        Specific Land Use Standards (See identified Section): ''
+      I12 - Food market:
+        Commercial and Mixed Use Zones > C-N: P
+        Commercial and Mixed Use Zones > C-S: P
+        Commercial and Mixed Use Zones > MU: P
+        Office, Industrial, Public, and Open Space Zones > PO: P
+        Office, Industrial, Public, and Open Space Zones > I: ''
+        Office, Industrial, Public, and Open Space Zones > PF: ''
+        Office, Industrial, Public, and Open Space Zones > OS: ''
+        Specific Land Use Standards (See identified Section): ''
+      I13 - Food produce stand:
+        Commercial and Mixed Use Zones > C-N: A
+        Commercial and Mixed Use Zones > C-S: A
+        Commercial and Mixed Use Zones > MU: A
+        Office, Industrial, Public, and Open Space Zones > PO: A
+        Office, Industrial, Public, and Open Space Zones > I: A
+        Office, Industrial, Public, and Open Space Zones > PF: A
+        Office, Industrial, Public, and Open Space Zones > OS: T
+        Specific Land Use Standards (See identified Section): ''
+      I14 - Fuel sales, fleet or cardlock:
+        Commercial and Mixed Use Zones > C-N: ''
+        Commercial and Mixed Use Zones > C-S: P
+        Commercial and Mixed Use Zones > MU: ''
+        Office, Industrial, Public, and Open Space Zones > PO: ''
+        Office, Industrial, Public, and Open Space Zones > I: P
+        Office, Industrial, Public, and Open Space Zones > PF: P
+        Office, Industrial, Public, and Open Space Zones > OS: ''
+        Specific Land Use Standards (See identified Section): ''
+      I15 - Fuel sales, retail:
+        Commercial and Mixed Use Zones > C-N: P
+        Commercial and Mixed Use Zones > C-S: P
+        Commercial and Mixed Use Zones > MU: C
+        Office, Industrial, Public, and Open Space Zones > PO: ''
+        Office, Industrial, Public, and Open Space Zones > I: C
+        Office, Industrial, Public, and Open Space Zones > PF: ''
+        Office, Industrial, Public, and Open Space Zones > OS: ''
+        Specific Land Use Standards (See identified Section): ''
+      I16 - Garden shop:
+        Commercial and Mixed Use Zones > C-N: C
+        Commercial and Mixed Use Zones > C-S: P
+        Commercial and Mixed Use Zones > MU: P
+        Office, Industrial, Public, and Open Space Zones > PO: ''
+        Office, Industrial, Public, and Open Space Zones > I: C
+        Office, Industrial, Public, and Open Space Zones > PF: ''
+        Office, Industrial, Public, and Open Space Zones > OS: ''
+        Specific Land Use Standards (See identified Section): ''
+      I17 - Landscape nursery:
+        Commercial and Mixed Use Zones > C-N: ''
+        Commercial and Mixed Use Zones > C-S: P
+        Commercial and Mixed Use Zones > MU: C
+        Office, Industrial, Public, and Open Space Zones > PO: ''
+        Office, Industrial, Public, and Open Space Zones > I: C
+        Office, Industrial, Public, and Open Space Zones > PF: ''
+        Office, Industrial, Public, and Open Space Zones > OS: ''
+        Specific Land Use Standards (See identified Section): ''
+      I18 - Liquor store:
+        Commercial and Mixed Use Zones > C-N: P
+        Commercial and Mixed Use Zones > C-S: P
+        Commercial and Mixed Use Zones > MU: P
+        Office, Industrial, Public, and Open Space Zones > PO: ''
+        Office, Industrial, Public, and Open Space Zones > I: ''
+        Office, Industrial, Public, and Open Space Zones > PF: ''
+        Office, Industrial, Public, and Open Space Zones > OS: ''
+        Specific Land Use Standards (See identified Section): ''
+      I19 - Manufactured home sales yard:
+        Commercial and Mixed Use Zones > C-N: ''
+        Commercial and Mixed Use Zones > C-S: ''
+        Commercial and Mixed Use Zones > MU: ''
+        Office, Industrial, Public, and Open Space Zones > PO: ''
+        Office, Industrial, Public, and Open Space Zones > I: C
+        Office, Industrial, Public, and Open Space Zones > PF: ''
+        Office, Industrial, Public, and Open Space Zones > OS: ''
+        Specific Land Use Standards (See identified Section): ''
+      I20 - News, magazine or flower stand, outdoor:
+        Commercial and Mixed Use Zones > C-N: P
+        Commercial and Mixed Use Zones > C-S: P
+        Commercial and Mixed Use Zones > MU: P
+        Office, Industrial, Public, and Open Space Zones > PO: P
+        Office, Industrial, Public, and Open Space Zones > I: ''
+        Office, Industrial, Public, and Open Space Zones > PF: ''
+        Office, Industrial, Public, and Open Space Zones > OS: ''
+        Specific Land Use Standards (See identified Section): ''
+      I21 - Pawn shop:
+        Commercial and Mixed Use Zones > C-N: ''
+        Commercial and Mixed Use Zones > C-S: P
+        Commercial and Mixed Use Zones > MU: C
+        Office, Industrial, Public, and Open Space Zones > PO: ''
+        Office, Industrial, Public, and Open Space Zones > I: ''
+        Office, Industrial, Public, and Open Space Zones > PF: ''
+        Office, Industrial, Public, and Open Space Zones > OS: ''
+        Specific Land Use Standards (See identified Section): ''
+      I22 - Pet store:
+        Commercial and Mixed Use Zones > C-N: P
+        Commercial and Mixed Use Zones > C-S: P
+        Commercial and Mixed Use Zones > MU: P
+        Office, Industrial, Public, and Open Space Zones > PO: ''
+        Office, Industrial, Public, and Open Space Zones > I: ''
+        Office, Industrial, Public, and Open Space Zones > PF: ''
+        Office, Industrial, Public, and Open Space Zones > OS: ''
+        Specific Land Use Standards (See identified Section): ''
+      I23 - Retail sales store, less than 10,000 square feet:
+        Commercial and Mixed Use Zones > C-N: P
+        Commercial and Mixed Use Zones > C-S: P
+        Commercial and Mixed Use Zones > MU: P
+        Office, Industrial, Public, and Open Space Zones > PO: P
+        Office, Industrial, Public, and Open Space Zones > I: ''
+        Office, Industrial, Public, and Open Space Zones > PF: ''
+        Office, Industrial, Public, and Open Space Zones > OS: ''
+        Specific Land Use Standards (See identified Section): ''
+      I24 - Retail sales store, more than 10,000 square feet:
+        Commercial and Mixed Use Zones > C-N: P
+        Commercial and Mixed Use Zones > C-S: P
+        Commercial and Mixed Use Zones > MU: P
+        Office, Industrial, Public, and Open Space Zones > PO: ''
+        Office, Industrial, Public, and Open Space Zones > I: ''
+        Office, Industrial, Public, and Open Space Zones > PF: ''
+        Office, Industrial, Public, and Open Space Zones > OS: ''
+        Specific Land Use Standards (See identified Section): ''
+      I25 - Retail sales solely via internet, direct mail, or telephone:
+        Commercial and Mixed Use Zones > C-N: ''
+        Commercial and Mixed Use Zones > C-S: P
+        Commercial and Mixed Use Zones > MU: P
+        Office, Industrial, Public, and Open Space Zones > PO: P
+        Office, Industrial, Public, and Open Space Zones > I: ''
+        Office, Industrial, Public, and Open Space Zones > PF: ''
+        Office, Industrial, Public, and Open Space Zones > OS: ''
+        Specific Land Use Standards (See identified Section): ''
+      I26 - Secondhand or thrift store:
+        Commercial and Mixed Use Zones > C-N: P
+        Commercial and Mixed Use Zones > C-S: P
+        Commercial and Mixed Use Zones > MU: C
+        Office, Industrial, Public, and Open Space Zones > PO: ''
+        Office, Industrial, Public, and Open Space Zones > I: ''
+        Office, Industrial, Public, and Open Space Zones > PF: ''
+        Office, Industrial, Public, and Open Space Zones > OS: ''
+        Specific Land Use Standards (See identified Section): ''
+      I27 - Swap meet or flea market:
+        Commercial and Mixed Use Zones > C-N: ''
+        Commercial and Mixed Use Zones > C-S: C
+        Commercial and Mixed Use Zones > MU: ''
+        Office, Industrial, Public, and Open Space Zones > PO: ''
+        Office, Industrial, Public, and Open Space Zones > I: C
+        Office, Industrial, Public, and Open Space Zones > PF: C
+        Office, Industrial, Public, and Open Space Zones > OS: C
+        Specific Land Use Standards (See identified Section): ''
+      I28 - Tobacco, smoke, or vape shop:
+        Commercial and Mixed Use Zones > C-N: C
+        Commercial and Mixed Use Zones > C-S: C
+        Commercial and Mixed Use Zones > MU: C
+        Office, Industrial, Public, and Open Space Zones > PO: ''
+        Office, Industrial, Public, and Open Space Zones > I: ''
+        Office, Industrial, Public, and Open Space Zones > PF: ''
+        Office, Industrial, Public, and Open Space Zones > OS: ''
+        Specific Land Use Standards (See identified Section): ''
+    Service Uses:
+      J1 - Ambulance service:
+        Commercial and Mixed Use Zones > C-N: C
+        Commercial and Mixed Use Zones > C-S: P
+        Commercial and Mixed Use Zones > MU: C
+        Office, Industrial, Public, and Open Space Zones > PO: C
+        Office, Industrial, Public, and Open Space Zones > I: C
+        Office, Industrial, Public, and Open Space Zones > PF: P
+        Office, Industrial, Public, and Open Space Zones > OS: ''
+        Specific Land Use Standards (See identified Section): ''
+      J2 - Bank or credit union:
+        Commercial and Mixed Use Zones > C-N: P
+        Commercial and Mixed Use Zones > C-S: P
+        Commercial and Mixed Use Zones > MU: P
+        Office, Industrial, Public, and Open Space Zones > PO: P
+        Office, Industrial, Public, and Open Space Zones > I: ''
+        Office, Industrial, Public, and Open Space Zones > PF: ''
+        Office, Industrial, Public, and Open Space Zones > OS: ''
+        Specific Land Use Standards (See identified Section): ''
+      J3 - Barber shop, hair salon, nail care, massage therapy, or day spa:
+        Commercial and Mixed Use Zones > C-N: P
+        Commercial and Mixed Use Zones > C-S: P
+        Commercial and Mixed Use Zones > MU: P
+        Office, Industrial, Public, and Open Space Zones > PO: C
+        Office, Industrial, Public, and Open Space Zones > I: P
+        Office, Industrial, Public, and Open Space Zones > PF: ''
+        Office, Industrial, Public, and Open Space Zones > OS: ''
+        Specific Land Use Standards (See identified Section): ''
+      J4 - Car wash, automatic or full service:
+        Commercial and Mixed Use Zones > C-N: C
+        Commercial and Mixed Use Zones > C-S: P
+        Commercial and Mixed Use Zones > MU: ''
+        Office, Industrial, Public, and Open Space Zones > PO: ''
+        Office, Industrial, Public, and Open Space Zones > I: ''
+        Office, Industrial, Public, and Open Space Zones > PF: ''
+        Office, Industrial, Public, and Open Space Zones > OS: ''
+        Specific Land Use Standards (See identified Section): ''
+      J5 - Car wash, self-service:
+        Commercial and Mixed Use Zones > C-N: ''
+        Commercial and Mixed Use Zones > C-S: C
+        Commercial and Mixed Use Zones > MU: C
+        Office, Industrial, Public, and Open Space Zones > PO: ''
+        Office, Industrial, Public, and Open Space Zones > I: ''
+        Office, Industrial, Public, and Open Space Zones > PF: ''
+        Office, Industrial, Public, and Open Space Zones > OS: ''
+        Specific Land Use Standards (See identified Section): ''
+      J6 - Carpet cleaning:
+        Commercial and Mixed Use Zones > C-N: ''
+        Commercial and Mixed Use Zones > C-S: P
+        Commercial and Mixed Use Zones > MU: C
+        Office, Industrial, Public, and Open Space Zones > PO: ''
+        Office, Industrial, Public, and Open Space Zones > I: P
+        Office, Industrial, Public, and Open Space Zones > PF: ''
+        Office, Industrial, Public, and Open Space Zones > OS: ''
+        Specific Land Use Standards (See identified Section): ''
+      J7 - Construction materials recycling:
+        Commercial and Mixed Use Zones > C-N: ''
+        Commercial and Mixed Use Zones > C-S: ''
+        Commercial and Mixed Use Zones > MU: ''
+        Office, Industrial, Public, and Open Space Zones > PO: ''
+        Office, Industrial, Public, and Open Space Zones > I: C
+        Office, Industrial, Public, and Open Space Zones > PF: P
+        Office, Industrial, Public, and Open Space Zones > OS: ''
+        Specific Land Use Standards (See identified Section): ''
+      J8 - Copy, printing, or mailing service:
+        Commercial and Mixed Use Zones > C-N: P
+        Commercial and Mixed Use Zones > C-S: P
+        Commercial and Mixed Use Zones > MU: P
+        Office, Industrial, Public, and Open Space Zones > PO: P
+        Office, Industrial, Public, and Open Space Zones > I: P
+        Office, Industrial, Public, and Open Space Zones > PF: ''
+        Office, Industrial, Public, and Open Space Zones > OS: ''
+        Specific Land Use Standards (See identified Section): ''
+      J9 - Crematorium:
+        Commercial and Mixed Use Zones > C-N: ''
+        Commercial and Mixed Use Zones > C-S: ''
+        Commercial and Mixed Use Zones > MU: ''
+        Office, Industrial, Public, and Open Space Zones > PO: ''
+        Office, Industrial, Public, and Open Space Zones > I: C
+        Office, Industrial, Public, and Open Space Zones > PF: ''
+        Office, Industrial, Public, and Open Space Zones > OS: ''
+        Specific Land Use Standards (See identified Section): ''
+      J10 - Dry cleaning or laundromat:
+        Commercial and Mixed Use Zones > C-N: P
+        Commercial and Mixed Use Zones > C-S: P
+        Commercial and Mixed Use Zones > MU: P
+        Office, Industrial, Public, and Open Space Zones > PO: C
+        Office, Industrial, Public, and Open Space Zones > I: ''
+        Office, Industrial, Public, and Open Space Zones > PF: ''
+        Office, Industrial, Public, and Open Space Zones > OS: ''
+        Specific Land Use Standards (See identified Section): ''
+      J11 - Equipment rental yard:
+        Commercial and Mixed Use Zones > C-N: ''
+        Commercial and Mixed Use Zones > C-S: P
+        Commercial and Mixed Use Zones > MU: ''
+        Office, Industrial, Public, and Open Space Zones > PO: ''
+        Office, Industrial, Public, and Open Space Zones > I: P
+        Office, Industrial, Public, and Open Space Zones > PF: ''
+        Office, Industrial, Public, and Open Space Zones > OS: ''
+        Specific Land Use Standards (See identified Section): ''
+      J12 - Exterminator or pest control service:
+        Commercial and Mixed Use Zones > C-N: ''
+        Commercial and Mixed Use Zones > C-S: P
+        Commercial and Mixed Use Zones > MU: P
+        Office, Industrial, Public, and Open Space Zones > PO: ''
+        Office, Industrial, Public, and Open Space Zones > I: P
+        Office, Industrial, Public, and Open Space Zones > PF: ''
+        Office, Industrial, Public, and Open Space Zones > OS: ''
+        Specific Land Use Standards (See identified Section): ''
+      J13 - Food catering:
+        Commercial and Mixed Use Zones > C-N: P
+        Commercial and Mixed Use Zones > C-S: P
+        Commercial and Mixed Use Zones > MU: P
+        Office, Industrial, Public, and Open Space Zones > PO: ''
+        Office, Industrial, Public, and Open Space Zones > I: ''
+        Office, Industrial, Public, and Open Space Zones > PF: ''
+        Office, Industrial, Public, and Open Space Zones > OS: ''
+        Specific Land Use Standards (See identified Section): ''
+      J14 - Fortunetelling:
+        Commercial and Mixed Use Zones > C-N: ''
+        Commercial and Mixed Use Zones > C-S: P
+        Commercial and Mixed Use Zones > MU: P
+        Office, Industrial, Public, and Open Space Zones > PO: C
+        Office, Industrial, Public, and Open Space Zones > I: ''
+        Office, Industrial, Public, and Open Space Zones > PF: ''
+        Office, Industrial, Public, and Open Space Zones > OS: ''
+        Specific Land Use Standards (See identified Section): ''
+      J15 - Fuel distributing:
+        Commercial and Mixed Use Zones > C-N: ''
+        Commercial and Mixed Use Zones > C-S: P
+        Commercial and Mixed Use Zones > MU: ''
+        Office, Industrial, Public, and Open Space Zones > PO: ''
+        Office, Industrial, Public, and Open Space Zones > I: P
+        Office, Industrial, Public, and Open Space Zones > PF: ''
+        Office, Industrial, Public, and Open Space Zones > OS: ''
+        Specific Land Use Standards (See identified Section): ''
+      J16 - Kennel or animal boarding:
+        Commercial and Mixed Use Zones > C-N: ''
+        Commercial and Mixed Use Zones > C-S: P
+        Commercial and Mixed Use Zones > MU: ''
+        Office, Industrial, Public, and Open Space Zones > PO: ''
+        Office, Industrial, Public, and Open Space Zones > I: C
+        Office, Industrial, Public, and Open Space Zones > PF: ''
+        Office, Industrial, Public, and Open Space Zones > OS: ''
+        Specific Land Use Standards (See identified Section): ''
+      J17 - Linen, diaper, or uniform supply service:
+        Commercial and Mixed Use Zones > C-N: ''
+        Commercial and Mixed Use Zones > C-S: P
+        Commercial and Mixed Use Zones > MU: ''
+        Office, Industrial, Public, and Open Space Zones > PO: ''
+        Office, Industrial, Public, and Open Space Zones > I: P
+        Office, Industrial, Public, and Open Space Zones > PF: ''
+        Office, Industrial, Public, and Open Space Zones > OS: ''
+        Specific Land Use Standards (See identified Section): ''
+      J18 - Motor vehicle repair or service, major:
+        Commercial and Mixed Use Zones > C-N: ''
+        Commercial and Mixed Use Zones > C-S: P
+        Commercial and Mixed Use Zones > MU: ''
+        Office, Industrial, Public, and Open Space Zones > PO: ''
+        Office, Industrial, Public, and Open Space Zones > I: P
+        Office, Industrial, Public, and Open Space Zones > PF: ''
+        Office, Industrial, Public, and Open Space Zones > OS: ''
+        Specific Land Use Standards (See identified Section): ''
+      J19 - Motor vehicle repair or service, minor:
+        Commercial and Mixed Use Zones > C-N: C
+        Commercial and Mixed Use Zones > C-S: P
+        Commercial and Mixed Use Zones > MU: ''
+        Office, Industrial, Public, and Open Space Zones > PO: ''
+        Office, Industrial, Public, and Open Space Zones > I: P
+        Office, Industrial, Public, and Open Space Zones > PF: ''
+        Office, Industrial, Public, and Open Space Zones > OS: ''
+        Specific Land Use Standards (See identified Section): ''
+      J20 - Payday lenders or check cashing establishment:
+        Commercial and Mixed Use Zones > C-N: ''
+        Commercial and Mixed Use Zones > C-S: P
+        Commercial and Mixed Use Zones > MU: C
+        Office, Industrial, Public, and Open Space Zones > PO: C
+        Office, Industrial, Public, and Open Space Zones > I: ''
+        Office, Industrial, Public, and Open Space Zones > PF: ''
+        Office, Industrial, Public, and Open Space Zones > OS: ''
+        Specific Land Use Standards (See identified Section): ''
+      J21 - Pet grooming:
+        Commercial and Mixed Use Zones > C-N: P
+        Commercial and Mixed Use Zones > C-S: P
+        Commercial and Mixed Use Zones > MU: P
+        Office, Industrial, Public, and Open Space Zones > PO: C
+        Office, Industrial, Public, and Open Space Zones > I: C
+        Office, Industrial, Public, and Open Space Zones > PF: ''
+        Office, Industrial, Public, and Open Space Zones > OS: ''
+        Specific Land Use Standards (See identified Section): ''
+      J22 - Photography studio:
+        Commercial and Mixed Use Zones > C-N: P
+        Commercial and Mixed Use Zones > C-S: P
+        Commercial and Mixed Use Zones > MU: P
+        Office, Industrial, Public, and Open Space Zones > PO: P
+        Office, Industrial, Public, and Open Space Zones > I: ''
+        Office, Industrial, Public, and Open Space Zones > PF: ''
+        Office, Industrial, Public, and Open Space Zones > OS: ''
+        Specific Land Use Standards (See identified Section): ''
+      J23 - Recycling, small collection facility (CRV only):
+        Commercial and Mixed Use Zones > C-N: P
+        Commercial and Mixed Use Zones > C-S: P
+        Commercial and Mixed Use Zones > MU: P
+        Office, Industrial, Public, and Open Space Zones > PO: ''
+        Office, Industrial, Public, and Open Space Zones > I: P
+        Office, Industrial, Public, and Open Space Zones > PF: P
+        Office, Industrial, Public, and Open Space Zones > OS: ''
+        Specific Land Use Standards (See identified Section): 17.60.160
+      J24 - Recycling, large collection facility:
+        Commercial and Mixed Use Zones > C-N: ''
+        Commercial and Mixed Use Zones > C-S: C
+        Commercial and Mixed Use Zones > MU: ''
+        Office, Industrial, Public, and Open Space Zones > PO: ''
+        Office, Industrial, Public, and Open Space Zones > I: P
+        Office, Industrial, Public, and Open Space Zones > PF: P
+        Office, Industrial, Public, and Open Space Zones > OS: ''
+        Specific Land Use Standards (See identified Section): 17.60.160
+      J25 - Recycling, processing, or sorting facility:
+        Commercial and Mixed Use Zones > C-N: ''
+        Commercial and Mixed Use Zones > C-S: ''
+        Commercial and Mixed Use Zones > MU: ''
+        Office, Industrial, Public, and Open Space Zones > PO: ''
+        Office, Industrial, Public, and Open Space Zones > I: C
+        Office, Industrial, Public, and Open Space Zones > PF: C
+        Office, Industrial, Public, and Open Space Zones > OS: ''
+        Specific Land Use Standards (See identified Section): ''
+      J26 - Repair shop, large appliance or equipment:
+        Commercial and Mixed Use Zones > C-N: ''
+        Commercial and Mixed Use Zones > C-S: P
+        Commercial and Mixed Use Zones > MU: C
+        Office, Industrial, Public, and Open Space Zones > PO: ''
+        Office, Industrial, Public, and Open Space Zones > I: P
+        Office, Industrial, Public, and Open Space Zones > PF: ''
+        Office, Industrial, Public, and Open Space Zones > OS: ''
+        Specific Land Use Standards (See identified Section): ''
+      J27 - Repair shop, small appliance or equipment:
+        Commercial and Mixed Use Zones > C-N: C
+        Commercial and Mixed Use Zones > C-S: P
+        Commercial and Mixed Use Zones > MU: P
+        Office, Industrial, Public, and Open Space Zones > PO: ''
+        Office, Industrial, Public, and Open Space Zones > I: P
+        Office, Industrial, Public, and Open Space Zones > PF: ''
+        Office, Industrial, Public, and Open Space Zones > OS: ''
+        Specific Land Use Standards (See identified Section): ''
+      J28 - Shooting range, indoor:
+        Commercial and Mixed Use Zones > C-N: ''
+        Commercial and Mixed Use Zones > C-S: C
+        Commercial and Mixed Use Zones > MU: ''
+        Office, Industrial, Public, and Open Space Zones > PO: ''
+        Office, Industrial, Public, and Open Space Zones > I: C
+        Office, Industrial, Public, and Open Space Zones > PF: C
+        Office, Industrial, Public, and Open Space Zones > OS: ''
+        Specific Land Use Standards (See identified Section): ''
+      J29 - Shooting range, outdoor:
+        Commercial and Mixed Use Zones > C-N: ''
+        Commercial and Mixed Use Zones > C-S: ''
+        Commercial and Mixed Use Zones > MU: ''
+        Office, Industrial, Public, and Open Space Zones > PO: ''
+        Office, Industrial, Public, and Open Space Zones > I: ''
+        Office, Industrial, Public, and Open Space Zones > PF: ''
+        Office, Industrial, Public, and Open Space Zones > OS: ''
+        Specific Land Use Standards (See identified Section): ''
+      J30 - Specialty construction or trade service:
+        Commercial and Mixed Use Zones > C-N: ''
+        Commercial and Mixed Use Zones > C-S: P
+        Commercial and Mixed Use Zones > MU: ''
+        Office, Industrial, Public, and Open Space Zones > PO: ''
+        Office, Industrial, Public, and Open Space Zones > I: P
+        Office, Industrial, Public, and Open Space Zones > PF: ''
+        Office, Industrial, Public, and Open Space Zones > OS: ''
+        Specific Land Use Standards (See identified Section): ''
+      J31 - Tailoring or clothing alterations:
+        Commercial and Mixed Use Zones > C-N: P
+        Commercial and Mixed Use Zones > C-S: P
+        Commercial and Mixed Use Zones > MU: P
+        Office, Industrial, Public, and Open Space Zones > PO: P
+        Office, Industrial, Public, and Open Space Zones > I: ''
+        Office, Industrial, Public, and Open Space Zones > PF: ''
+        Office, Industrial, Public, and Open Space Zones > OS: ''
+        Specific Land Use Standards (See identified Section): ''
+      J32 - Tattooing or body art:
+        Commercial and Mixed Use Zones > C-N: C
+        Commercial and Mixed Use Zones > C-S: C
+        Commercial and Mixed Use Zones > MU: C
+        Office, Industrial, Public, and Open Space Zones > PO: C
+        Office, Industrial, Public, and Open Space Zones > I: C
+        Office, Industrial, Public, and Open Space Zones > PF: ''
+        Office, Industrial, Public, and Open Space Zones > OS: ''
+        Specific Land Use Standards (See identified Section): ''
+      J33 - Veterinary clinic or office:
+        Commercial and Mixed Use Zones > C-N: P
+        Commercial and Mixed Use Zones > C-S: P
+        Commercial and Mixed Use Zones > MU: C
+        Office, Industrial, Public, and Open Space Zones > PO: P
+        Office, Industrial, Public, and Open Space Zones > I: ''
+        Office, Industrial, Public, and Open Space Zones > PF: ''
+        Office, Industrial, Public, and Open Space Zones > OS: ''
+        Specific Land Use Standards (See identified Section): ''
+      J34 - Veterinary hospital:
+        Commercial and Mixed Use Zones > C-N: ''
+        Commercial and Mixed Use Zones > C-S: ''
+        Commercial and Mixed Use Zones > MU: ''
+        Office, Industrial, Public, and Open Space Zones > PO: ''
+        Office, Industrial, Public, and Open Space Zones > I: C
+        Office, Industrial, Public, and Open Space Zones > PF: ''
+        Office, Industrial, Public, and Open Space Zones > OS: ''
+        Specific Land Use Standards (See identified Section): ''
+    Transportation and Storage Use:
+      K1 - Airport or heliport:
+        Commercial and Mixed Use Zones > C-N: ''
+        Commercial and Mixed Use Zones > C-S: ''
+        Commercial and Mixed Use Zones > MU: ''
+        Office, Industrial, Public, and Open Space Zones > PO: ''
+        Office, Industrial, Public, and Open Space Zones > I: ''
+        Office, Industrial, Public, and Open Space Zones > PF: P
+        Office, Industrial, Public, and Open Space Zones > OS: ''
+        Specific Land Use Standards (See identified Section): ''
+      K2 - Bus, transit, or train station:
+        Commercial and Mixed Use Zones > C-N: P
+        Commercial and Mixed Use Zones > C-S: P
+        Commercial and Mixed Use Zones > MU: P
+        Office, Industrial, Public, and Open Space Zones > PO: P
+        Office, Industrial, Public, and Open Space Zones > I: ''
+        Office, Industrial, Public, and Open Space Zones > PF: P
+        Office, Industrial, Public, and Open Space Zones > OS: ''
+        Specific Land Use Standards (See identified Section): ''
+      K3 - Cold storage or ice house:
+        Commercial and Mixed Use Zones > C-N: ''
+        Commercial and Mixed Use Zones > C-S: C
+        Commercial and Mixed Use Zones > MU: ''
+        Office, Industrial, Public, and Open Space Zones > PO: ''
+        Office, Industrial, Public, and Open Space Zones > I: P
+        Office, Industrial, Public, and Open Space Zones > PF: ''
+        Office, Industrial, Public, and Open Space Zones > OS: ''
+        Specific Land Use Standards (See identified Section): ''
+      K4 - Food locker:
+        Commercial and Mixed Use Zones > C-N: ''
+        Commercial and Mixed Use Zones > C-S: P
+        Commercial and Mixed Use Zones > MU: C
+        Office, Industrial, Public, and Open Space Zones > PO: ''
+        Office, Industrial, Public, and Open Space Zones > I: P
+        Office, Industrial, Public, and Open Space Zones > PF: ''
+        Office, Industrial, Public, and Open Space Zones > OS: ''
+        Specific Land Use Standards (See identified Section): ''
+      K5 - Junk yard, wrecking yard, or salvage facility:
+        Commercial and Mixed Use Zones > C-N: ''
+        Commercial and Mixed Use Zones > C-S: ''
+        Commercial and Mixed Use Zones > MU: ''
+        Office, Industrial, Public, and Open Space Zones > PO: ''
+        Office, Industrial, Public, and Open Space Zones > I: C
+        Office, Industrial, Public, and Open Space Zones > PF: ''
+        Office, Industrial, Public, and Open Space Zones > OS: ''
+        Specific Land Use Standards (See identified Section): ''
+      K6 - Mini-warehouse or self-storage facility:
+        Commercial and Mixed Use Zones > C-N: ''
+        Commercial and Mixed Use Zones > C-S: P
+        Commercial and Mixed Use Zones > MU: ''
+        Office, Industrial, Public, and Open Space Zones > PO: ''
+        Office, Industrial, Public, and Open Space Zones > I: C
+        Office, Industrial, Public, and Open Space Zones > PF: ''
+        Office, Industrial, Public, and Open Space Zones > OS: ''
+        Specific Land Use Standards (See identified Section): 17.60.110
+      K7 - Parking facility, off-site:
+        Commercial and Mixed Use Zones > C-N: ''
+        Commercial and Mixed Use Zones > C-S: C
+        Commercial and Mixed Use Zones > MU: C
+        Office, Industrial, Public, and Open Space Zones > PO: C
+        Office, Industrial, Public, and Open Space Zones > I: C
+        Office, Industrial, Public, and Open Space Zones > PF: ''
+        Office, Industrial, Public, and Open Space Zones > OS: ''
+        Specific Land Use Standards (See identified Section): ''
+      K8 - Truck stop or travel center:
+        Commercial and Mixed Use Zones > C-N: ''
+        Commercial and Mixed Use Zones > C-S: ''
+        Commercial and Mixed Use Zones > MU: ''
+        Office, Industrial, Public, and Open Space Zones > PO: ''
+        Office, Industrial, Public, and Open Space Zones > I: C
+        Office, Industrial, Public, and Open Space Zones > PF: ''
+        Office, Industrial, Public, and Open Space Zones > OS: ''
+        Specific Land Use Standards (See identified Section): ''
+      K9 - Trucking or transportation terminal:
+        Commercial and Mixed Use Zones > C-N: ''
+        Commercial and Mixed Use Zones > C-S: ''
+        Commercial and Mixed Use Zones > MU: ''
+        Office, Industrial, Public, and Open Space Zones > PO: ''
+        Office, Industrial, Public, and Open Space Zones > I: C
+        Office, Industrial, Public, and Open Space Zones > PF: ''
+        Office, Industrial, Public, and Open Space Zones > OS: ''
+        Specific Land Use Standards (See identified Section): ''
+      K10 - Vehicle impound yard:
+        Commercial and Mixed Use Zones > C-N: ''
+        Commercial and Mixed Use Zones > C-S: C
+        Commercial and Mixed Use Zones > MU: ''
+        Office, Industrial, Public, and Open Space Zones > PO: ''
+        Office, Industrial, Public, and Open Space Zones > I: P
+        Office, Industrial, Public, and Open Space Zones > PF: ''
+        Office, Industrial, Public, and Open Space Zones > OS: ''
+        Specific Land Use Standards (See identified Section): ''
+      K11 - Warehouse or distribution center:
+        Commercial and Mixed Use Zones > C-N: ''
+        Commercial and Mixed Use Zones > C-S: ''
+        Commercial and Mixed Use Zones > MU: ''
+        Office, Industrial, Public, and Open Space Zones > PO: ''
+        Office, Industrial, Public, and Open Space Zones > I: P
+        Office, Industrial, Public, and Open Space Zones > PF: ''
+        Office, Industrial, Public, and Open Space Zones > OS: ''
+        Specific Land Use Standards (See identified Section): ''
+    Other Uses:
+      L1 - Cannabis Cultivation (Indoor):
+        Commercial and Mixed Use Zones > C-N: ''
+        Commercial and Mixed Use Zones > C-S: ''
+        Commercial and Mixed Use Zones > MU: ''
+        Office, Industrial, Public, and Open Space Zones > PO: ''
+        Office, Industrial, Public, and Open Space Zones > I: C
+        Office, Industrial, Public, and Open Space Zones > PF: ''
+        Office, Industrial, Public, and Open Space Zones > OS: ''
+        Specific Land Use Standards (See identified Section): '5.48'
+      L2 - Cannabis Cultivation (Mixed Light):
+        Commercial and Mixed Use Zones > C-N: ''
+        Commercial and Mixed Use Zones > C-S: ''
+        Commercial and Mixed Use Zones > MU: ''
+        Office, Industrial, Public, and Open Space Zones > PO: ''
+        Office, Industrial, Public, and Open Space Zones > I: C
+        Office, Industrial, Public, and Open Space Zones > PF: ''
+        Office, Industrial, Public, and Open Space Zones > OS: ''
+        Specific Land Use Standards (See identified Section): '5.48'
+      L3 - Receiving cannabis deliveries:
+        Commercial and Mixed Use Zones > C-N: ''
+        Commercial and Mixed Use Zones > C-S: ''
+        Commercial and Mixed Use Zones > MU: ''
+        Office, Industrial, Public, and Open Space Zones > PO: ''
+        Office, Industrial, Public, and Open Space Zones > I: C
+        Office, Industrial, Public, and Open Space Zones > PF: ''
+        Office, Industrial, Public, and Open Space Zones > OS: ''
+        Specific Land Use Standards (See identified Section): '5.48'
+      L4 - Cannabis distribution:
+        Commercial and Mixed Use Zones > C-N: ''
+        Commercial and Mixed Use Zones > C-S: ''
+        Commercial and Mixed Use Zones > MU: ''
+        Office, Industrial, Public, and Open Space Zones > PO: ''
+        Office, Industrial, Public, and Open Space Zones > I: C
+        Office, Industrial, Public, and Open Space Zones > PF: ''
+        Office, Industrial, Public, and Open Space Zones > OS: ''
+        Specific Land Use Standards (See identified Section): '5.48'
+      L5 - Cannabis laboratory testing:
+        Commercial and Mixed Use Zones > C-N: ''
+        Commercial and Mixed Use Zones > C-S: C
+        Commercial and Mixed Use Zones > MU: ''
+        Office, Industrial, Public, and Open Space Zones > PO: ''
+        Office, Industrial, Public, and Open Space Zones > I: C
+        Office, Industrial, Public, and Open Space Zones > PF: ''
+        Office, Industrial, Public, and Open Space Zones > OS: ''
+        Specific Land Use Standards (See identified Section): '5.48'
+      L6 - Cannabis manufacturing:
+        Commercial and Mixed Use Zones > C-N: ''
+        Commercial and Mixed Use Zones > C-S: ''
+        Commercial and Mixed Use Zones > MU: ''
+        Office, Industrial, Public, and Open Space Zones > PO: ''
+        Office, Industrial, Public, and Open Space Zones > I: C
+        Office, Industrial, Public, and Open Space Zones > PF: ''
+        Office, Industrial, Public, and Open Space Zones > OS: ''
+        Specific Land Use Standards (See identified Section): '5.48'
+      L7 - Cannabis processing:
+        Commercial and Mixed Use Zones > C-N: ''
+        Commercial and Mixed Use Zones > C-S: ''
+        Commercial and Mixed Use Zones > MU: ''
+        Office, Industrial, Public, and Open Space Zones > PO: ''
+        Office, Industrial, Public, and Open Space Zones > I: C
+        Office, Industrial, Public, and Open Space Zones > PF: ''
+        Office, Industrial, Public, and Open Space Zones > OS: ''
+        Specific Land Use Standards (See identified Section): '5.48'
+      L8 - Cannabis product labeling:
+        Commercial and Mixed Use Zones > C-N: ''
+        Commercial and Mixed Use Zones > C-S: ''
+        Commercial and Mixed Use Zones > MU: ''
+        Office, Industrial, Public, and Open Space Zones > PO: ''
+        Office, Industrial, Public, and Open Space Zones > I: C
+        Office, Industrial, Public, and Open Space Zones > PF: ''
+        Office, Industrial, Public, and Open Space Zones > OS: ''
+        Specific Land Use Standards (See identified Section): '5.48'
+      L9 - Cannabis retail:
+        Commercial and Mixed Use Zones > C-N: C
+        Commercial and Mixed Use Zones > C-S: ''
+        Commercial and Mixed Use Zones > MU: C
+        Office, Industrial, Public, and Open Space Zones > PO: ''
+        Office, Industrial, Public, and Open Space Zones > I: C
+        Office, Industrial, Public, and Open Space Zones > PF: ''
+        Office, Industrial, Public, and Open Space Zones > OS: ''
+        Specific Land Use Standards (See identified Section): '5.48'
+      L10 - Daycare, adult small family:
+        Commercial and Mixed Use Zones > C-N: P
+        Commercial and Mixed Use Zones > C-S: P
+        Commercial and Mixed Use Zones > MU: P
+        Office, Industrial, Public, and Open Space Zones > PO: P
+        Office, Industrial, Public, and Open Space Zones > I: ''
+        Office, Industrial, Public, and Open Space Zones > PF: ''
+        Office, Industrial, Public, and Open Space Zones > OS: ''
+        Specific Land Use Standards (See identified Section): 17.60.070
+      L11 - Daycare, adult large family:
+        Commercial and Mixed Use Zones > C-N: A
+        Commercial and Mixed Use Zones > C-S: ''
+        Commercial and Mixed Use Zones > MU: A
+        Office, Industrial, Public, and Open Space Zones > PO: ''
+        Office, Industrial, Public, and Open Space Zones > I: ''
+        Office, Industrial, Public, and Open Space Zones > PF: ''
+        Office, Industrial, Public, and Open Space Zones > OS: ''
+        Specific Land Use Standards (See identified Section): 17.60.070
+      L12 - Daycare, small family:
+        Commercial and Mixed Use Zones > C-N: P
+        Commercial and Mixed Use Zones > C-S: P
+        Commercial and Mixed Use Zones > MU: P
+        Office, Industrial, Public, and Open Space Zones > PO: P
+        Office, Industrial, Public, and Open Space Zones > I: ''
+        Office, Industrial, Public, and Open Space Zones > PF: ''
+        Office, Industrial, Public, and Open Space Zones > OS: ''
+        Specific Land Use Standards (See identified Section): 17.60.070
+      L13 - Daycare, large family:
+        Commercial and Mixed Use Zones > C-N: A
+        Commercial and Mixed Use Zones > C-S: ''
+        Commercial and Mixed Use Zones > MU: A
+        Office, Industrial, Public, and Open Space Zones > PO: ''
+        Office, Industrial, Public, and Open Space Zones > I: ''
+        Office, Industrial, Public, and Open Space Zones > PF: ''
+        Office, Industrial, Public, and Open Space Zones > OS: ''
+        Specific Land Use Standards (See identified Section): 17.60.070
+      L14 - Daycare center:
+        Commercial and Mixed Use Zones > C-N: C
+        Commercial and Mixed Use Zones > C-S: C
+        Commercial and Mixed Use Zones > MU: C
+        Office, Industrial, Public, and Open Space Zones > PO: C
+        Office, Industrial, Public, and Open Space Zones > I: ''
+        Office, Industrial, Public, and Open Space Zones > PF: C
+        Office, Industrial, Public, and Open Space Zones > OS: ''
+        Specific Land Use Standards (See identified Section): 17.60.070
+      L15 - Other uses not listed that are determined by the Director to be similar in nature to a listed use that is permitted in the same zone:
+        Commercial and Mixed Use Zones > C-N: P
+        Commercial and Mixed Use Zones > C-S: P
+        Commercial and Mixed Use Zones > MU: P
+        Office, Industrial, Public, and Open Space Zones > PO: P
+        Office, Industrial, Public, and Open Space Zones > I: P
+        Office, Industrial, Public, and Open Space Zones > PF: P
+        Office, Industrial, Public, and Open Space Zones > OS: P
+        Specific Land Use Standards (See identified Section): ''
+      L16 - Other uses not listed that are determined by the Director to be similar in nature to a listed use that requires an administrative use permit in the same zone:
+        Commercial and Mixed Use Zones > C-N: A
+        Commercial and Mixed Use Zones > C-S: A
+        Commercial and Mixed Use Zones > MU: A
+        Office, Industrial, Public, and Open Space Zones > PO: A
+        Office, Industrial, Public, and Open Space Zones > I: A
+        Office, Industrial, Public, and Open Space Zones > PF: A
+        Office, Industrial, Public, and Open Space Zones > OS: A
+        Specific Land Use Standards (See identified Section): '17.74'
+      L17 - Other uses not listed that are determined by the Director to be similar in nature to a listed use that requires a conditional use permit in the same zone:
+        Commercial and Mixed Use Zones > C-N: C
+        Commercial and Mixed Use Zones > C-S: C
+        Commercial and Mixed Use Zones > MU: C
+        Office, Industrial, Public, and Open Space Zones > PO: C
+        Office, Industrial, Public, and Open Space Zones > I: C
+        Office, Industrial, Public, and Open Space Zones > PF: C
+        Office, Industrial, Public, and Open Space Zones > OS: C
+        Specific Land Use Standards (See identified Section): '17.80'

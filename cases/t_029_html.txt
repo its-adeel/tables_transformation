@@ -1,0 +1,2716 @@
+<table class="thead3 table left makeExpandableTable makeFixedTable" cellpadding="3" cellspacing="0" border="1" rules="all">
+                        <colgroup class="std">
+                           <col width="39.473684210526315%">
+                           <col width="5.2631578947368425%">
+                           <col width="5.2631578947368425%">
+                           <col width="5.2631578947368425%">
+                           <col width="5.2631578947368425%">
+                           <col width="5.2631578947368425%">
+                           <col width="5.2631578947368425%">
+                           <col width="5.2631578947368425%">
+                           <col width="5.2631578947368425%">
+                           <col width="5.2631578947368425%">
+                           <col width="13.157894736842104%">
+                        </colgroup>
+                        <thead><tr>
+                              <th class=" top "></th>
+                              <th colspan="9" class=" top ">
+                                 Zoning Districts
+                                 </th>
+                              <th class=" top "></th>
+                           </tr><tr>
+                              <th class="center  top ">
+                                 Use Regulations
+                                 </th>
+                              <th colspan="5" class=" top ">
+                                 Residential
+                                 </th>
+                              <th colspan="4" class=" top ">
+                                 Non-Residential
+                                 </th>
+                              <th class=" top "></th>
+                           </tr><tr>
+                              <th class=" top "></th>
+                              <th class=" top ">
+                                 N-1
+                                 </th>
+                              <th class=" top ">
+                                 R-1
+                                 </th>
+                              <th class=" top ">
+                                 R-2
+                                 </th>
+                              <th class=" top ">
+                                 R-3
+                                 </th>
+                              <th class=" top ">
+                                 M-P
+                                 </th>
+                              <th class=" top ">
+                                 B-1
+                                 </th>
+                              <th class=" top ">
+                                 B-2
+                                 </th>
+                              <th class=" top ">
+                                 B-3
+                                 </th>
+                              <th class=" top ">
+                                 M-1
+                                 </th>
+                              <th class=" top ">
+                                 Use
+                                 <br>
+                                 Standards
+                                 <br>
+                                 Sec. No.
+                                 </th>
+                           </tr></thead><tbody>
+                           
+                           
+                           
+                           <tr>
+                              <td class=" top ">
+                                 Accessory Uses
+                                 </td>
+                              <td class=" top ">
+                                 P
+                                 </td>
+                              <td class=" top ">
+                                 P
+                                 </td>
+                              <td class=" top ">
+                                 P
+                                 </td>
+                              <td class=" top ">
+                                 P
+                                 </td>
+                              <td class=" top ">
+                                 P
+                                 </td>
+                              <td class=" top ">
+                                 P
+                                 </td>
+                              <td class=" top ">
+                                 P
+                                 </td>
+                              <td class=" top ">
+                                 P
+                                 </td>
+                              <td class=" top ">
+                                 P
+                                 </td>
+                              <td class=" top ">
+                                 <a href="https://library.municode.com/mo/moberly/codes/code_of_ordinances?nodeId=COOR_CH46ZOPLDE_ARTIIIUSST_S46-119ACUS" data-chunk-id="COOR_CH46ZOPLDE_ARTIIIUSST_S46-119ACUS" class="section-link" data-product-id="16493"><span class="popoverPositioner"></span>46-119</a>
+                                 </td>
+                           </tr>
+                           <tr>
+                              <td class=" top ">
+                                 Home Occupations
+                                 </td>
+                              <td class=" top ">
+                                 P
+                                 </td>
+                              <td class=" top ">
+                                 P
+                                 </td>
+                              <td class=" top ">
+                                 P
+                                 </td>
+                              <td class=" top ">
+                                 P
+                                 </td>
+                              <td class=" top ">
+                                 P
+                                 </td>
+                              <td class=" top ">
+                                 P
+                                 </td>
+                              <td class=" top ">
+                                 P
+                                 </td>
+                              <td class=" top ">
+                                 P
+                                 </td>
+                              <td class=" top ">
+                                 P
+                                 </td>
+                              <td class=" top ">
+                                 <a href="https://library.municode.com/mo/moberly/codes/code_of_ordinances?nodeId=COOR_CH46ZOPLDE_ARTIIIUSST_S46-134HOOC" data-chunk-id="COOR_CH46ZOPLDE_ARTIIIUSST_S46-134HOOC" class="section-link" data-product-id="16493"><span class="popoverPositioner"></span>46-134</a>
+                                 </td>
+                           </tr>
+                           <tr>
+                              <td class=" top ">
+                                 Temporary Uses
+                                 </td>
+                              <td class=" top ">
+                                 P
+                                 </td>
+                              <td class=" top ">
+                                 P
+                                 </td>
+                              <td class=" top ">
+                                 P
+                                 </td>
+                              <td class=" top ">
+                                 P
+                                 </td>
+                              <td class=" top ">
+                                 P
+                                 </td>
+                              <td class=" top ">
+                                 P
+                                 </td>
+                              <td class=" top ">
+                                 P
+                                 </td>
+                              <td class=" top ">
+                                 P
+                                 </td>
+                              <td class=" top ">
+                                 P
+                                 </td>
+                              <td class=" top ">
+                                 <a href="https://library.municode.com/mo/moberly/codes/code_of_ordinances?nodeId=COOR_CH46ZOPLDE_ARTIIIUSST_S46-120TEUS" data-chunk-id="COOR_CH46ZOPLDE_ARTIIIUSST_S46-120TEUS" class="section-link" data-product-id="16493"><span class="popoverPositioner"></span>46-120</a>
+                                 </td>
+                           </tr>
+                           <tr>
+                              <td colspan="11" class="center  top ">
+                                 <span class="ital">Agricultural Uses</span>
+                                 </td>
+                           </tr>
+                           <tr>
+                              <td class=" top ">
+                                 Agricultural Processing
+                                 </td>
+                              <td class=" top "></td>
+                              <td class=" top "></td>
+                              <td class=" top "></td>
+                              <td class=" top "></td>
+                              <td class=" top "></td>
+                              <td class=" top "></td>
+                              <td class=" top "></td>
+                              <td class=" top "></td>
+                              <td class=" top ">
+                                 C
+                                 </td>
+                              <td class=" top "></td>
+                           </tr>
+                           <tr>
+                              <td class=" top ">
+                                 Agriculture, General
+                                 </td>
+                              <td class=" top ">
+                                 P
+                                 </td>
+                              <td class=" top "></td>
+                              <td class=" top "></td>
+                              <td class=" top "></td>
+                              <td class=" top "></td>
+                              <td class=" top "></td>
+                              <td class=" top "></td>
+                              <td class=" top "></td>
+                              <td class=" top "></td>
+                              <td class=" top ">
+                                 <a href="https://library.municode.com/mo/moberly/codes/code_of_ordinances?nodeId=COOR_CH46ZOPLDE_ARTIIIUSST_S46-128COFEOP" data-chunk-id="COOR_CH46ZOPLDE_ARTIIIUSST_S46-128COFEOP" class="section-link" data-product-id="16493"><span class="popoverPositioner"></span>46-128</a>
+                                 </td>
+                           </tr>
+                           <tr>
+                              <td class=" top ">
+                                 Agriculture, Limited
+                                 </td>
+                              <td class=" top ">
+                                 P
+                                 </td>
+                              <td class=" top "></td>
+                              <td class=" top "></td>
+                              <td class=" top "></td>
+                              <td class=" top "></td>
+                              <td class=" top "></td>
+                              <td class=" top "></td>
+                              <td class=" top "></td>
+                              <td class=" top ">
+                                 C
+                                 </td>
+                              <td class=" top "></td>
+                           </tr>
+                           <tr>
+                              <td class=" top ">
+                                 Stable, Private
+                                 </td>
+                              <td class=" top ">
+                                 P
+                                 </td>
+                              <td class=" top ">
+                                 C
+                                 </td>
+                              <td class=" top "></td>
+                              <td class=" top "></td>
+                              <td class=" top "></td>
+                              <td class=" top "></td>
+                              <td class=" top "></td>
+                              <td class=" top "></td>
+                              <td class=" top "></td>
+                              <td class=" top "></td>
+                           </tr>
+                           <tr>
+                              <td colspan="11" class="center  top ">
+                                 <span class="ital">Residential Uses</span>
+                                 </td>
+                           </tr>
+                           <tr>
+                              <td class=" top ">
+                                 Apartment
+                                 </td>
+                              <td class=" top "></td>
+                              <td class=" top "></td>
+                              <td class=" top "></td>
+                              <td class=" top ">
+                                 P
+                                 </td>
+                              <td class=" top "></td>
+                              <td class=" top "></td>
+                              <td class=" top ">
+                                 P
+                                 </td>
+                              <td class=" top "></td>
+                              <td class=" top "></td>
+                              <td class=" top ">
+                                 <a href="https://library.municode.com/mo/moberly/codes/code_of_ordinances?nodeId=COOR_CH46ZOPLDE_ARTIIIUSST_S46-121MULAUS" data-chunk-id="COOR_CH46ZOPLDE_ARTIIIUSST_S46-121MULAUS" class="section-link" data-product-id="16493"><span class="popoverPositioner"></span>46-121</a>
+                                 </td>
+                           </tr>
+                           <tr>
+                              <td class=" top ">
+                                 Assisted Living
+                                 </td>
+                              <td class=" top ">
+                                 P
+                                 </td>
+                              <td class=" top "></td>
+                              <td class=" top "></td>
+                              <td class=" top ">
+                                 P
+                                 </td>
+                              <td class=" top "></td>
+                              <td class=" top "></td>
+                              <td class=" top ">
+                                 P
+                                 </td>
+                              <td class=" top ">
+                                 C
+                                 </td>
+                              <td class=" top "></td>
+                              <td class=" top "></td>
+                           </tr>
+                           <tr>
+                              <td class=" top ">
+                                 Boardinghouse
+                                 </td>
+                              <td class=" top "></td>
+                              <td class=" top "></td>
+                              <td class=" top ">
+                                 P
+                                 </td>
+                              <td class=" top ">
+                                 P
+                                 </td>
+                              <td class=" top "></td>
+                              <td class=" top "></td>
+                              <td class=" top "></td>
+                              <td class=" top "></td>
+                              <td class=" top "></td>
+                              <td class=" top "></td>
+                           </tr>
+                           <tr>
+                              <td class=" top ">
+                                 Duplex
+                                 </td>
+                              <td class=" top "></td>
+                              <td class=" top "></td>
+                              <td class=" top ">
+                                 P
+                                 </td>
+                              <td class=" top ">
+                                 P
+                                 </td>
+                              <td class=" top "></td>
+                              <td class=" top "></td>
+                              <td class=" top "></td>
+                              <td class=" top "></td>
+                              <td class=" top "></td>
+                              <td class=" top "></td>
+                           </tr>
+                           <tr>
+                              <td class=" top ">
+                                 Ground Floor Dwelling Units
+                                 </td>
+                              <td class=" top "></td>
+                              <td class=" top "></td>
+                              <td class=" top "></td>
+                              <td class=" top "></td>
+                              <td class=" top "></td>
+                              <td class=" top "></td>
+                              <td class=" top ">
+                                 P
+                                 </td>
+                              <td class=" top "></td>
+                              <td class=" top "></td>
+                              <td class=" top ">
+                                 <a href="https://library.municode.com/mo/moberly/codes/code_of_ordinances?nodeId=COOR_CH46ZOPLDE_ARTIIIUSST_S46-148GRFLDWUN" data-chunk-id="COOR_CH46ZOPLDE_ARTIIIUSST_S46-148GRFLDWUN" class="section-link" data-product-id="16493"><span class="popoverPositioner"></span>46-148</a>
+                                 </td>
+                           </tr>
+                           <tr>
+                              <td class=" top ">
+                                 Group Home, Limited
+                                 </td>
+                              <td class=" top ">
+                                 P
+                                 </td>
+                              <td class=" top ">
+                                 P
+                                 </td>
+                              <td class=" top ">
+                                 P
+                                 </td>
+                              <td class=" top ">
+                                 P
+                                 </td>
+                              <td class=" top ">
+                                 P
+                                 </td>
+                              <td class=" top "></td>
+                              <td class=" top "></td>
+                              <td class=" top "></td>
+                              <td class=" top "></td>
+                              <td class=" top ">
+                                 <a href="https://library.municode.com/mo/moberly/codes/code_of_ordinances?nodeId=COOR_CH46ZOPLDE_ARTIIIUSST_S46-133GRHOLIGEBEBRDACALIFITEIN" data-chunk-id="COOR_CH46ZOPLDE_ARTIIIUSST_S46-133GRHOLIGEBEBRDACALIFITEIN" class="section-link" data-product-id="16493"><span class="popoverPositioner"></span>46-133</a>
+                                 </td>
+                           </tr>
+                           <tr>
+                              <td class=" top ">
+                                 Group Home, General
+                                 </td>
+                              <td class=" top "></td>
+                              <td class=" top "></td>
+                              <td class=" top "></td>
+                              <td class=" top ">
+                                 C
+                                 </td>
+                              <td class=" top "></td>
+                              <td class=" top "></td>
+                              <td class=" top ">
+                                 C
+                                 </td>
+                              <td class=" top "></td>
+                              <td class=" top "></td>
+                              <td class=" top ">
+                                 <a href="https://library.municode.com/mo/moberly/codes/code_of_ordinances?nodeId=COOR_CH46ZOPLDE_ARTIIIUSST_S46-133GRHOLIGEBEBRDACALIFITEIN" data-chunk-id="COOR_CH46ZOPLDE_ARTIIIUSST_S46-133GRHOLIGEBEBRDACALIFITEIN" class="section-link" data-product-id="16493"><span class="popoverPositioner"></span>46-133</a>
+                                 </td>
+                           </tr>
+                           <tr>
+                              <td class=" top ">
+                                 Group Residential
+                                 </td>
+                              <td class=" top "></td>
+                              <td class=" top "></td>
+                              <td class=" top "></td>
+                              <td class=" top ">
+                                 C
+                                 </td>
+                              <td class=" top "></td>
+                              <td class=" top "></td>
+                              <td class=" top ">
+                                 C
+                                 </td>
+                              <td class=" top "></td>
+                              <td class=" top "></td>
+                              <td class=" top "></td>
+                           </tr>
+                           <tr>
+                              <td class=" top ">
+                                 Homeless Shelter (See Temporary Living Shelter)
+                                 </td>
+                              <td class=" top "></td>
+                              <td class=" top "></td>
+                              <td class=" top "></td>
+                              <td class=" top "></td>
+                              <td class=" top "></td>
+                              <td class=" top "></td>
+                              <td class=" top "></td>
+                              <td class=" top "></td>
+                              <td class=" top "></td>
+                              <td class=" top "></td>
+                           </tr>
+                           <tr>
+                              <td class=" top ">
+                                 Manufactured Home Residential-Design
+                                 </td>
+                              <td class=" top "></td>
+                              <td class=" top "></td>
+                              <td class=" top "></td>
+                              <td class=" top "></td>
+                              <td class=" top ">
+                                 P
+                                 </td>
+                              <td class=" top "></td>
+                              <td class=" top "></td>
+                              <td class=" top "></td>
+                              <td class=" top "></td>
+                              <td class=" top ">
+                                 <a href="https://library.municode.com/mo/moberly/codes/code_of_ordinances?nodeId=COOR_CH46ZOPLDE_ARTIIIUSST_S46-138MAHO" data-chunk-id="COOR_CH46ZOPLDE_ARTIIIUSST_S46-138MAHO" class="section-link" data-product-id="16493"><span class="popoverPositioner"></span>46-138</a>
+                                 </td>
+                           </tr>
+                           <tr>
+                              <td class=" top ">
+                                 Manufactured Home
+                                 </td>
+                              <td class=" top "></td>
+                              <td class=" top "></td>
+                              <td class=" top "></td>
+                              <td class=" top "></td>
+                              <td class=" top ">
+                                 P
+                                 </td>
+                              <td class=" top "></td>
+                              <td class=" top "></td>
+                              <td class=" top "></td>
+                              <td class=" top "></td>
+                              <td class=" top ">
+                                 <a href="https://library.municode.com/mo/moberly/codes/code_of_ordinances?nodeId=COOR_CH46ZOPLDE_ARTIIIUSST_S46-138MAHO" data-chunk-id="COOR_CH46ZOPLDE_ARTIIIUSST_S46-138MAHO" class="section-link" data-product-id="16493"><span class="popoverPositioner"></span>46-138</a>
+                                 </td>
+                           </tr>
+                           <tr>
+                              <td class=" top ">
+                                 Mobile Home
+                                 </td>
+                              <td class=" top "></td>
+                              <td class=" top "></td>
+                              <td class=" top "></td>
+                              <td class=" top "></td>
+                              <td class=" top "></td>
+                              <td class=" top "></td>
+                              <td class=" top "></td>
+                              <td class=" top "></td>
+                              <td class=" top "></td>
+                              <td class=" top "></td>
+                           </tr>
+                           <tr>
+                              <td class=" top ">
+                                 Modular Home
+                                 </td>
+                              <td class=" top ">
+                                 P
+                                 </td>
+                              <td class=" top ">
+                                 P
+                                 </td>
+                              <td class=" top ">
+                                 P
+                                 </td>
+                              <td class=" top ">
+                                 P
+                                 </td>
+                              <td class=" top ">
+                                 P
+                                 </td>
+                              <td class=" top "></td>
+                              <td class=" top "></td>
+                              <td class=" top "></td>
+                              <td class=" top "></td>
+                              <td class=" top "></td>
+                           </tr>
+                           <tr>
+                              <td class=" top ">
+                                 Manufactured Home Park
+                                 </td>
+                              <td class=" top "></td>
+                              <td class=" top "></td>
+                              <td class=" top "></td>
+                              <td class=" top "></td>
+                              <td class=" top ">
+                                 P
+                                 </td>
+                              <td class=" top "></td>
+                              <td class=" top "></td>
+                              <td class=" top "></td>
+                              <td class=" top "></td>
+                              <td class=" top "></td>
+                           </tr>
+                           <tr>
+                              <td class=" top ">
+                                 Multifamily
+                                 </td>
+                              <td class=" top "></td>
+                              <td class=" top "></td>
+                              <td class=" top "></td>
+                              <td class=" top ">
+                                 P
+                                 </td>
+                              <td class=" top "></td>
+                              <td class=" top "></td>
+                              <td class=" top ">
+                                 P
+                                 </td>
+                              <td class=" top "></td>
+                              <td class=" top "></td>
+                              <td class=" top ">
+                                 <a href="https://library.municode.com/mo/moberly/codes/code_of_ordinances?nodeId=COOR_CH46ZOPLDE_ARTIIIUSST_S46-121MULAUS" data-chunk-id="COOR_CH46ZOPLDE_ARTIIIUSST_S46-121MULAUS" class="section-link" data-product-id="16493"><span class="popoverPositioner"></span>46-121</a>
+                                 </td>
+                           </tr>
+                           <tr>
+                              <td class=" top ">
+                                 Non-Ground Floor Dwelling Units
+                                 </td>
+                              <td class=" top "></td>
+                              <td class=" top "></td>
+                              <td class=" top "></td>
+                              <td class=" top "></td>
+                              <td class=" top "></td>
+                              <td class=" top "></td>
+                              <td class=" top ">
+                                 C
+                                 </td>
+                              <td class=" top ">
+                                 C
+                                 </td>
+                              <td class=" top "></td>
+                              <td class=" top ">
+                                 <a href="https://library.municode.com/mo/moberly/codes/code_of_ordinances?nodeId=COOR_CH46ZOPLDE_ARTIIIUSST_S46-149NOUFLDWUN" data-chunk-id="COOR_CH46ZOPLDE_ARTIIIUSST_S46-149NOUFLDWUN" class="section-link" data-product-id="16493"><span class="popoverPositioner"></span>46-149</a>
+                                 </td>
+                           </tr>
+                           <tr>
+                              <td class=" top ">
+                                 Private Storage Buildings
+                                 </td>
+                              <td class=" top "></td>
+                              <td class=" top "></td>
+                              <td class=" top "></td>
+                              <td class=" top "></td>
+                              <td class=" top "></td>
+                              <td class=" top "></td>
+                              <td class=" top "></td>
+                              <td class=" top "></td>
+                              <td class=" top "></td>
+                              <td class=" top ">
+                                 <a href="https://library.municode.com/mo/moberly/codes/code_of_ordinances?nodeId=COOR_CH46ZOPLDE_ARTIIIUSST_S46-140PRSTBU" data-chunk-id="COOR_CH46ZOPLDE_ARTIIIUSST_S46-140PRSTBU" class="section-link" data-product-id="16493"><span class="popoverPositioner"></span>46-140</a>
+                                 </td>
+                           </tr>
+                           <tr>
+                              <td class=" top ">
+                                 Short Term Rental Housing Facilities
+                                 </td>
+                              <td class=" top ">
+                                 P
+                                 </td>
+                              <td class=" top ">
+                                 P
+                                 </td>
+                              <td class=" top ">
+                                 P
+                                 </td>
+                              <td class=" top ">
+                                 P
+                                 </td>
+                              <td class=" top ">
+                                 P
+                                 </td>
+                              <td class=" top "></td>
+                              <td class=" top ">
+                                 P
+                                 </td>
+                              <td class=" top "></td>
+                              <td class=" top "></td>
+                              <td class=" top "></td>
+                           </tr>
+                           <tr>
+                              <td class=" top ">
+                                 Single-Family, Detached
+                                 </td>
+                              <td class=" top ">
+                                 P
+                                 </td>
+                              <td class=" top ">
+                                 P
+                                 </td>
+                              <td class=" top ">
+                                 P
+                                 </td>
+                              <td class=" top ">
+                                 P
+                                 </td>
+                              <td class=" top ">
+                                 P
+                                 </td>
+                              <td class=" top "></td>
+                              <td class=" top "></td>
+                              <td class=" top "></td>
+                              <td class=" top "></td>
+                              <td class=" top "></td>
+                           </tr>
+                           <tr>
+                              <td class=" top ">
+                                 Temporary Living Shelter Facility
+                                 </td>
+                              <td class=" top "></td>
+                              <td class=" top "></td>
+                              <td class=" top "></td>
+                              <td class=" top "></td>
+                              <td class=" top "></td>
+                              <td class=" top "></td>
+                              <td class=" top "></td>
+                              <td class=" top ">
+                                 C
+                                 </td>
+                              <td class=" top ">
+                                 C
+                                 </td>
+                              <td class=" top ">
+                                 <a href="https://library.municode.com/mo/moberly/codes/code_of_ordinances?nodeId=COOR_CH46ZOPLDE_ARTIIIUSST_S46-152TELISHFA" data-chunk-id="COOR_CH46ZOPLDE_ARTIIIUSST_S46-152TELISHFA" class="section-link" data-product-id="16493"><span class="popoverPositioner"></span>46-152</a>
+                                 </td>
+                           </tr>
+                           <tr>
+                              <td class=" top ">
+                                 Transitional Living Facility
+                                 </td>
+                              <td class=" top "></td>
+                              <td class=" top "></td>
+                              <td class=" top "></td>
+                              <td class=" top "></td>
+                              <td class=" top "></td>
+                              <td class=" top "></td>
+                              <td class=" top "></td>
+                              <td class=" top ">
+                                 C
+                                 </td>
+                              <td class=" top "></td>
+                              <td class=" top ">
+                                 <a href="https://library.municode.com/mo/moberly/codes/code_of_ordinances?nodeId=COOR_CH46ZOPLDE_ARTIIIUSST_S46-144TRLIFA" data-chunk-id="COOR_CH46ZOPLDE_ARTIIIUSST_S46-144TRLIFA" class="section-link" data-product-id="16493"><span class="popoverPositioner"></span>46-144</a>
+                                 </td>
+                           </tr>
+                           <tr>
+                              <td class=" top ">
+                                 Warming Shelter (See Temporary Living Shelter)
+                                 </td>
+                              <td class=" top "></td>
+                              <td class=" top "></td>
+                              <td class=" top "></td>
+                              <td class=" top "></td>
+                              <td class=" top "></td>
+                              <td class=" top "></td>
+                              <td class=" top "></td>
+                              <td class=" top "></td>
+                              <td class=" top "></td>
+                              <td class=" top "></td>
+                           </tr>
+                           <tr>
+                              <td class=" top ">
+                                 Work/Live Residential Units
+                                 </td>
+                              <td class=" top "></td>
+                              <td class=" top "></td>
+                              <td class=" top "></td>
+                              <td class=" top "></td>
+                              <td class=" top "></td>
+                              <td class=" top "></td>
+                              <td class=" top ">
+                                 P
+                                 </td>
+                              <td class=" top "></td>
+                              <td class=" top "></td>
+                              <td class=" top ">
+                                 <a href="https://library.municode.com/mo/moberly/codes/code_of_ordinances?nodeId=COOR_CH46ZOPLDE_ARTIIIUSST_S46-151WOLIUN" data-chunk-id="COOR_CH46ZOPLDE_ARTIIIUSST_S46-151WOLIUN" class="section-link" data-product-id="16493"><span class="popoverPositioner"></span>46-151</a>
+                                 </td>
+                           </tr>
+                           <tr>
+                              <td colspan="11" class="center  top ">
+                                 <span class="ital">Commercial Uses</span>
+                                 </td>
+                           </tr>
+                           <tr>
+                              <td class=" top ">
+                                 Adult Entertainment Establishment
+                                 </td>
+                              <td class=" top "></td>
+                              <td class=" top "></td>
+                              <td class=" top "></td>
+                              <td class=" top "></td>
+                              <td class=" top "></td>
+                              <td class=" top "></td>
+                              <td class=" top "></td>
+                              <td class=" top "></td>
+                              <td class=" top "></td>
+                              <td class=" top ">
+                                 <a href="https://library.municode.com/mo/moberly/codes/code_of_ordinances?nodeId=COOR_CH46ZOPLDE_ARTIIIUSST_S46-122ADENES" data-chunk-id="COOR_CH46ZOPLDE_ARTIIIUSST_S46-122ADENES" class="section-link" data-product-id="16493"><span class="popoverPositioner"></span>46-122</a>
+                                 </td>
+                           </tr>
+                           <tr>
+                              <td class=" top ">
+                                 Agricultural Sales and Service
+                                 </td>
+                              <td class=" top "></td>
+                              <td class=" top "></td>
+                              <td class=" top "></td>
+                              <td class=" top "></td>
+                              <td class=" top "></td>
+                              <td class=" top "></td>
+                              <td class=" top ">
+                                 P
+                                 </td>
+                              <td class=" top "></td>
+                              <td class=" top ">
+                                 P
+                                 </td>
+                              <td class=" top "></td>
+                           </tr>
+                           <tr>
+                              <td class=" top ">
+                                 Animal Care, General
+                                 </td>
+                              <td class=" top "></td>
+                              <td class=" top "></td>
+                              <td class=" top "></td>
+                              <td class=" top "></td>
+                              <td class=" top "></td>
+                              <td class=" top "></td>
+                              <td class=" top ">
+                                 C
+                                 </td>
+                              <td class=" top ">
+                                 C
+                                 </td>
+                              <td class=" top ">
+                                 P
+                                 </td>
+                              <td class=" top ">
+                                 <a href="https://library.municode.com/mo/moberly/codes/code_of_ordinances?nodeId=COOR_CH46ZOPLDE_ARTIIIUSST_S46-136KE" data-chunk-id="COOR_CH46ZOPLDE_ARTIIIUSST_S46-136KE" class="section-link" data-product-id="16493"><span class="popoverPositioner"></span>46-136</a>
+                                 </td>
+                           </tr>
+                           <tr>
+                              <td class=" top ">
+                                 Animal Care, Limited
+                                 </td>
+                              <td class=" top "></td>
+                              <td class=" top "></td>
+                              <td class=" top "></td>
+                              <td class=" top "></td>
+                              <td class=" top "></td>
+                              <td class=" top "></td>
+                              <td class=" top ">
+                                 P
+                                 </td>
+                              <td class=" top ">
+                                 P
+                                 </td>
+                              <td class=" top ">
+                                 P
+                                 </td>
+                              <td class=" top "></td>
+                           </tr>
+                           <tr>
+                              <td class=" top ">
+                                 Bank or Financial Institution
+                                 </td>
+                              <td class=" top "></td>
+                              <td class=" top "></td>
+                              <td class=" top "></td>
+                              <td class=" top "></td>
+                              <td class=" top "></td>
+                              <td class=" top ">
+                                 C
+                                 </td>
+                              <td class=" top ">
+                                 P
+                                 </td>
+                              <td class=" top ">
+                                 P
+                                 </td>
+                              <td class=" top "></td>
+                              <td class=" top "></td>
+                           </tr>
+                           <tr>
+                              <td class=" top ">
+                                 Bar or Tavern
+                                 </td>
+                              <td class=" top "></td>
+                              <td class=" top "></td>
+                              <td class=" top "></td>
+                              <td class=" top "></td>
+                              <td class=" top "></td>
+                              <td class=" top "></td>
+                              <td class=" top ">
+                                 P
+                                 </td>
+                              <td class=" top ">
+                                 P
+                                 </td>
+                              <td class=" top "></td>
+                              <td class=" top "></td>
+                           </tr>
+                           <tr>
+                              <td class=" top ">
+                                 Bed and Breakfast
+                                 </td>
+                              <td class=" top ">
+                                 C
+                                 </td>
+                              <td class=" top ">
+                                 C
+                                 </td>
+                              <td class=" top ">
+                                 C
+                                 </td>
+                              <td class=" top ">
+                                 C
+                                 </td>
+                              <td class=" top ">
+                                 C
+                                 </td>
+                              <td class=" top "></td>
+                              <td class=" top ">
+                                 C
+                                 </td>
+                              <td class=" top ">
+                                 C
+                                 </td>
+                              <td class=" top "></td>
+                              <td class=" top ">
+                                 <a href="https://library.municode.com/mo/moberly/codes/code_of_ordinances?nodeId=COOR_CH46ZOPLDE_ARTIIIUSST_S46-124BEBR" data-chunk-id="COOR_CH46ZOPLDE_ARTIIIUSST_S46-124BEBR" class="section-link" data-product-id="16493"><span class="popoverPositioner"></span>46-124</a>
+                                 </td>
+                           </tr>
+                           <tr>
+                              <td class=" top ">
+                                 Car Wash
+                                 </td>
+                              <td class=" top "></td>
+                              <td class=" top "></td>
+                              <td class=" top "></td>
+                              <td class=" top "></td>
+                              <td class=" top "></td>
+                              <td class=" top "></td>
+                              <td class=" top ">
+                                 P
+                                 </td>
+                              <td class=" top ">
+                                 C
+                                 </td>
+                              <td class=" top ">
+                                 P
+                                 </td>
+                              <td class=" top "></td>
+                           </tr>
+                           <tr>
+                              <td class=" top ">
+                                 Construction Sales and Service
+                                 </td>
+                              <td class=" top "></td>
+                              <td class=" top "></td>
+                              <td class=" top "></td>
+                              <td class=" top "></td>
+                              <td class=" top "></td>
+                              <td class=" top "></td>
+                              <td class=" top ">
+                                 P
+                                 </td>
+                              <td class=" top ">
+                                 P
+                                 </td>
+                              <td class=" top ">
+                                 P
+                                 </td>
+                              <td class=" top "></td>
+                           </tr>
+                           <tr>
+                              <td class=" top ">
+                                 Day Care, Limited (5—10 individuals)
+                                 </td>
+                              <td class=" top ">
+                                 C
+                                 </td>
+                              <td class=" top ">
+                                 C
+                                 </td>
+                              <td class=" top ">
+                                 C
+                                 </td>
+                              <td class=" top ">
+                                 C
+                                 </td>
+                              <td class=" top ">
+                                 C
+                                 </td>
+                              <td class=" top "></td>
+                              <td class=" top "></td>
+                              <td class=" top "></td>
+                              <td class=" top "></td>
+                              <td class=" top ">
+                                 <a href="https://library.municode.com/mo/moberly/codes/code_of_ordinances?nodeId=COOR_CH46ZOPLDE_ARTIIIUSST_S46-130DACAFA" data-chunk-id="COOR_CH46ZOPLDE_ARTIIIUSST_S46-130DACAFA" class="section-link" data-product-id="16493"><span class="popoverPositioner"></span>46-130</a>
+                                 </td>
+                           </tr>
+                           <tr>
+                              <td class=" top ">
+                                 Day Care, Commercial (11 or more)
+                                 </td>
+                              <td class=" top "></td>
+                              <td class=" top "></td>
+                              <td class=" top "></td>
+                              <td class=" top "></td>
+                              <td class=" top "></td>
+                              <td class=" top "></td>
+                              <td class=" top ">
+                                 P
+                                 </td>
+                              <td class=" top ">
+                                 P
+                                 </td>
+                              <td class=" top ">
+                                 C
+                                 </td>
+                              <td class=" top ">
+                                 <a href="https://library.municode.com/mo/moberly/codes/code_of_ordinances?nodeId=COOR_CH46ZOPLDE_ARTIIIUSST_S46-130DACAFA" data-chunk-id="COOR_CH46ZOPLDE_ARTIIIUSST_S46-130DACAFA" class="section-link" data-product-id="16493"><span class="popoverPositioner"></span>46-130</a>
+                                 </td>
+                           </tr>
+                           <tr>
+                              <td class=" top ">
+                                 Catering
+                                 </td>
+                              <td class=" top "></td>
+                              <td class=" top "></td>
+                              <td class=" top "></td>
+                              <td class=" top "></td>
+                              <td class=" top "></td>
+                              <td class=" top "></td>
+                              <td class=" top "></td>
+                              <td class=" top ">
+                                 P
+                                 </td>
+                              <td class=" top "></td>
+                              <td class=" top "></td>
+                           </tr>
+                           <tr>
+                              <td class=" top ">
+                                 Food Store
+                                 </td>
+                              <td class=" top "></td>
+                              <td class=" top "></td>
+                              <td class=" top "></td>
+                              <td class=" top "></td>
+                              <td class=" top "></td>
+                              <td class=" top "></td>
+                              <td class=" top ">
+                                 P
+                                 </td>
+                              <td class=" top ">
+                                 P
+                                 </td>
+                              <td class=" top "></td>
+                              <td class=" top "></td>
+                           </tr>
+                           <tr>
+                              <td class=" top ">
+                                 Greenhouse, Nurseries
+                                 </td>
+                              <td class=" top ">
+                                 P
+                                 </td>
+                              <td class=" top "></td>
+                              <td class=" top "></td>
+                              <td class=" top "></td>
+                              <td class=" top "></td>
+                              <td class=" top "></td>
+                              <td class=" top "></td>
+                              <td class=" top ">
+                                 P
+                                 </td>
+                              <td class=" top ">
+                                 P
+                                 </td>
+                              <td class=" top ">
+                                 <a href="https://library.municode.com/mo/moberly/codes/code_of_ordinances?nodeId=COOR_CH46ZOPLDE_ARTIIIUSST_S46-132GRNU" data-chunk-id="COOR_CH46ZOPLDE_ARTIIIUSST_S46-132GRNU" class="section-link" data-product-id="16493"><span class="popoverPositioner"></span>46-132</a>
+                                 </td>
+                           </tr>
+                           <tr>
+                              <td class=" top ">
+                                 Health Club
+                                 </td>
+                              <td class=" top "></td>
+                              <td class=" top "></td>
+                              <td class=" top "></td>
+                              <td class=" top "></td>
+                              <td class=" top "></td>
+                              <td class=" top ">
+                                 C
+                                 </td>
+                              <td class=" top ">
+                                 P
+                                 </td>
+                              <td class=" top ">
+                                 P
+                                 </td>
+                              <td class=" top "></td>
+                              <td class=" top "></td>
+                           </tr>
+                           <tr>
+                              <td class=" top ">
+                                 Hotel, Motel or Tourist Court
+                                 </td>
+                              <td class=" top "></td>
+                              <td class=" top "></td>
+                              <td class=" top "></td>
+                              <td class=" top "></td>
+                              <td class=" top "></td>
+                              <td class=" top "></td>
+                              <td class=" top ">
+                                 P
+                                 </td>
+                              <td class=" top ">
+                                 P
+                                 </td>
+                              <td class=" top "></td>
+                              <td class=" top "></td>
+                           </tr>
+                           <tr>
+                              <td class=" top ">
+                                 Manufactured Home Sales
+                                 </td>
+                              <td class=" top "></td>
+                              <td class=" top "></td>
+                              <td class=" top "></td>
+                              <td class=" top "></td>
+                              <td class=" top "></td>
+                              <td class=" top "></td>
+                              <td class=" top "></td>
+                              <td class=" top "></td>
+                              <td class=" top ">
+                                 C
+                                 </td>
+                              <td class=" top "></td>
+                           </tr>
+                           <tr>
+                              <td class=" top ">
+                                 Marijuana Dispensary
+                                 </td>
+                              <td class=" top "></td>
+                              <td class=" top "></td>
+                              <td class=" top "></td>
+                              <td class=" top "></td>
+                              <td class=" top "></td>
+                              <td class=" top "></td>
+                              <td class=" top ">
+                                 P
+                                 </td>
+                              <td class=" top "></td>
+                              <td class=" top "></td>
+                              <td class=" top ">
+                                 <a href="https://library.municode.com/mo/moberly/codes/code_of_ordinances?nodeId=COOR_CH46ZOPLDE_ARTIIIUSST_S46-146MADI" data-chunk-id="COOR_CH46ZOPLDE_ARTIIIUSST_S46-146MADI" class="section-link" data-product-id="16493"><span class="popoverPositioner"></span>46-146</a>
+                                 </td>
+                           </tr>
+                           <tr>
+                              <td class=" top ">
+                                 Mobile Food Truck
+                                 </td>
+                              <td class=" top "></td>
+                              <td class=" top "></td>
+                              <td class=" top "></td>
+                              <td class=" top "></td>
+                              <td class=" top "></td>
+                              <td class=" top ">
+                                 P
+                                 </td>
+                              <td class=" top ">
+                                 P
+                                 </td>
+                              <td class=" top ">
+                                 P
+                                 </td>
+                              <td class=" top ">
+                                 P
+                                 </td>
+                              <td class=" top "></td>
+                           </tr>
+                           <tr>
+                              <td class=" top ">
+                                 Mobile Food Vending
+                                 </td>
+                              <td class=" top "></td>
+                              <td class=" top "></td>
+                              <td class=" top "></td>
+                              <td class=" top "></td>
+                              <td class=" top "></td>
+                              <td class=" top ">
+                                 P
+                                 </td>
+                              <td class=" top ">
+                                 P
+                                 </td>
+                              <td class=" top ">
+                                 P
+                                 </td>
+                              <td class=" top ">
+                                 P
+                                 </td>
+                              <td class=" top "></td>
+                           </tr>
+                           <tr>
+                              <td class=" top ">
+                                 Office, General
+                                 </td>
+                              <td class=" top "></td>
+                              <td class=" top "></td>
+                              <td class=" top "></td>
+                              <td class=" top "></td>
+                              <td class=" top "></td>
+                              <td class=" top ">
+                                 P
+                                 </td>
+                              <td class=" top ">
+                                 P
+                                 </td>
+                              <td class=" top ">
+                                 P
+                                 </td>
+                              <td class=" top "></td>
+                              <td class=" top "></td>
+                           </tr>
+                           <tr>
+                              <td class=" top ">
+                                 Parking Lot, Commercial
+                                 </td>
+                              <td class=" top "></td>
+                              <td class=" top "></td>
+                              <td class=" top "></td>
+                              <td class=" top "></td>
+                              <td class=" top "></td>
+                              <td class=" top ">
+                                 P
+                                 </td>
+                              <td class=" top ">
+                                 P
+                                 </td>
+                              <td class=" top ">
+                                 P
+                                 </td>
+                              <td class=" top "></td>
+                              <td class=" top "></td>
+                           </tr>
+                           <tr>
+                              <td class=" top ">
+                                 Print Shop
+                                 </td>
+                              <td class=" top "></td>
+                              <td class=" top "></td>
+                              <td class=" top "></td>
+                              <td class=" top "></td>
+                              <td class=" top "></td>
+                              <td class=" top ">
+                                 C
+                                 </td>
+                              <td class=" top ">
+                                 P
+                                 </td>
+                              <td class=" top ">
+                                 P
+                                 </td>
+                              <td class=" top ">
+                                 P
+                                 </td>
+                              <td class=" top "></td>
+                           </tr>
+                           <tr>
+                              <td class=" top ">
+                                 Recreation and Entertainment, Indoor
+                                 </td>
+                              <td class=" top "></td>
+                              <td class=" top "></td>
+                              <td class=" top "></td>
+                              <td class=" top "></td>
+                              <td class=" top "></td>
+                              <td class=" top ">
+                                 C
+                                 </td>
+                              <td class=" top ">
+                                 C
+                                 </td>
+                              <td class=" top ">
+                                 P
+                                 </td>
+                              <td class=" top "></td>
+                              <td class=" top "></td>
+                           </tr>
+                           <tr>
+                              <td class=" top ">
+                                 Recreation and Entertainment, Outdoor
+                                 </td>
+                              <td class=" top "></td>
+                              <td class=" top "></td>
+                              <td class=" top "></td>
+                              <td class=" top "></td>
+                              <td class=" top "></td>
+                              <td class=" top ">
+                                 C
+                                 </td>
+                              <td class=" top ">
+                                 C
+                                 </td>
+                              <td class=" top ">
+                                 C
+                                 </td>
+                              <td class=" top "></td>
+                              <td class=" top ">
+                                 <a href="https://library.municode.com/mo/moberly/codes/code_of_ordinances?nodeId=COOR_CH46ZOPLDE_ARTIIIUSST_S46-139OUREEN" data-chunk-id="COOR_CH46ZOPLDE_ARTIIIUSST_S46-139OUREEN" class="section-link" data-product-id="16493"><span class="popoverPositioner"></span>46-139</a>
+                                 </td>
+                           </tr>
+                           <tr>
+                              <td class=" top ">
+                                 Repair Service
+                                 </td>
+                              <td class=" top "></td>
+                              <td class=" top "></td>
+                              <td class=" top "></td>
+                              <td class=" top "></td>
+                              <td class=" top "></td>
+                              <td class=" top "></td>
+                              <td class=" top ">
+                                 P
+                                 </td>
+                              <td class=" top ">
+                                 P
+                                 </td>
+                              <td class=" top ">
+                                 P
+                                 </td>
+                              <td class=" top "></td>
+                           </tr>
+                           <tr>
+                              <td class=" top ">
+                                 Research Service
+                                 </td>
+                              <td class=" top "></td>
+                              <td class=" top "></td>
+                              <td class=" top "></td>
+                              <td class=" top "></td>
+                              <td class=" top "></td>
+                              <td class=" top ">
+                                 P
+                                 </td>
+                              <td class=" top ">
+                                 C
+                                 </td>
+                              <td class=" top ">
+                                 C
+                                 </td>
+                              <td class=" top ">
+                                 P
+                                 </td>
+                              <td class=" top "></td>
+                           </tr>
+                           <tr>
+                              <td class=" top ">
+                                 Restaurant, Fast Food
+                                 </td>
+                              <td class=" top "></td>
+                              <td class=" top "></td>
+                              <td class=" top "></td>
+                              <td class=" top "></td>
+                              <td class=" top "></td>
+                              <td class=" top "></td>
+                              <td class=" top ">
+                                 P
+                                 </td>
+                              <td class=" top ">
+                                 P
+                                 </td>
+                              <td class=" top "></td>
+                              <td class=" top "></td>
+                           </tr>
+                           <tr>
+                              <td class=" top ">
+                                 Restaurant, General
+                                 </td>
+                              <td class=" top "></td>
+                              <td class=" top "></td>
+                              <td class=" top "></td>
+                              <td class=" top "></td>
+                              <td class=" top "></td>
+                              <td class=" top ">
+                                 C
+                                 </td>
+                              <td class=" top ">
+                                 P
+                                 </td>
+                              <td class=" top ">
+                                 P
+                                 </td>
+                              <td class=" top "></td>
+                              <td class=" top "></td>
+                           </tr>
+                           <tr>
+                              <td class=" top ">
+                                 Retail Sales and Service
+                                 </td>
+                              <td class=" top "></td>
+                              <td class=" top "></td>
+                              <td class=" top "></td>
+                              <td class=" top "></td>
+                              <td class=" top "></td>
+                              <td class=" top ">
+                                 C
+                                 </td>
+                              <td class=" top ">
+                                 P
+                                 </td>
+                              <td class=" top ">
+                                 P
+                                 </td>
+                              <td class=" top ">
+                                 C
+                                 </td>
+                              <td class=" top "></td>
+                           </tr>
+                           <tr>
+                              <td class=" top ">
+                                 Safety Service
+                                 </td>
+                              <td class=" top ">
+                                 C
+                                 </td>
+                              <td class=" top ">
+                                 C
+                                 </td>
+                              <td class=" top ">
+                                 C
+                                 </td>
+                              <td class=" top ">
+                                 C
+                                 </td>
+                              <td class=" top ">
+                                 C
+                                 </td>
+                              <td class=" top ">
+                                 C
+                                 </td>
+                              <td class=" top ">
+                                 C
+                                 </td>
+                              <td class=" top ">
+                                 C
+                                 </td>
+                              <td class=" top ">
+                                 C
+                                 </td>
+                              <td class=" top "></td>
+                           </tr>
+                           <tr>
+                              <td class=" top ">
+                                 Service Station, Automotive
+                                 </td>
+                              <td class=" top "></td>
+                              <td class=" top "></td>
+                              <td class=" top "></td>
+                              <td class=" top "></td>
+                              <td class=" top "></td>
+                              <td class=" top "></td>
+                              <td class=" top ">
+                                 P
+                                 </td>
+                              <td class=" top ">
+                                 P
+                                 </td>
+                              <td class=" top ">
+                                 C
+                                 </td>
+                              <td class=" top "></td>
+                           </tr>
+                           <tr>
+                              <td class=" top ">
+                                 Service Station, Truck Stop
+                                 </td>
+                              <td class=" top "></td>
+                              <td class=" top "></td>
+                              <td class=" top "></td>
+                              <td class=" top "></td>
+                              <td class=" top "></td>
+                              <td class=" top "></td>
+                              <td class=" top ">
+                                 C
+                                 </td>
+                              <td class=" top ">
+                                 C
+                                 </td>
+                              <td class=" top ">
+                                 C
+                                 </td>
+                              <td class=" top "></td>
+                           </tr>
+                           <tr>
+                              <td class=" top ">
+                                 Stable, Private
+                                 </td>
+                              <td class=" top ">
+                                 C
+                                 </td>
+                              <td class=" top "></td>
+                              <td class=" top "></td>
+                              <td class=" top "></td>
+                              <td class=" top "></td>
+                              <td class=" top "></td>
+                              <td class=" top "></td>
+                              <td class=" top "></td>
+                              <td class=" top "></td>
+                              <td class=" top "></td>
+                           </tr>
+                           <tr>
+                              <td class=" top ">
+                                 Studio, Television, Film, Radio, Music
+                                 </td>
+                              <td class=" top "></td>
+                              <td class=" top "></td>
+                              <td class=" top "></td>
+                              <td class=" top "></td>
+                              <td class=" top "></td>
+                              <td class=" top "></td>
+                              <td class=" top ">
+                                 P
+                                 </td>
+                              <td class=" top ">
+                                 P
+                                 </td>
+                              <td class=" top ">
+                                 C
+                                 </td>
+                              <td class=" top "></td>
+                           </tr>
+                           <tr>
+                              <td class=" top ">
+                                 Vehicle and Equipment Sales
+                                 </td>
+                              <td class=" top "></td>
+                              <td class=" top "></td>
+                              <td class=" top "></td>
+                              <td class=" top "></td>
+                              <td class=" top "></td>
+                              <td class=" top "></td>
+                              <td class=" top ">
+                                 P
+                                 </td>
+                              <td class=" top ">
+                                 P
+                                 </td>
+                              <td class=" top ">
+                                 C
+                                 </td>
+                              <td class=" top ">
+                                 <a href="https://library.municode.com/mo/moberly/codes/code_of_ordinances?nodeId=COOR_CH46ZOPLDE_ARTIIIUSST_S46-145VESASTYAVEREFA" data-chunk-id="COOR_CH46ZOPLDE_ARTIIIUSST_S46-145VESASTYAVEREFA" class="section-link" data-product-id="16493"><span class="popoverPositioner"></span>46-145</a>
+                                 </td>
+                           </tr>
+                           <tr>
+                              <td class=" top ">
+                                 Vehicle/Equipment Storage Yard
+                                 </td>
+                              <td class=" top "></td>
+                              <td class=" top "></td>
+                              <td class=" top "></td>
+                              <td class=" top "></td>
+                              <td class=" top "></td>
+                              <td class=" top "></td>
+                              <td class=" top "></td>
+                              <td class=" top ">
+                                 C
+                                 </td>
+                              <td class=" top ">
+                                 P
+                                 </td>
+                              <td class=" top ">
+                                 <a href="https://library.municode.com/mo/moberly/codes/code_of_ordinances?nodeId=COOR_CH46ZOPLDE_ARTIIIUSST_S46-145VESASTYAVEREFA" data-chunk-id="COOR_CH46ZOPLDE_ARTIIIUSST_S46-145VESASTYAVEREFA" class="section-link" data-product-id="16493"><span class="popoverPositioner"></span>46-145</a>
+                                 </td>
+                           </tr>
+                           <tr>
+                              <td class=" top ">
+                                 Vehicle Repair, General
+                                 </td>
+                              <td class=" top "></td>
+                              <td class=" top "></td>
+                              <td class=" top "></td>
+                              <td class=" top "></td>
+                              <td class=" top "></td>
+                              <td class=" top "></td>
+                              <td class=" top ">
+                                 C
+                                 </td>
+                              <td class=" top ">
+                                 C
+                                 </td>
+                              <td class=" top ">
+                                 P
+                                 </td>
+                              <td class=" top ">
+                                 <a href="https://library.municode.com/mo/moberly/codes/code_of_ordinances?nodeId=COOR_CH46ZOPLDE_ARTIIIUSST_S46-145VESASTYAVEREFA" data-chunk-id="COOR_CH46ZOPLDE_ARTIIIUSST_S46-145VESASTYAVEREFA" class="section-link" data-product-id="16493"><span class="popoverPositioner"></span>46-145</a>
+                                 </td>
+                           </tr>
+                           <tr>
+                              <td class=" top ">
+                                 Vehicle Repair, Limited
+                                 </td>
+                              <td class=" top "></td>
+                              <td class=" top "></td>
+                              <td class=" top "></td>
+                              <td class=" top "></td>
+                              <td class=" top "></td>
+                              <td class=" top "></td>
+                              <td class=" top ">
+                                 C
+                                 </td>
+                              <td class=" top ">
+                                 P
+                                 </td>
+                              <td class=" top ">
+                                 P
+                                 </td>
+                              <td class=" top ">
+                                 <a href="https://library.municode.com/mo/moberly/codes/code_of_ordinances?nodeId=COOR_CH46ZOPLDE_ARTIIIUSST_S46-145VESASTYAVEREFA" data-chunk-id="COOR_CH46ZOPLDE_ARTIIIUSST_S46-145VESASTYAVEREFA" class="section-link" data-product-id="16493"><span class="popoverPositioner"></span>46-145</a>
+                                 </td>
+                           </tr>
+                           <tr>
+                              <td class=" top ">
+                                 Warehouse, Residential Storage
+                                 </td>
+                              <td class=" top "></td>
+                              <td class=" top "></td>
+                              <td class=" top "></td>
+                              <td class=" top "></td>
+                              <td class=" top "></td>
+                              <td class=" top "></td>
+                              <td class=" top "></td>
+                              <td class=" top ">
+                                 P
+                                 </td>
+                              <td class=" top ">
+                                 P
+                                 </td>
+                              <td class=" top "></td>
+                           </tr>
+                           <tr>
+                              <td colspan="11" class="center  top ">
+                                 <span class="ital">Public, Quasi-Public, and Recreational Uses</span>
+                                 </td>
+                           </tr>
+                           <tr>
+                              <td class=" top ">
+                                 Airport or Airstrip
+                                 </td>
+                              <td class=" top ">
+                                 C
+                                 </td>
+                              <td class=" top "></td>
+                              <td class=" top "></td>
+                              <td class=" top "></td>
+                              <td class=" top "></td>
+                              <td class=" top "></td>
+                              <td class=" top "></td>
+                              <td class=" top "></td>
+                              <td class=" top ">
+                                 C
+                                 </td>
+                              <td class=" top "></td>
+                           </tr>
+                           <tr>
+                              <td class=" top ">
+                                 Auditorium or Stadium
+                                 </td>
+                              <td class=" top "></td>
+                              <td class=" top "></td>
+                              <td class=" top "></td>
+                              <td class=" top "></td>
+                              <td class=" top "></td>
+                              <td class=" top "></td>
+                              <td class=" top ">
+                                 C
+                                 </td>
+                              <td class=" top ">
+                                 P
+                                 </td>
+                              <td class=" top ">
+                                 C
+                                 </td>
+                              <td class=" top ">
+                                 <a href="https://library.municode.com/mo/moberly/codes/code_of_ordinances?nodeId=COOR_CH46ZOPLDE_ARTIIIUSST_S46-123AUST" data-chunk-id="COOR_CH46ZOPLDE_ARTIIIUSST_S46-123AUST" class="section-link" data-product-id="16493"><span class="popoverPositioner"></span>46-123</a>
+                                 </td>
+                           </tr>
+                           <tr>
+                              <td class=" top ">
+                                 Cemetery, Crematory, Mausoleum
+                                 </td>
+                              <td class=" top ">
+                                 C
+                                 </td>
+                              <td class=" top ">
+                                 C
+                                 </td>
+                              <td class=" top ">
+                                 C
+                                 </td>
+                              <td class=" top ">
+                                 C
+                                 </td>
+                              <td class=" top ">
+                                 C
+                                 </td>
+                              <td class=" top ">
+                                 C
+                                 </td>
+                              <td class=" top ">
+                                 C
+                                 </td>
+                              <td class=" top ">
+                                 C
+                                 </td>
+                              <td class=" top ">
+                                 C
+                                 </td>
+                              <td class=" top ">
+                                 <a href="https://library.municode.com/mo/moberly/codes/code_of_ordinances?nodeId=COOR_CH46ZOPLDE_ARTIIIUSST_S46-125CECRMA" data-chunk-id="COOR_CH46ZOPLDE_ARTIIIUSST_S46-125CECRMA" class="section-link" data-product-id="16493"><span class="popoverPositioner"></span>46-125</a>
+                                 </td>
+                           </tr>
+                           <tr>
+                              <td class=" top ">
+                                 Churches, Chapels, Temples, Synagogues
+                                 </td>
+                              <td class=" top ">
+                                 C
+                                 </td>
+                              <td class=" top ">
+                                 C
+                                 </td>
+                              <td class=" top ">
+                                 C
+                                 </td>
+                              <td class=" top ">
+                                 C
+                                 </td>
+                              <td class=" top ">
+                                 C
+                                 </td>
+                              <td class=" top ">
+                                 C
+                                 </td>
+                              <td class=" top ">
+                                 C
+                                 </td>
+                              <td class=" top ">
+                                 C
+                                 </td>
+                              <td class=" top ">
+                                 C
+                                 </td>
+                              <td class=" top "></td>
+                           </tr>
+                           <tr>
+                              <td class=" top ">
+                                 College or University
+                                 </td>
+                              <td class=" top ">
+                                 C
+                                 </td>
+                              <td class=" top "></td>
+                              <td class=" top "></td>
+                              <td class=" top "></td>
+                              <td class=" top "></td>
+                              <td class=" top ">
+                                 C
+                                 </td>
+                              <td class=" top ">
+                                 C
+                                 </td>
+                              <td class=" top ">
+                                 P
+                                 </td>
+                              <td class=" top "></td>
+                              <td class=" top "></td>
+                           </tr>
+                           <tr>
+                              <td class=" top ">
+                                 Communication Tower
+                                 </td>
+                              <td class=" top ">
+                                 C
+                                 </td>
+                              <td class=" top "></td>
+                              <td class=" top "></td>
+                              <td class=" top "></td>
+                              <td class=" top "></td>
+                              <td class=" top ">
+                                 P
+                                 </td>
+                              <td class=" top ">
+                                 P
+                                 </td>
+                              <td class=" top ">
+                                 P
+                                 </td>
+                              <td class=" top ">
+                                 P
+                                 </td>
+                              <td class=" top ">
+                                 <a href="https://library.municode.com/mo/moberly/codes/code_of_ordinances?nodeId=COOR_CH46ZOPLDE_ARTXIWICOFACO_S46-497PU" data-chunk-id="COOR_CH46ZOPLDE_ARTXIWICOFACO_S46-497PU" class="section-link" data-product-id="16493"><span class="popoverPositioner"></span>46-497</a>
+                                 </td>
+                           </tr>
+                           <tr>
+                              <td class=" top ">
+                                 Convalescent Care
+                                 </td>
+                              <td class=" top "></td>
+                              <td class=" top "></td>
+                              <td class=" top "></td>
+                              <td class=" top ">
+                                 C
+                                 </td>
+                              <td class=" top "></td>
+                              <td class=" top "></td>
+                              <td class=" top ">
+                                 C
+                                 </td>
+                              <td class=" top ">
+                                 C
+                                 </td>
+                              <td class=" top "></td>
+                              <td class=" top ">
+                                 <a href="https://library.municode.com/mo/moberly/codes/code_of_ordinances?nodeId=COOR_CH46ZOPLDE_ARTIIIUSST_S46-129COCAFA" data-chunk-id="COOR_CH46ZOPLDE_ARTIIIUSST_S46-129COCAFA" class="section-link" data-product-id="16493"><span class="popoverPositioner"></span>46-129</a>
+                                 </td>
+                           </tr>
+                           <tr>
+                              <td class=" top ">
+                                 Correctional Facility
+                                 </td>
+                              <td class=" top "></td>
+                              <td class=" top "></td>
+                              <td class=" top "></td>
+                              <td class=" top "></td>
+                              <td class=" top "></td>
+                              <td class=" top "></td>
+                              <td class=" top "></td>
+                              <td class=" top "></td>
+                              <td class=" top ">
+                                 C
+                                 </td>
+                              <td class=" top "></td>
+                           </tr>
+                           <tr>
+                              <td class=" top ">
+                                 Cultural Service
+                                 </td>
+                              <td class=" top "></td>
+                              <td class=" top "></td>
+                              <td class=" top "></td>
+                              <td class=" top "></td>
+                              <td class=" top "></td>
+                              <td class=" top "></td>
+                              <td class=" top ">
+                                 P
+                                 </td>
+                              <td class=" top ">
+                                 P
+                                 </td>
+                              <td class=" top ">
+                                 C
+                                 </td>
+                              <td class=" top "></td>
+                           </tr>
+                           <tr>
+                              <td class=" top ">
+                                 Funeral Home
+                                 </td>
+                              <td class=" top "></td>
+                              <td class=" top "></td>
+                              <td class=" top "></td>
+                              <td class=" top "></td>
+                              <td class=" top "></td>
+                              <td class=" top "></td>
+                              <td class=" top ">
+                                 C
+                                 </td>
+                              <td class=" top ">
+                                 C
+                                 </td>
+                              <td class=" top "></td>
+                              <td class=" top "></td>
+                           </tr>
+                           <tr>
+                              <td class=" top ">
+                                 Golf Course
+                                 </td>
+                              <td class=" top ">
+                                 C
+                                 </td>
+                              <td class=" top ">
+                                 C
+                                 </td>
+                              <td class=" top ">
+                                 C
+                                 </td>
+                              <td class=" top ">
+                                 C
+                                 </td>
+                              <td class=" top ">
+                                 C
+                                 </td>
+                              <td class=" top "></td>
+                              <td class=" top "></td>
+                              <td class=" top "></td>
+                              <td class=" top "></td>
+                              <td class=" top ">
+                                 <a href="https://library.municode.com/mo/moberly/codes/code_of_ordinances?nodeId=COOR_CH46ZOPLDE_ARTIIIUSST_S46-130DACAFA" data-chunk-id="COOR_CH46ZOPLDE_ARTIIIUSST_S46-130DACAFA" class="section-link" data-product-id="16493"><span class="popoverPositioner"></span>46-130</a>
+                                 </td>
+                           </tr>
+                           <tr>
+                              <td class=" top ">
+                                 Government Service
+                                 </td>
+                              <td class=" top "></td>
+                              <td class=" top "></td>
+                              <td class=" top "></td>
+                              <td class=" top "></td>
+                              <td class=" top "></td>
+                              <td class=" top ">
+                                 P
+                                 </td>
+                              <td class=" top ">
+                                 P
+                                 </td>
+                              <td class=" top ">
+                                 P
+                                 </td>
+                              <td class=" top ">
+                                 P
+                                 </td>
+                              <td class=" top "></td>
+                           </tr>
+                           <tr>
+                              <td class=" top ">
+                                 Heliport or Helipad
+                                 </td>
+                              <td class=" top "></td>
+                              <td class=" top "></td>
+                              <td class=" top "></td>
+                              <td class=" top "></td>
+                              <td class=" top "></td>
+                              <td class=" top ">
+                                 C
+                                 </td>
+                              <td class=" top "></td>
+                              <td class=" top ">
+                                 P
+                                 </td>
+                              <td class=" top ">
+                                 P
+                                 </td>
+                              <td class=" top "></td>
+                           </tr>
+                           <tr>
+                              <td class=" top ">
+                                 Hospital
+                                 </td>
+                              <td class=" top "></td>
+                              <td class=" top "></td>
+                              <td class=" top "></td>
+                              <td class=" top "></td>
+                              <td class=" top "></td>
+                              <td class=" top "></td>
+                              <td class=" top ">
+                                 P
+                                 </td>
+                              <td class=" top ">
+                                 P
+                                 </td>
+                              <td class=" top "></td>
+                              <td class=" top ">
+                                 <a href="https://library.municode.com/mo/moberly/codes/code_of_ordinances?nodeId=COOR_CH46ZOPLDE_ARTIIIUSST_S46-135HO" data-chunk-id="COOR_CH46ZOPLDE_ARTIIIUSST_S46-135HO" class="section-link" data-product-id="16493"><span class="popoverPositioner"></span>46-135</a>
+                                 </td>
+                           </tr>
+                           <tr>
+                              <td class=" top ">
+                                 Library
+                                 </td>
+                              <td class=" top "></td>
+                              <td class=" top ">
+                                 C
+                                 </td>
+                              <td class=" top ">
+                                 C
+                                 </td>
+                              <td class=" top ">
+                                 C
+                                 </td>
+                              <td class=" top ">
+                                 C
+                                 </td>
+                              <td class=" top "></td>
+                              <td class=" top ">
+                                 P
+                                 </td>
+                              <td class=" top ">
+                                 P
+                                 </td>
+                              <td class=" top "></td>
+                              <td class=" top "></td>
+                           </tr>
+                           <tr>
+                              <td class=" top ">
+                                 Medical Service
+                                 </td>
+                              <td class=" top "></td>
+                              <td class=" top "></td>
+                              <td class=" top "></td>
+                              <td class=" top "></td>
+                              <td class=" top "></td>
+                              <td class=" top "></td>
+                              <td class=" top ">
+                                 P
+                                 </td>
+                              <td class=" top ">
+                                 P
+                                 </td>
+                              <td class=" top ">
+                                 P
+                                 </td>
+                              <td class=" top "></td>
+                           </tr>
+                           <tr>
+                              <td class=" top ">
+                                 Military Service
+                                 </td>
+                              <td class=" top "></td>
+                              <td class=" top "></td>
+                              <td class=" top "></td>
+                              <td class=" top "></td>
+                              <td class=" top "></td>
+                              <td class=" top "></td>
+                              <td class=" top ">
+                                 C
+                                 </td>
+                              <td class=" top ">
+                                 C
+                                 </td>
+                              <td class=" top ">
+                                 C
+                                 </td>
+                              <td class=" top "></td>
+                           </tr>
+                           <tr>
+                              <td class=" top ">
+                                 Parks and Recreation
+                                 </td>
+                              <td class=" top ">
+                                 C
+                                 </td>
+                              <td class=" top ">
+                                 C
+                                 </td>
+                              <td class=" top ">
+                                 C
+                                 </td>
+                              <td class=" top ">
+                                 C
+                                 </td>
+                              <td class=" top ">
+                                 C
+                                 </td>
+                              <td class=" top ">
+                                 C
+                                 </td>
+                              <td class=" top ">
+                                 C
+                                 </td>
+                              <td class=" top ">
+                                 C
+                                 </td>
+                              <td class=" top ">
+                                 C
+                                 </td>
+                              <td class=" top "></td>
+                           </tr>
+                           <tr>
+                              <td class=" top ">
+                                 Post Office
+                                 </td>
+                              <td class=" top "></td>
+                              <td class=" top "></td>
+                              <td class=" top "></td>
+                              <td class=" top "></td>
+                              <td class=" top "></td>
+                              <td class=" top "></td>
+                              <td class=" top ">
+                                 P
+                                 </td>
+                              <td class=" top ">
+                                 P
+                                 </td>
+                              <td class=" top "></td>
+                              <td class=" top "></td>
+                           </tr>
+                           <tr>
+                              <td class=" top ">
+                                 Recreational Vehicle Park
+                                 </td>
+                              <td class=" top ">
+                                 C
+                                 </td>
+                              <td class=" top "></td>
+                              <td class=" top "></td>
+                              <td class=" top "></td>
+                              <td class=" top "></td>
+                              <td class=" top "></td>
+                              <td class=" top "></td>
+                              <td class=" top "></td>
+                              <td class=" top "></td>
+                              <td class=" top ">
+                                 <a href="https://library.municode.com/mo/moberly/codes/code_of_ordinances?nodeId=COOR_CH46ZOPLDE_ARTIIIUSST_S46-141REVEPA" data-chunk-id="COOR_CH46ZOPLDE_ARTIIIUSST_S46-141REVEPA" class="section-link" data-product-id="16493"><span class="popoverPositioner"></span>46-141</a>
+                                 </td>
+                           </tr>
+                           <tr>
+                              <td class=" top ">
+                                 Religious Assembly
+                                 </td>
+                              <td class=" top ">
+                                 C
+                                 </td>
+                              <td class=" top ">
+                                 C
+                                 </td>
+                              <td class=" top ">
+                                 C
+                                 </td>
+                              <td class=" top ">
+                                 C
+                                 </td>
+                              <td class=" top ">
+                                 C
+                                 </td>
+                              <td class=" top ">
+                                 C
+                                 </td>
+                              <td class=" top ">
+                                 C
+                                 </td>
+                              <td class=" top ">
+                                 C
+                                 </td>
+                              <td class=" top ">
+                                 C
+                                 </td>
+                              <td class=" top ">
+                                 <a href="https://library.municode.com/mo/moberly/codes/code_of_ordinances?nodeId=COOR_CH46ZOPLDE_ARTIIIUSST_S46-123AUST" data-chunk-id="COOR_CH46ZOPLDE_ARTIIIUSST_S46-123AUST" class="section-link" data-product-id="16493"><span class="popoverPositioner"></span>46-123</a>
+                                 </td>
+                           </tr>
+                           <tr>
+                              <td class=" top ">
+                                 School, Elementary, Middle or High
+                                 </td>
+                              <td class=" top ">
+                                 C
+                                 </td>
+                              <td class=" top ">
+                                 C
+                                 </td>
+                              <td class=" top ">
+                                 C
+                                 </td>
+                              <td class=" top ">
+                                 C
+                                 </td>
+                              <td class=" top ">
+                                 C
+                                 </td>
+                              <td class=" top ">
+                                 C
+                                 </td>
+                              <td class=" top ">
+                                 C
+                                 </td>
+                              <td class=" top ">
+                                 C
+                                 </td>
+                              <td class=" top ">
+                                 C
+                                 </td>
+                              <td class=" top "></td>
+                           </tr>
+                           <tr>
+                              <td class=" top ">
+                                 Shooting Range—Indoor
+                                 </td>
+                              <td class=" top "></td>
+                              <td class=" top "></td>
+                              <td class=" top "></td>
+                              <td class=" top "></td>
+                              <td class=" top "></td>
+                              <td class=" top "></td>
+                              <td class=" top "></td>
+                              <td class=" top ">
+                                 C
+                                 </td>
+                              <td class=" top ">
+                                 C
+                                 </td>
+                              <td class=" top "></td>
+                           </tr>
+                           <tr>
+                              <td class=" top ">
+                                 Small Wireless Facility
+                                 </td>
+                              <td class=" top ">
+                                 P
+                                 </td>
+                              <td class=" top ">
+                                 P
+                                 </td>
+                              <td class=" top ">
+                                 P
+                                 </td>
+                              <td class=" top ">
+                                 P
+                                 </td>
+                              <td class=" top ">
+                                 P
+                                 </td>
+                              <td class=" top ">
+                                 P
+                                 </td>
+                              <td class=" top ">
+                                 P
+                                 </td>
+                              <td class=" top ">
+                                 P
+                                 </td>
+                              <td class=" top ">
+                                 P
+                                 </td>
+                              <td class=" top ">
+                                 <a href="https://library.municode.com/mo/moberly/codes/code_of_ordinances?nodeId=COOR_CH46ZOPLDE_ARTXIWICOFACO_S46-497PU" data-chunk-id="COOR_CH46ZOPLDE_ARTXIWICOFACO_S46-497PU" class="section-link" data-product-id="16493"><span class="popoverPositioner"></span>46-497</a>
+                                 </td>
+                           </tr>
+                           <tr>
+                              <td class=" top ">
+                                 Vocational School
+                                 </td>
+                              <td class=" top "></td>
+                              <td class=" top "></td>
+                              <td class=" top "></td>
+                              <td class=" top "></td>
+                              <td class=" top "></td>
+                              <td class=" top "></td>
+                              <td class=" top ">
+                                 C
+                                 </td>
+                              <td class=" top ">
+                                 P
+                                 </td>
+                              <td class=" top ">
+                                 P
+                                 </td>
+                              <td class=" top "></td>
+                           </tr>
+                           <tr>
+                              <td colspan="11" class="center  top ">
+                                 <span class="ital">Manufacturing, Industrial and Extractive Uses</span>
+                                 </td>
+                           </tr>
+                           <tr>
+                              <td class=" top ">
+                                 Asphalt or Concrete Plant
+                                 </td>
+                              <td class=" top "></td>
+                              <td class=" top "></td>
+                              <td class=" top "></td>
+                              <td class=" top "></td>
+                              <td class=" top "></td>
+                              <td class=" top "></td>
+                              <td class=" top "></td>
+                              <td class=" top "></td>
+                              <td class=" top ">
+                                 C
+                                 </td>
+                              <td class=" top "></td>
+                           </tr>
+                           <tr>
+                              <td class=" top ">
+                                 Basic Industry
+                                 </td>
+                              <td class=" top "></td>
+                              <td class=" top "></td>
+                              <td class=" top "></td>
+                              <td class=" top "></td>
+                              <td class=" top "></td>
+                              <td class=" top "></td>
+                              <td class=" top "></td>
+                              <td class=" top "></td>
+                              <td class=" top ">
+                                 C
+                                 </td>
+                              <td class=" top "></td>
+                           </tr>
+                           <tr>
+                              <td class=" top ">
+                                 Cannabis Facility
+                                 </td>
+                              <td class=" top "></td>
+                              <td class=" top "></td>
+                              <td class=" top "></td>
+                              <td class=" top "></td>
+                              <td class=" top "></td>
+                              <td class=" top ">
+                                 P
+                                 </td>
+                              <td class=" top "></td>
+                              <td class=" top "></td>
+                              <td class=" top ">
+                                 P
+                                 </td>
+                              <td class=" top ">
+                                 <a href="https://library.municode.com/mo/moberly/codes/code_of_ordinances?nodeId=COOR_CH46ZOPLDE_ARTIIIUSST_S46-147CAFA" data-chunk-id="COOR_CH46ZOPLDE_ARTIIIUSST_S46-147CAFA" class="section-link" data-product-id="16493"><span class="popoverPositioner"></span>46-147</a>
+                                 </td>
+                           </tr>
+                           <tr>
+                              <td class=" top ">
+                                 Composting Facility
+                                 </td>
+                              <td class=" top "></td>
+                              <td class=" top "></td>
+                              <td class=" top "></td>
+                              <td class=" top "></td>
+                              <td class=" top "></td>
+                              <td class=" top "></td>
+                              <td class=" top "></td>
+                              <td class=" top "></td>
+                              <td class=" top ">
+                                 C
+                                 </td>
+                              <td class=" top ">
+                                 <a href="https://library.municode.com/mo/moberly/codes/code_of_ordinances?nodeId=COOR_CH46ZOPLDE_ARTIIIUSST_S46-127COFA" data-chunk-id="COOR_CH46ZOPLDE_ARTIIIUSST_S46-127COFA" class="section-link" data-product-id="16493"><span class="popoverPositioner"></span>46-127</a>
+                                 </td>
+                           </tr>
+                           <tr>
+                              <td class=" top ">
+                                 Food/Bakery Product Manufacturing
+                                 </td>
+                              <td class=" top "></td>
+                              <td class=" top "></td>
+                              <td class=" top "></td>
+                              <td class=" top "></td>
+                              <td class=" top "></td>
+                              <td class=" top "></td>
+                              <td class=" top "></td>
+                              <td class=" top ">
+                                 C
+                                 </td>
+                              <td class=" top ">
+                                 P
+                                 </td>
+                              <td class=" top "></td>
+                           </tr>
+                           <tr>
+                              <td class=" top ">
+                                 Freight Terminal
+                                 </td>
+                              <td class=" top "></td>
+                              <td class=" top "></td>
+                              <td class=" top "></td>
+                              <td class=" top "></td>
+                              <td class=" top "></td>
+                              <td class=" top "></td>
+                              <td class=" top ">
+                                 C
+                                 </td>
+                              <td class=" top "></td>
+                              <td class=" top ">
+                                 P
+                                 </td>
+                              <td class=" top "></td>
+                           </tr>
+                           <tr>
+                              <td class=" top ">
+                                 Gas and Fuel Sales/Storage
+                                 </td>
+                              <td class=" top "></td>
+                              <td class=" top "></td>
+                              <td class=" top "></td>
+                              <td class=" top "></td>
+                              <td class=" top "></td>
+                              <td class=" top "></td>
+                              <td class=" top "></td>
+                              <td class=" top ">
+                                 C
+                                 </td>
+                              <td class=" top ">
+                                 P
+                                 </td>
+                              <td class=" top "></td>
+                           </tr>
+                           <tr>
+                              <td class=" top ">
+                                 Grain Elevator
+                                 </td>
+                              <td class=" top "></td>
+                              <td class=" top "></td>
+                              <td class=" top "></td>
+                              <td class=" top "></td>
+                              <td class=" top "></td>
+                              <td class=" top "></td>
+                              <td class=" top "></td>
+                              <td class=" top "></td>
+                              <td class=" top ">
+                                 P
+                                 </td>
+                              <td class=" top "></td>
+                           </tr>
+                           <tr>
+                              <td class=" top ">
+                                 Hazardous Operation
+                                 </td>
+                              <td class=" top "></td>
+                              <td class=" top "></td>
+                              <td class=" top "></td>
+                              <td class=" top "></td>
+                              <td class=" top "></td>
+                              <td class=" top "></td>
+                              <td class=" top "></td>
+                              <td class=" top "></td>
+                              <td class=" top ">
+                                 C
+                                 </td>
+                              <td class=" top "></td>
+                           </tr>
+                           <tr>
+                              <td class=" top ">
+                                 Landfill
+                                 </td>
+                              <td class=" top "></td>
+                              <td class=" top "></td>
+                              <td class=" top "></td>
+                              <td class=" top "></td>
+                              <td class=" top "></td>
+                              <td class=" top "></td>
+                              <td class=" top "></td>
+                              <td class=" top "></td>
+                              <td class=" top ">
+                                 C
+                                 </td>
+                              <td class=" top ">
+                                 <a href="https://library.municode.com/mo/moberly/codes/code_of_ordinances?nodeId=COOR_CH46ZOPLDE_ARTIIIUSST_S46-137LAMIQU" data-chunk-id="COOR_CH46ZOPLDE_ARTIIIUSST_S46-137LAMIQU" class="section-link" data-product-id="16493"><span class="popoverPositioner"></span>46-137</a>
+                                 </td>
+                           </tr>
+                           <tr>
+                              <td class=" top ">
+                                 Laundry Plant
+                                 </td>
+                              <td class=" top "></td>
+                              <td class=" top "></td>
+                              <td class=" top "></td>
+                              <td class=" top "></td>
+                              <td class=" top "></td>
+                              <td class=" top "></td>
+                              <td class=" top "></td>
+                              <td class=" top "></td>
+                              <td class=" top ">
+                                 P
+                                 </td>
+                              <td class=" top "></td>
+                           </tr>
+                           <tr>
+                              <td class=" top ">
+                                 Manufacturing and Assembly
+                                 </td>
+                              <td class=" top "></td>
+                              <td class=" top "></td>
+                              <td class=" top "></td>
+                              <td class=" top "></td>
+                              <td class=" top "></td>
+                              <td class=" top "></td>
+                              <td class=" top "></td>
+                              <td class=" top "></td>
+                              <td class=" top ">
+                                 P
+                                 </td>
+                              <td class=" top "></td>
+                           </tr>
+                           <tr>
+                              <td class=" top ">
+                                 Mining or Quarrying
+                                 </td>
+                              <td class=" top "></td>
+                              <td class=" top "></td>
+                              <td class=" top "></td>
+                              <td class=" top "></td>
+                              <td class=" top "></td>
+                              <td class=" top "></td>
+                              <td class=" top "></td>
+                              <td class=" top "></td>
+                              <td class=" top ">
+                                 C
+                                 </td>
+                              <td class=" top ">
+                                 <a href="https://library.municode.com/mo/moberly/codes/code_of_ordinances?nodeId=COOR_CH46ZOPLDE_ARTIIIUSST_S46-137LAMIQU" data-chunk-id="COOR_CH46ZOPLDE_ARTIIIUSST_S46-137LAMIQU" class="section-link" data-product-id="16493"><span class="popoverPositioner"></span>46-137</a>
+                                 </td>
+                           </tr>
+                           <tr>
+                              <td class=" top ">
+                                 Oil or Gas Drilling/Refining
+                                 </td>
+                              <td class=" top "></td>
+                              <td class=" top "></td>
+                              <td class=" top "></td>
+                              <td class=" top "></td>
+                              <td class=" top "></td>
+                              <td class=" top "></td>
+                              <td class=" top "></td>
+                              <td class=" top "></td>
+                              <td class=" top ">
+                                 C
+                                 </td>
+                              <td class=" top "></td>
+                           </tr>
+                           <tr>
+                              <td class=" top ">
+                                 Printing and Publishing
+                                 </td>
+                              <td class=" top "></td>
+                              <td class=" top "></td>
+                              <td class=" top "></td>
+                              <td class=" top "></td>
+                              <td class=" top "></td>
+                              <td class=" top ">
+                                 P
+                                 </td>
+                              <td class=" top ">
+                                 C
+                                 </td>
+                              <td class=" top ">
+                                 P
+                                 </td>
+                              <td class=" top ">
+                                 P
+                                 </td>
+                              <td class=" top "></td>
+                           </tr>
+                           <tr>
+                              <td class=" top ">
+                                 Salvage Yard
+                                 </td>
+                              <td class=" top "></td>
+                              <td class=" top "></td>
+                              <td class=" top "></td>
+                              <td class=" top "></td>
+                              <td class=" top "></td>
+                              <td class=" top "></td>
+                              <td class=" top "></td>
+                              <td class=" top "></td>
+                              <td class=" top ">
+                                 C
+                                 </td>
+                              <td class=" top ">
+                                 <a href="https://library.municode.com/mo/moberly/codes/code_of_ordinances?nodeId=COOR_CH46ZOPLDE_ARTIIIUSST_S46-142SAYA" data-chunk-id="COOR_CH46ZOPLDE_ARTIIIUSST_S46-142SAYA" class="section-link" data-product-id="16493"><span class="popoverPositioner"></span>46-142</a>
+                                 </td>
+                           </tr>
+                           <tr>
+                              <td class=" top ">
+                                 Shipping Containers
+                                 </td>
+                              <td class=" top "></td>
+                              <td class=" top "></td>
+                              <td class=" top "></td>
+                              <td class=" top "></td>
+                              <td class=" top "></td>
+                              <td class=" top ">
+                                 P
+                                 </td>
+                              <td class=" top "></td>
+                              <td class=" top ">
+                                 P
+                                 </td>
+                              <td class=" top ">
+                                 P
+                                 </td>
+                              <td class=" top "></td>
+                           </tr>
+                           <tr>
+                              <td class=" top ">
+                                 Solid Waste Collection/Processing
+                                 </td>
+                              <td class=" top "></td>
+                              <td class=" top "></td>
+                              <td class=" top "></td>
+                              <td class=" top "></td>
+                              <td class=" top "></td>
+                              <td class=" top "></td>
+                              <td class=" top "></td>
+                              <td class=" top "></td>
+                              <td class=" top ">
+                                 C
+                                 </td>
+                              <td class=" top ">
+                                 <a href="https://library.municode.com/mo/moberly/codes/code_of_ordinances?nodeId=COOR_CH46ZOPLDE_ARTIIIUSST_S46-143SOWACOPRFA" data-chunk-id="COOR_CH46ZOPLDE_ARTIIIUSST_S46-143SOWACOPRFA" class="section-link" data-product-id="16493"><span class="popoverPositioner"></span>46-143</a>
+                                 </td>
+                           </tr>
+                           <tr>
+                              <td class=" top ">
+                                 Solid Waste Transfer Station
+                                 </td>
+                              <td class=" top "></td>
+                              <td class=" top "></td>
+                              <td class=" top "></td>
+                              <td class=" top "></td>
+                              <td class=" top "></td>
+                              <td class=" top "></td>
+                              <td class=" top "></td>
+                              <td class=" top "></td>
+                              <td class=" top ">
+                                 P
+                                 </td>
+                              <td class=" top "></td>
+                           </tr>
+                           <tr>
+                              <td class=" top ">
+                                 Stockyard
+                                 </td>
+                              <td class=" top "></td>
+                              <td class=" top "></td>
+                              <td class=" top "></td>
+                              <td class=" top "></td>
+                              <td class=" top "></td>
+                              <td class=" top "></td>
+                              <td class=" top "></td>
+                              <td class=" top "></td>
+                              <td class=" top ">
+                                 C
+                                 </td>
+                              <td class=" top "></td>
+                           </tr>
+                           <tr>
+                              <td class=" top ">
+                                 Transit Facility
+                                 </td>
+                              <td class=" top "></td>
+                              <td class=" top ">
+                                 C
+                                 </td>
+                              <td class=" top ">
+                                 C
+                                 </td>
+                              <td class=" top ">
+                                 C
+                                 </td>
+                              <td class=" top ">
+                                 C
+                                 </td>
+                              <td class=" top ">
+                                 C
+                                 </td>
+                              <td class=" top ">
+                                 P
+                                 </td>
+                              <td class=" top ">
+                                 P
+                                 </td>
+                              <td class=" top ">
+                                 P
+                                 </td>
+                              <td class=" top "></td>
+                           </tr>
+                           <tr>
+                              <td class=" top ">
+                                 Utility, Major
+                                 </td>
+                              <td class=" top "></td>
+                              <td class=" top ">
+                                 C
+                                 </td>
+                              <td class=" top ">
+                                 C
+                                 </td>
+                              <td class=" top ">
+                                 C
+                                 </td>
+                              <td class=" top ">
+                                 C
+                                 </td>
+                              <td class=" top ">
+                                 C
+                                 </td>
+                              <td class=" top ">
+                                 C
+                                 </td>
+                              <td class=" top ">
+                                 C
+                                 </td>
+                              <td class=" top ">
+                                 C
+                                 </td>
+                              <td class=" top "></td>
+                           </tr>
+                           <tr>
+                              <td class=" top ">
+                                 Utility, Minor
+                                 </td>
+                              <td class=" top ">
+                                 P
+                                 </td>
+                              <td class=" top ">
+                                 P
+                                 </td>
+                              <td class=" top ">
+                                 P
+                                 </td>
+                              <td class=" top ">
+                                 P
+                                 </td>
+                              <td class=" top ">
+                                 P
+                                 </td>
+                              <td class=" top ">
+                                 P
+                                 </td>
+                              <td class=" top ">
+                                 P
+                                 </td>
+                              <td class=" top ">
+                                 P
+                                 </td>
+                              <td class=" top ">
+                                 P
+                                 </td>
+                              <td class=" top "></td>
+                           </tr>
+                           <tr>
+                              <td class=" top ">
+                                 Warehousing and Wholesale
+                                 </td>
+                              <td class=" top "></td>
+                              <td class=" top "></td>
+                              <td class=" top "></td>
+                              <td class=" top "></td>
+                              <td class=" top "></td>
+                              <td class=" top "></td>
+                              <td class=" top "></td>
+                              <td class=" top "></td>
+                              <td class=" top ">
+                                 P
+                                 </td>
+                              <td class=" top "></td>
+                           </tr>
+                           <tr>
+                              <td class=" top ">
+                                 Welding or Machine Shop
+                                 </td>
+                              <td class=" top "></td>
+                              <td class=" top "></td>
+                              <td class=" top "></td>
+                              <td class=" top "></td>
+                              <td class=" top "></td>
+                              <td class=" top "></td>
+                              <td class=" top "></td>
+                              <td class=" top "></td>
+                              <td class=" top ">
+                                 P
+                                 </td>
+                              <td class=" top "></td>
+                           </tr>
+                        </tbody>
+                     </table>

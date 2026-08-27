@@ -1,394 +1,297 @@
 <figure class="type-Table" data-cite="Table 4.12">
-	<figcaption class="from-table" style="max-width: 592px;">
-		<p class="header">
-			<span class="num">Table 4.12. </span>
-			<span class="name">BP and I Zone Development Standards</span>
-		</p>
-	</figcaption>
-	<div class="table-wrap">
-		<table class="role-medium table-dense table-extra-dense table-ruled-outside-both table-ruled-inside-both table-shaded floattable-header" style="width: 591.533px; top: 103px;" aria-hidden="true">
-			<colgroup style="">
-				<col style="width: 145.2px;" data-orig-width="145.2px">
-					<col style="width: 222.667px;" data-orig-width="222.667px">
-						<col style="width: 222.667px;" data-orig-width="222.667px">
-						</colgroup>
-						<thead>
-							<tr>
-								<th class="left bottom" rowspan="2">
-									<p>Development Feature</p>
-								</th>
-								<th colspan="2">
-									<p>Requirement by 
-										<a class="def" href="28_ZDefs__48d2d0740cf29c7ba40bc847a746abc5">Zone</a>
-									</p>
-								</th>
-							</tr>
-							<tr>
-								<th>
-									<p>BP</p>
-									<p>Business 
-										<a class="def" href="28_PDefs__9accbd68a0573079ba60b84e0a6e0efa">Park</a>
-									</p>
-								</th>
-								<th>
-									<p>I</p>
-									<p>Industrial</p>
-								</th>
-							</tr>
-						</thead>
-					</table>
-					<table class="role-medium table-dense table-extra-dense table-ruled-outside-both table-ruled-inside-both table-shaded floattable--floated" data-controller="floattable" style="width: 591.533px;">
-						<colgroup style="">
-							<col style="width: 145.2px;" data-orig-width="145.2px">
-								<col style="width: 222.667px;" data-orig-width="222.667px">
-									<col style="width: 222.667px;" data-orig-width="222.667px">
-									</colgroup>
-									<thead>
-										<tr>
-											<th class="left bottom" rowspan="2">
-												<p>Development Feature</p>
-											</th>
-											<th colspan="2">
-												<p>Requirement by 
-													<a class="def" href="28_ZDefs__48d2d0740cf29c7ba40bc847a746abc5">Zone</a>
-												</p>
-											</th>
-										</tr>
-										<tr>
-											<th>
-												<p>BP</p>
-												<p>Business 
-													<a class="def" href="28_PDefs__9accbd68a0573079ba60b84e0a6e0efa">Park</a>
-												</p>
-											</th>
-											<th>
-												<p>I</p>
-												<p>Industrial</p>
-											</th>
-										</tr>
-									</thead>
-									<tbody>
-										<tr>
-											<td>
-												<p>
-													<b>Lot size</b>
-												</p>
-											</td>
-											<td colspan="2">
-												<p>
-													<i>Minimum area and width required for each lot in a new subdivision</i>
-												</p>
-											</td>
-										</tr>
-										<tr>
-											<td>
-												<p>Minimum area</p>
-											</td>
-											<td class="center">
-												<p>20,000 sf</p>
-											</td>
-											<td class="center">
-												<p>20,000 sf</p>
-											</td>
-										</tr>
-										<tr>
-											<td>
-												<p>Minimum width</p>
-												<p class="right">
-													<a class="def" href="28_LDefs__4925dd6772ae0da414b0f3acbbcdc9d9">Interior lot</a>
-												</p>
-												<p class="right">
-													<a class="def" href="28_LDefs__b5e6a271b5f2bb7876f5335d5083daa0">Corner lot</a>
-												</p>
-											</td>
-											<td class="center bottom">
-												<p>100 ft</p>
-												<p>110 ft</p>
-											</td>
-											<td class="center bottom">
-												<p>100 ft</p>
-												<p>110 ft</p>
-											</td>
-										</tr>
-										<tr>
-											<td>
-												<p>Minimum depth</p>
-											</td>
-											<td class="center">
-												<p>100 ft</p>
-											</td>
-											<td class="center">
-												<p>100 ft</p>
-											</td>
-										</tr>
-										<tr>
-											<td>
-												<p>
-													<b>Setbacks</b>
-												</p>
-												<p>Primary 
-													<a class="def" href="28_SDefs__76d47cabaa0db40c595007473116cf12">structure</a>
-												</p>
-											</td>
-											<td colspan="2">
-												<p>
-													<i>Minimum setbacks required. See Chapter</i>
-													<a class="cite" href="12" title="Ch. 12 Development Standards Modifications">12</a>
-													<i>for modifications, reductions, and encroachments. See Chapter</i>
-													<a class="cite" href="7" title="Ch. 7 Standards for Specific Land Uses">7</a>
-													<i>for any setback requirements applicable to a specific land use.</i>
-												</p>
-											</td>
-										</tr>
-										<tr class="center">
-											<td class="right">
-												<p>Front</p>
-											</td>
-											<td>
-												<p>0 ft</p>
-											</td>
-											<td>
-												<p>0 ft</p>
-											</td>
-										</tr>
-										<tr class="center bottom">
-											<td class="right">
-												<p>Side&nbsp;– Interior (each)</p>
-											</td>
-											<td>
-												<p>0 ft</p>
-												<p>Adjacent to a non-industrial or non-business 
-													<a class="def" href="28_PDefs__9accbd68a0573079ba60b84e0a6e0efa">park</a> use: 20 ft
-												</p>
-											</td>
-											<td>
-												<p>0 ft</p>
-												<p>Adjacent to a non-industrial or non-business 
-													<a class="def" href="28_PDefs__9accbd68a0573079ba60b84e0a6e0efa">park</a> use: 20 ft
-												</p>
-											</td>
-										</tr>
-										<tr class="center">
-											<td class="right">
-												<p>Side&nbsp;– 
-													<a class="def" href="28_SDefs__961ea070733330b639def887d516a84d">Street</a> side
-												</p>
-											</td>
-											<td>
-												<p>0 ft</p>
-											</td>
-											<td>
-												<p>0 ft</p>
-											</td>
-										</tr>
-										<tr class="center bottom">
-											<td class="right">
-												<p>Rear</p>
-											</td>
-											<td>
-												<p>0 ft</p>
-												<p>Adjacent to a non-industrial or non-business 
-													<a class="def" href="28_PDefs__9accbd68a0573079ba60b84e0a6e0efa">park</a> use: 20 ft
-												</p>
-											</td>
-											<td>
-												<p>0 ft</p>
-												<p>Adjacent to a non-industrial or non-business 
-													<a class="def" href="28_PDefs__9accbd68a0573079ba60b84e0a6e0efa">park</a> use: 20 ft
-												</p>
-											</td>
-										</tr>
-										<tr class="center">
-											<td class="right">
-												<p>
-													<a class="def" href="28_GDefs__3c62b0d90b38d293d82e4523d45bd62a">Garage</a> front
-												</p>
-											</td>
-											<td>
-												<p>NA</p>
-											</td>
-											<td>
-												<p>NA</p>
-											</td>
-										</tr>
-										<tr>
-											<td>
-												<p>Detached 
-													<a class="def" href="28_SDefs__aa50a745100ead86d42c437f9dbcb2b0">accessory structure</a>
-												</p>
-											</td>
-											<td colspan="2"></td>
-										</tr>
-										<tr class="center">
-											<td class="right">
-												<p>Front</p>
-											</td>
-											<td>
-												<p>Not Permitted</p>
-											</td>
-											<td>
-												<p>Not Permitted</p>
-											</td>
-										</tr>
-										<tr class="center">
-											<td class="right">
-												<p>Side&nbsp;– Interior (each)</p>
-											</td>
-											<td>
-												<p>4 ft</p>
-											</td>
-											<td>
-												<p>4 ft</p>
-											</td>
-										</tr>
-										<tr class="center">
-											<td class="right">
-												<p>Side&nbsp;– 
-													<a class="def" href="28_SDefs__961ea070733330b639def887d516a84d">Street</a>
-												</p>
-											</td>
-											<td>
-												<p>10 ft</p>
-											</td>
-											<td>
-												<p>10 ft</p>
-											</td>
-										</tr>
-										<tr class="center">
-											<td class="right">
-												<p>Rear</p>
-											</td>
-											<td>
-												<p>5 ft</p>
-											</td>
-											<td>
-												<p>5 ft</p>
-											</td>
-										</tr>
-										<tr>
-											<td>
-												<p>
-													<b>Site coverage</b>
-												</p>
-											</td>
-											<td colspan="2">
-												<p>
-													<i>
-														<b>Floor Area Ratio.</b>
-													</i>
-													<i> The gross floor area of all buildings on a lot divided by the building site area.</i>
-												</p>
-											</td>
-										</tr>
-										<tr class="center bottom">
-											<td>
-												<p>Maximum 
-													<a class="def" href="28_CDefs__6b66345483bd6811ba8c0e84bcd51987">Coverage</a>
-												</p>
-												<p class="right">
-													<a class="def" href="28_FDefs__27028361be1b0f95686c679bc594eba6">Floor Area Ratio</a>
-												</p>
-											</td>
-											<td>
-												<p>1.5</p>
-											</td>
-											<td>
-												<p>0.6</p>
-											</td>
-										</tr>
-										<tr>
-											<td>
-												<p>
-													<b>Height limit</b>
-												</p>
-												<p class="right">Maximum height</p>
-											</td>
-											<td colspan="2">
-												<p>
-													<i>Maximum allowable height of structures. See Glossary for height measurement requirements, and Chapter</i>
-													<a class="cite" href="12" title="Ch. 12 Development Standards Modifications">12</a>
-													<i>for height limit modifications.</i>
-												</p>
-											</td>
-										</tr>
-										<tr class="center">
-											<td class="right">
-												<p>Principal 
-													<a class="def" href="28_BDefs__05ec0b13ede7597430eed00817249cf7">building</a>
-												</p>
-											</td>
-											<td>
-												<p>40 ft</p>
-											</td>
-											<td>
-												<p>40 ft</p>
-											</td>
-										</tr>
-										<tr class="center">
-											<td class="right">
-												<p>
-													<a class="def" href="28_SDefs__aa50a745100ead86d42c437f9dbcb2b0">Accessory structure</a>
-												</p>
-											</td>
-											<td>
-												<p>15 ft</p>
-											</td>
-											<td>
-												<p>15 ft</p>
-											</td>
-										</tr>
-										<tr>
-											<td>
-												<p>
-													<b>Usable open space</b>
-												</p>
-											</td>
-											<td class="center">
-												<p>NA</p>
-											</td>
-											<td class="center">
-												<p>NA</p>
-											</td>
-										</tr>
-										<tr class="bottom">
-											<td>
-												<p>
-													<b>Fencing, landscaping, and tree preservation</b>
-												</p>
-											</td>
-											<td class="center" colspan="2">
-												<p>See Chapters 
-													<a class="cite" href="13" title="Ch. 13 Placement of Fences and Walls">13</a>, 
-													<a class="cite" href="14" title="Ch. 14 Landscaping and Screening">14</a>, and 
-													<a class="cite" href="17" title="Ch. 17 Tree Preservation">17</a>
-												</p>
-											</td>
-										</tr>
-										<tr>
-											<td>
-												<p>
-													<b>Parking</b>
-												</p>
-											</td>
-											<td class="center" colspan="2">
-												<p>See Chapter 
-													<a class="cite" href="11" title="Ch. 11 Parking and Loading Facilities, Off-Street">11</a>
-												</p>
-											</td>
-										</tr>
-										<tr>
-											<td>
-												<p>
-													<b>Signs</b>
-												</p>
-											</td>
-											<td class="center" colspan="2">
-												<p>See Chapter 
-													<a class="cite" href="20" title="Ch. 20 Signs and Sign Structures">20</a>
-												</p>
-											</td>
-										</tr>
-									</tbody>
-								</table>
-							</div>
-						</figure>
+<figcaption class="from-table" style="max-width: 592px;"><p class="header"><span class="num">Table 4.12. </span><span class="name">BP and I Zone Development Standards</span></p>
+
+
+
+</figcaption><div class="table-wrap"><table class="role-medium table-dense table-extra-dense table-ruled-outside-both table-ruled-inside-both table-shaded floattable-header" style="width: 591.533px; top: 103px;" aria-hidden="true"><colgroup style=""><col style="width: 145.2px;" data-orig-width="145.2px"><col style="width: 222.667px;" data-orig-width="222.667px"><col style="width: 222.667px;" data-orig-width="222.667px">
+</colgroup><thead>
+<tr>
+<th class="left bottom" rowspan="2">
+<p>Development Feature</p>
+</th>
+<th colspan="2">
+<p>Requirement by <a class="def" href="28_ZDefs__48d2d0740cf29c7ba40bc847a746abc5">Zone</a></p>
+</th>
+</tr>
+<tr>
+<th>
+<p>BP</p>
+<p>Business <a class="def" href="28_PDefs__9accbd68a0573079ba60b84e0a6e0efa">Park</a></p>
+</th>
+<th>
+<p>I</p>
+<p>Industrial</p>
+</th>
+</tr>
+</thead></table><table class="role-medium table-dense table-extra-dense table-ruled-outside-both table-ruled-inside-both table-shaded floattable--floated" data-controller="floattable" style="width: 591.533px;"><colgroup style=""><col style="width: 145.2px;" data-orig-width="145.2px"><col style="width: 222.667px;" data-orig-width="222.667px"><col style="width: 222.667px;" data-orig-width="222.667px">
+</colgroup><thead>
+<tr>
+<th class="left bottom" rowspan="2">
+<p>Development Feature</p>
+</th>
+<th colspan="2">
+<p>Requirement by <a class="def" href="28_ZDefs__48d2d0740cf29c7ba40bc847a746abc5">Zone</a></p>
+</th>
+</tr>
+<tr>
+<th>
+<p>BP</p>
+<p>Business <a class="def" href="28_PDefs__9accbd68a0573079ba60b84e0a6e0efa">Park</a></p>
+</th>
+<th>
+<p>I</p>
+<p>Industrial</p>
+</th>
+</tr>
+</thead><tbody>
+<tr>
+<td>
+<p><b>Lot size</b></p>
+</td>
+<td colspan="2">
+<p><i>Minimum area and width required for each lot in a new subdivision</i></p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Minimum area</p>
+</td>
+<td class="center">
+<p>20,000 sf</p>
+</td>
+<td class="center">
+<p>20,000 sf</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Minimum width</p>
+<p class="right"><a class="def" href="28_LDefs__4925dd6772ae0da414b0f3acbbcdc9d9">Interior lot</a></p>
+<p class="right"><a class="def" href="28_LDefs__b5e6a271b5f2bb7876f5335d5083daa0">Corner lot</a></p>
+</td>
+<td class="center bottom">
+<p>100 ft</p>
+<p>110 ft</p>
+</td>
+<td class="center bottom">
+<p>100 ft</p>
+<p>110 ft</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Minimum depth</p>
+</td>
+<td class="center">
+<p>100 ft</p>
+</td>
+<td class="center">
+<p>100 ft</p>
+</td>
+</tr>
+<tr>
+<td>
+<p><b>Setbacks</b></p>
+<p>Primary <a class="def" href="28_SDefs__76d47cabaa0db40c595007473116cf12">structure</a></p>
+</td>
+<td colspan="2">
+<p><i>Minimum setbacks required. See Chapter</i> <a class="cite" href="12" title="Ch. 12 Development Standards Modifications">12</a> <i>for modifications, reductions, and encroachments. See Chapter</i> <a class="cite" href="7" title="Ch. 7 Standards for Specific Land Uses">7</a> <i>for any setback requirements applicable to a specific land use.</i></p>
+</td>
+</tr>
+<tr class="center">
+<td class="right">
+<p>Front</p>
+</td>
+<td>
+<p>0 ft</p>
+</td>
+<td>
+<p>0 ft</p>
+</td>
+</tr>
+<tr class="center bottom">
+<td class="right">
+<p>Side&nbsp;– Interior (each)</p>
+</td>
+<td>
+<p>0 ft</p>
+<p>Adjacent to a non-industrial or non-business <a class="def" href="28_PDefs__9accbd68a0573079ba60b84e0a6e0efa">park</a> use: 20 ft</p>
+</td>
+<td>
+<p>0 ft</p>
+<p>Adjacent to a non-industrial or non-business <a class="def" href="28_PDefs__9accbd68a0573079ba60b84e0a6e0efa">park</a> use: 20 ft</p>
+</td>
+</tr>
+<tr class="center">
+<td class="right">
+<p>Side&nbsp;– <a class="def" href="28_SDefs__961ea070733330b639def887d516a84d">Street</a> side</p>
+</td>
+<td>
+<p>0 ft</p>
+</td>
+<td>
+<p>0 ft</p>
+</td>
+</tr>
+<tr class="center bottom">
+<td class="right">
+<p>Rear</p>
+</td>
+<td>
+<p>0 ft</p>
+<p>Adjacent to a non-industrial or non-business <a class="def" href="28_PDefs__9accbd68a0573079ba60b84e0a6e0efa">park</a> use: 20 ft</p>
+</td>
+<td>
+<p>0 ft</p>
+<p>Adjacent to a non-industrial or non-business <a class="def" href="28_PDefs__9accbd68a0573079ba60b84e0a6e0efa">park</a> use: 20 ft</p>
+</td>
+</tr>
+<tr class="center">
+<td class="right">
+<p><a class="def" href="28_GDefs__3c62b0d90b38d293d82e4523d45bd62a">Garage</a> front</p>
+</td>
+<td>
+<p>NA</p>
+</td>
+<td>
+<p>NA</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Detached <a class="def" href="28_SDefs__aa50a745100ead86d42c437f9dbcb2b0">accessory structure</a></p>
+</td>
+<td colspan="2"></td>
+</tr>
+<tr class="center">
+<td class="right">
+<p>Front</p>
+</td>
+<td>
+<p>Not Permitted</p>
+</td>
+<td>
+<p>Not Permitted</p>
+</td>
+</tr>
+<tr class="center">
+<td class="right">
+<p>Side&nbsp;– Interior (each)</p>
+</td>
+<td>
+<p>4 ft</p>
+</td>
+<td>
+<p>4 ft</p>
+</td>
+</tr>
+<tr class="center">
+<td class="right">
+<p>Side&nbsp;– <a class="def" href="28_SDefs__961ea070733330b639def887d516a84d">Street</a></p>
+</td>
+<td>
+<p>10 ft</p>
+</td>
+<td>
+<p>10 ft</p>
+</td>
+</tr>
+<tr class="center">
+<td class="right">
+<p>Rear</p>
+</td>
+<td>
+<p>5 ft</p>
+</td>
+<td>
+<p>5 ft</p>
+</td>
+</tr>
+<tr>
+<td>
+<p><b>Site coverage</b></p>
+</td>
+<td colspan="2">
+<p><i><b>Floor Area Ratio.</b></i><i> The gross floor area of all buildings on a lot divided by the building site area.</i></p>
+</td>
+</tr>
+<tr class="center bottom">
+<td>
+<p>Maximum <a class="def" href="28_CDefs__6b66345483bd6811ba8c0e84bcd51987">Coverage</a></p>
+<p class="right"><a class="def" href="28_FDefs__27028361be1b0f95686c679bc594eba6">Floor Area Ratio</a></p>
+</td>
+<td>
+<p>1.5</p>
+</td>
+<td>
+<p>0.6</p>
+</td>
+</tr>
+<tr>
+<td>
+<p><b>Height limit</b></p>
+<p class="right">Maximum height</p>
+</td>
+<td colspan="2">
+<p><i>Maximum allowable height of structures. See Glossary for height measurement requirements, and Chapter</i> <a class="cite" href="12" title="Ch. 12 Development Standards Modifications">12</a> <i>for height limit modifications.</i></p>
+</td>
+</tr>
+<tr class="center">
+<td class="right">
+<p>Principal <a class="def" href="28_BDefs__05ec0b13ede7597430eed00817249cf7">building</a></p>
+</td>
+<td>
+<p>40 ft</p>
+</td>
+<td>
+<p>40 ft</p>
+</td>
+</tr>
+<tr class="center">
+<td class="right">
+<p><a class="def" href="28_SDefs__aa50a745100ead86d42c437f9dbcb2b0">Accessory structure</a></p>
+</td>
+<td>
+<p>15 ft</p>
+</td>
+<td>
+<p>15 ft</p>
+</td>
+</tr>
+<tr>
+<td>
+<p><b>Usable open space</b></p>
+</td>
+<td class="center">
+<p>NA</p>
+</td>
+<td class="center">
+<p>NA</p>
+</td>
+</tr>
+<tr class="bottom">
+<td>
+<p><b>Fencing, landscaping, and tree preservation</b></p>
+</td>
+<td class="center" colspan="2">
+<p>See Chapters <a class="cite" href="13" title="Ch. 13 Placement of Fences and Walls">13</a>, <a class="cite" href="14" title="Ch. 14 Landscaping and Screening">14</a>, and <a class="cite" href="17" title="Ch. 17 Tree Preservation">17</a></p>
+</td>
+</tr>
+<tr>
+<td>
+<p><b>Parking</b></p>
+</td>
+<td class="center" colspan="2">
+<p>See Chapter <a class="cite" href="11" title="Ch. 11 Parking and Loading Facilities, Off-Street">11</a></p>
+</td>
+</tr>
+<tr>
+<td>
+<p><b>Signs</b></p>
+</td>
+<td class="center" colspan="2">
+<p>See Chapter <a class="cite" href="20" title="Ch. 20 Signs and Sign Structures">20</a></p>
+</td>
+</tr>
+</tbody></table></div>
+</figure>	

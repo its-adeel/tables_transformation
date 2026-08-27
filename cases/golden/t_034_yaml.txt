@@ -1,0 +1,149 @@
+Core Sub-district Street Design Standards:
+  Street Types →:
+    ROW* (min—max):
+      Arterial: 74'—106'
+      Collector (Divided): 84'—118'
+      Collector (Undivided): 52'—93'
+      Local Street/ Private Vehicular Route > Commercial: 52'—86'
+      Local Street/ Private Vehicular Route > Residential: 52'—58'
+      Alley > Commercial: 32'
+      Alley > Residential: 18'—58'
+    Design Speed:
+      Arterial: 45 MPH
+      Collector (Divided): 35—45 MPH
+      Collector (Undivided): 25—35 MPH
+      Local Street/ Private Vehicular Route > Commercial: 25 MPH
+      Local Street/ Private Vehicular Route > Residential: 25 MPH
+      Alley > Commercial: <20 MPH
+      Alley > Residential: <20 MPH
+    Travel Zone:
+      Number of Lanes (min—max):
+        Arterial: 4—6
+        Collector (Divided): '4'
+        Collector (Undivided): 2—3
+        Local Street/ Private Vehicular Route > Commercial: '2'
+        Local Street/ Private Vehicular Route > Residential: '2'
+        Alley > Commercial: '2'
+        Alley > Residential: 1 Yield
+      Lane Widths** (min—max):
+        Arterial: 11'
+        Collector (Divided): 10'—11'
+        Collector (Undivided): 10'—11'
+        Local Street/ Private Vehicular Route > Commercial: 10'—11'
+        Local Street/ Private Vehicular Route > Residential: 10'—11'
+        Alley > Commercial: 11'
+        Alley > Residential: Yield# (12'—15')
+      Median Required (Y/N; min—max):
+        Arterial: Y(14'—16')
+        Collector (Divided): Y(12'—14')
+        Collector (Undivided): N
+        Local Street/ Private Vehicular Route > Commercial: N
+        Local Street/ Private Vehicular Route > Residential: N
+        Alley > Commercial: N
+        Alley > Residential: N
+      On Street Parking Permitted (Y/N):
+        Arterial: N
+        Collector (Divided): Y
+        Collector (Undivided): Y
+        Local Street/ Private Vehicular Route > Commercial: Y
+        Local Street/ Private Vehicular Route > Residential: Y
+        Alley > Commercial: N
+        Alley > Residential: Y
+      On-Street Parking Required (Y/N):
+        Arterial: N
+        Collector (Divided): Y
+        Collector (Undivided): Y
+        Local Street/ Private Vehicular Route > Commercial: Y
+        Local Street/ Private Vehicular Route > Residential: Y
+        Alley > Commercial: N
+        Alley > Residential: N
+      Allowable Parking Design and Min. Width - Parallel (8' min.):
+        Arterial: —
+        Collector (Divided): Y
+        Collector (Undivided): Y
+        Local Street/ Private Vehicular Route > Commercial: Y
+        Local Street/ Private Vehicular Route > Residential: Y
+        Alley > Commercial: —
+        Alley > Residential: -Y
+      Allowable Parking Design and Min. Width - Angled (60 degree, 18'):
+        Arterial: —
+        Collector (Divided): Y
+        Collector (Undivided): Y
+        Local Street/ Private Vehicular Route > Commercial: Y
+        Local Street/ Private Vehicular Route > Residential: N
+        Alley > Commercial: —
+        Alley > Residential: -Y
+      Allowable Parking Design and Min. Width - Head-in (20' min.):
+        Arterial: —
+        Collector (Divided): N
+        Collector (Undivided): N
+        Local Street/ Private Vehicular Route > Commercial: Y ∈
+        Local Street/ Private Vehicular Route > Residential: N
+        Alley > Commercial: —
+        Alley > Residential: -Y
+      On-Street Bike Lane*** Permitted (Y/N):
+        Arterial: -N
+        Collector (Divided): Y
+        Collector (Undivided): Y
+        Local Street/ Private Vehicular Route > Commercial: Y
+        Local Street/ Private Vehicular Route > Residential: -N
+        Alley > Commercial: -N
+        Alley > Residential: -N
+    Streetscape Zone: {}
+    Total Streetscape Zone:
+      Primary Pedestrian Street:
+        Arterial: 12' (min.)
+        Collector (Divided): 12' (min.)
+        Collector (Undivided): 12' (min.)
+        Local Street/ Private Vehicular Route > Commercial: 12' (min.)
+        Local Street/ Private Vehicular Route > Residential: 10' (min.)
+        Alley > Commercial: NA
+        Alley > Residential: NA
+      All other Streets:
+        Arterial: 8' (min.)
+        Collector (Divided): 8' (min.)
+        Collector (Undivided): 8' (min.)
+        Local Street/ Private Vehicular Route > Commercial: 8' (min.)
+        Local Street/ Private Vehicular Route > Residential: 8' (min.)
+        Alley > Commercial: NA
+        Alley > Residential: NA
+    Amenity Zone:
+      Primary Pedestrian Street:
+        Arterial: 6' (min.)
+        Collector (Divided): 6' (min.)
+        Collector (Undivided): 6' (min.)
+        Local Street/ Private Vehicular Route > Commercial: 6' (min.)
+        Local Street/ Private Vehicular Route > Residential: 4' (min.)
+        Alley > Commercial: NA
+        Alley > Residential: NA
+      All other Streets:
+        Arterial: 4' (min.)
+        Collector (Divided): 4' (min.)
+        Collector (Undivided): 4' (min.)
+        Local Street/ Private Vehicular Route > Commercial: 4' (min.)
+        Local Street/ Private Vehicular Route > Residential: 4' (min.)
+        Alley > Commercial: NA
+        Alley > Residential: NA
+    Sidewalk (clear width) μ:
+      Primary Pedestrian Street:
+        Arterial: 6' (min.)
+        Collector (Divided): 6' (min.)
+        Collector (Undivided): 6' (min.)
+        Local Street/ Private Vehicular Route > Commercial: 6' (min.)
+        Local Street/ Private Vehicular Route > Residential: 6' (min.)
+        Alley > Commercial: NA
+        Alley > Residential: NA
+      All other Streets:
+        Arterial: 4' (min.)
+        Collector (Divided): 4' (min.)
+        Collector (Undivided): 4' (min.)
+        Local Street/ Private Vehicular Route > Commercial: 4' (min.)
+        Local Street/ Private Vehicular Route > Residential: 4' (min.)
+        Alley > Commercial: NA
+        Alley > Residential: NA
+    '* Standard ranges for width provided. Min. ROW widths may vary based on the Streetscape Zone. ROW widths for dedication along existing Streets shall be based on the City''s adopted Thoroughfare Plan and LDR.': {}
+    '** Total pavement widths shall be sufficient for fire access.': {}
+    '# Unless alley acts as a fire lane, then fire lane standards shall apply': {}
+    ∈ Lawn than 6,000 cars/day and non Primary Pedestrian frontage: {}
+    '*** Shall be based on way adopted bike plans': {}
+    μ Any enhanced sidewalks shall meet the City's adopted Trail Plan standards: {}
