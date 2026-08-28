@@ -634,6 +634,16 @@ def _defines_codes_used_in_body(texts, data_rows) -> bool:
     return any(code in body_values for code in defined_codes)
 
 
+def _row_label_indent(row: dict, label_cols: list) -> int:
+    """How far this row's label sits from the margin (0 when unindented)."""
+    best = 0
+    for c in label_cols:
+        cell = row.get(c)
+        if cell and len(cell) > 4 and cell[0].strip():
+            best = max(best, cell[4])
+    return best
+
+
 def _legend_row_indices(header_rows: list, data_rows: list) -> tuple:
     """
     Which header rows are LEGEND rows written as a two-cell grid?
@@ -1286,6 +1296,10 @@ def build_matrix_yaml(data_rows: list, header_paths: dict, total_cols: int) -> d
     # table's norm", however many of them happen to exist.
     total_blocks = len(block_rows)
 
+    # Columns that ever act as a LABEL segment somewhere in this table
+    # (filled in as each block's depth is decided, just below).
+    absorbed_label_cols = set()
+
     depth_by_block = {}
     for block_id, rows_with_idx in block_rows.items():
         depth = 0
@@ -1396,6 +1410,8 @@ def build_matrix_yaml(data_rows: list, header_paths: dict, total_cols: int) -> d
             else:
                 break
         depth_by_block[block_id] = depth
+        for _, seg_cols in groups[1:1 + depth]:
+            absorbed_label_cols.update(seg_cols)
 
     # --- Count how many rows share each row's LEAF label span ---
     #
@@ -1744,14 +1760,19 @@ def build_matrix_yaml(data_rows: list, header_paths: dict, total_cols: int) -> d
         # PATH (Freestanding parcel → Each additional 400 feet...), not
         # a single concatenated name.
         label_segments = [list(base_label_cols)]
+        # The column header behind each segment. The base label's own
+        # header already names the level above (it becomes the wrapper
+        # key), so only ABSORBED segments need one recorded here.
+        segment_headers = [""]
         label_group_cols = list(base_label_cols)
         value_groups = list(groups[1:])
         for _ in range(depth):
             if not value_groups:
                 break
-            _, absorbed_cols = value_groups.pop(0)
+            absorbed_header, absorbed_cols = value_groups.pop(0)
             label_group_cols = label_group_cols + absorbed_cols
             label_segments.append(absorbed_cols)
+            segment_headers.append(absorbed_header)
 
         # Collect this row's label text (only the non-blank pieces).
         label_vals_all = [row.get(c, ("", False))[0].strip() for c in label_group_cols]
@@ -1866,11 +1887,35 @@ def build_matrix_yaml(data_rows: list, header_paths: dict, total_cols: int) -> d
         # last as nesting, landing on the dict this whole block's
         # sibling rows share (the leaf segment then becomes that row's
         # own KEY within it, same as always).
+        # An indented row belongs inside whatever indent-subsection is
+        # currently open ("Commercial uses:"), so that is where its own
+        # absorbed nesting hangs from. Rooting it at section_node instead
+        # would strand the whole block outside the subsection it visibly
+        # sits under, leaving that subsection empty. Rows at the margin
+        # keep using the section itself, which is what closes a
+        # subsection when the table dips back to zero indent.
         block_parent = section_node
+        if (
+            indent_hierarchy_enabled
+            and active_subsection is not None
+            and _row_label_indent(row, base_label_cols) > 0
+        ):
+            block_parent = active_subsection
         for seg_text in segment_texts[:-1]:
             if seg_text:
                 block_parent = _get_or_create_child(block_parent, seg_text)
         leaf_text = segment_texts[-1] if segment_texts else ""
+        # An absorbed column becomes a KEY, which drops the name of the
+        # column it came from: "0 - 29,999 sq. ft." alone doesn't say it
+        # is a Size, and the reader has to infer that from position.
+        # Qualifying the key with its header — "Size > 0 - 29,999 sq.
+        # ft." — restores that, using the same " > " convention already
+        # used for value-column paths. Only the LEAF is qualified: the
+        # segments above it are nesting levels whose own header is the
+        # wrapper key they sit under.
+        leaf_header = segment_headers[-1] if segment_headers else ""
+        if leaf_text and leaf_header:
+            leaf_text = f"{leaf_header} > {leaf_text}"
         # How many OTHER rows share this exact LEAF-level label span (see
         # leaf_block_size above) — used below to tell a genuinely
         # shared, undifferentiated label ("External buffer" rowspan
@@ -2228,7 +2273,24 @@ def build_matrix_yaml(data_rows: list, header_paths: dict, total_cols: int) -> d
             row_counter += 1
             key = f"Row {row_counter}"
         else:
-            target_node = active_subsection if indent_hierarchy_enabled and row_indent > 0 and active_subsection is not None else block_parent
+            # Indentation is a FALLBACK nesting signal, for rows whose
+            # only clue about where they belong is how far they sit from
+            # the margin. When this row's own block already absorbed a
+            # label segment (depth > 0), that block has stated its
+            # parentage explicitly — "Automotive uses" owning its size
+            # bands — and that explicit structure must win. Letting the
+            # indent override it drops the block's own level entirely:
+            # the size rows land directly in the section, the category
+            # is left behind as an empty key, and identical size bands
+            # from two different categories then collide on the same
+            # key and merge their values into one list.
+            use_indent_parent = (
+                indent_hierarchy_enabled
+                and row_indent > 0
+                and active_subsection is not None
+                and depth == 0
+            )
+            target_node = active_subsection if use_indent_parent else block_parent
             row_counter += 1
             key = leaf_text or f"Row {row_counter}"
         if key in target_node:

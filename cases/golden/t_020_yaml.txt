@@ -1,44 +1,44 @@
 SIGNAGE ALLOWED BY ROAD FRONTAGE:
   TYPE OF PROPERTY:
     Freestanding parcel:
-      Less than 200 feet:
+      LENGTH OF FRONTAGE > Less than 200 feet:
         NUMBER 2: '1'
         TYPE: Ground Sign
         HEIGHT: 8 feet
         SIGN AREA 1, 3: ½ sq. ft. for each linear ft. of frontage
-      200—399 feet:
+      LENGTH OF FRONTAGE > 200—399 feet:
         NUMBER 2: '1'
         TYPE: Freestanding
         HEIGHT: 25 feet
         SIGN AREA 1, 3: ½ sq. ft. for each linear ft. of frontage
-      200—399 feet (3):
+      LENGTH OF FRONTAGE > 200—399 feet (3):
         NUMBER 2: '1'
         TYPE: Freestanding
         HEIGHT: 25 feet
         SIGN AREA 1, 3: ½ sq. ft. for each linear ft. of frontage
-      More than 400 feet or portion thereof up to 799 feet:
+      LENGTH OF FRONTAGE > More than 400 feet or portion thereof up to 799 feet:
         NUMBER 2: '1'
         TYPE: Freestanding "primary"
         HEIGHT: 35 feet
         SIGN AREA 1, 3: ½ sq. ft. for each linear ft. of frontage up to 400 feet plus 1 sq. ft. for each linear ft. of frontage over 400 feet.
-      Each additional 400 feet of frontage:
+      LENGTH OF FRONTAGE > Each additional 400 feet of frontage:
         NUMBER 2: '1'
         TYPE: Freestanding "secondary"
         HEIGHT: 25 feet
         SIGN AREA 1, 3: ½ sq. ft. for each linear ft. of frontage up to 400 feet plus 1 sq. ft. for each linear ft. of frontage over 400 feet.
     Commercial Subdivision Development:
-      < 400 feet:
+      LENGTH OF FRONTAGE > < 400 feet:
         NUMBER 2: '1'
         TYPE: Freestanding "primary"
         HEIGHT: 35 feet
         SIGN AREA 1, 3: ½ sq. ft. for each linear ft. of frontage up to 400 feet plus 1 sq. ft. for each linear ft. of frontage over 400 feet.
-      ≥400 feet:
+      LENGTH OF FRONTAGE > ≥400 feet:
         NUMBER 2: '1'
         TYPE: Freestanding "secondary"
         HEIGHT: 25 feet
         SIGN AREA 1, 3: ½ sq. ft. for each linear ft. of frontage up to 400 feet plus 1 sq. ft. for each linear ft. of frontage over 400 feet.
     Out-parcel of a commercial subdivision development:
-      Less than 400 feet 4:
+      LENGTH OF FRONTAGE > Less than 400 feet 4:
         NUMBER 2: '1'
         TYPE: Ground Sign
         HEIGHT: 8 feet

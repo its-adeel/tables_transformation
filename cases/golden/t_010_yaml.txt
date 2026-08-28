@@ -1,7 +1,7 @@
 Table 2-1 DIMENSIONAL AND DENSITY STANDARDS:
   Zoning District:
     SF6 - Single Family:
-      Single Family:
+      Uses > Single Family:
         Minimum Required Area: 6,000 SF
         Front Setback: 20'
         Side Setback: 7.5'
@@ -14,7 +14,7 @@ Table 2-1 DIMENSIONAL AND DENSITY STANDARDS:
         Maximum Lot Coverage: ''
         Minimum Building Separation: ''
         Maximum bldg. Sq. Ft.: ''
-      Semi-Detached:
+      Uses > Semi-Detached:
         Minimum Required Area: 4,000 SF per d/u
         Front Setback: 20'
         Side Setback: 7.5'
@@ -27,7 +27,7 @@ Table 2-1 DIMENSIONAL AND DENSITY STANDARDS:
         Maximum Lot Coverage: ''
         Minimum Building Separation: ''
         Maximum bldg. Sq. Ft.: ''
-      Duplex:
+      Uses > Duplex:
         Minimum Required Area: 8,000 SF
         Front Setback: 20'
         Side Setback: 7.5'
@@ -40,7 +40,7 @@ Table 2-1 DIMENSIONAL AND DENSITY STANDARDS:
         Maximum Lot Coverage: ''
         Minimum Building Separation: ''
         Maximum bldg. Sq. Ft.: ''
-      Garden City Overlay:
+      Uses > Garden City Overlay:
         Minimum Required Area: ''
         Front Setback: 20'
         Side Setback: 7.5'
@@ -53,7 +53,7 @@ Table 2-1 DIMENSIONAL AND DENSITY STANDARDS:
         Maximum Lot Coverage: ''
         Minimum Building Separation: ''
         Maximum bldg. Sq. Ft.: ''
-      Garden City Overlay Single Family (Lots which allow a height of 55' or greater):
+      Uses > Garden City Overlay Single Family (Lots which allow a height of 55' or greater):
         Minimum Required Area: 3,600 SF
         Front Setback: 20'
         Side Setback: 5'
@@ -66,7 +66,7 @@ Table 2-1 DIMENSIONAL AND DENSITY STANDARDS:
         Maximum Lot Coverage: ''
         Minimum Building Separation: ''
         Maximum bldg. Sq. Ft.: ''
-      Ag Bldg, Horses Only:
+      Uses > Ag Bldg, Horses Only:
         Minimum Required Area: 3 acres
         Front Setback: 60'
         Side Setback: 25'
@@ -79,7 +79,7 @@ Table 2-1 DIMENSIONAL AND DENSITY STANDARDS:
         Maximum Lot Coverage: ''
         Minimum Building Separation: ''
         Maximum bldg. Sq. Ft.: ''
-      Commercial Horse Facility:
+      Uses > Commercial Horse Facility:
         Minimum Required Area: 10 acres
         Front Setback: 60'
         Side Setback: 25'
@@ -93,7 +93,7 @@ Table 2-1 DIMENSIONAL AND DENSITY STANDARDS:
         Minimum Building Separation: ''
         Maximum bldg. Sq. Ft.: ''
     MSF6 - Manufactured Single Family:
-      Single Family Manufactured Home:
+      Uses > Single Family Manufactured Home:
         Minimum Required Area: 6,000 SF
         Front Setback: 20'
         Side Setback: 7.5'
@@ -106,7 +106,7 @@ Table 2-1 DIMENSIONAL AND DENSITY STANDARDS:
         Maximum Lot Coverage: ''
         Minimum Building Separation: ''
         Maximum bldg. Sq. Ft.: ''
-      Semi-Detached:
+      Uses > Semi-Detached:
         Minimum Required Area: 4,000 SF per d/u
         Front Setback: 20'
         Side Setback: 7.5'
@@ -119,7 +119,7 @@ Table 2-1 DIMENSIONAL AND DENSITY STANDARDS:
         Maximum Lot Coverage: ''
         Minimum Building Separation: ''
         Maximum bldg. Sq. Ft.: ''
-      Duplex:
+      Uses > Duplex:
         Minimum Required Area: 8,000 SF
         Front Setback: 20'
         Side Setback: 7.5'
@@ -132,7 +132,7 @@ Table 2-1 DIMENSIONAL AND DENSITY STANDARDS:
         Maximum Lot Coverage: ''
         Minimum Building Separation: ''
         Maximum bldg. Sq. Ft.: ''
-      Garden City Overlay Single Family (Lots which allow a height of 55' or greater):
+      Uses > Garden City Overlay Single Family (Lots which allow a height of 55' or greater):
         Minimum Required Area: 3,600 SF
         Front Setback: 20'
         Side Setback: 5'
@@ -145,7 +145,7 @@ Table 2-1 DIMENSIONAL AND DENSITY STANDARDS:
         Maximum Lot Coverage: ''
         Minimum Building Separation: ''
         Maximum bldg. Sq. Ft.: ''
-      Ag Bldg, Horses Only:
+      Uses > Ag Bldg, Horses Only:
         Minimum Required Area: 3 acres
         Front Setback: 60'
         Side Setback: 25'
@@ -158,7 +158,7 @@ Table 2-1 DIMENSIONAL AND DENSITY STANDARDS:
         Maximum Lot Coverage: ''
         Minimum Building Separation: ''
         Maximum bldg. Sq. Ft.: ''
-      Commercial Horse Facility:
+      Uses > Commercial Horse Facility:
         Minimum Required Area: 10 acres
         Front Setback: 60'
         Side Setback: 25'
@@ -172,7 +172,7 @@ Table 2-1 DIMENSIONAL AND DENSITY STANDARDS:
         Minimum Building Separation: ''
         Maximum bldg. Sq. Ft.: ''
     SF7 - Single Family:
-      Single Family:
+      Uses > Single Family:
         Minimum Required Area: 7,000 SF
         Front Setback: 25'
         Side Setback: 10'
@@ -185,7 +185,7 @@ Table 2-1 DIMENSIONAL AND DENSITY STANDARDS:
         Maximum Lot Coverage: ''
         Minimum Building Separation: ''
         Maximum bldg. Sq. Ft.: ''
-      Ag Bldg, Horses Only:
+      Uses > Ag Bldg, Horses Only:
         Minimum Required Area: 3 acres
         Front Setback: 60'
         Side Setback: 25'
@@ -198,7 +198,7 @@ Table 2-1 DIMENSIONAL AND DENSITY STANDARDS:
         Maximum Lot Coverage: ''
         Minimum Building Separation: ''
         Maximum bldg. Sq. Ft.: ''
-      Commercial Horse Facility:
+      Uses > Commercial Horse Facility:
         Minimum Required Area: 10 acres
         Front Setback: 60'
         Side Setback: 25'
@@ -212,7 +212,7 @@ Table 2-1 DIMENSIONAL AND DENSITY STANDARDS:
         Minimum Building Separation: ''
         Maximum bldg. Sq. Ft.: ''
     MSF7 - Manufactured Single Family:
-      Single Family Manufactured Home:
+      Uses > Single Family Manufactured Home:
         Minimum Required Area: 7,000 SF
         Front Setback: 25'
         Side Setback: 10'
@@ -225,7 +225,7 @@ Table 2-1 DIMENSIONAL AND DENSITY STANDARDS:
         Maximum Lot Coverage: ''
         Minimum Building Separation: ''
         Maximum bldg. Sq. Ft.: ''
-      Ag Bldg, Horses Only:
+      Uses > Ag Bldg, Horses Only:
         Minimum Required Area: 3 acres
         Front Setback: 60'
         Side Setback: 25'
@@ -238,7 +238,7 @@ Table 2-1 DIMENSIONAL AND DENSITY STANDARDS:
         Maximum Lot Coverage: ''
         Minimum Building Separation: ''
         Maximum bldg. Sq. Ft.: ''
-      Commercial Horse Facility:
+      Uses > Commercial Horse Facility:
         Minimum Required Area: 10 acres
         Front Setback: 60'
         Side Setback: 25'
@@ -252,7 +252,7 @@ Table 2-1 DIMENSIONAL AND DENSITY STANDARDS:
         Minimum Building Separation: ''
         Maximum bldg. Sq. Ft.: ''
     SF8.5 - Single Family:
-      Single Family:
+      Uses > Single Family:
         Minimum Required Area: 8,500 SF
         Front Setback: 25'
         Side Setback: 10'
@@ -265,7 +265,7 @@ Table 2-1 DIMENSIONAL AND DENSITY STANDARDS:
         Maximum Lot Coverage: ''
         Minimum Building Separation: ''
         Maximum bldg. Sq. Ft.: ''
-      Ag Bldg, Horses Only:
+      Uses > Ag Bldg, Horses Only:
         Minimum Required Area: 3 acres
         Front Setback: 60'
         Side Setback: 25'
@@ -278,7 +278,7 @@ Table 2-1 DIMENSIONAL AND DENSITY STANDARDS:
         Maximum Lot Coverage: ''
         Minimum Building Separation: ''
         Maximum bldg. Sq. Ft.: ''
-      Commercial Horse Facility:
+      Uses > Commercial Horse Facility:
         Minimum Required Area: 10 acres
         Front Setback: 60'
         Side Setback: 25'
@@ -292,7 +292,7 @@ Table 2-1 DIMENSIONAL AND DENSITY STANDARDS:
         Minimum Building Separation: ''
         Maximum bldg. Sq. Ft.: ''
     MSF8.5 - Manufactured Single Family:
-      Single Family Manufactured Home:
+      Uses > Single Family Manufactured Home:
         Minimum Required Area: 8,500 SF
         Front Setback: 25'
         Side Setback: 10'
@@ -305,7 +305,7 @@ Table 2-1 DIMENSIONAL AND DENSITY STANDARDS:
         Maximum Lot Coverage: ''
         Minimum Building Separation: ''
         Maximum bldg. Sq. Ft.: ''
-      Ag Bldg, Horses Only:
+      Uses > Ag Bldg, Horses Only:
         Minimum Required Area: 3 acres
         Front Setback: 60'
         Side Setback: 25'
@@ -318,7 +318,7 @@ Table 2-1 DIMENSIONAL AND DENSITY STANDARDS:
         Maximum Lot Coverage: ''
         Minimum Building Separation: ''
         Maximum bldg. Sq. Ft.: ''
-      Commercial Horse Facility:
+      Uses > Commercial Horse Facility:
         Minimum Required Area: 10 acres
         Front Setback: 60'
         Side Setback: 25'
@@ -332,7 +332,7 @@ Table 2-1 DIMENSIONAL AND DENSITY STANDARDS:
         Minimum Building Separation: ''
         Maximum bldg. Sq. Ft.: ''
     SF10 - Single Family:
-      Single Family:
+      Uses > Single Family:
         Minimum Required Area: 10,000 SF
         Front Setback: 25'
         Side Setback: 10'
@@ -345,7 +345,7 @@ Table 2-1 DIMENSIONAL AND DENSITY STANDARDS:
         Maximum Lot Coverage: ''
         Minimum Building Separation: ''
         Maximum bldg. Sq. Ft.: ''
-      Ag Bldg, Horses Only:
+      Uses > Ag Bldg, Horses Only:
         Minimum Required Area: 3 acres
         Front Setback: 60'
         Side Setback: 25'
@@ -358,7 +358,7 @@ Table 2-1 DIMENSIONAL AND DENSITY STANDARDS:
         Maximum Lot Coverage: ''
         Minimum Building Separation: ''
         Maximum bldg. Sq. Ft.: ''
-      Commercial Horse Facility:
+      Uses > Commercial Horse Facility:
         Minimum Required Area: 10 acres
         Front Setback: 60'
         Side Setback: 25'
@@ -372,7 +372,7 @@ Table 2-1 DIMENSIONAL AND DENSITY STANDARDS:
         Minimum Building Separation: ''
         Maximum bldg. Sq. Ft.: ''
     MSF10 - Manufactured Single Family:
-      Single Family Manufactured Home:
+      Uses > Single Family Manufactured Home:
         Minimum Required Area: 10,000 SF
         Front Setback: 25'
         Side Setback: 10'
@@ -385,7 +385,7 @@ Table 2-1 DIMENSIONAL AND DENSITY STANDARDS:
         Maximum Lot Coverage: ''
         Minimum Building Separation: ''
         Maximum bldg. Sq. Ft.: ''
-      Ag Bldg, Horses Only:
+      Uses > Ag Bldg, Horses Only:
         Minimum Required Area: 3 acres
         Front Setback: 60'
         Side Setback: 25'
@@ -398,7 +398,7 @@ Table 2-1 DIMENSIONAL AND DENSITY STANDARDS:
         Maximum Lot Coverage: ''
         Minimum Building Separation: ''
         Maximum bldg. Sq. Ft.: ''
-      Commercial Horse Facility:
+      Uses > Commercial Horse Facility:
         Minimum Required Area: 10 acres
         Front Setback: 60'
         Side Setback: 25'
@@ -412,7 +412,7 @@ Table 2-1 DIMENSIONAL AND DENSITY STANDARDS:
         Minimum Building Separation: ''
         Maximum bldg. Sq. Ft.: ''
     SF14.5 - Single Family:
-      Single Family:
+      Uses > Single Family:
         Minimum Required Area: 14,500 SF
         Front Setback: 25'
         Side Setback: 10'
@@ -425,7 +425,7 @@ Table 2-1 DIMENSIONAL AND DENSITY STANDARDS:
         Maximum Lot Coverage: ''
         Minimum Building Separation: ''
         Maximum bldg. Sq. Ft.: ''
-      Ag Bldg, Horses Only:
+      Uses > Ag Bldg, Horses Only:
         Minimum Required Area: 3 acres
         Front Setback: 60'
         Side Setback: 25'
@@ -438,7 +438,7 @@ Table 2-1 DIMENSIONAL AND DENSITY STANDARDS:
         Maximum Lot Coverage: ''
         Minimum Building Separation: ''
         Maximum bldg. Sq. Ft.: ''
-      Commercial Horse Facility:
+      Uses > Commercial Horse Facility:
         Minimum Required Area: 10 acres
         Front Setback: 60'
         Side Setback: 25'
@@ -452,7 +452,7 @@ Table 2-1 DIMENSIONAL AND DENSITY STANDARDS:
         Minimum Building Separation: ''
         Maximum bldg. Sq. Ft.: ''
     MSF 14.5 - Manufactured Single Family:
-      Single Family Manufactured Home:
+      Uses > Single Family Manufactured Home:
         Minimum Required Area: 14,500 SF
         Front Setback: 25'
         Side Setback: 10'
@@ -465,7 +465,7 @@ Table 2-1 DIMENSIONAL AND DENSITY STANDARDS:
         Maximum Lot Coverage: ''
         Minimum Building Separation: ''
         Maximum bldg. Sq. Ft.: ''
-      Ag Bldg, Horses Only:
+      Uses > Ag Bldg, Horses Only:
         Minimum Required Area: 3 acres
         Front Setback: 60'
         Side Setback: 25'
@@ -478,7 +478,7 @@ Table 2-1 DIMENSIONAL AND DENSITY STANDARDS:
         Maximum Lot Coverage: ''
         Minimum Building Separation: ''
         Maximum bldg. Sq. Ft.: ''
-      Commercial Horse Facility:
+      Uses > Commercial Horse Facility:
         Minimum Required Area: 10 acres
         Front Setback: 60'
         Side Setback: 25'
@@ -492,7 +492,7 @@ Table 2-1 DIMENSIONAL AND DENSITY STANDARDS:
         Minimum Building Separation: ''
         Maximum bldg. Sq. Ft.: ''
     SF20 - Single Family:
-      Single Family:
+      Uses > Single Family:
         Minimum Required Area: 20,000 SF
         Front Setback: 40'
         Side Setback: 15'
@@ -505,7 +505,7 @@ Table 2-1 DIMENSIONAL AND DENSITY STANDARDS:
         Maximum Lot Coverage: ''
         Minimum Building Separation: ''
         Maximum bldg. Sq. Ft.: ''
-      Ag Bldg, Horses Only:
+      Uses > Ag Bldg, Horses Only:
         Minimum Required Area: 3 acres
         Front Setback: 60'
         Side Setback: 25'
@@ -518,7 +518,7 @@ Table 2-1 DIMENSIONAL AND DENSITY STANDARDS:
         Maximum Lot Coverage: ''
         Minimum Building Separation: ''
         Maximum bldg. Sq. Ft.: ''
-      Commercial Horse Facility:
+      Uses > Commercial Horse Facility:
         Minimum Required Area: 10 acres
         Front Setback: 60'
         Side Setback: 25'
@@ -532,7 +532,7 @@ Table 2-1 DIMENSIONAL AND DENSITY STANDARDS:
         Minimum Building Separation: ''
         Maximum bldg. Sq. Ft.: ''
     MSF20 - Manufactured Single Family:
-      Single Family Manufactured Home:
+      Uses > Single Family Manufactured Home:
         Minimum Required Area: 20,000 SF
         Front Setback: 40'
         Side Setback: 15'
@@ -545,7 +545,7 @@ Table 2-1 DIMENSIONAL AND DENSITY STANDARDS:
         Maximum Lot Coverage: ''
         Minimum Building Separation: ''
         Maximum bldg. Sq. Ft.: ''
-      Ag Bldg, Horses Only:
+      Uses > Ag Bldg, Horses Only:
         Minimum Required Area: 3 acres
         Front Setback: 60'
         Side Setback: 25'
@@ -558,7 +558,7 @@ Table 2-1 DIMENSIONAL AND DENSITY STANDARDS:
         Maximum Lot Coverage: ''
         Minimum Building Separation: ''
         Maximum bldg. Sq. Ft.: ''
-      Commercial Horse Facility:
+      Uses > Commercial Horse Facility:
         Minimum Required Area: 10 acres
         Front Setback: 60'
         Side Setback: 25'
@@ -572,7 +572,7 @@ Table 2-1 DIMENSIONAL AND DENSITY STANDARDS:
         Minimum Building Separation: ''
         Maximum bldg. Sq. Ft.: ''
     SF40 - Single Family:
-      Single Family:
+      Uses > Single Family:
         Minimum Required Area: 40,000 SF
         Front Setback: 50'
         Side Setback: 20'
@@ -585,7 +585,7 @@ Table 2-1 DIMENSIONAL AND DENSITY STANDARDS:
         Maximum Lot Coverage: ''
         Minimum Building Separation: ''
         Maximum bldg. Sq. Ft.: ''
-      Ag Bldg, Horses Only:
+      Uses > Ag Bldg, Horses Only:
         Minimum Required Area: 3 acres
         Front Setback: 60'
         Side Setback: 25'
@@ -598,7 +598,7 @@ Table 2-1 DIMENSIONAL AND DENSITY STANDARDS:
         Maximum Lot Coverage: ''
         Minimum Building Separation: ''
         Maximum bldg. Sq. Ft.: ''
-      Commercial Horse Facility:
+      Uses > Commercial Horse Facility:
         Minimum Required Area: 10 acres
         Front Setback: 60'
         Side Setback: 25'
@@ -612,7 +612,7 @@ Table 2-1 DIMENSIONAL AND DENSITY STANDARDS:
         Minimum Building Separation: ''
         Maximum bldg. Sq. Ft.: ''
     MSF40 - Manufactured Single Family:
-      Single Family Manufactured Home:
+      Uses > Single Family Manufactured Home:
         Minimum Required Area: 40,000 SF
         Front Setback: 50'
         Side Setback: 20'
@@ -625,7 +625,7 @@ Table 2-1 DIMENSIONAL AND DENSITY STANDARDS:
         Maximum Lot Coverage: ''
         Minimum Building Separation: ''
         Maximum bldg. Sq. Ft.: ''
-      Ag Bldg, Horses Only:
+      Uses > Ag Bldg, Horses Only:
         Minimum Required Area: 3 acres
         Front Setback: 60'
         Side Setback: 25'
@@ -638,7 +638,7 @@ Table 2-1 DIMENSIONAL AND DENSITY STANDARDS:
         Maximum Lot Coverage: ''
         Minimum Building Separation: ''
         Maximum bldg. Sq. Ft.: ''
-      Commercial Horse Facility:
+      Uses > Commercial Horse Facility:
         Minimum Required Area: 10 acres
         Front Setback: 60'
         Side Setback: 25'
@@ -652,7 +652,7 @@ Table 2-1 DIMENSIONAL AND DENSITY STANDARDS:
         Minimum Building Separation: ''
         Maximum bldg. Sq. Ft.: ''
     GR - General Residential:
-      Single-Family:
+      Uses > Single-Family:
         Minimum Required Area: 6,000 SF
         Front Setback: 20'
         Side Setback: 10'
@@ -665,7 +665,7 @@ Table 2-1 DIMENSIONAL AND DENSITY STANDARDS:
         Maximum Lot Coverage: ''
         Minimum Building Separation: 20'
         Maximum bldg. Sq. Ft.: ''
-      Duplex:
+      Uses > Duplex:
         Minimum Required Area: 8,000 SF
         Front Setback: 20'
         Side Setback: 10'
@@ -678,7 +678,7 @@ Table 2-1 DIMENSIONAL AND DENSITY STANDARDS:
         Maximum Lot Coverage: ''
         Minimum Building Separation: 20'
         Maximum bldg. Sq. Ft.: ''
-      Semi-Detached:
+      Uses > Semi-Detached:
         Minimum Required Area: 4,000 SF per d/u
         Front Setback: 20'
         Side Setback: 10'
@@ -691,7 +691,7 @@ Table 2-1 DIMENSIONAL AND DENSITY STANDARDS:
         Maximum Lot Coverage: ''
         Minimum Building Separation: 20'
         Maximum bldg. Sq. Ft.: ''
-      Townhouse:
+      Uses > Townhouse:
         Minimum Required Area: 1 Acre (43,560 SF)
         Front Setback: 30'
         Side Setback: 20'
@@ -704,7 +704,7 @@ Table 2-1 DIMENSIONAL AND DENSITY STANDARDS:
         Maximum Lot Coverage: 50%
         Minimum Building Separation: 20'
         Maximum bldg. Sq. Ft.: ''
-      Multi-Family:
+      Uses > Multi-Family:
         Minimum Required Area: 1 Acre (43,560 SF)
         Front Setback: 30'
         Side Setback: 20'
@@ -717,7 +717,7 @@ Table 2-1 DIMENSIONAL AND DENSITY STANDARDS:
         Maximum Lot Coverage: 50%
         Minimum Building Separation: 20'
         Maximum bldg. Sq. Ft.: ''
-      Multi-Family (55):
+      Uses > Multi-Family (55):
         Minimum Required Area: '* Rear setback increases to 30'' if property adjoins a marsh or ocean.'
         Front Setback: '* Rear setback increases to 30'' if property adjoins a marsh or ocean.'
         Side Setback: '* Rear setback increases to 30'' if property adjoins a marsh or ocean.'
@@ -730,7 +730,7 @@ Table 2-1 DIMENSIONAL AND DENSITY STANDARDS:
         Maximum Lot Coverage: '* Rear setback increases to 30'' if property adjoins a marsh or ocean.'
         Minimum Building Separation: '* Rear setback increases to 30'' if property adjoins a marsh or ocean.'
         Maximum bldg. Sq. Ft.: '* Rear setback increases to 30'' if property adjoins a marsh or ocean.'
-      Ag Bldg, Horses Only:
+      Uses > Ag Bldg, Horses Only:
         Minimum Required Area: 3 acres
         Front Setback: 60'
         Side Setback: 25'
@@ -743,7 +743,7 @@ Table 2-1 DIMENSIONAL AND DENSITY STANDARDS:
         Maximum Lot Coverage: ''
         Minimum Building Separation: ''
         Maximum bldg. Sq. Ft.: ''
-      Commercial Horse Facility:
+      Uses > Commercial Horse Facility:
         Minimum Required Area: 10 acres
         Front Setback: 60'
         Side Setback: 25'
@@ -757,7 +757,7 @@ Table 2-1 DIMENSIONAL AND DENSITY STANDARDS:
         Minimum Building Separation: ''
         Maximum bldg. Sq. Ft.: ''
     GRn - General Residential "n":
-      Residential Uses:
+      Uses > Residential Uses:
         Minimum Required Area: Reference Table 2-2 for requirements
         Front Setback: Reference Table 2-2 for requirements
         Side Setback: Reference Table 2-2 for requirements
@@ -770,7 +770,7 @@ Table 2-1 DIMENSIONAL AND DENSITY STANDARDS:
         Maximum Lot Coverage: Reference Table 2-2 for requirements
         Minimum Building Separation: Reference Table 2-2 for requirements
         Maximum bldg. Sq. Ft.: Reference Table 2-2 for requirements
-      Ag Bldg, Horses Only:
+      Uses > Ag Bldg, Horses Only:
         Minimum Required Area: 3 acres
         Front Setback: 60'
         Side Setback: 25'
@@ -783,7 +783,7 @@ Table 2-1 DIMENSIONAL AND DENSITY STANDARDS:
         Maximum Lot Coverage: ''
         Minimum Building Separation: ''
         Maximum bldg. Sq. Ft.: ''
-      Commercial Horse Facility:
+      Uses > Commercial Horse Facility:
         Minimum Required Area: 10 acres
         Front Setback: 60'
         Side Setback: 25'
@@ -839,7 +839,7 @@ Table 2-1 DIMENSIONAL AND DENSITY STANDARDS:
         Minimum Building Separation: See Section 209 for requirements
         Maximum bldg. Sq. Ft.: See Section 209 for requirements
     RR - Resort Residential:
-      Single-Family:
+      Uses > Single-Family:
         Minimum Required Area: 6,000 SF
         Front Setback: 20'
         Side Setback: 10'
@@ -852,7 +852,7 @@ Table 2-1 DIMENSIONAL AND DENSITY STANDARDS:
         Maximum Lot Coverage: ''
         Minimum Building Separation: 20'
         Maximum bldg. Sq. Ft.: ''
-      Duplex:
+      Uses > Duplex:
         Minimum Required Area: 8,000 SF
         Front Setback: 20'
         Side Setback: 10'
@@ -865,7 +865,7 @@ Table 2-1 DIMENSIONAL AND DENSITY STANDARDS:
         Maximum Lot Coverage: ''
         Minimum Building Separation: 20'
         Maximum bldg. Sq. Ft.: ''
-      Semi-Detached:
+      Uses > Semi-Detached:
         Minimum Required Area: 4,000 SF per d/u
         Front Setback: 20'
         Side Setback: 10'
@@ -878,7 +878,7 @@ Table 2-1 DIMENSIONAL AND DENSITY STANDARDS:
         Maximum Lot Coverage: ''
         Minimum Building Separation: 20'
         Maximum bldg. Sq. Ft.: ''
-      Garden City Overlay Single Family (Lots which allow a height of 55' or greater):
+      Uses > Garden City Overlay Single Family (Lots which allow a height of 55' or greater):
         Minimum Required Area: 3,600 SF
         Front Setback: 20'
         Side Setback: 5'
@@ -891,7 +891,7 @@ Table 2-1 DIMENSIONAL AND DENSITY STANDARDS:
         Maximum Lot Coverage: ''
         Minimum Building Separation: ''
         Maximum bldg. Sq. Ft.: ''
-      Townhouse:
+      Uses > Townhouse:
         Minimum Required Area: 1 Acre (43,560 SF)
         Front Setback: 30'
         Side Setback: 20'
@@ -904,7 +904,7 @@ Table 2-1 DIMENSIONAL AND DENSITY STANDARDS:
         Maximum Lot Coverage: ''
         Minimum Building Separation: 20'
         Maximum bldg. Sq. Ft.: ''
-      Multi-Family:
+      Uses > Multi-Family:
         Minimum Required Area: 1 Acre (43,560 SF)
         Front Setback: 30'
         Side Setback: 20'
@@ -917,7 +917,7 @@ Table 2-1 DIMENSIONAL AND DENSITY STANDARDS:
         Maximum Lot Coverage: ''
         Minimum Building Separation: 20'
         Maximum bldg. Sq. Ft.: ''
-      Multi-Family (70):
+      Uses > Multi-Family (70):
         Minimum Required Area: '* Rear setback increases to 30'' if property adjoins a marsh or ocean.'
         Front Setback: '* Rear setback increases to 30'' if property adjoins a marsh or ocean.'
         Side Setback: '* Rear setback increases to 30'' if property adjoins a marsh or ocean.'
@@ -930,7 +930,7 @@ Table 2-1 DIMENSIONAL AND DENSITY STANDARDS:
         Maximum Lot Coverage: '* Rear setback increases to 30'' if property adjoins a marsh or ocean.'
         Minimum Building Separation: '* Rear setback increases to 30'' if property adjoins a marsh or ocean.'
         Maximum bldg. Sq. Ft.: '* Rear setback increases to 30'' if property adjoins a marsh or ocean.'
-      Commercial Uses:
+      Uses > Commercial Uses:
         Minimum Required Area: 1 Acre (43,560 SF)
         Front Setback: 30'
         Side Setback: 20'
@@ -944,7 +944,7 @@ Table 2-1 DIMENSIONAL AND DENSITY STANDARDS:
         Minimum Building Separation: ''
         Maximum bldg. Sq. Ft.: ''
     RH - Resort Housing:
-      Residential & Commercial Uses:
+      Uses > Residential & Commercial Uses:
         Minimum Required Area: ½ Acre (21,780 SF)
         Front Setback: 50'
         Side Setback: 20'
@@ -972,7 +972,7 @@ Table 2-1 DIMENSIONAL AND DENSITY STANDARDS:
         Minimum Building Separation: ''
         Maximum bldg. Sq. Ft.: ''
     LFA - Limited Forest Agriculture:
-      Residential & Commercial Uses:
+      Uses > Residential & Commercial Uses:
         Minimum Required Area: 1 Acre (43,560 SF)
         Front Setback: 60'
         Side Setback: 25'
@@ -985,7 +985,7 @@ Table 2-1 DIMENSIONAL AND DENSITY STANDARDS:
         Maximum Lot Coverage: ''
         Minimum Building Separation: ''
         Maximum bldg. Sq. Ft.: ''
-      Commercial Animal Facility:
+      Uses > Commercial Animal Facility:
         Minimum Required Area: 3 Acres
         Front Setback: 60'
         Side Setback: 25'
@@ -998,7 +998,7 @@ Table 2-1 DIMENSIONAL AND DENSITY STANDARDS:
         Maximum Lot Coverage: ''
         Minimum Building Separation: ''
         Maximum bldg. Sq. Ft.: ''
-      Ag Bldg, Farm Animals:
+      Uses > Ag Bldg, Farm Animals:
         Minimum Required Area: 1½ Acres
         Front Setback: 60'
         Side Setback: 25'
@@ -1011,7 +1011,7 @@ Table 2-1 DIMENSIONAL AND DENSITY STANDARDS:
         Maximum Lot Coverage: ''
         Minimum Building Separation: ''
         Maximum bldg. Sq. Ft.: ''
-      Non-commercial personal use bldg:
+      Uses > Non-commercial personal use bldg:
         Minimum Required Area: 1 Acre
         Front Setback: 60'
         Side Setback: 10'
@@ -1025,7 +1025,7 @@ Table 2-1 DIMENSIONAL AND DENSITY STANDARDS:
         Minimum Building Separation: ''
         Maximum bldg. Sq. Ft.: 4,500
     FA - Forest Agriculture:
-      Commercial Uses:
+      Uses > Commercial Uses:
         Minimum Required Area: 1 Acre (43,560 SF)
         Front Setback: 60'
         Side Setback: 25'
@@ -1038,7 +1038,7 @@ Table 2-1 DIMENSIONAL AND DENSITY STANDARDS:
         Maximum Lot Coverage: ''
         Minimum Building Separation: ''
         Maximum bldg. Sq. Ft.: 4,500
-      Commercial Center:
+      Uses > Commercial Center:
         Minimum Required Area: 1 Acre (43,560 SF)
         Front Setback: 60'
         Side Setback: 25'
@@ -1051,7 +1051,7 @@ Table 2-1 DIMENSIONAL AND DENSITY STANDARDS:
         Maximum Lot Coverage: ''
         Minimum Building Separation: ''
         Maximum bldg. Sq. Ft.: 4,500
-      Commercial Animal Facility:
+      Uses > Commercial Animal Facility:
         Minimum Required Area: 3 Acres
         Front Setback: 60'
         Side Setback: 25'
@@ -1064,7 +1064,7 @@ Table 2-1 DIMENSIONAL AND DENSITY STANDARDS:
         Maximum Lot Coverage: ''
         Minimum Building Separation: ''
         Maximum bldg. Sq. Ft.: ''
-      Single Family Manufactured Home:
+      Uses > Single Family Manufactured Home:
         Minimum Required Area: ½ Acre (21,780 SF)
         Front Setback: 40'
         Side Setback: 10'
@@ -1077,7 +1077,7 @@ Table 2-1 DIMENSIONAL AND DENSITY STANDARDS:
         Maximum Lot Coverage: ''
         Minimum Building Separation: ''
         Maximum bldg. Sq. Ft.: ''
-      Ag Bldg, Farm Animals:
+      Uses > Ag Bldg, Farm Animals:
         Minimum Required Area: 1½ Acre
         Front Setback: 60'
         Side Setback: 25'
@@ -1090,7 +1090,7 @@ Table 2-1 DIMENSIONAL AND DENSITY STANDARDS:
         Maximum Lot Coverage: ''
         Minimum Building Separation: ''
         Maximum bldg. Sq. Ft.: ''
-      Non-commercial personal use bldg:
+      Uses > Non-commercial personal use bldg:
         Minimum Required Area: ½ Acre
         Front Setback: 60'
         Side Setback: 10'
@@ -1104,7 +1104,7 @@ Table 2-1 DIMENSIONAL AND DENSITY STANDARDS:
         Minimum Building Separation: ''
         Maximum bldg. Sq. Ft.: 4,500
     CFA - Commercial Forest Agriculture:
-      Commercial Uses:
+      Uses > Commercial Uses:
         Minimum Required Area: 1 Acre (43,560 SF)
         Front Setback: 60'
         Side Setback: 25'
@@ -1117,7 +1117,7 @@ Table 2-1 DIMENSIONAL AND DENSITY STANDARDS:
         Maximum Lot Coverage: ''
         Minimum Building Separation: ''
         Maximum bldg. Sq. Ft.: ''
-      Commercial Center:
+      Uses > Commercial Center:
         Minimum Required Area: 1 Acre (43,560 SF)
         Front Setback: 60'
         Side Setback: 25'
@@ -1130,7 +1130,7 @@ Table 2-1 DIMENSIONAL AND DENSITY STANDARDS:
         Maximum Lot Coverage: ''
         Minimum Building Separation: ''
         Maximum bldg. Sq. Ft.: 50,000
-      Commercial Animal Facility:
+      Uses > Commercial Animal Facility:
         Minimum Required Area: 3 Acres
         Front Setback: 60'
         Side Setback: 25'
@@ -1143,7 +1143,7 @@ Table 2-1 DIMENSIONAL AND DENSITY STANDARDS:
         Maximum Lot Coverage: ''
         Minimum Building Separation: ''
         Maximum bldg. Sq. Ft.: ''
-      Single Family Manufactured Home:
+      Uses > Single Family Manufactured Home:
         Minimum Required Area: ½ Acre (21,780 SF)
         Front Setback: 40'
         Side Setback: 10'
@@ -1156,7 +1156,7 @@ Table 2-1 DIMENSIONAL AND DENSITY STANDARDS:
         Maximum Lot Coverage: ''
         Minimum Building Separation: ''
         Maximum bldg. Sq. Ft.: ''
-      Ag Bldg, Farm Animals:
+      Uses > Ag Bldg, Farm Animals:
         Minimum Required Area: 1½ Acres
         Front Setback: 60'
         Side Setback: 25'
@@ -1169,7 +1169,7 @@ Table 2-1 DIMENSIONAL AND DENSITY STANDARDS:
         Maximum Lot Coverage: ''
         Minimum Building Separation: ''
         Maximum bldg. Sq. Ft.: ''
-      Non-commercial personal use bldg:
+      Uses > Non-commercial personal use bldg:
         Minimum Required Area: 3 Acres
         Front Setback: 25'
         Side Setback: 25'
@@ -1182,7 +1182,7 @@ Table 2-1 DIMENSIONAL AND DENSITY STANDARDS:
         Maximum Lot Coverage: ''
         Minimum Building Separation: ''
         Maximum bldg. Sq. Ft.: 4,500
-      Townhouse:
+      Uses > Townhouse:
         Minimum Required Area: 3 Acres
         Front Setback: 60'
         Side Setback: 25'
@@ -1195,7 +1195,7 @@ Table 2-1 DIMENSIONAL AND DENSITY STANDARDS:
         Maximum Lot Coverage: 50%
         Minimum Building Separation: ''
         Maximum bldg. Sq. Ft.: ''
-      Assisted Living Facilities:
+      Uses > Assisted Living Facilities:
         Minimum Required Area: 1 Acre
         Front Setback: 60'
         Side Setback: 25'
@@ -1209,7 +1209,7 @@ Table 2-1 DIMENSIONAL AND DENSITY STANDARDS:
         Minimum Building Separation: See Table 2-8 for density requirements
         Maximum bldg. Sq. Ft.: See Table 2-8 for density requirements
     RE - Rural Estates:
-      Single-Family:
+      Uses > Single-Family:
         Minimum Required Area: 1 Acre (43,560 SF)
         Front Setback: 40'
         Side Setback: 15'
@@ -1222,7 +1222,7 @@ Table 2-1 DIMENSIONAL AND DENSITY STANDARDS:
         Maximum Lot Coverage: ''
         Minimum Building Separation: ''
         Maximum bldg. Sq. Ft.: ''
-      Ag Bldg, Farm Animals and/or Commercial Animal Facility:
+      Uses > Ag Bldg, Farm Animals and/or Commercial Animal Facility:
         Minimum Required Area: 3 Acres
         Front Setback: 100'
         Side Setback: 25'
@@ -1236,7 +1236,7 @@ Table 2-1 DIMENSIONAL AND DENSITY STANDARDS:
         Minimum Building Separation: ''
         Maximum bldg. Sq. Ft.: ''
     AG1 - Agriculture:
-      Single Family Manufactured Home:
+      Uses > Single Family Manufactured Home:
         Minimum Required Area: 20 Acres
         Front Setback: 40'
         Side Setback: 15'
@@ -1249,7 +1249,7 @@ Table 2-1 DIMENSIONAL AND DENSITY STANDARDS:
         Maximum Lot Coverage: ''
         Minimum Building Separation: ''
         Maximum bldg. Sq. Ft.: ''
-      Ag Bldg, Horses Only:
+      Uses > Ag Bldg, Horses Only:
         Minimum Required Area: 20 Acres
         Front Setback: 60'
         Side Setback: 25'
@@ -1262,7 +1262,7 @@ Table 2-1 DIMENSIONAL AND DENSITY STANDARDS:
         Maximum Lot Coverage: ''
         Minimum Building Separation: ''
         Maximum bldg. Sq. Ft.: ''
-      Ag Bldg, No Animals:
+      Uses > Ag Bldg, No Animals:
         Minimum Required Area: 20 Acres
         Front Setback: 40'
         Side Setback: 15'
@@ -1275,7 +1275,7 @@ Table 2-1 DIMENSIONAL AND DENSITY STANDARDS:
         Maximum Lot Coverage: ''
         Minimum Building Separation: ''
         Maximum bldg. Sq. Ft.: ''
-      Ag Bldg, Farm Animals:
+      Uses > Ag Bldg, Farm Animals:
         Minimum Required Area: 20 Acres
         Front Setback: 100'
         Side Setback: 100'
@@ -1288,7 +1288,7 @@ Table 2-1 DIMENSIONAL AND DENSITY STANDARDS:
         Maximum Lot Coverage: ''
         Minimum Building Separation: ''
         Maximum bldg. Sq. Ft.: ''
-      Non-commercial personal use bldg:
+      Uses > Non-commercial personal use bldg:
         Minimum Required Area: 3 Acres
         Front Setback: 25'
         Side Setback: 25'
@@ -1302,7 +1302,7 @@ Table 2-1 DIMENSIONAL AND DENSITY STANDARDS:
         Minimum Building Separation: ''
         Maximum bldg. Sq. Ft.: 4,500
     AG2 - Commercial Agriculture:
-      Commercial Uses:
+      Uses > Commercial Uses:
         Minimum Required Area: ½ Acre (21,780 SF)
         Front Setback: 50'
         Side Setback: 10'
@@ -1315,7 +1315,7 @@ Table 2-1 DIMENSIONAL AND DENSITY STANDARDS:
         Maximum Lot Coverage: ''
         Minimum Building Separation: ''
         Maximum bldg. Sq. Ft.: ''
-      Commercial Animal Facility:
+      Uses > Commercial Animal Facility:
         Minimum Required Area: 3 Acres
         Front Setback: 60'
         Side Setback: 25'
@@ -1328,7 +1328,7 @@ Table 2-1 DIMENSIONAL AND DENSITY STANDARDS:
         Maximum Lot Coverage: ''
         Minimum Building Separation: ''
         Maximum bldg. Sq. Ft.: ''
-      Single Family Manufactured Home:
+      Uses > Single Family Manufactured Home:
         Minimum Required Area: ½ Acre (21,780 SF)
         Front Setback: 40'
         Side Setback: 15'
@@ -1341,7 +1341,7 @@ Table 2-1 DIMENSIONAL AND DENSITY STANDARDS:
         Maximum Lot Coverage: ''
         Minimum Building Separation: ''
         Maximum bldg. Sq. Ft.: ''
-      Ag Bldg, Farm Animals:
+      Uses > Ag Bldg, Farm Animals:
         Minimum Required Area: 1½ Acres
         Front Setback: 60'
         Side Setback: 25'
@@ -1354,7 +1354,7 @@ Table 2-1 DIMENSIONAL AND DENSITY STANDARDS:
         Maximum Lot Coverage: ''
         Minimum Building Separation: ''
         Maximum bldg. Sq. Ft.: ''
-      Non-commercial personal use bldg:
+      Uses > Non-commercial personal use bldg:
         Minimum Required Area: ½ Acre
         Front Setback: 60'
         Side Setback: 10'
@@ -1368,7 +1368,7 @@ Table 2-1 DIMENSIONAL AND DENSITY STANDARDS:
         Minimum Building Separation: ''
         Maximum bldg. Sq. Ft.: 4,500
     AG3 - Agriculture Community Services:
-      Commercial Uses:
+      Uses > Commercial Uses:
         Minimum Required Area: 10,000 SF
         Front Setback: 40'
         Side Setback: 10'
@@ -1382,7 +1382,7 @@ Table 2-1 DIMENSIONAL AND DENSITY STANDARDS:
         Minimum Building Separation: ''
         Maximum bldg. Sq. Ft.: ''
     AG4 - Agriculture Estate:
-      Ag Bldg, Farm Animals:
+      Uses > Ag Bldg, Farm Animals:
         Minimum Required Area: 5 Acres
         Front Setback: 60'
         Side Setback: 25'
@@ -1395,7 +1395,7 @@ Table 2-1 DIMENSIONAL AND DENSITY STANDARDS:
         Maximum Lot Coverage: ''
         Minimum Building Separation: ''
         Maximum bldg. Sq. Ft.: ''
-      Single-Family:
+      Uses > Single-Family:
         Minimum Required Area: 5 Acres
         Front Setback: 60'
         Side Setback: 25'
@@ -1409,7 +1409,7 @@ Table 2-1 DIMENSIONAL AND DENSITY STANDARDS:
         Minimum Building Separation: ''
         Maximum bldg. Sq. Ft.: ''
     AG5 - Agriculture Manufactured Estate:
-      Ag Bldg, Farm Animals:
+      Uses > Ag Bldg, Farm Animals:
         Minimum Required Area: 5 Acres
         Front Setback: 60'
         Side Setback: 25'
@@ -1422,7 +1422,7 @@ Table 2-1 DIMENSIONAL AND DENSITY STANDARDS:
         Maximum Lot Coverage: ''
         Minimum Building Separation: ''
         Maximum bldg. Sq. Ft.: ''
-      Single Family Manufactured Home:
+      Uses > Single Family Manufactured Home:
         Minimum Required Area: 5 Acres
         Front Setback: 60'
         Side Setback: 25'
@@ -1436,7 +1436,7 @@ Table 2-1 DIMENSIONAL AND DENSITY STANDARDS:
         Minimum Building Separation: ''
         Maximum bldg. Sq. Ft.: ''
     AG6 - Agricultural Ranchettes:
-      Ag Bldg non-livestock:
+      Uses > Ag Bldg non-livestock:
         Minimum Required Area: 1.5 Acres
         Front Setback: 60'
         Side Setback: 25'
@@ -1449,7 +1449,7 @@ Table 2-1 DIMENSIONAL AND DENSITY STANDARDS:
         Maximum Lot Coverage: ''
         Minimum Building Separation: ''
         Maximum bldg. Sq. Ft.: ''
-      Ag Bldg, Farm Animals:
+      Uses > Ag Bldg, Farm Animals:
         Minimum Required Area: 1.5 Acres
         Front Setback: 60'
         Side Setback: 25'
@@ -1462,7 +1462,7 @@ Table 2-1 DIMENSIONAL AND DENSITY STANDARDS:
         Maximum Lot Coverage: ''
         Minimum Building Separation: ''
         Maximum bldg. Sq. Ft.: ''
-      Single-Family:
+      Uses > Single-Family:
         Minimum Required Area: 1.5 Acres
         Front Setback: 40'
         Side Setback: 15'
@@ -1476,7 +1476,7 @@ Table 2-1 DIMENSIONAL AND DENSITY STANDARDS:
         Minimum Building Separation: ''
         Maximum bldg. Sq. Ft.: ''
     AG7 - Manufactured Agricultural Ranchettes:
-      Ag Bldg non-livestock:
+      Uses > Ag Bldg non-livestock:
         Minimum Required Area: 1.5 Acres
         Front Setback: 60'
         Side Setback: 25'
@@ -1489,7 +1489,7 @@ Table 2-1 DIMENSIONAL AND DENSITY STANDARDS:
         Maximum Lot Coverage: ''
         Minimum Building Separation: ''
         Maximum bldg. Sq. Ft.: ''
-      Ag Bldg, Farm Animals:
+      Uses > Ag Bldg, Farm Animals:
         Minimum Required Area: 1.5 Acres
         Front Setback: 60'
         Side Setback: 25'
@@ -1502,7 +1502,7 @@ Table 2-1 DIMENSIONAL AND DENSITY STANDARDS:
         Maximum Lot Coverage: ''
         Minimum Building Separation: ''
         Maximum bldg. Sq. Ft.: ''
-      Single Family Manufactured Home:
+      Uses > Single Family Manufactured Home:
         Minimum Required Area: 1.5 Acres
         Front Setback: 40'
         Side Setback: '15'
@@ -1516,7 +1516,7 @@ Table 2-1 DIMENSIONAL AND DENSITY STANDARDS:
         Minimum Building Separation: ''
         Maximum bldg. Sq. Ft.: ''
     NC - Neighborhood Commercial:
-      Single Family:
+      Uses > Single Family:
         Minimum Required Area: 10,000 SF
         Front Setback: 25'
         Side Setback: 10'
@@ -1529,7 +1529,7 @@ Table 2-1 DIMENSIONAL AND DENSITY STANDARDS:
         Maximum Lot Coverage: ''
         Minimum Building Separation: ''
         Maximum bldg. Sq. Ft.: ''
-      Commercial Uses:
+      Uses > Commercial Uses:
         Minimum Required Area: 10,000 SF
         Front Setback: 25'
         Side Setback: 10'
@@ -1542,7 +1542,7 @@ Table 2-1 DIMENSIONAL AND DENSITY STANDARDS:
         Maximum Lot Coverage: ''
         Minimum Building Separation: ''
         Maximum bldg. Sq. Ft.: ''
-      Commercial Center:
+      Uses > Commercial Center:
         Minimum Required Area: 10,000 SF
         Front Setback: 25'
         Side Setback: 10'
@@ -1556,7 +1556,7 @@ Table 2-1 DIMENSIONAL AND DENSITY STANDARDS:
         Minimum Building Separation: ''
         Maximum bldg. Sq. Ft.: 30,000
     CC - Community Commercial:
-      Single-Family:
+      Uses > Single-Family:
         Minimum Required Area: 6,000 SF
         Front Setback: 20'
         Side Setback: 10'
@@ -1569,7 +1569,7 @@ Table 2-1 DIMENSIONAL AND DENSITY STANDARDS:
         Maximum Lot Coverage: ''
         Minimum Building Separation: ''
         Maximum bldg. Sq. Ft.: ''
-      Garden City Overlay Single Family (Lots which allow a height of 55' or greater):
+      Uses > Garden City Overlay Single Family (Lots which allow a height of 55' or greater):
         Minimum Required Area: 3,600 SF
         Front Setback: 20'
         Side Setback: 5'
@@ -1582,7 +1582,7 @@ Table 2-1 DIMENSIONAL AND DENSITY STANDARDS:
         Maximum Lot Coverage: ''
         Minimum Building Separation: ''
         Maximum bldg. Sq. Ft.: ''
-      Commercial Uses:
+      Uses > Commercial Uses:
         Minimum Required Area: See Table 2-5 for requirements
         Front Setback: See Table 2-5 for requirements
         Side Setback: See Table 2-5 for requirements
@@ -1596,7 +1596,7 @@ Table 2-1 DIMENSIONAL AND DENSITY STANDARDS:
         Minimum Building Separation: See Table 2-5 for requirements
         Maximum bldg. Sq. Ft.: See Table 2-5 for requirements
     RCS - Retail Consumer Services:
-      Commercial Uses:
+      Uses > Commercial Uses:
         Minimum Required Area: 10,000 SF
         Front Setback: 50'
         Side Setback: 10'
@@ -1609,7 +1609,7 @@ Table 2-1 DIMENSIONAL AND DENSITY STANDARDS:
         Maximum Lot Coverage: ''
         Minimum Building Separation: ''
         Maximum bldg. Sq. Ft.: ''
-      Residential Uses:
+      Uses > Residential Uses:
         Minimum Required Area: Reference Table 2-2 for requirements
         Front Setback: Reference Table 2-2 for requirements
         Side Setback: Reference Table 2-2 for requirements
@@ -1622,7 +1622,7 @@ Table 2-1 DIMENSIONAL AND DENSITY STANDARDS:
         Maximum Lot Coverage: Reference Table 2-2 for requirements
         Minimum Building Separation: Reference Table 2-2 for requirements
         Maximum bldg. Sq. Ft.: Reference Table 2-2 for requirements
-      Garden City Overlay Single Family (Lots which allow a height of 55' or greater):
+      Uses > Garden City Overlay Single Family (Lots which allow a height of 55' or greater):
         Minimum Required Area: 3,600 SF
         Front Setback: 20'
         Side Setback: 5'
@@ -1636,7 +1636,7 @@ Table 2-1 DIMENSIONAL AND DENSITY STANDARDS:
         Minimum Building Separation: ''
         Maximum bldg. Sq. Ft.: ''
     TRS - Transportation Related Services:
-      Commercial Uses:
+      Uses > Commercial Uses:
         Minimum Required Area: 10,000 SF
         Front Setback: 50'
         Side Setback: 10'
@@ -1649,7 +1649,7 @@ Table 2-1 DIMENSIONAL AND DENSITY STANDARDS:
         Maximum Lot Coverage: ''
         Minimum Building Separation: ''
         Maximum bldg. Sq. Ft.: ''
-      Residential Uses:
+      Uses > Residential Uses:
         Minimum Required Area: Reference Table 8-2 for requirements
         Front Setback: Reference Table 8-2 for requirements
         Side Setback: Reference Table 8-2 for requirements
@@ -1663,7 +1663,7 @@ Table 2-1 DIMENSIONAL AND DENSITY STANDARDS:
         Minimum Building Separation: Reference Table 8-2 for requirements
         Maximum bldg. Sq. Ft.: Reference Table 8-2 for requirements
     HC - Highway Commercial:
-      Single-Family:
+      Uses > Single-Family:
         Minimum Required Area: 6,000 SF
         Front Setback: 20'
         Side Setback: 10'
@@ -1676,7 +1676,7 @@ Table 2-1 DIMENSIONAL AND DENSITY STANDARDS:
         Maximum Lot Coverage: ''
         Minimum Building Separation: ''
         Maximum bldg. Sq. Ft.: ''
-      Commercial Uses:
+      Uses > Commercial Uses:
         Minimum Required Area: 10,000 SF
         Front Setback: 50'
         Side Setback: 10' *
@@ -1689,7 +1689,7 @@ Table 2-1 DIMENSIONAL AND DENSITY STANDARDS:
         Maximum Lot Coverage: ''
         Minimum Building Separation: ''
         Maximum bldg. Sq. Ft.: ''
-      Commercial Uses (128):
+      Uses > Commercial Uses (128):
         Minimum Required Area: '* Where the district abuts any Residential Zoning District not separated by a street right-of-way, a minimum side yard of thirty (30) feet of the side abutting said residential district shall be required.'
         Front Setback: '* Where the district abuts any Residential Zoning District not separated by a street right-of-way, a minimum side yard of thirty (30) feet of the side abutting said residential district shall be required.'
         Side Setback: '* Where the district abuts any Residential Zoning District not separated by a street right-of-way, a minimum side yard of thirty (30) feet of the side abutting said residential district shall be required.'
@@ -1702,7 +1702,7 @@ Table 2-1 DIMENSIONAL AND DENSITY STANDARDS:
         Maximum Lot Coverage: '* Where the district abuts any Residential Zoning District not separated by a street right-of-way, a minimum side yard of thirty (30) feet of the side abutting said residential district shall be required.'
         Minimum Building Separation: '* Where the district abuts any Residential Zoning District not separated by a street right-of-way, a minimum side yard of thirty (30) feet of the side abutting said residential district shall be required.'
         Maximum bldg. Sq. Ft.: '* Where the district abuts any Residential Zoning District not separated by a street right-of-way, a minimum side yard of thirty (30) feet of the side abutting said residential district shall be required.'
-      Hospitals, Nursing Homes:
+      Uses > Hospitals, Nursing Homes:
         Minimum Required Area: 1 Acre (43,560 SF)
         Front Setback: 50'
         Side Setback: 10'
@@ -1716,7 +1716,7 @@ Table 2-1 DIMENSIONAL AND DENSITY STANDARDS:
         Minimum Building Separation: ''
         Maximum bldg. Sq. Ft.: ''
     RE1 - Neighborhood Retail Servies:
-      Commercial Uses:
+      Uses > Commercial Uses:
         Minimum Required Area: 10,000 SF
         Front Setback: 25'
         Side Setback: 10'
@@ -1729,7 +1729,7 @@ Table 2-1 DIMENSIONAL AND DENSITY STANDARDS:
         Maximum Lot Coverage: ''
         Minimum Building Separation: ''
         Maximum bldg. Sq. Ft.: ''
-      Commercial Center:
+      Uses > Commercial Center:
         Minimum Required Area: 10,000 SF
         Front Setback: 25'
         Side Setback: 10'
@@ -1742,7 +1742,7 @@ Table 2-1 DIMENSIONAL AND DENSITY STANDARDS:
         Maximum Lot Coverage: ''
         Minimum Building Separation: ''
         Maximum bldg. Sq. Ft.: 30,000
-      Single-Family:
+      Uses > Single-Family:
         Minimum Required Area: 10,000 SF
         Front Setback: 25'
         Side Setback: 10'
@@ -1756,7 +1756,7 @@ Table 2-1 DIMENSIONAL AND DENSITY STANDARDS:
         Minimum Building Separation: ''
         Maximum bldg. Sq. Ft.: ''
     RE2 - Community Retail Services:
-      Commercial Uses:
+      Uses > Commercial Uses:
         Minimum Required Area: 10,000 SF
         Front Setback: 50'
         Side Setback: 10'
@@ -1769,7 +1769,7 @@ Table 2-1 DIMENSIONAL AND DENSITY STANDARDS:
         Maximum Lot Coverage: ''
         Minimum Building Separation: ''
         Maximum bldg. Sq. Ft.: ''
-      Commercial Center:
+      Uses > Commercial Center:
         Minimum Required Area: 10,000 SF
         Front Setback: 50'
         Side Setback: 10'
@@ -1782,7 +1782,7 @@ Table 2-1 DIMENSIONAL AND DENSITY STANDARDS:
         Maximum Lot Coverage: ''
         Minimum Building Separation: ''
         Maximum bldg. Sq. Ft.: 50,000
-      Townhouse:
+      Uses > Townhouse:
         Minimum Required Area: 1 Acre
         Front Setback: 25'
         Side Setback: 10'
@@ -1795,7 +1795,7 @@ Table 2-1 DIMENSIONAL AND DENSITY STANDARDS:
         Maximum Lot Coverage: ''
         Minimum Building Separation: 20'
         Maximum bldg. Sq. Ft.: ''
-      Multi-Family:
+      Uses > Multi-Family:
         Minimum Required Area: 1.5 Acres
         Front Setback: 30'
         Side Setback: 20'
@@ -1809,7 +1809,7 @@ Table 2-1 DIMENSIONAL AND DENSITY STANDARDS:
         Minimum Building Separation: 20'
         Maximum bldg. Sq. Ft.: ''
     RE3 - Convenience & Auto-Related Services:
-      Commercial Uses:
+      Uses > Commercial Uses:
         Minimum Required Area: 10,000 SF
         Front Setback: 50'
         Side Setback: 10'
@@ -1822,7 +1822,7 @@ Table 2-1 DIMENSIONAL AND DENSITY STANDARDS:
         Maximum Lot Coverage: ''
         Minimum Building Separation: ''
         Maximum bldg. Sq. Ft.: ''
-      Commercial Center:
+      Uses > Commercial Center:
         Minimum Required Area: 10,000 SF
         Front Setback: 50'
         Side Setback: 10'
@@ -1835,7 +1835,7 @@ Table 2-1 DIMENSIONAL AND DENSITY STANDARDS:
         Maximum Lot Coverage: ''
         Minimum Building Separation: ''
         Maximum bldg. Sq. Ft.: 100,000
-      Multi-Family, Townhouse & Quadruplex *:
+      Uses > Multi-Family, Townhouse & Quadruplex *:
         Minimum Required Area: '* Reference § 400.L for requirements.'
         Front Setback: '* Reference § 400.L for requirements.'
         Side Setback: '* Reference § 400.L for requirements.'
@@ -1849,7 +1849,7 @@ Table 2-1 DIMENSIONAL AND DENSITY STANDARDS:
         Minimum Building Separation: '* Reference § 400.L for requirements.'
         Maximum bldg. Sq. Ft.: '* Reference § 400.L for requirements.'
     RE4 - Retail With Accessory Outdoor Storage:
-      Commercial Uses:
+      Uses > Commercial Uses:
         Minimum Required Area: ½ Acre (21,780 SF)
         Front Setback: 50'
         Side Setback: 10'
@@ -1863,7 +1863,7 @@ Table 2-1 DIMENSIONAL AND DENSITY STANDARDS:
         Minimum Building Separation: ''
         Maximum bldg. Sq. Ft.: ''
     OPI - Office Professional Institutional:
-      Commercial Uses:
+      Uses > Commercial Uses:
         Minimum Required Area: 10,000 SF
         Front Setback: ''
         Side Setback: ''
@@ -1876,7 +1876,7 @@ Table 2-1 DIMENSIONAL AND DENSITY STANDARDS:
         Maximum Lot Coverage: See Table 2-6 for requirements
         Minimum Building Separation: See Table 2-6 for requirements
         Maximum bldg. Sq. Ft.: See Table 2-6 for requirements
-      Single-Family:
+      Uses > Single-Family:
         Minimum Required Area: 10,000 SF
         Front Setback: 25'
         Side Setback: 10'
@@ -1890,7 +1890,7 @@ Table 2-1 DIMENSIONAL AND DENSITY STANDARDS:
         Minimum Building Separation: ''
         Maximum bldg. Sq. Ft.: ''
     EIO - Education, Institution, Office:
-      Commercial Uses:
+      Uses > Commercial Uses:
         Minimum Required Area: 10,000 SF
         Front Setback: 50'
         Side Setback: 10'
@@ -1903,7 +1903,7 @@ Table 2-1 DIMENSIONAL AND DENSITY STANDARDS:
         Maximum Lot Coverage: ''
         Minimum Building Separation: ''
         Maximum bldg. Sq. Ft.: ''
-      Residential Uses:
+      Uses > Residential Uses:
         Minimum Required Area: Reference Table 2-2 for requirements
         Front Setback: Reference Table 2-2 for requirements
         Side Setback: Reference Table 2-2 for requirements
@@ -1917,7 +1917,7 @@ Table 2-1 DIMENSIONAL AND DENSITY STANDARDS:
         Minimum Building Separation: Reference Table 2-2 for requirements
         Maximum bldg. Sq. Ft.: Reference Table 2-2 for requirements
     PR1 - Office- Professional:
-      Commercial Uses:
+      Uses > Commercial Uses:
         Minimum Required Area: 10,000 SF
         Front Setback: 25'
         Side Setback: 10'
@@ -1931,7 +1931,7 @@ Table 2-1 DIMENSIONAL AND DENSITY STANDARDS:
         Minimum Building Separation: ''
         Maximum bldg. Sq. Ft.: ''
     PR2 - Campus Institution, Office & Research:
-      Commercial Uses:
+      Uses > Commercial Uses:
         Minimum Required Area: ½ Acre (21,780 SF) *
         Front Setback: 50'
         Side Setback: 25'
@@ -1944,7 +1944,7 @@ Table 2-1 DIMENSIONAL AND DENSITY STANDARDS:
         Maximum Lot Coverage: ''
         Minimum Building Separation: ''
         Maximum bldg. Sq. Ft.: ''
-      Commercial Uses (147):
+      Uses > Commercial Uses (147):
         Minimum Required Area: '* If development within the district is proposed to be in a park-type setting (multiple parcels on a single tract of land) the minimum parcel size shall be increased to three (3) acres.'
         Front Setback: '* If development within the district is proposed to be in a park-type setting (multiple parcels on a single tract of land) the minimum parcel size shall be increased to three (3) acres.'
         Side Setback: '* If development within the district is proposed to be in a park-type setting (multiple parcels on a single tract of land) the minimum parcel size shall be increased to three (3) acres.'
@@ -1958,7 +1958,7 @@ Table 2-1 DIMENSIONAL AND DENSITY STANDARDS:
         Minimum Building Separation: '* If development within the district is proposed to be in a park-type setting (multiple parcels on a single tract of land) the minimum parcel size shall be increased to three (3) acres.'
         Maximum bldg. Sq. Ft.: '* If development within the district is proposed to be in a park-type setting (multiple parcels on a single tract of land) the minimum parcel size shall be increased to three (3) acres.'
     ME1 - Inpatient Medical Services:
-      Commercial Uses:
+      Uses > Commercial Uses:
         Minimum Required Area: 10,000 SF
         Front Setback: 25'
         Side Setback: 10'
@@ -1972,7 +1972,7 @@ Table 2-1 DIMENSIONAL AND DENSITY STANDARDS:
         Minimum Building Separation: ''
         Maximum bldg. Sq. Ft.: ''
     ME2 - Outpatient Medical Services:
-      Commercial Uses:
+      Uses > Commercial Uses:
         Minimum Required Area: ½ Acre (21,780 SF)
         Front Setback: 50'
         Side Setback: 25'
@@ -1986,7 +1986,7 @@ Table 2-1 DIMENSIONAL AND DENSITY STANDARDS:
         Minimum Building Separation: ''
         Maximum bldg. Sq. Ft.: ''
     AC - Amusement Commercial:
-      Commercial Uses:
+      Uses > Commercial Uses:
         Minimum Required Area: 15,000 SF
         Front Setback: 50'
         Side Setback: 10' *
@@ -1999,7 +1999,7 @@ Table 2-1 DIMENSIONAL AND DENSITY STANDARDS:
         Maximum Lot Coverage: ''
         Minimum Building Separation: ''
         Maximum bldg. Sq. Ft.: ''
-      Commercial Uses (151):
+      Uses > Commercial Uses (151):
         Minimum Required Area: '* Where the district abuts any Residential Zoning District not separated by a street right-of-way, a minimum side yard of thirty (30) feet of the side abutting said residential district shall be required.'
         Front Setback: '* Where the district abuts any Residential Zoning District not separated by a street right-of-way, a minimum side yard of thirty (30) feet of the side abutting said residential district shall be required.'
         Side Setback: '* Where the district abuts any Residential Zoning District not separated by a street right-of-way, a minimum side yard of thirty (30) feet of the side abutting said residential district shall be required.'
@@ -2013,7 +2013,7 @@ Table 2-1 DIMENSIONAL AND DENSITY STANDARDS:
         Minimum Building Separation: '* Where the district abuts any Residential Zoning District not separated by a street right-of-way, a minimum side yard of thirty (30) feet of the side abutting said residential district shall be required.'
         Maximum bldg. Sq. Ft.: '* Where the district abuts any Residential Zoning District not separated by a street right-of-way, a minimum side yard of thirty (30) feet of the side abutting said residential district shall be required.'
     AM1 - Indoor Amusement Commercial:
-      Commercial Uses:
+      Uses > Commercial Uses:
         Minimum Required Area: 10,000 SF
         Front Setback: 25'
         Side Setback: 10'
@@ -2027,7 +2027,7 @@ Table 2-1 DIMENSIONAL AND DENSITY STANDARDS:
         Minimum Building Separation: ''
         Maximum bldg. Sq. Ft.: ''
     AM2 - Outdoor Amusement Commercial:
-      Commercial Uses:
+      Uses > Commercial Uses:
         Minimum Required Area: ½ Acre (21,780 SF)
         Front Setback: 50'
         Side Setback: 10'
@@ -2041,7 +2041,7 @@ Table 2-1 DIMENSIONAL AND DENSITY STANDARDS:
         Minimum Building Separation: ''
         Maximum bldg. Sq. Ft.: ''
     CR - Commercial Recreation:
-      Commercial Uses:
+      Uses > Commercial Uses:
         Minimum Required Area: 10,000 SF
         Front Setback: 50'
         Side Setback: 10'
@@ -2054,7 +2054,7 @@ Table 2-1 DIMENSIONAL AND DENSITY STANDARDS:
         Maximum Lot Coverage: ''
         Minimum Building Separation: ''
         Maximum bldg. Sq. Ft.: ''
-      Residential Uses:
+      Uses > Residential Uses:
         Minimum Required Area: Reference Table 2-2 for requirements
         Front Setback: Reference Table 2-2 for requirements
         Side Setback: Reference Table 2-2 for requirements
@@ -2068,7 +2068,7 @@ Table 2-1 DIMENSIONAL AND DENSITY STANDARDS:
         Minimum Building Separation: Reference Table 2-2 for requirements
         Maximum bldg. Sq. Ft.: Reference Table 2-2 for requirements
     RC - Resort Commercial:
-      Single-Family:
+      Uses > Single-Family:
         Minimum Required Area: 6,000 SF
         Front Setback: 20'
         Side Setback: 10'
@@ -2081,7 +2081,7 @@ Table 2-1 DIMENSIONAL AND DENSITY STANDARDS:
         Maximum Lot Coverage: ''
         Minimum Building Separation: 20'
         Maximum bldg. Sq. Ft.: ''
-      Duplex:
+      Uses > Duplex:
         Minimum Required Area: 8,000 SF
         Front Setback: 20'
         Side Setback: 10'
@@ -2094,7 +2094,7 @@ Table 2-1 DIMENSIONAL AND DENSITY STANDARDS:
         Maximum Lot Coverage: ''
         Minimum Building Separation: 20'
         Maximum bldg. Sq. Ft.: ''
-      Semi-Detached:
+      Uses > Semi-Detached:
         Minimum Required Area: 4,000 SF per d/u
         Front Setback: 20'
         Side Setback: 10'
@@ -2107,7 +2107,7 @@ Table 2-1 DIMENSIONAL AND DENSITY STANDARDS:
         Maximum Lot Coverage: ''
         Minimum Building Separation: 20'
         Maximum bldg. Sq. Ft.: ''
-      Garden City Overlay Single Family (Lots which allow a height of 55' or greater):
+      Uses > Garden City Overlay Single Family (Lots which allow a height of 55' or greater):
         Minimum Required Area: 3,600 SF
         Front Setback: 20'
         Side Setback: 5'
@@ -2120,7 +2120,7 @@ Table 2-1 DIMENSIONAL AND DENSITY STANDARDS:
         Maximum Lot Coverage: ''
         Minimum Building Separation: ''
         Maximum bldg. Sq. Ft.: ''
-      Townhouse:
+      Uses > Townhouse:
         Minimum Required Area: 1 Acre (43,560 SF)
         Front Setback: 30'
         Side Setback: 20'
@@ -2133,7 +2133,7 @@ Table 2-1 DIMENSIONAL AND DENSITY STANDARDS:
         Maximum Lot Coverage: ''
         Minimum Building Separation: 20'
         Maximum bldg. Sq. Ft.: ''
-      Multi-Family:
+      Uses > Multi-Family:
         Minimum Required Area: 1 Acre (43,560 SF)
         Front Setback: 30'
         Side Setback: 20'
@@ -2146,7 +2146,7 @@ Table 2-1 DIMENSIONAL AND DENSITY STANDARDS:
         Maximum Lot Coverage: ''
         Minimum Building Separation: 20'
         Maximum bldg. Sq. Ft.: ''
-      Multi-Family (162):
+      Uses > Multi-Family (162):
         Minimum Required Area: '* Rear setback increases to 30'' if property adjoins a marsh or ocean.'
         Front Setback: '* Rear setback increases to 30'' if property adjoins a marsh or ocean.'
         Side Setback: '* Rear setback increases to 30'' if property adjoins a marsh or ocean.'
@@ -2159,7 +2159,7 @@ Table 2-1 DIMENSIONAL AND DENSITY STANDARDS:
         Maximum Lot Coverage: '* Rear setback increases to 30'' if property adjoins a marsh or ocean.'
         Minimum Building Separation: '* Rear setback increases to 30'' if property adjoins a marsh or ocean.'
         Maximum bldg. Sq. Ft.: '* Rear setback increases to 30'' if property adjoins a marsh or ocean.'
-      Commercial Uses:
+      Uses > Commercial Uses:
         Minimum Required Area: 25,000 SF
         Front Setback: 40'
         Side Setback: 30'
@@ -2187,7 +2187,7 @@ Table 2-1 DIMENSIONAL AND DENSITY STANDARDS:
         Minimum Building Separation: See Requirements in Section 208
         Maximum bldg. Sq. Ft.: See Requirements in Section 208
     BO1 - Boating/Marine Commercial:
-      Commercial Uses:
+      Uses > Commercial Uses:
         Minimum Required Area: 10,000 SF
         Front Setback: 40'
         Side Setback: 10'
@@ -2201,7 +2201,7 @@ Table 2-1 DIMENSIONAL AND DENSITY STANDARDS:
         Minimum Building Separation: ''
         Maximum bldg. Sq. Ft.: ''
     PA1 - Passenger & Product Transportation:
-      Commercial Uses:
+      Uses > Commercial Uses:
         Minimum Required Area: ½ Acre (21,780 SF)
         Front Setback: 50'
         Side Setback: 10'
@@ -2215,7 +2215,7 @@ Table 2-1 DIMENSIONAL AND DENSITY STANDARDS:
         Minimum Building Separation: ''
         Maximum bldg. Sq. Ft.: ''
     LI - Limited Industrial:
-      Commercial Uses:
+      Uses > Commercial Uses:
         Minimum Required Area: ½ Acre (21,780 SF)
         Front Setback: 50'
         Side Setback: 20'
@@ -2229,7 +2229,7 @@ Table 2-1 DIMENSIONAL AND DENSITY STANDARDS:
         Minimum Building Separation: ''
         Maximum bldg. Sq. Ft.: ''
     MA1 - Limited Manufacturing and Industrial:
-      Commercial Uses:
+      Uses > Commercial Uses:
         Minimum Required Area: ½ Acre (21,780 SF)
         Front Setback: 50'
         Side Setback: 25'
@@ -2243,7 +2243,7 @@ Table 2-1 DIMENSIONAL AND DENSITY STANDARDS:
         Minimum Building Separation: ''
         Maximum bldg. Sq. Ft.: ''
     MA2 - General Manufacturing and Industrial:
-      Commercial Uses:
+      Uses > Commercial Uses:
         Minimum Required Area: ½ Acre (21,780 SF)
         Front Setback: 50'
         Side Setback: 25'
@@ -2257,7 +2257,7 @@ Table 2-1 DIMENSIONAL AND DENSITY STANDARDS:
         Minimum Building Separation: ''
         Maximum bldg. Sq. Ft.: ''
     MA3 - Heavy/Intense Manufacturing and Industrial:
-      Commercial Uses:
+      Uses > Commercial Uses:
         Minimum Required Area: 1 Acres (43,560 SF)
         Front Setback: 50'
         Side Setback: 25'
@@ -2271,7 +2271,7 @@ Table 2-1 DIMENSIONAL AND DENSITY STANDARDS:
         Minimum Building Separation: ''
         Maximum bldg. Sq. Ft.: ''
     HI - Heavy Industrial:
-      Commercial Uses:
+      Uses > Commercial Uses:
         Minimum Required Area: 10 Acres
         Front Setback: 200' *
         Side Setback: 50'
@@ -2284,7 +2284,7 @@ Table 2-1 DIMENSIONAL AND DENSITY STANDARDS:
         Maximum Lot Coverage: ''
         Minimum Building Separation: ''
         Maximum bldg. Sq. Ft.: ''
-      Commercial Uses (172):
+      Uses > Commercial Uses (172):
         Minimum Required Area: 10 Acres
         Front Setback: '* Minimum front yard, measured from the nearest abutting major street right-of-way line: Two Hundred (200) feet All other streets: fifty (50) feet.'
         Side Setback: '* Minimum front yard, measured from the nearest abutting major street right-of-way line: Two Hundred (200) feet All other streets: fifty (50) feet.'
@@ -2297,7 +2297,7 @@ Table 2-1 DIMENSIONAL AND DENSITY STANDARDS:
         Maximum Lot Coverage: '* Minimum front yard, measured from the nearest abutting major street right-of-way line: Two Hundred (200) feet All other streets: fifty (50) feet.'
         Minimum Building Separation: '* Minimum front yard, measured from the nearest abutting major street right-of-way line: Two Hundred (200) feet All other streets: fifty (50) feet.'
         Maximum bldg. Sq. Ft.: '* Minimum front yard, measured from the nearest abutting major street right-of-way line: Two Hundred (200) feet All other streets: fifty (50) feet.'
-      Heavy Industrial Park:
+      Uses > Heavy Industrial Park:
         Minimum Required Area: 10 Acres
         Front Setback: See Requirements in Table 2-4
         Side Setback: See Requirements in Table 2-4

@@ -76,14 +76,14 @@ Class:
       Illumination Allowed: 'Yes'
       Remarks: ''
     Building identification (multiple tenant):
-      Wall:
+      Type > Wall:
         Maximum Number: 1 per tenant per street frontage
         Maximum Sign Area: 1/2 sq. ft. of sign area per linear foot of building fronting on a street, 40 sq. ft. maximum
         Maximum Sign Height: Below eave line
         Location: Wall or canopy
         Illumination Allowed: 'Yes'
         Remarks: Copy shall pertain only to the name and/or address of the building. Illumination shall be reverse backlit, channel lit or indirectly illuminated.
-      Monument:
+      Type > Monument:
         Maximum Number: 1 per street frontage
         Maximum Sign Area: 1/2 sq. ft. of sign area per linear foot of building fronting on a street, 40 sq. ft. maximum
         Maximum Sign Height: 4 ft.1
@@ -273,14 +273,14 @@ Class:
         Remarks: Shall face away from the street.
     Service station:
       Service station identification:
-        Wall:
+        Type > Wall:
           Maximum Number: 1 per street frontage maximum 2
           Maximum Sign Area: 10% of building face not to exceed 50 sq. ft.
           Maximum Sign Height: Not above eave line or 20 ft., whichever is less
           Location: ''
           Illumination Allowed: 'Yes'
           Remarks: A combination of monument and wall may be used, but no more than a total of 3 signs. The monument sign shall be designed to include the identity of the station. Price signs are allowed in accordance with state regulations.
-        Monument:
+        Type > Monument:
           Maximum Number: 1 per street frontage maximum 2
           Maximum Sign Area: 36 sq. ft. per face
           Maximum Sign Height: 4 ft.

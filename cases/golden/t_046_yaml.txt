@@ -1,163 +1,94 @@
-Standards:
-  Functional Sign Types:
-    Advertising sign:
-      Zoning District > N-1: ''
-      Zoning District > R-1 > A: ''
-      Zoning District > R-2 > A: ''
-      Zoning District > R-3 > A: ''
-      Zoning District > MP > A: ''
-      Zoning District > B-1 > B: P
-      Zoning District > B-2 > C: ''
-      Zoning District > B-3 > D: ''
-      Zoning District > M-1 > D: P
-    Bulletin board:
-      Zoning District > N-1: ''
-      Zoning District > R-1 > A: ''
-      Zoning District > R-2 > A: ''
-      Zoning District > R-3 > A: ''
-      Zoning District > MP > A: P
-      Zoning District > B-1 > B: P
-      Zoning District > B-2 > C: P
-      Zoning District > B-3 > D: P
-      Zoning District > M-1 > D: P
-    Business sign:
-      Zoning District > N-1: P
-      Zoning District > R-1 > A: P
-      Zoning District > R-2 > A: P
-      Zoning District > R-3 > A: P
-      Zoning District > MP > A: P
-      Zoning District > B-1 > B: P
-      Zoning District > B-2 > C: P
-      Zoning District > B-3 > D: P
-      Zoning District > M-1 > D: P
-    Construction sign:
-      Zoning District > N-1: P
-      Zoning District > R-1 > A: P
-      Zoning District > R-2 > A: P
-      Zoning District > R-3 > A: P
-      Zoning District > MP > A: P
-      Zoning District > B-1 > B: P
-      Zoning District > B-2 > C: P
-      Zoning District > B-3 > D: P
-      Zoning District > M-1 > D: P
-    Identification sign:
-      Zoning District > N-1: P
-      Zoning District > R-1 > A: P
-      Zoning District > R-2 > A: P
-      Zoning District > R-3 > A: P
-      Zoning District > MP > A: P
-      Zoning District > B-1 > B: P
-      Zoning District > B-2 > C: P
-      Zoning District > B-3 > D: P
-      Zoning District > M-1 > D: P
-    Name plate sign:
-      Zoning District > N-1: P
-      Zoning District > R-1 > A: P
-      Zoning District > R-2 > A: P
-      Zoning District > R-3 > A: P
-      Zoning District > MP > A: P
-      Zoning District > B-1 > B: P
-      Zoning District > B-2 > C: P
-      Zoning District > B-3 > D: P
-      Zoning District > M-1 > D: P
-    Temporary sign:
-      Zoning District > N-1: P
-      Zoning District > R-1 > A: P
-      Zoning District > R-2 > A: P
-      Zoning District > R-3 > A: P
-      Zoning District > MP > A: P
-      Zoning District > B-1 > B: P
-      Zoning District > B-2 > C: P
-      Zoning District > B-3 > D: P
-      Zoning District > M-1 > D: P
-  Structural Sign Types:
-    Awning, canopy or marquee sign:
-      Zoning District > N-1: ''
-      Zoning District > R-1 > A: ''
-      Zoning District > R-2 > A: ''
-      Zoning District > R-3 > A: ''
-      Zoning District > MP > A: ''
-      Zoning District > B-1 > B: P
-      Zoning District > B-2 > C: P
-      Zoning District > B-3 > D: P
-      Zoning District > M-1 > D: P
-    Elevated sign:
-      Zoning District > N-1: ''
-      Zoning District > R-1 > A: ''
-      Zoning District > R-2 > A: ''
-      Zoning District > R-3 > A: ''
-      Zoning District > MP > A: ''
-      Zoning District > B-1 > B: ''
-      Zoning District > B-2 > C: ''
-      Zoning District > B-3 > D: P
-      Zoning District > M-1 > D: P
-    Ground sign:
-      Zoning District > N-1: ''
-      Zoning District > R-1 > A: ''
-      Zoning District > R-2 > A: ''
-      Zoning District > R-3 > A: ''
-      Zoning District > MP > A: ''
-      Zoning District > B-1 > B: P
-      Zoning District > B-2 > C: ''
-      Zoning District > B-3 > D: P
-      Zoning District > M-1 > D: P
-    Monument sign:
-      Zoning District > N-1: P
-      Zoning District > R-1 > A: P
-      Zoning District > R-2 > A: P
-      Zoning District > R-3 > A: P
-      Zoning District > MP > A: P
-      Zoning District > B-1 > B: P
-      Zoning District > B-2 > C: ''
-      Zoning District > B-3 > D: P
-      Zoning District > M-1 > D: P
-    Portable display sign:
-      Zoning District > N-1: ''
-      Zoning District > R-1 > A: ''
-      Zoning District > R-2 > A: ''
-      Zoning District > R-3 > A: ''
-      Zoning District > MP > A: ''
-      Zoning District > B-1 > B: ''
-      Zoning District > B-2 > C: ''
-      Zoning District > B-3 > D: P
-      Zoning District > M-1 > D: P
-    Projecting sign:
-      Zoning District > N-1: ''
-      Zoning District > R-1 > A: ''
-      Zoning District > R-2 > A: ''
-      Zoning District > R-3 > A: ''
-      Zoning District > MP > A: ''
-      Zoning District > B-1 > B: P
-      Zoning District > B-2 > C: P
-      Zoning District > B-3 > D: P
-      Zoning District > M-1 > D: P
-    Wall sign:
-      Zoning District > N-1: ''
-      Zoning District > R-1 > A: ''
-      Zoning District > R-2 > A: ''
-      Zoning District > R-3 > A: ''
-      Zoning District > MP > A: ''
-      Zoning District > B-1 > B: P
-      Zoning District > B-2 > C: P
-      Zoning District > B-3 > D: P
-      Zoning District > M-1 > D: P
-    Roof sign:
-      Zoning District > N-1: ''
-      Zoning District > R-1 > A: ''
-      Zoning District > R-2 > A: ''
-      Zoning District > R-3 > A: ''
-      Zoning District > MP > A: ''
-      Zoning District > B-1 > B: ''
-      Zoning District > B-2 > C: ''
-      Zoning District > B-3 > D: ''
-      Zoning District > M-1 > D: C
-    Window sign:
-      Zoning District > N-1: ''
-      Zoning District > R-1 > A: ''
-      Zoning District > R-2 > A: ''
-      Zoning District > R-3 > A: ''
-      Zoning District > MP > A: ''
-      Zoning District > B-1 > B: P
-      Zoning District > B-2 > C: P
-      Zoning District > B-3 > D: P
-      Zoning District > M-1 > D: P
+TABLE 14.C | OFF STREET LOADING REQUIREMENTS:
+  Type Of Use:
+    Commercial uses:
+      Automotive uses:
+        Size > 0 - 29,999 sq. ft.:
+          Space Required: '1'
+        Size > 30,000 - 69,999 sq. ft.:
+          Space Required: '2'
+        Size > 70,000 - 120,000 sq. ft.:
+          Space Required: '3'
+        Size > For each additional 50,000 gross square feet over 120,000:
+          Space Required: '1'
+      General retail and business services, eating and drinking facilities:
+        Size > 0 - 4,999 sq. ft.:
+          Space Required: '1'
+        Size > 5,000 - 29,000 sq. ft.:
+          Space Required: '2'
+        Size > 30,000 - 69,999 sq. ft.:
+          Space Required: '3'
+        Size > 70,000 - 120,000 sq. ft.:
+          Space Required: '4'
+        Size > For each additional 50,000 sq. ft. over 120,000 sq. ft.:
+          Space Required: '1'
+      Hotel, motel:
+        Size > 0 - 9,999 sq. ft.:
+          Space Required: '0'
+        Size > 10,000 - 99,999 sq. ft.:
+          Space Required: '1'
+        Size > 100,000 - 199,999 sq. ft.:
+          Space Required: '2'
+        Size > Over 200,000 sq. ft.:
+          Space Required: '3'
+      'Offices: administrative, business, professional, medical, veterinary':
+        Size > 0 - 9,999 sq. ft.:
+          Space Required: '0'
+        Size > 10,000 - 99,999 sq. ft.:
+          Space Required: '1'
+        Size > 100,000 - 199,999 sq. ft.:
+          Space Required: '2'
+        Size > Over 200,000 sq. ft.:
+          Space Required: '3'
+    Industrial uses:
+      Manufacturing, warehouse and distribution:
+        Size > 0 - 29,999 sq. ft.:
+          Space Required: '1'
+        Size > 30,000 - 69,999 sq. ft.:
+          Space Required: '2'
+        Size > 70,000 - 120,000 sq. ft.:
+          Space Required: '3'
+        Size > For each additional 50,000 gross square feet over 120,000:
+          Space Required: '1'
+      Research and development:
+        Size > 0 - 9,999 sq. ft.:
+          Space Required: '1'
+        Size > 10,000 - 99,999 sq. ft.:
+          Space Required: '2'
+        Size > 100,000 - 199,999 sq. ft.:
+          Space Required: '3'
+        Size > Over 200,000 sq. ft.:
+          Space Required: '4'
+    'Medical and health services:':
+      Size: ''
+      Space Required: '2'
+    Convalescent and nursing homes:
+      Size: ''
+      Space Required: '2'
+    Hospitals:
+      Size > 0 - 9,999 sq. ft.:
+        Space Required: '1'
+      Size > 10,000 - 99,999 sq. ft.:
+        Space Required: '2'
+      Size > 100,000 - 199,999 sq. ft.:
+        Space Required: '3'
+      Size > Over 200,000 sq. ft.:
+        Space Required: '4'
+    Medical, dental offices and clinics; veterinary hospitals and clinics:
+      Size > 0 - 9,999 sq. ft.:
+        Space Required: '0'
+      Size > 10,000 - 99,999 sq. ft.:
+        Space Required: '1'
+      Size > 100,000 - 199,999 sq. ft.:
+        Space Required: '2'
+      Size > Over 200,000 sq. ft.:
+        Space Required: '3'
+    Residential uses:
+      Mobilehome parks and subdivisions:
+        Size: ''
+        Space Required: None
+      Senior housing (where meals are provided in common dining facilities):
+        Size: ''
+        Space Required: '2'
+      Single-family detached, single-family attached, multiple-family, model home complexes:
+        Size: ''
+        Space Required: None

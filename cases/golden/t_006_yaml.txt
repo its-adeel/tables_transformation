@@ -2,7 +2,7 @@ Table 7.24-1 Allowed Uses | P - Permitted Use S = Special Review Use Districts i
   Use Category:
     Residential Uses:
       Household Living:
-        Dwelling, Single-Family Detached:
+        Use Type > Dwelling, Single-Family Detached:
           Residential > RD: P
           Residential > RL: P
           Residential > RM: ''
@@ -19,7 +19,7 @@ Table 7.24-1 Allowed Uses | P - Permitted Use S = Special Review Use Districts i
           Nonresidential > IC: ''
           Nonresidential > OLD: ''
           Use-Specific Regulations: ''
-        Dwelling, Two-Family/ Duplex:
+        Use Type > Dwelling, Two-Family/ Duplex:
           Residential > RD: P
           Residential > RL: P
           Residential > RM: P
@@ -36,7 +36,7 @@ Table 7.24-1 Allowed Uses | P - Permitted Use S = Special Review Use Districts i
           Nonresidential > IC: ''
           Nonresidential > OLD: ''
           Use-Specific Regulations: ''
-        Dwelling, Townhouse:
+        Use Type > Dwelling, Townhouse:
           Residential > RD: ''
           Residential > RL: ''
           Residential > RM: P
@@ -53,7 +53,7 @@ Table 7.24-1 Allowed Uses | P - Permitted Use S = Special Review Use Districts i
           Nonresidential > IC: ''
           Nonresidential > OLD: ''
           Use-Specific Regulations: ''
-        Dwelling, Multi-Family:
+        Use Type > Dwelling, Multi-Family:
           Residential > RD: ''
           Residential > RL: ''
           Residential > RM: P [1]
@@ -70,7 +70,7 @@ Table 7.24-1 Allowed Uses | P - Permitted Use S = Special Review Use Districts i
           Nonresidential > IC: ''
           Nonresidential > OLD: ''
           Use-Specific Regulations: '[1] Limited to 8 units per building in RM'
-        Community Housing:
+        Use Type > Community Housing:
           Residential > RD: P
           Residential > RL: P
           Residential > RM: P
@@ -87,7 +87,7 @@ Table 7.24-1 Allowed Uses | P - Permitted Use S = Special Review Use Districts i
           Nonresidential > IC: P
           Nonresidential > OLD: P
           Use-Specific Regulations: ''
-        Dwelling, live/ work:
+        Use Type > Dwelling, live/ work:
           Residential > RD: ''
           Residential > RL: S
           Residential > RM: S
@@ -104,7 +104,7 @@ Table 7.24-1 Allowed Uses | P - Permitted Use S = Special Review Use Districts i
           Nonresidential > IC: ''
           Nonresidential > OLD: ''
           Use-Specific Regulations: ''
-        Accessory DU:
+        Use Type > Accessory DU:
           Residential > RD: S
           Residential > RL: S
           Residential > RM: S
@@ -121,7 +121,7 @@ Table 7.24-1 Allowed Uses | P - Permitted Use S = Special Review Use Districts i
           Nonresidential > IC: S
           Nonresidential > OLD: ''
           Use-Specific Regulations: SF/DU Units Only
-        Dwelling, timeshare, interval ownership or fractional fee ownership/ vacation club:
+        Use Type > Dwelling, timeshare, interval ownership or fractional fee ownership/ vacation club:
           Residential > RD: ''
           Residential > RL: ''
           Residential > RM: ''
@@ -139,7 +139,7 @@ Table 7.24-1 Allowed Uses | P - Permitted Use S = Special Review Use Districts i
           Nonresidential > OLD: ''
           Use-Specific Regulations: 7.24.050 (d) 7.24.060 (a)
       Group Living:
-        Group homes:
+        Use Type > Group homes:
           Residential > RD: ''
           Residential > RL: S
           Residential > RM: S
@@ -156,7 +156,7 @@ Table 7.24-1 Allowed Uses | P - Permitted Use S = Special Review Use Districts i
           Nonresidential > IC: ''
           Nonresidential > OLD: ''
           Use-Specific Regulations: 7.24.060 (b)
-        Retirement home, nursing home or assisted living facility:
+        Use Type > Retirement home, nursing home or assisted living facility:
           Residential > RD: S
           Residential > RL: S
           Residential > RM: S
@@ -174,7 +174,7 @@ Table 7.24-1 Allowed Uses | P - Permitted Use S = Special Review Use Districts i
           Nonresidential > OLD: ''
           Use-Specific Regulations: ''
       Accommodation:
-        Bed and breakfast:
+        Use Type > Bed and breakfast:
           Residential > RD: S
           Residential > RL: S
           Residential > RM: S
@@ -191,7 +191,7 @@ Table 7.24-1 Allowed Uses | P - Permitted Use S = Special Review Use Districts i
           Nonresidential > IC: ''
           Nonresidential > OLD: ''
           Use-Specific Regulations: ''
-        Hotel, motel and lodge:
+        Use Type > Hotel, motel and lodge:
           Residential > RD: ''
           Residential > RL: ''
           Residential > RM: ''
@@ -210,7 +210,7 @@ Table 7.24-1 Allowed Uses | P - Permitted Use S = Special Review Use Districts i
           Use-Specific Regulations: ''
     Public and Institutional Uses:
       Community Services:
-        Art gallery or museum:
+        Use Type > Art gallery or museum:
           Residential > RD: ''
           Residential > RL: ''
           Residential > RM: ''
@@ -227,7 +227,7 @@ Table 7.24-1 Allowed Uses | P - Permitted Use S = Special Review Use Districts i
           Nonresidential > IC: ''
           Nonresidential > OLD: ''
           Use-Specific Regulations: ''
-        Community centers:
+        Use Type > Community centers:
           Residential > RD: S
           Residential > RL: S
           Residential > RM: S
@@ -244,7 +244,7 @@ Table 7.24-1 Allowed Uses | P - Permitted Use S = Special Review Use Districts i
           Nonresidential > IC: ''
           Nonresidential > OLD: ''
           Use-Specific Regulations: ''
-        Library:
+        Use Type > Library:
           Residential > RD: ''
           Residential > RL: ''
           Residential > RM: ''
@@ -261,7 +261,7 @@ Table 7.24-1 Allowed Uses | P - Permitted Use S = Special Review Use Districts i
           Nonresidential > IC: ''
           Nonresidential > OLD: ''
           Use-Specific Regulations: 7.24.050 (a)
-        Government services, offices and facilities:
+        Use Type > Government services, offices and facilities:
           Residential > RD: ''
           Residential > RL: ''
           Residential > RM: ''
@@ -278,7 +278,7 @@ Table 7.24-1 Allowed Uses | P - Permitted Use S = Special Review Use Districts i
           Nonresidential > IC: ''
           Nonresidential > OLD: P
           Use-Specific Regulations: 7.24.050 (a)
-        Post office branches:
+        Use Type > Post office branches:
           Residential > RD: ''
           Residential > RL: ''
           Residential > RM: ''
@@ -295,7 +295,7 @@ Table 7.24-1 Allowed Uses | P - Permitted Use S = Special Review Use Districts i
           Nonresidential > IC: ''
           Nonresidential > OLD: ''
           Use-Specific Regulations: ''
-        Religious assembly:
+        Use Type > Religious assembly:
           Residential > RD: S
           Residential > RL: S
           Residential > RM: S
@@ -313,7 +313,7 @@ Table 7.24-1 Allowed Uses | P - Permitted Use S = Special Review Use Districts i
           Nonresidential > OLD: ''
           Use-Specific Regulations: ''
       Child Care:
-        Preschool, nursery school:
+        Use Type > Preschool, nursery school:
           Residential > RD: S
           Residential > RL: S
           Residential > RM: S
@@ -330,7 +330,7 @@ Table 7.24-1 Allowed Uses | P - Permitted Use S = Special Review Use Districts i
           Nonresidential > IC: S
           Nonresidential > OLD: ''
           Use-Specific Regulations: 7.24.060 (c)
-        Family Child Care Home:
+        Use Type > Family Child Care Home:
           Residential > RD: P
           Residential > RL: P
           Residential > RM: P
@@ -347,7 +347,7 @@ Table 7.24-1 Allowed Uses | P - Permitted Use S = Special Review Use Districts i
           Nonresidential > IC: P
           Nonresidential > OLD: ''
           Use-Specific Regulations: 7.24.050 (d)
-        Child care center:
+        Use Type > Child care center:
           Residential > RD: ''
           Residential > RL: ''
           Residential > RM: S
@@ -365,7 +365,7 @@ Table 7.24-1 Allowed Uses | P - Permitted Use S = Special Review Use Districts i
           Nonresidential > OLD: ''
           Use-Specific Regulations: 7.24.060 (c)
       Educational Facilities:
-        College or university (nonexempt):
+        Use Type > College or university (nonexempt):
           Residential > RD: ''
           Residential > RL: ''
           Residential > RM: ''
@@ -382,7 +382,7 @@ Table 7.24-1 Allowed Uses | P - Permitted Use S = Special Review Use Districts i
           Nonresidential > IC: P
           Nonresidential > OLD: ''
           Use-Specific Regulations: 7.24.050 (a)
-        School, K-12 (public and private):
+        Use Type > School, K-12 (public and private):
           Residential > RD: P
           Residential > RL: P
           Residential > RM: P
@@ -399,7 +399,7 @@ Table 7.24-1 Allowed Uses | P - Permitted Use S = Special Review Use Districts i
           Nonresidential > IC: ''
           Nonresidential > OLD: ''
           Use-Specific Regulations: 7.24.050 (a)
-        School, vocational- technical and trade:
+        Use Type > School, vocational- technical and trade:
           Residential > RD: ''
           Residential > RL: ''
           Residential > RM: ''
@@ -417,7 +417,7 @@ Table 7.24-1 Allowed Uses | P - Permitted Use S = Special Review Use Districts i
           Nonresidential > OLD: ''
           Use-Specific Regulations: 7.24.050 (a)
       Parks and Open Space:
-        Arboretum or botanical garden:
+        Use Type > Arboretum or botanical garden:
           Residential > RD: ''
           Residential > RL: ''
           Residential > RM: ''
@@ -434,7 +434,7 @@ Table 7.24-1 Allowed Uses | P - Permitted Use S = Special Review Use Districts i
           Nonresidential > IC: ''
           Nonresidential > OLD: ''
           Use-Specific Regulations: 7.24.050 (b)
-        Community garden:
+        Use Type > Community garden:
           Residential > RD: P
           Residential > RL: P
           Residential > RM: P
@@ -451,7 +451,7 @@ Table 7.24-1 Allowed Uses | P - Permitted Use S = Special Review Use Districts i
           Nonresidential > IC: ''
           Nonresidential > OLD: ''
           Use-Specific Regulations: ''
-        Community playfields and parks:
+        Use Type > Community playfields and parks:
           Residential > RD: ''
           Residential > RL: ''
           Residential > RM: ''
@@ -468,7 +468,7 @@ Table 7.24-1 Allowed Uses | P - Permitted Use S = Special Review Use Districts i
           Nonresidential > IC: ''
           Nonresidential > OLD: ''
           Use-Specific Regulations: ''
-        Golf course:
+        Use Type > Golf course:
           Residential > RD: P
           Residential > RL: P
           Residential > RM: P
@@ -485,7 +485,7 @@ Table 7.24-1 Allowed Uses | P - Permitted Use S = Special Review Use Districts i
           Nonresidential > IC: ''
           Nonresidential > OLD: ''
           Use-Specific Regulations: ''
-        Parks and forest preserves (private, not-for-profit:
+        Use Type > Parks and forest preserves (private, not-for-profit:
           Residential > RD: ''
           Residential > RL: ''
           Residential > RM: ''
@@ -502,7 +502,7 @@ Table 7.24-1 Allowed Uses | P - Permitted Use S = Special Review Use Districts i
           Nonresidential > IC: ''
           Nonresidential > OLD: P
           Use-Specific Regulations: ''
-        Public dog parks:
+        Use Type > Public dog parks:
           Residential > RD: P
           Residential > RL: P
           Residential > RM: P
@@ -520,7 +520,7 @@ Table 7.24-1 Allowed Uses | P - Permitted Use S = Special Review Use Districts i
           Nonresidential > OLD: ''
           Use-Specific Regulations: ''
       Transporta- tion:
-        Bus terminal:
+        Use Type > Bus terminal:
           Residential > RD: ''
           Residential > RL: ''
           Residential > RM: ''
@@ -537,7 +537,7 @@ Table 7.24-1 Allowed Uses | P - Permitted Use S = Special Review Use Districts i
           Nonresidential > IC: ''
           Nonresidential > OLD: ''
           Use-Specific Regulations: 7.24.060 (d)
-        Rail terminal (passenger):
+        Use Type > Rail terminal (passenger):
           Residential > RD: ''
           Residential > RL: ''
           Residential > RM: ''
@@ -554,7 +554,7 @@ Table 7.24-1 Allowed Uses | P - Permitted Use S = Special Review Use Districts i
           Nonresidential > IC: ''
           Nonresidential > OLD: ''
           Use-Specific Regulations: ''
-        Commercial parking facilities (surface & structure):
+        Use Type > Commercial parking facilities (surface & structure):
           Residential > RD: ''
           Residential > RL: ''
           Residential > RM: ''
@@ -572,7 +572,7 @@ Table 7.24-1 Allowed Uses | P - Permitted Use S = Special Review Use Districts i
           Nonresidential > OLD: ''
           Use-Specific Regulations: ''
       Utility:
-        Major energy facilities:
+        Use Type > Major energy facilities:
           Residential > RD: ''
           Residential > RL: ''
           Residential > RM: ''
@@ -589,7 +589,7 @@ Table 7.24-1 Allowed Uses | P - Permitted Use S = Special Review Use Districts i
           Nonresidential > IC: S
           Nonresidential > OLD: ''
           Use-Specific Regulations: ''
-        Public utility substations where no public office, repair or storage facilities are maintained:
+        Use Type > Public utility substations where no public office, repair or storage facilities are maintained:
           Residential > RD: S
           Residential > RL: S
           Residential > RM: S
@@ -606,7 +606,7 @@ Table 7.24-1 Allowed Uses | P - Permitted Use S = Special Review Use Districts i
           Nonresidential > IC: S
           Nonresidential > OLD: ''
           Use-Specific Regulations: ''
-        Ground mounted solar devices:
+        Use Type > Ground mounted solar devices:
           Residential > RD: ''
           Residential > RL: ''
           Residential > RM: ''
@@ -623,7 +623,7 @@ Table 7.24-1 Allowed Uses | P - Permitted Use S = Special Review Use Districts i
           Nonresidential > IC: S
           Nonresidential > OLD: ''
           Use-Specific Regulations: ''
-        Small wind energy system:
+        Use Type > Small wind energy system:
           Residential > RD: S
           Residential > RL: S
           Residential > RM: S
@@ -640,7 +640,7 @@ Table 7.24-1 Allowed Uses | P - Permitted Use S = Special Review Use Districts i
           Nonresidential > IC: S
           Nonresidential > OLD: S
           Use-Specific Regulations: ''
-        Wireless com- munication tower and/or antenna:
+        Use Type > Wireless com- munication tower and/or antenna:
           Residential > RD: S
           Residential > RL: S
           Residential > RM: S
@@ -659,7 +659,7 @@ Table 7.24-1 Allowed Uses | P - Permitted Use S = Special Review Use Districts i
           Use-Specific Regulations: ''
     Commercial Uses:
       Animal sales and services:
-        Kennel or Animal Boarding:
+        Use Type > Kennel or Animal Boarding:
           Residential > RD: ''
           Residential > RL: ''
           Residential > RM: ''
@@ -676,7 +676,7 @@ Table 7.24-1 Allowed Uses | P - Permitted Use S = Special Review Use Districts i
           Nonresidential > IC: S
           Nonresidential > OLD: ''
           Use-Specific Regulations: 7.24.060 (e)(3)
-        Pet shops:
+        Use Type > Pet shops:
           Residential > RD: ''
           Residential > RL: ''
           Residential > RM: ''
@@ -693,7 +693,7 @@ Table 7.24-1 Allowed Uses | P - Permitted Use S = Special Review Use Districts i
           Nonresidential > IC: ''
           Nonresidential > OLD: ''
           Use-Specific Regulations: ''
-        Veterinary clinic, small (indoor only):
+        Use Type > Veterinary clinic, small (indoor only):
           Residential > RD: ''
           Residential > RL: ''
           Residential > RM: ''
@@ -710,7 +710,7 @@ Table 7.24-1 Allowed Uses | P - Permitted Use S = Special Review Use Districts i
           Nonresidential > IC: ''
           Nonresidential > OLD: ''
           Use-Specific Regulations: ''
-        Veterinary clinic, large (with outdoor runs):
+        Use Type > Veterinary clinic, large (with outdoor runs):
           Residential > RD: ''
           Residential > RL: ''
           Residential > RM: ''
@@ -727,7 +727,7 @@ Table 7.24-1 Allowed Uses | P - Permitted Use S = Special Review Use Districts i
           Nonresidential > IC: S
           Nonresidential > OLD: ''
           Use-Specific Regulations: ''
-        Auction House:
+        Use Type > Auction House:
           Residential > RD: ''
           Residential > RL: ''
           Residential > RM: ''
@@ -745,7 +745,7 @@ Table 7.24-1 Allowed Uses | P - Permitted Use S = Special Review Use Districts i
           Nonresidential > OLD: ''
           Use-Specific Regulations: ''
       Assembly:
-        Auction yard:
+        Use Type > Auction yard:
           Residential > RD: ''
           Residential > RL: ''
           Residential > RM: ''
@@ -762,7 +762,7 @@ Table 7.24-1 Allowed Uses | P - Permitted Use S = Special Review Use Districts i
           Nonresidential > IC: P
           Nonresidential > OLD: ''
           Use-Specific Regulations: ''
-        Membership clubs:
+        Use Type > Membership clubs:
           Residential > RD: ''
           Residential > RL: ''
           Residential > RM: ''
@@ -780,7 +780,7 @@ Table 7.24-1 Allowed Uses | P - Permitted Use S = Special Review Use Districts i
           Nonresidential > OLD: ''
           Use-Specific Regulations: ''
       Financial Service:
-        Financial institution, with drive- thru:
+        Use Type > Financial institution, with drive- thru:
           Residential > RD: ''
           Residential > RL: ''
           Residential > RM: ''
@@ -797,7 +797,7 @@ Table 7.24-1 Allowed Uses | P - Permitted Use S = Special Review Use Districts i
           Nonresidential > IC: ''
           Nonresidential > OLD: ''
           Use-Specific Regulations: 7.24.060 (f)
-        Financial institution, without drive-thru:
+        Use Type > Financial institution, without drive-thru:
           Residential > RD: ''
           Residential > RL: ''
           Residential > RM: ''
@@ -815,7 +815,7 @@ Table 7.24-1 Allowed Uses | P - Permitted Use S = Special Review Use Districts i
           Nonresidential > OLD: ''
           Use-Specific Regulations: ''
       Food and Beverage Services:
-        Bakeries:
+        Use Type > Bakeries:
           Residential > RD: ''
           Residential > RL: ''
           Residential > RM: ''
@@ -832,7 +832,7 @@ Table 7.24-1 Allowed Uses | P - Permitted Use S = Special Review Use Districts i
           Nonresidential > IC: ''
           Nonresidential > OLD: ''
           Use-Specific Regulations: ''
-        Bars or taverns:
+        Use Type > Bars or taverns:
           Residential > RD: ''
           Residential > RL: ''
           Residential > RM: ''
@@ -849,7 +849,7 @@ Table 7.24-1 Allowed Uses | P - Permitted Use S = Special Review Use Districts i
           Nonresidential > IC: ''
           Nonresidential > OLD: ''
           Use-Specific Regulations: 7.24.060 (h)(2)
-        Coffee shops or specialty drink shops:
+        Use Type > Coffee shops or specialty drink shops:
           Residential > RD: ''
           Residential > RL: ''
           Residential > RM: ''
@@ -866,7 +866,7 @@ Table 7.24-1 Allowed Uses | P - Permitted Use S = Special Review Use Districts i
           Nonresidential > IC: ''
           Nonresidential > OLD: ''
           Use-Specific Regulations: ''
-        Restaurant, with drive-in or drive-thru:
+        Use Type > Restaurant, with drive-in or drive-thru:
           Residential > RD: ''
           Residential > RL: ''
           Residential > RM: ''
@@ -883,7 +883,7 @@ Table 7.24-1 Allowed Uses | P - Permitted Use S = Special Review Use Districts i
           Nonresidential > IC: ''
           Nonresidential > OLD: ''
           Use-Specific Regulations: 7.24.060 (g)
-        Restaurant without drive-in or drive-thru:
+        Use Type > Restaurant without drive-in or drive-thru:
           Residential > RD: ''
           Residential > RL: ''
           Residential > RM: ''
@@ -901,7 +901,7 @@ Table 7.24-1 Allowed Uses | P - Permitted Use S = Special Review Use Districts i
           Nonresidential > OLD: ''
           Use-Specific Regulations: ''
       Health Care Facilities:
-        Medical center/ hospital:
+        Use Type > Medical center/ hospital:
           Residential > RD: ''
           Residential > RL: ''
           Residential > RM: ''
@@ -918,7 +918,7 @@ Table 7.24-1 Allowed Uses | P - Permitted Use S = Special Review Use Districts i
           Nonresidential > IC: ''
           Nonresidential > OLD: ''
           Use-Specific Regulations: ''
-        Urgent care facility:
+        Use Type > Urgent care facility:
           Residential > RD: ''
           Residential > RL: ''
           Residential > RM: ''
@@ -935,7 +935,7 @@ Table 7.24-1 Allowed Uses | P - Permitted Use S = Special Review Use Districts i
           Nonresidential > IC: ''
           Nonresidential > OLD: ''
           Use-Specific Regulations: ''
-        Medical and dental clinics and offices:
+        Use Type > Medical and dental clinics and offices:
           Residential > RD: ''
           Residential > RL: ''
           Residential > RM: ''
@@ -952,7 +952,7 @@ Table 7.24-1 Allowed Uses | P - Permitted Use S = Special Review Use Districts i
           Nonresidential > IC: ''
           Nonresidential > OLD: ''
           Use-Specific Regulations: ''
-        Long-term Care Facility:
+        Use Type > Long-term Care Facility:
           Residential > RD: ''
           Residential > RL: ''
           Residential > RM: ''
@@ -988,7 +988,7 @@ Table 7.24-1 Allowed Uses | P - Permitted Use S = Special Review Use Districts i
           Nonresidential > OLD: ''
           Use-Specific Regulations: Chapter 8.27
       Office:
-        Administrative and professional offices:
+        Use Type > Administrative and professional offices:
           Residential > RD: ''
           Residential > RL: ''
           Residential > RM: ''
@@ -1005,7 +1005,7 @@ Table 7.24-1 Allowed Uses | P - Permitted Use S = Special Review Use Districts i
           Nonresidential > IC: ''
           Nonresidential > OLD: ''
           Use-Specific Regulations: ''
-        Office with showroom and/or warehouse facilities:
+        Use Type > Office with showroom and/or warehouse facilities:
           Residential > RD: ''
           Residential > RL: ''
           Residential > RM: ''
@@ -1023,7 +1023,7 @@ Table 7.24-1 Allowed Uses | P - Permitted Use S = Special Review Use Districts i
           Nonresidential > OLD: ''
           Use-Specific Regulations: ''
       Recreation and Enter- tainment, Outdoor:
-        Outdoor commercial recreation:
+        Use Type > Outdoor commercial recreation:
           Residential > RD: ''
           Residential > RL: ''
           Residential > RM: ''
@@ -1040,7 +1040,7 @@ Table 7.24-1 Allowed Uses | P - Permitted Use S = Special Review Use Districts i
           Nonresidential > IC: P
           Nonresidential > OLD: ''
           Use-Specific Regulations: ''
-        Riding academies:
+        Use Type > Riding academies:
           Residential > RD: ''
           Residential > RL: ''
           Residential > RM: ''
@@ -1058,7 +1058,7 @@ Table 7.24-1 Allowed Uses | P - Permitted Use S = Special Review Use Districts i
           Nonresidential > OLD: ''
           Use-Specific Regulations: ''
       Recreation and Entertainment, Indoor:
-        Indoor commercial recreation/ entertainment:
+        Use Type > Indoor commercial recreation/ entertainment:
           Residential > RD: ''
           Residential > RL: ''
           Residential > RM: ''
@@ -1075,7 +1075,7 @@ Table 7.24-1 Allowed Uses | P - Permitted Use S = Special Review Use Districts i
           Nonresidential > IC: P
           Nonresidential > OLD: ''
           Use-Specific Regulations: ''
-        Sexually- oriented business:
+        Use Type > Sexually- oriented business:
           Residential > RD: ''
           Residential > RL: ''
           Residential > RM: ''
@@ -1092,7 +1092,7 @@ Table 7.24-1 Allowed Uses | P - Permitted Use S = Special Review Use Districts i
           Nonresidential > IC: S
           Nonresidential > OLD: ''
           Use-Specific Regulations: ''
-        Theater/ performance hall:
+        Use Type > Theater/ performance hall:
           Residential > RD: ''
           Residential > RL: ''
           Residential > RM: ''
@@ -1110,7 +1110,7 @@ Table 7.24-1 Allowed Uses | P - Permitted Use S = Special Review Use Districts i
           Nonresidential > OLD: ''
           Use-Specific Regulations: ''
       Personal Services:
-        Barber shops, beauty salons, day spas:
+        Use Type > Barber shops, beauty salons, day spas:
           Residential > RD: ''
           Residential > RL: ''
           Residential > RM: ''
@@ -1127,7 +1127,7 @@ Table 7.24-1 Allowed Uses | P - Permitted Use S = Special Review Use Districts i
           Nonresidential > IC: ''
           Nonresidential > OLD: ''
           Use-Specific Regulations: ''
-        Dry cleaning and laundry service:
+        Use Type > Dry cleaning and laundry service:
           Residential > RD: ''
           Residential > RL: ''
           Residential > RM: ''
@@ -1144,7 +1144,7 @@ Table 7.24-1 Allowed Uses | P - Permitted Use S = Special Review Use Districts i
           Nonresidential > IC: ''
           Nonresidential > OLD: ''
           Use-Specific Regulations: ''
-        General personal services:
+        Use Type > General personal services:
           Residential > RD: ''
           Residential > RL: ''
           Residential > RM: ''
@@ -1161,7 +1161,7 @@ Table 7.24-1 Allowed Uses | P - Permitted Use S = Special Review Use Districts i
           Nonresidential > IC: ''
           Nonresidential > OLD: ''
           Use-Specific Regulations: ''
-        Tattoo parlors, body piercing (Private office above ground level uses):
+        Use Type > Tattoo parlors, body piercing (Private office above ground level uses):
           Residential > RD: ''
           Residential > RL: ''
           Residential > RM: ''
@@ -1178,7 +1178,7 @@ Table 7.24-1 Allowed Uses | P - Permitted Use S = Special Review Use Districts i
           Nonresidential > IC: P
           Nonresidential > OLD: ''
           Use-Specific Regulations: ''
-        Tattoo parlors, body piercing, ground level:
+        Use Type > Tattoo parlors, body piercing, ground level:
           Residential > RD: ''
           Residential > RL: ''
           Residential > RM: ''
@@ -1196,7 +1196,7 @@ Table 7.24-1 Allowed Uses | P - Permitted Use S = Special Review Use Districts i
           Nonresidential > OLD: ''
           Use-Specific Regulations: ''
       Retail (Sales):
-        General Retail:
+        Use Type > General Retail:
           Residential > RD: ''
           Residential > RL: ''
           Residential > RM: ''
@@ -1213,7 +1213,7 @@ Table 7.24-1 Allowed Uses | P - Permitted Use S = Special Review Use Districts i
           Nonresidential > IC: ''
           Nonresidential > OLD: ''
           Use-Specific Regulations: ''
-        Convenience store, with fuel:
+        Use Type > Convenience store, with fuel:
           Residential > RD: ''
           Residential > RL: ''
           Residential > RM: ''
@@ -1230,7 +1230,7 @@ Table 7.24-1 Allowed Uses | P - Permitted Use S = Special Review Use Districts i
           Nonresidential > IC: P
           Nonresidential > OLD: ''
           Use-Specific Regulations: ''
-        Convenience store:
+        Use Type > Convenience store:
           Residential > RD: ''
           Residential > RL: ''
           Residential > RM: ''
@@ -1247,7 +1247,7 @@ Table 7.24-1 Allowed Uses | P - Permitted Use S = Special Review Use Districts i
           Nonresidential > IC: ''
           Nonresidential > OLD: ''
           Use-Specific Regulations: ''
-        Drug stores, Pharmacies:
+        Use Type > Drug stores, Pharmacies:
           Residential > RD: ''
           Residential > RL: ''
           Residential > RM: ''
@@ -1264,7 +1264,7 @@ Table 7.24-1 Allowed Uses | P - Permitted Use S = Special Review Use Districts i
           Nonresidential > IC: ''
           Nonresidential > OLD: ''
           Use-Specific Regulations: ''
-        Drug stores, Pharmacies with drive thru:
+        Use Type > Drug stores, Pharmacies with drive thru:
           Residential > RD: ''
           Residential > RL: ''
           Residential > RM: ''
@@ -1281,7 +1281,7 @@ Table 7.24-1 Allowed Uses | P - Permitted Use S = Special Review Use Districts i
           Nonresidential > IC: ''
           Nonresidential > OLD: ''
           Use-Specific Regulations: ''
-        Electrical supply stores:
+        Use Type > Electrical supply stores:
           Residential > RD: ''
           Residential > RL: ''
           Residential > RM: ''
@@ -1298,7 +1298,7 @@ Table 7.24-1 Allowed Uses | P - Permitted Use S = Special Review Use Districts i
           Nonresidential > IC: P
           Nonresidential > OLD: ''
           Use-Specific Regulations: ''
-        Florists:
+        Use Type > Florists:
           Residential > RD: ''
           Residential > RL: ''
           Residential > RM: ''
@@ -1315,7 +1315,7 @@ Table 7.24-1 Allowed Uses | P - Permitted Use S = Special Review Use Districts i
           Nonresidential > IC: ''
           Nonresidential > OLD: ''
           Use-Specific Regulations: ''
-        Furniture shops:
+        Use Type > Furniture shops:
           Residential > RD: ''
           Residential > RL: ''
           Residential > RM: ''
@@ -1332,7 +1332,7 @@ Table 7.24-1 Allowed Uses | P - Permitted Use S = Special Review Use Districts i
           Nonresidential > IC: ''
           Nonresidential > OLD: ''
           Use-Specific Regulations: ''
-        Gift shops:
+        Use Type > Gift shops:
           Residential > RD: ''
           Residential > RL: ''
           Residential > RM: ''
@@ -1349,7 +1349,7 @@ Table 7.24-1 Allowed Uses | P - Permitted Use S = Special Review Use Districts i
           Nonresidential > IC: ''
           Nonresidential > OLD: ''
           Use-Specific Regulations: ''
-        Grocery stores:
+        Use Type > Grocery stores:
           Residential > RD: ''
           Residential > RL: ''
           Residential > RM: ''
@@ -1366,7 +1366,7 @@ Table 7.24-1 Allowed Uses | P - Permitted Use S = Special Review Use Districts i
           Nonresidential > IC: ''
           Nonresidential > OLD: ''
           Use-Specific Regulations: ''
-        Home improvement store, under 25,000 sq. ft.:
+        Use Type > Home improvement store, under 25,000 sq. ft.:
           Residential > RD: ''
           Residential > RL: ''
           Residential > RM: ''
@@ -1383,7 +1383,7 @@ Table 7.24-1 Allowed Uses | P - Permitted Use S = Special Review Use Districts i
           Nonresidential > IC: ''
           Nonresidential > OLD: ''
           Use-Specific Regulations: ''
-        Home improvement store, over 25,000 sq. ft.:
+        Use Type > Home improvement store, over 25,000 sq. ft.:
           Residential > RD: ''
           Residential > RL: ''
           Residential > RM: ''
@@ -1400,7 +1400,7 @@ Table 7.24-1 Allowed Uses | P - Permitted Use S = Special Review Use Districts i
           Nonresidential > IC: ''
           Nonresidential > OLD: ''
           Use-Specific Regulations: ''
-        Jewelry, craft and hobby shops:
+        Use Type > Jewelry, craft and hobby shops:
           Residential > RD: ''
           Residential > RL: ''
           Residential > RM: ''
@@ -1417,7 +1417,7 @@ Table 7.24-1 Allowed Uses | P - Permitted Use S = Special Review Use Districts i
           Nonresidential > IC: ''
           Nonresidential > OLD: ''
           Use-Specific Regulations: ''
-        Medical marijuana, marijuana establishment and marijuana club:
+        Use Type > Medical marijuana, marijuana establishment and marijuana club:
           Residential > RD: ''
           Residential > RL: ''
           Residential > RM: ''
@@ -1435,7 +1435,7 @@ Table 7.24-1 Allowed Uses | P - Permitted Use S = Special Review Use Districts i
           Nonresidential > OLD: ''
           Use-Specific Regulations: ''
       Retail Sales (cont′d):
-        Music, radio and television stores:
+        Use Type > Music, radio and television stores:
           Residential > RD: ''
           Residential > RL: ''
           Residential > RM: ''
@@ -1452,7 +1452,7 @@ Table 7.24-1 Allowed Uses | P - Permitted Use S = Special Review Use Districts i
           Nonresidential > IC: ''
           Nonresidential > OLD: ''
           Use-Specific Regulations: ''
-        Nursery, landscaping supply:
+        Use Type > Nursery, landscaping supply:
           Residential > RD: ''
           Residential > RL: ''
           Residential > RM: ''
@@ -1469,7 +1469,7 @@ Table 7.24-1 Allowed Uses | P - Permitted Use S = Special Review Use Districts i
           Nonresidential > IC: P
           Nonresidential > OLD: ''
           Use-Specific Regulations: ''
-        Office supply store:
+        Use Type > Office supply store:
           Residential > RD: ''
           Residential > RL: ''
           Residential > RM: ''
@@ -1486,7 +1486,7 @@ Table 7.24-1 Allowed Uses | P - Permitted Use S = Special Review Use Districts i
           Nonresidential > IC: ''
           Nonresidential > OLD: ''
           Use-Specific Regulations: ''
-        Liquor stores:
+        Use Type > Liquor stores:
           Residential > RD: ''
           Residential > RL: ''
           Residential > RM: ''
@@ -1503,7 +1503,7 @@ Table 7.24-1 Allowed Uses | P - Permitted Use S = Special Review Use Districts i
           Nonresidential > IC: ''
           Nonresidential > OLD: ''
           Use-Specific Regulations: ''
-        Smoke or vape shops:
+        Use Type > Smoke or vape shops:
           Residential > RD: ''
           Residential > RL: ''
           Residential > RM: ''
@@ -1520,7 +1520,7 @@ Table 7.24-1 Allowed Uses | P - Permitted Use S = Special Review Use Districts i
           Nonresidential > IC: ''
           Nonresidential > OLD: ''
           Use-Specific Regulations: ''
-        Paint stores:
+        Use Type > Paint stores:
           Residential > RD: ''
           Residential > RL: ''
           Residential > RM: ''
@@ -1537,7 +1537,7 @@ Table 7.24-1 Allowed Uses | P - Permitted Use S = Special Review Use Districts i
           Nonresidential > IC: ''
           Nonresidential > OLD: ''
           Use-Specific Regulations: ''
-        Photographic studios:
+        Use Type > Photographic studios:
           Residential > RD: ''
           Residential > RL: ''
           Residential > RM: ''
@@ -1554,7 +1554,7 @@ Table 7.24-1 Allowed Uses | P - Permitted Use S = Special Review Use Districts i
           Nonresidential > IC: ''
           Nonresidential > OLD: ''
           Use-Specific Regulations: ''
-        Retail sign shops:
+        Use Type > Retail sign shops:
           Residential > RD: ''
           Residential > RL: ''
           Residential > RM: ''
@@ -1572,7 +1572,7 @@ Table 7.24-1 Allowed Uses | P - Permitted Use S = Special Review Use Districts i
           Nonresidential > OLD: ''
           Use-Specific Regulations: ''
       Wholesale Business:
-        Wholesale business:
+        Use Type > Wholesale business:
           Residential > RD: ''
           Residential > RL: ''
           Residential > RM: ''
@@ -1590,7 +1590,7 @@ Table 7.24-1 Allowed Uses | P - Permitted Use S = Special Review Use Districts i
           Nonresidential > OLD: ''
           Use-Specific Regulations: ''
       Vehicles and equipment:
-        Vehicle repair shop, minor:
+        Use Type > Vehicle repair shop, minor:
           Residential > RD: ''
           Residential > RL: ''
           Residential > RM: ''
@@ -1607,7 +1607,7 @@ Table 7.24-1 Allowed Uses | P - Permitted Use S = Special Review Use Districts i
           Nonresidential > IC: P
           Nonresidential > OLD: ''
           Use-Specific Regulations: 7.24.060 (h)
-        Vehicle repair shop, major:
+        Use Type > Vehicle repair shop, major:
           Residential > RD: ''
           Residential > RL: ''
           Residential > RM: ''
@@ -1624,7 +1624,7 @@ Table 7.24-1 Allowed Uses | P - Permitted Use S = Special Review Use Districts i
           Nonresidential > IC: P
           Nonresidential > OLD: ''
           Use-Specific Regulations: ''
-        Vehicle sales and rental:
+        Use Type > Vehicle sales and rental:
           Residential > RD: ''
           Residential > RL: ''
           Residential > RM: ''
@@ -1641,7 +1641,7 @@ Table 7.24-1 Allowed Uses | P - Permitted Use S = Special Review Use Districts i
           Nonresidential > IC: S
           Nonresidential > OLD: ''
           Use-Specific Regulations: ''
-        Car wash:
+        Use Type > Car wash:
           Residential > RD: ''
           Residential > RL: ''
           Residential > RM: ''
@@ -1658,7 +1658,7 @@ Table 7.24-1 Allowed Uses | P - Permitted Use S = Special Review Use Districts i
           Nonresidential > IC: S
           Nonresidential > OLD: ''
           Use-Specific Regulations: 7.24.060 (h)
-        Parking lot (commercial):
+        Use Type > Parking lot (commercial):
           Residential > RD: ''
           Residential > RL: ''
           Residential > RM: ''
@@ -1675,7 +1675,7 @@ Table 7.24-1 Allowed Uses | P - Permitted Use S = Special Review Use Districts i
           Nonresidential > IC: S
           Nonresidential > OLD: ''
           Use-Specific Regulations: ''
-        Centralized loading dock and goods distribution center:
+        Use Type > Centralized loading dock and goods distribution center:
           Residential > RD: ''
           Residential > RL: ''
           Residential > RM: ''
@@ -1694,7 +1694,7 @@ Table 7.24-1 Allowed Uses | P - Permitted Use S = Special Review Use Districts i
           Use-Specific Regulations: ''
     Industrial Service:
       Industrial Service:
-        Research facilities (commercial):
+        Use Type > Research facilities (commercial):
           Residential > RD: ''
           Residential > RL: ''
           Residential > RM: ''
@@ -1711,7 +1711,7 @@ Table 7.24-1 Allowed Uses | P - Permitted Use S = Special Review Use Districts i
           Nonresidential > IC: P
           Nonresidential > OLD: ''
           Use-Specific Regulations: ''
-        Construction industry related businesses:
+        Use Type > Construction industry related businesses:
           Residential > RD: ''
           Residential > RL: ''
           Residential > RM: ''
@@ -1728,7 +1728,7 @@ Table 7.24-1 Allowed Uses | P - Permitted Use S = Special Review Use Districts i
           Nonresidential > IC: P
           Nonresidential > OLD: ''
           Use-Specific Regulations: ''
-        Heavy industrial uses:
+        Use Type > Heavy industrial uses:
           Residential > RD: ''
           Residential > RL: ''
           Residential > RM: ''
@@ -1745,7 +1745,7 @@ Table 7.24-1 Allowed Uses | P - Permitted Use S = Special Review Use Districts i
           Nonresidential > IC: S
           Nonresidential > OLD: ''
           Use-Specific Regulations: ''
-        Junkyards:
+        Use Type > Junkyards:
           Residential > RD: ''
           Residential > RL: ''
           Residential > RM: ''
@@ -1762,7 +1762,7 @@ Table 7.24-1 Allowed Uses | P - Permitted Use S = Special Review Use Districts i
           Nonresidential > IC: S
           Nonresidential > OLD: ''
           Use-Specific Regulations: ''
-        Light industrial uses:
+        Use Type > Light industrial uses:
           Residential > RD: ''
           Residential > RL: ''
           Residential > RM: ''
@@ -1779,7 +1779,7 @@ Table 7.24-1 Allowed Uses | P - Permitted Use S = Special Review Use Districts i
           Nonresidential > IC: P
           Nonresidential > OLD: ''
           Use-Specific Regulations: ''
-        Lumberyards except when indoors as part of a hardware store:
+        Use Type > Lumberyards except when indoors as part of a hardware store:
           Residential > RD: ''
           Residential > RL: ''
           Residential > RM: ''
@@ -1796,7 +1796,7 @@ Table 7.24-1 Allowed Uses | P - Permitted Use S = Special Review Use Districts i
           Nonresidential > IC: S
           Nonresidential > OLD: ''
           Use-Specific Regulations: ''
-        Mining and mineral extraction:
+        Use Type > Mining and mineral extraction:
           Residential > RD: S
           Residential > RL: S
           Residential > RM: S
@@ -1814,7 +1814,7 @@ Table 7.24-1 Allowed Uses | P - Permitted Use S = Special Review Use Districts i
           Nonresidential > OLD: S
           Use-Specific Regulations: ''
       Manufacturing and Production:
-        Machine and welding shops:
+        Use Type > Machine and welding shops:
           Residential > RD: ''
           Residential > RL: ''
           Residential > RM: ''
@@ -1831,7 +1831,7 @@ Table 7.24-1 Allowed Uses | P - Permitted Use S = Special Review Use Districts i
           Nonresidential > IC: P
           Nonresidential > OLD: ''
           Use-Specific Regulations: ''
-        Manufacturing, heavy:
+        Use Type > Manufacturing, heavy:
           Residential > RD: ''
           Residential > RL: ''
           Residential > RM: ''
@@ -1848,7 +1848,7 @@ Table 7.24-1 Allowed Uses | P - Permitted Use S = Special Review Use Districts i
           Nonresidential > IC: S
           Nonresidential > OLD: ''
           Use-Specific Regulations: ''
-        Manufacturing, light:
+        Use Type > Manufacturing, light:
           Residential > RD: ''
           Residential > RL: ''
           Residential > RM: ''
@@ -1884,7 +1884,7 @@ Table 7.24-1 Allowed Uses | P - Permitted Use S = Special Review Use Districts i
           Nonresidential > OLD: ''
           Use-Specific Regulations: Chapter 8.27
       Warehouse and Freight Movement:
-        Mini Self storage:
+        Use Type > Mini Self storage:
           Residential > RD: ''
           Residential > RL: ''
           Residential > RM: ''
@@ -1901,7 +1901,7 @@ Table 7.24-1 Allowed Uses | P - Permitted Use S = Special Review Use Districts i
           Nonresidential > IC: P
           Nonresidential > OLD: ''
           Use-Specific Regulations: ''
-        Storage warehouses:
+        Use Type > Storage warehouses:
           Residential > RD: ''
           Residential > RL: ''
           Residential > RM: ''
@@ -1919,7 +1919,7 @@ Table 7.24-1 Allowed Uses | P - Permitted Use S = Special Review Use Districts i
           Nonresidential > OLD: ''
           Use-Specific Regulations: ''
       Waste and Salvage:
-        Recycling center / facility, indoor:
+        Use Type > Recycling center / facility, indoor:
           Residential > RD: ''
           Residential > RL: ''
           Residential > RM: ''
@@ -1936,7 +1936,7 @@ Table 7.24-1 Allowed Uses | P - Permitted Use S = Special Review Use Districts i
           Nonresidential > IC: S
           Nonresidential > OLD: ''
           Use-Specific Regulations: ''
-        Recycling facilities, drop-off:
+        Use Type > Recycling facilities, drop-off:
           Residential > RD: P
           Residential > RL: P
           Residential > RM: P
