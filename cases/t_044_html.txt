@@ -1,0 +1,320 @@
+<table class="thead3 table left makeExpandableTable makeFixedTable" cellpadding="3" cellspacing="0" border="1" rules="all">
+                     <colgroup class="std">
+                        <col width="20%">
+                        <col width="20%">
+                        <col width="20%">
+                        <col width="20%">
+                        <col width="20%">
+                     </colgroup>
+                     <thead><tr>
+                           <th colspan="5" class=" top ">
+                              TABLE 24-20-1 PARCEL SIZE AND DENSITY FOR RESIDENTIAL ZONES
+                              </th>
+                        </tr><tr>
+                           <th rowspan="2" colspan="1" class=" top ">
+                              Zone
+                              </th>
+                           <th rowspan="2" class=" top ">
+                              Parcel Area (min.) [4] [5]
+                              </th>
+                           <th rowspan="2" class=" top ">
+                              Parcel Width (min.) [1] [4]
+                              </th>
+                           <th colspan="2" class=" top ">
+                              Residential Density [2]
+                              </th>
+                        </tr><tr>
+                           <th class=" top ">
+                              <span class="bold">Min.</span>
+                              </th>
+                           <th class=" top ">
+                              <span class="bold">Max. [3]</span>
+                              </th>
+                        </tr></thead><tbody>
+                        
+                        
+                        
+                        <tr>
+                           <td colspan="5" class=" top ">
+                              Single-Family Residential Zones
+                              </td>
+                        </tr>
+                        <tr>
+                           <td class=" top ">
+                              FR-1
+                              </td>
+                           <td class=" top ">
+                              1 acre
+                              </td>
+                           <td class=" top ">
+                              65 ft.
+                              </td>
+                           <td class=" top ">
+                              -
+                              </td>
+                           <td class=" top ">
+                              1 unit per parcel
+                              </td>
+                        </tr>
+                        <tr>
+                           <td class=" top ">
+                              FR-2
+                              </td>
+                           <td class=" top ">
+                              2 acres
+                              </td>
+                           <td class=" top ">
+                              65 ft.
+                              </td>
+                           <td class=" top ">
+                              -
+                              </td>
+                           <td class=" top ">
+                              1 unit per parcel
+                              </td>
+                        </tr>
+                        <tr>
+                           <td class=" top ">
+                              FR-5
+                              </td>
+                           <td class=" top ">
+                              5 acres
+                              </td>
+                           <td class=" top ">
+                              65 ft.
+                              </td>
+                           <td class=" top ">
+                              -
+                              </td>
+                           <td class=" top ">
+                              1 unit per parcel
+                              </td>
+                        </tr>
+                        <tr>
+                           <td class=" top ">
+                              FR-10
+                              </td>
+                           <td class=" top ">
+                              10 acres
+                              </td>
+                           <td class=" top ">
+                              65 ft.
+                              </td>
+                           <td class=" top ">
+                              -
+                              </td>
+                           <td class=" top ">
+                              1 unit per parcel
+                              </td>
+                        </tr>
+                        <tr>
+                           <td class=" top ">
+                              FR-20/FCR-20
+                              </td>
+                           <td class=" top ">
+                              20 acres
+                              </td>
+                           <td class=" top ">
+                              65 ft.
+                              </td>
+                           <td class=" top ">
+                              -
+                              </td>
+                           <td class=" top ">
+                              1 unit per parcel
+                              </td>
+                        </tr>
+                        <tr>
+                           <td class=" top ">
+                              FR-40
+                              </td>
+                           <td class=" top ">
+                              40 acres
+                              </td>
+                           <td class=" top ">
+                              65 ft.
+                              </td>
+                           <td class=" top ">
+                              -
+                              </td>
+                           <td class=" top ">
+                              1 unit per parcel
+                              </td>
+                        </tr>
+                        <tr>
+                           <td class=" top ">
+                              RR-5
+                              </td>
+                           <td class=" top ">
+                              5 acres
+                              </td>
+                           <td class=" top ">
+                              65 ft.
+                              </td>
+                           <td class=" top ">
+                              -
+                              </td>
+                           <td class=" top ">
+                              1 unit per parcel
+                              </td>
+                        </tr>
+                        <tr>
+                           <td class=" top ">
+                              RR-10/RCR-10
+                              </td>
+                           <td class=" top ">
+                              10 acres
+                              </td>
+                           <td class=" top ">
+                              65 ft.
+                              </td>
+                           <td class=" top ">
+                              -
+                              </td>
+                           <td class=" top ">
+                              1 unit per parcel
+                              </td>
+                        </tr>
+                        <tr>
+                           <td class=" top ">
+                              VLDR
+                              </td>
+                           <td class=" top ">
+                              1 acre
+                              </td>
+                           <td class=" top ">
+                              65 ft.
+                              </td>
+                           <td class=" top ">
+                              -
+                              </td>
+                           <td class=" top ">
+                              1 unit per parcel
+                              </td>
+                        </tr>
+                        <tr>
+                           <td class=" top ">
+                              VLDR-2.5
+                              </td>
+                           <td class=" top ">
+                              2.5 acres
+                              </td>
+                           <td class=" top ">
+                              65 ft.
+                              </td>
+                           <td class=" top ">
+                              -
+                              </td>
+                           <td class=" top ">
+                              1 unit per parcel
+                              </td>
+                        </tr>
+                        <tr>
+                           <td class=" top ">
+                              VLDCR
+                              </td>
+                           <td class=" top ">
+                              1 acre
+                              </td>
+                           <td class=" top ">
+                              65 ft.
+                              </td>
+                           <td class=" top ">
+                              -
+                              </td>
+                           <td class=" top ">
+                              1 unit per parcel
+                              </td>
+                        </tr>
+                        <tr>
+                           <td class=" top ">
+                              LDR
+                              </td>
+                           <td class=" top ">
+                              13,500 sq. ft.
+                              </td>
+                           <td class=" top ">
+                              50 ft.
+                              </td>
+                           <td class=" top ">
+                              -
+                              </td>
+                           <td class=" top ">
+                              1 unit per parcel
+                              </td>
+                        </tr>
+                        <tr>
+                           <td class=" top ">
+                              MDR
+                              </td>
+                           <td class=" top ">
+                              6,000 sq. ft.
+                              </td>
+                           <td class=" top ">
+                              50 ft.
+                              </td>
+                           <td class=" top ">
+                              -
+                              </td>
+                           <td class=" top ">
+                              1 unit per parcel
+                              </td>
+                        </tr>
+                        <tr>
+                           <td colspan="5" class=" top ">
+                              Multi-Family Residential Zones
+                              </td>
+                        </tr>
+                        <tr>
+                           <td class=" top ">
+                              MHDR
+                              </td>
+                           <td class=" top ">
+                              3,500 sq. ft.
+                              </td>
+                           <td class=" top ">
+                              35 ft.
+                              </td>
+                           <td class=" top ">
+                              -
+                              </td>
+                           <td class=" top ">
+                              14 units per acre
+                              </td>
+                        </tr>
+                        <tr>
+                           <td class=" top ">
+                              HDR
+                              </td>
+                           <td class=" top ">
+                              3,500 sq. ft.
+                              </td>
+                           <td class=" top ">
+                              35 ft.
+                              </td>
+                           <td class=" top ">
+                              14 units per acre
+                              </td>
+                           <td class=" top ">
+                              20 units per acre
+                              </td>
+                        </tr>
+                        <tr>
+                           <td class=" top ">
+                              VHDR
+                              </td>
+                           <td class=" top ">
+                              3,500 sq. ft.
+                              </td>
+                           <td class=" top ">
+                              35 ft.
+                              </td>
+                           <td class=" top ">
+                              20 units per acre
+                              </td>
+                           <td class=" top ">
+                              30 units per acre
+                              </td>
+                        </tr>
+                     </tbody>
+                  </table>

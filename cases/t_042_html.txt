@@ -1,0 +1,756 @@
+<table class="thead1 table left makeExpandableTable makeFixedTable" cellpadding="3" cellspacing="0" border="1" rules="all">
+                        <colgroup class="std">
+                           <col width="25%">
+                           <col width="37.5%">
+                           <col width="37.5%">
+                        </colgroup>
+                        <thead><tr>
+                              <th style="background-color: LightGray; " class="hasbg top ">
+                                 Use Categories
+                                 </th>
+                              <th style="background-color: LightGray; " class="hasbg top ">
+                                 Specific Uses
+                                 </th>
+                              <th style="background-color: LightGray; " class="hasbg top ">
+                                 Minimum Number of Vehicle Spaces
+                                 </th>
+                           </tr></thead><tbody>
+                           
+                           <tr>
+                              <td style="background-color: LightGray; " colspan="3" class="hasbg top ">
+                                 <span class="bold">1. RESIDENTIAL</span>
+                                 </td>
+                           </tr>
+                           <tr>
+                              <td rowspan="9" colspan="1" class=" top ">
+                                 A. Household living
+                                 </td>
+                              <td class=" top ">
+                                 1. Residence above first floor
+                                 </td>
+                              <td class=" top ">
+                                 1 per residence + business parking
+                                 </td>
+                           </tr>
+                           <tr>
+                              <td class=" top ">
+                                 2. Bed and breakfast
+                                 </td>
+                              <td class=" top ">
+                                 1 per guest room + 2 spaces for owner's portion
+                                 </td>
+                           </tr>
+                           <tr>
+                              <td class=" top ">
+                                 3. Rooming/board house
+                                 </td>
+                              <td class=" top ">
+                                 1 per rooming unit
+                                 </td>
+                           </tr>
+                           <tr>
+                              <td class=" top ">
+                                 4. Dormitories, Fraternities, Sororities
+                                 </td>
+                              <td class=" top ">
+                                 1 per 2 residents
+                                 </td>
+                           </tr>
+                           <tr>
+                              <td class=" top ">
+                                 5. Single-family and duplex, triplex, four-plex
+                                 </td>
+                              <td class=" top ">
+                                 2 per dwelling unit
+                                 </td>
+                           </tr>
+                           <tr>
+                              <td class=" top ">
+                                 6. Elderly apartment complex
+                                 </td>
+                              <td class=" top ">
+                                 0.75 per dwelling unit
+                                 </td>
+                           </tr>
+                           <tr>
+                              <td class=" top ">
+                                 7. Multi-family, 5 units or more
+                                 </td>
+                              <td class=" top ">
+                                 1.5 per unit
+                                 </td>
+                           </tr>
+                           <tr>
+                              <td class=" top ">
+                                 8. Studio Apartments
+                                 </td>
+                              <td class=" top ">
+                                 1 per unit
+                                 </td>
+                           </tr>
+                           <tr>
+                              <td class=" top ">
+                                 9. All other household living
+                                 </td>
+                              <td class=" top ">
+                                 1 per unit
+                                 </td>
+                           </tr>
+                           <tr>
+                              <td rowspan="3" colspan="1" class=" top ">
+                                 B. Group living
+                                 </td>
+                              <td class=" top ">
+                                 1. Nursing homes; assisted living facility; in-patient substance abuse treatment facility;
+                                 group living facilities; res. care facility for elderly
+                                 </td>
+                              <td class=" top ">
+                                 1 per 2.5 beds
+                                 </td>
+                           </tr>
+                           <tr>
+                              <td class=" top ">
+                                 2. Outpatient substance abuse treatment facility
+                                 </td>
+                              <td class=" top ">
+                                 1 per 200 sf GFA
+                                 </td>
+                           </tr>
+                           <tr>
+                              <td class=" top ">
+                                 3. Other group living
+                                 </td>
+                              <td class=" top ">
+                                 1 per 4 beds
+                                 </td>
+                           </tr>
+                           <tr>
+                              <td style="background-color: LightGray; " colspan="3" class="hasbg top ">
+                                 <span class="bold">2. INSTITUTIONAL AND CIVIC</span>
+                                 </td>
+                           </tr>
+                           <tr>
+                              <td rowspan="4" colspan="1" class=" top ">
+                                 A. Schools
+                                 </td>
+                              <td class=" top ">
+                                 1. Elementary and junior highs
+                                 </td>
+                              <td class=" top ">
+                                 2 per classroom plus 1 for each 5 seats of the largest place of public assembly (stadium,
+                                 auditorium or gym) whichever requires the greatest number of parking spaces.
+                                 </td>
+                           </tr>
+                           <tr>
+                              <td class=" top ">
+                                 2. High schools
+                                 </td>
+                              <td class=" top ">
+                                 1 per 4 students plus 1 for each 5 seats of the largest place of public assembly (stadium,
+                                 auditorium or gym) whichever requires the greatest number of parking spaces.
+                                 </td>
+                           </tr>
+                           <tr>
+                              <td class=" top ">
+                                 3. Schools of private instruction
+                                 </td>
+                              <td class=" top ">
+                                 1 per 200 sf GFA
+                                 </td>
+                           </tr>
+                           <tr>
+                              <td class=" top ">
+                                 4. College, vocational/technical schools
+                                 </td>
+                              <td class=" top ">
+                                 1 per 200 sf GFA
+                                 </td>
+                           </tr>
+                           <tr>
+                              <td class=" top ">
+                                 B. Community services
+                                 </td>
+                              <td class=" top ">
+                                 1. Community center
+                                 </td>
+                              <td class=" top ">
+                                 1 per 200 sf GFA
+                                 </td>
+                           </tr>
+                           <tr>
+                              <td class=" top ">
+                                 C. Cultural
+                                 </td>
+                              <td class=" top ">
+                                 1. Museums, art galleries &amp; libraries
+                                 </td>
+                              <td class=" top ">
+                                 1 per 1,000 sf GFA
+                                 </td>
+                           </tr>
+                           <tr>
+                              <td class=" top ">
+                                 D. Day care
+                                 </td>
+                              <td class=" top ">
+                                 1. Day care, pre-school &amp; similar uses
+                                 </td>
+                              <td class=" top ">
+                                 1 per employee and staff member plus 1 for each 5 children
+                                 </td>
+                           </tr>
+                           <tr>
+                              <td class=" top ">
+                                 E. Detention facilities
+                                 </td>
+                              <td class=" top ">
+                                 1. Jails, honor camps, reformatories, law enforcement rehabilitation centers
+                                 </td>
+                              <td class=" top ">
+                                 1 per employee on maximum shift, plus 1 per service vehicle
+                                 </td>
+                           </tr>
+                           <tr>
+                              <td rowspan="2" colspan="1" class=" top ">
+                                 F. Hospital/clinic
+                                 </td>
+                              <td class=" top ">
+                                 1. Hospital
+                                 </td>
+                              <td class=" top ">
+                                 2.5 per bed for in-patient care facilities plus 1 per each 250 sq. ft. of floor area
+                                 for outpatient facilities
+                                 </td>
+                           </tr>
+                           <tr>
+                              <td class=" top ">
+                                 2. Clinic
+                                 </td>
+                              <td class=" top ">
+                                 1 per 200 sf
+                                 </td>
+                           </tr>
+                           <tr>
+                              <td class=" top ">
+                                 G. Laboratories &amp; research
+                                 </td>
+                              <td class=" top ">
+                                 1. Laboratories and research facilities
+                                 </td>
+                              <td class=" top ">
+                                 1 per 300 sf
+                                 </td>
+                           </tr>
+                           <tr>
+                              <td rowspan="2" colspan="1" class=" top ">
+                                 H. Parks and open areas
+                                 </td>
+                              <td class=" top ">
+                                 1. Golf Course
+                                 </td>
+                              <td class=" top ">
+                                 6 spaces per hole
+                                 </td>
+                           </tr>
+                           <tr>
+                              <td class=" top ">
+                                 2. All other
+                                 </td>
+                              <td class=" top ">
+                                 20 spaces per athletic field or ball diamond or 1 per 4 seats whichever results in
+                                 more spaces
+                                 </td>
+                           </tr>
+                           <tr>
+                              <td class=" top ">
+                                 I. Private clubs, lodges
+                                 </td>
+                              <td class=" top ">
+                                 1. Private clubs, country clubs, lodges
+                                 </td>
+                              <td class=" top ">
+                                 1 per 4 persons based on maximum occupancy
+                                 </td>
+                           </tr>
+                           <tr>
+                              <td class=" top ">
+                                 J. Radio/television
+                                 </td>
+                              <td class=" top ">
+                                 1. Broadcast stations
+                                 </td>
+                              <td class=" top ">
+                                 1 per 300 sf GFA
+                                 </td>
+                           </tr>
+                           <tr>
+                              <td class=" top ">
+                                 K. Religious assembly
+                                 </td>
+                              <td class=" top ">
+                                 1. Churches, synagogues, temple, etc.
+                                 </td>
+                              <td class=" top ">
+                                 1 per 4 persons based on maximum occupancy in auditorium
+                                 </td>
+                           </tr>
+                           <tr>
+                              <td class=" top ">
+                                 L. Safety services
+                                 </td>
+                              <td class=" top ">
+                                 1. Police, fire, emergency response
+                                 </td>
+                              <td class=" top ">
+                                 1 per 200 sf
+                                 </td>
+                           </tr>
+                           <tr>
+                              <td style="background-color: LightGray; " colspan="3" class="hasbg top ">
+                                 <span class="bold">3. COMMERCIAL</span>
+                                 </td>
+                           </tr>
+                           <tr>
+                              <td rowspan="8" colspan="1" class=" top ">
+                                 A. Recreation and entertainment
+                                 </td>
+                              <td class=" top ">
+                                 1. Assembly/auditorium/theater
+                                 </td>
+                              <td class=" top ">
+                                 1 per 4 persons based on maximum occupancy or 1 per 50 sf if seats are not permanent
+                                 </td>
+                           </tr>
+                           <tr>
+                              <td class=" top ">
+                                 2. Amusement center, park
+                                 </td>
+                              <td class=" top ">
+                                 1 per 5,000 sf of gross land area or 1 for each 4 persons based on maximum occupancy
+                                 </td>
+                           </tr>
+                           <tr>
+                              <td class=" top ">
+                                 3. Bowling alley
+                                 </td>
+                              <td class=" top ">
+                                 4 per lane
+                                 </td>
+                           </tr>
+                           <tr>
+                              <td class=" top ">
+                                 4. Clubs/lodges, casino, guest ranch, resort cabins and lodges
+                                 </td>
+                              <td class=" top ">
+                                 1 per 3 persons based on maximum occupancy
+                                 </td>
+                           </tr>
+                           <tr>
+                              <td class=" top ">
+                                 5. Health club/fitness center
+                                 </td>
+                              <td class=" top ">
+                                 1 per 200 sf
+                                 </td>
+                           </tr>
+                           <tr>
+                              <td class=" top ">
+                                 6. Marina/yacht club
+                                 </td>
+                              <td class=" top ">
+                                 1 per 3 boat slips
+                                 </td>
+                           </tr>
+                           <tr>
+                              <td class=" top ">
+                                 7. Miniature golf
+                                 </td>
+                              <td class=" top ">
+                                 2 per hole
+                                 </td>
+                           </tr>
+                           <tr>
+                              <td class=" top ">
+                                 8. RV park or campground
+                                 </td>
+                              <td class=" top ">
+                                 1 per camping space plus 4 for office
+                                 </td>
+                           </tr>
+                           <tr>
+                              <td rowspan="2" colspan="1" class=" top ">
+                                 B. Community service
+                                 </td>
+                              <td class=" top ">
+                                 1. Community activity building
+                                 </td>
+                              <td class=" top ">
+                                 1 per 500 sf GFA
+                                 </td>
+                           </tr>
+                           <tr>
+                              <td class=" top ">
+                                 2. All other community service and philanthropic
+                                 </td>
+                              <td class=" top ">
+                                 1 per 500 sf GFA
+                                 </td>
+                           </tr>
+                           <tr>
+                              <td rowspan="3" colspan="1" class=" top ">
+                                 C. Office
+                                 </td>
+                              <td class=" top ">
+                                 1. General and governmental offices, in all districts except C-3
+                                 </td>
+                              <td class=" top ">
+                                 1 per 300 sf GFA
+                                 </td>
+                           </tr>
+                           <tr>
+                              <td class=" top ">
+                                 2. General and governmental offices in the C-3 District
+                                 </td>
+                              <td class=" top ">
+                                 1 per 500 sf GFA
+                                 </td>
+                           </tr>
+                           <tr>
+                              <td class=" top ">
+                                 3. Medical, dental, counseling
+                                 </td>
+                              <td class=" top ">
+                                 1 per 200 sf GFA
+                                 </td>
+                           </tr>
+                           <tr>
+                              <td class=" top ">
+                                 D. Parking, commercial
+                                 </td>
+                              <td class=" top ">
+                                 1. N/A
+                                 </td>
+                              <td class=" top ">
+                                 N/A
+                                 </td>
+                           </tr>
+                           <tr>
+                              <td rowspan="4" colspan="1" class=" top ">
+                                 E. Recreation and entertainment, outdoor
+                                 </td>
+                              <td class=" top ">
+                                 1. Driving range
+                                 </td>
+                              <td class=" top ">
+                                 1 per tee
+                                 </td>
+                           </tr>
+                           <tr>
+                              <td class=" top ">
+                                 2. Batting cage, waterslide, swim pool
+                                 </td>
+                              <td class=" top ">
+                                 2 per cage; other - per site plan review based on maximum occupancy
+                                 </td>
+                           </tr>
+                           <tr>
+                              <td class=" top ">
+                                 3. Miniature golf
+                                 </td>
+                              <td class=" top ">
+                                 2 per hole
+                                 </td>
+                           </tr>
+                           <tr>
+                              <td class=" top ">
+                                 4. All other outdoor recreation
+                                 </td>
+                              <td class=" top ">
+                                 Per site plan review based on maximum occupancy
+                                 </td>
+                           </tr>
+                           <tr>
+                              <td rowspan="5" colspan="1" class=" top ">
+                                 F. Drive-in, drive-thru uses
+                                 </td>
+                              <td class=" top ">
+                                 1. Automated teller machines
+                                 </td>
+                              <td class=" top ">
+                                 4 per ATM lane
+                                 </td>
+                           </tr>
+                           <tr>
+                              <td class=" top ">
+                                 2. Drive-thru cleaners
+                                 </td>
+                              <td class=" top ">
+                                 4 per window
+                                 </td>
+                           </tr>
+                           <tr>
+                              <td class=" top ">
+                                 3. Drive-thru liquor
+                                 </td>
+                              <td class=" top ">
+                                 3 per window
+                                 </td>
+                           </tr>
+                           <tr>
+                              <td class=" top ">
+                                 4. Restaurant, drive-in, no indoor seating
+                                 </td>
+                              <td class=" top ">
+                                 1 parking space per employee on maximum shift
+                                 </td>
+                           </tr>
+                           <tr>
+                              <td class=" top ">
+                                 5. Restaurant, fast-food with drive-thru facilities
+                                 </td>
+                              <td class=" top ">
+                                 1 per 100 sf gross floor area including outdoor seating area
+                                 </td>
+                           </tr>
+                           <tr>
+                              <td rowspan="11" colspan="1" class=" top ">
+                                 G. Retail sales and services
+                                 </td>
+                              <td class=" top ">
+                                 1. Funeral home, mortuary, crematorium
+                                 </td>
+                              <td class=" top ">
+                                 1 per 4 seats + 1 per employee
+                                 </td>
+                           </tr>
+                           <tr>
+                              <td class=" top ">
+                                 2. Restaurants, no drive through
+                                 </td>
+                              <td class=" top ">
+                                 1 per 100 sf gross floor area including outdoor seating area
+                                 </td>
+                           </tr>
+                           <tr>
+                              <td class=" top ">
+                                 3. Shopping centers
+                                 </td>
+                              <td class=" top ">
+                                 1 per 250 sf
+                                 </td>
+                           </tr>
+                           <tr>
+                              <td class=" top ">
+                                 4. General retail
+                                 </td>
+                              <td class=" top ">
+                                 1 per 250 sf
+                                 </td>
+                           </tr>
+                           <tr>
+                              <td class=" top ">
+                                 5. Furniture stores and other low volume retail
+                                 </td>
+                              <td class=" top ">
+                                 1 per 500 sf
+                                 </td>
+                           </tr>
+                           <tr>
+                              <td class=" top ">
+                                 6. Bar or tavern
+                                 </td>
+                              <td class=" top ">
+                                 1 per 100 sf gross floor area including outdoor seating area
+                                 </td>
+                           </tr>
+                           <tr>
+                              <td class=" top ">
+                                 7. Bank
+                                 </td>
+                              <td class=" top ">
+                                 1 per 300 sf
+                                 </td>
+                           </tr>
+                           <tr>
+                              <td class=" top ">
+                                 8. Event center or banquet hall
+                                 </td>
+                              <td class=" top ">
+                                 1 space per 200 sf GFA
+                                 </td>
+                           </tr>
+                           <tr>
+                              <td class=" top ">
+                                 9. Nightclub
+                                 </td>
+                              <td class=" top ">
+                                 1 space per 100 sf GFA
+                                 </td>
+                           </tr>
+                           <tr>
+                              <td class=" top ">
+                                 10. After hours establishment
+                                 </td>
+                              <td class=" top ">
+                                 1 space per 100 sf GFA
+                                 </td>
+                           </tr>
+                           <tr>
+                              <td class=" top ">
+                                 11. Smoking lounge
+                                 </td>
+                              <td class=" top ">
+                                 1 space per 100 sf GFA
+                                 </td>
+                           </tr>
+                           <tr>
+                              <td class=" top ">
+                                 H. Self-service storage
+                                 </td>
+                              <td class=" top ">
+                                 1. Mini-warehouse
+                                 </td>
+                              <td class=" top ">
+                                 1 per 8 storage units
+                                 </td>
+                           </tr>
+                           <tr>
+                              <td rowspan="6" colspan="1" class=" top ">
+                                 I. Vehicle service, limited
+                                 </td>
+                              <td class=" top ">
+                                 1. Auto service, repair, body shop
+                                 </td>
+                              <td class=" top ">
+                                 2 per service bay + 1 per employee
+                                 </td>
+                           </tr>
+                           <tr>
+                              <td class=" top ">
+                                 2. Car wash, self-service
+                                 </td>
+                              <td class=" top ">
+                                 2 per stall
+                                 </td>
+                           </tr>
+                           <tr>
+                              <td class=" top ">
+                                 3. Car wash, full-service
+                                 </td>
+                              <td class=" top ">
+                                 6 per stall
+                                 </td>
+                           </tr>
+                           <tr>
+                              <td class=" top ">
+                                 4. Gasoline station
+                                 </td>
+                              <td class=" top ">
+                                 1.5 per fuel nozzle plus 1 per 200 square feet of store
+                                 </td>
+                           </tr>
+                           <tr>
+                              <td class=" top ">
+                                 5. Oil, lube, muffler
+                                 </td>
+                              <td class=" top ">
+                                 4 per service bay + 1 per employee
+                                 </td>
+                           </tr>
+                           <tr>
+                              <td class=" top ">
+                                 6. Tire, batteries, accessory retailers
+                                 </td>
+                              <td class=" top ">
+                                 1 per 300 sf GFA
+                                 </td>
+                           </tr>
+                           <tr>
+                              <td rowspan="2" colspan="1" class=" top ">
+                                 J. Vehicle retail
+                                 </td>
+                              <td class=" top ">
+                                 1. Vehicle sales, new &amp; used, including recreational vehicles/boats
+                                 </td>
+                              <td class=" top ">
+                                 Spaces equal to 10 percent of vehicle display area
+                                 </td>
+                           </tr>
+                           <tr>
+                              <td class=" top ">
+                                 2. Large truck, equipment sales, boat sales
+                                 </td>
+                              <td class=" top ">
+                                 1 per 1,000 sf
+                                 </td>
+                           </tr>
+                           <tr>
+                              <td class=" top ">
+                                 K. Lodging
+                                 </td>
+                              <td class=" top ">
+                                 1. Hotel or motel
+                                 </td>
+                              <td class=" top ">
+                                 1 per room plus 75% of the required parking for attached uses
+                                 </td>
+                           </tr>
+                           <tr>
+                              <td style="background-color: LightGray; " colspan="3" class="hasbg top ">
+                                 <span class="bold">4. INDUSTRIAL</span>
+                                 </td>
+                           </tr>
+                           <tr>
+                              <td rowspan="2" colspan="1" class=" top ">
+                                 A. Industrial service and manufacturing/production
+                                 </td>
+                              <td class=" top ">
+                                 1. Indoor and outdoor operations
+                                 </td>
+                              <td class=" top ">
+                                 1.1 per employee
+                                 </td>
+                           </tr>
+                           <tr>
+                              <td class=" top ">
+                                 2. Bottling works, creamery, lumberyard
+                                 </td>
+                              <td class=" top ">
+                                 2 per 3 employee + 1 per service vehicle
+                                 </td>
+                           </tr>
+                           <tr>
+                              <td class=" top ">
+                                 B. Warehouse and freight movement
+                                 </td>
+                              <td class=" top ">
+                                 1. Warehouse, freight movement facilities
+                                 </td>
+                              <td class=" top ">
+                                 1 per 5,000 sf; 5 spaces minimum
+                                 </td>
+                           </tr>
+                           <tr>
+                              <td class=" top ">
+                                 C. Waste-related use
+                                 </td>
+                              <td class=" top ">
+                                 1. Landfill/solid waste facility
+                                 </td>
+                              <td class=" top ">
+                                 1.1 per employee
+                                 </td>
+                           </tr>
+                           <tr>
+                              <td class=" top ">
+                                 D. Wholesale sales
+                                 </td>
+                              <td class=" top ">
+                                 1. Warehousing, equipment servicing &amp; manufacturing area
+                                 </td>
+                              <td class=" top ">
+                                 1.1 per employee
+                                 </td>
+                           </tr>
+                        </tbody>
+                     </table>

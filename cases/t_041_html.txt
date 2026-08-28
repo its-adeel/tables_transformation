@@ -1,0 +1,924 @@
+<table class="thead3 table left makeExpandableTable makeFixedTable" cellpadding="3" cellspacing="0" border="1" rules="all">
+                        <colgroup class="std">
+                           <col width="21.428571428571427%">
+                           <col width="3.5714285714285716%">
+                           <col width="3.5714285714285716%">
+                           <col width="3.5714285714285716%">
+                           <col width="3.5714285714285716%">
+                           <col width="3.5714285714285716%">
+                           <col width="3.5714285714285716%">
+                           <col width="3.5714285714285716%">
+                           <col width="3.5714285714285716%">
+                           <col width="3.5714285714285716%">
+                           <col width="3.5714285714285716%">
+                           <col width="3.5714285714285716%">
+                           <col width="3.5714285714285716%">
+                           <col width="3.5714285714285716%">
+                           <col width="3.5714285714285716%">
+                           <col width="3.5714285714285716%">
+                           <col width="3.5714285714285716%">
+                           <col width="3.5714285714285716%">
+                           <col width="3.5714285714285716%">
+                           <col width="3.5714285714285716%">
+                           <col width="3.5714285714285716%">
+                           <col width="3.5714285714285716%">
+                           <col width="3.5714285714285716%">
+                        </colgroup>
+                        <thead><tr style=" font-weight:bold; ">
+                              <th style="background-color: YellowGreen; font-size:9pt; " colspan="23" class="hasbg top ">
+                                 <span class="bold">EXHIBIT VI.8.1-6. APPLICABILITY MATRIX</span>
+                                 </th>
+                           </tr><tr style=" font-weight:bold; ">
+                              <th style="background-color: YellowGreen; " class="hasbg top "></th>
+                              <th style="background-color: YellowGreen; " colspan="7" class="hasbg top ">
+                                 <span class="bold">Building and Envelope Regulations</span>
+                                 </th>
+                              <th style="background-color: YellowGreen; " colspan="6" class="hasbg top ">
+                                 <span class="bold">Architectural Regulations</span>
+                                 </th>
+                              <th style="background-color: YellowGreen; " colspan="3" class="hasbg top ">
+                                 <span class="bold">Landscape Regulations</span>
+                                 </th>
+                              <th style="background-color: YellowGreen; " colspan="5" class="hasbg top ">
+                                 <span class="bold">Street and Streetscape Regulations</span>
+                                 </th>
+                              <th style="background-color: YellowGreen; " class="cw270 hasbg top ">
+                                 <div>
+                                    <span class="bold">Misc.</span>
+                                    </div>
+                              </th>
+                           </tr><tr>
+                              <th style="background-color: YellowGreen; " class="hasbg top ">
+                                 Development Application/ Request
+                                 </th>
+                              <th style="background-color: Silver; " class="cw270 cw270 hasbg top ">
+                                 <div>
+                                    Placement
+                                    </div>
+                              </th>
+                              <th style="background-color: Silver; " class="cw270 hasbg top ">
+                                 <div>
+                                    Orientation
+                                    </div>
+                              </th>
+                              <th style="background-color: Silver; " class="cw270 hasbg top ">
+                                 <div>
+                                    Blocks/Lots
+                                    </div>
+                              </th>
+                              <th style="background-color: Silver; " class="cw270 hasbg top ">
+                                 <div>
+                                    Height
+                                    </div>
+                              </th>
+                              <th style="background-color: Silver; " class="cw270 hasbg top ">
+                                 <div>
+                                    Driveway
+                                    </div>
+                              </th>
+                              <th style="background-color: Silver; " class="cw270 hasbg top ">
+                                 <div>
+                                    Ped-Circulation
+                                    </div>
+                              </th>
+                              <th style="background-color: Silver; " class="cw270 hasbg top ">
+                                 <div>
+                                    Off- and On-Street
+                                    <br>
+                                    Parking
+                                    </div>
+                              </th>
+                              <th style="background-color: LightGray; " class="cw270 hasbg top ">
+                                 <div>
+                                    Articulation
+                                    </div>
+                              </th>
+                              <th style="background-color: LightGray; " class="cw270 hasbg top ">
+                                 <div>
+                                    Bldg. Entrances
+                                    </div>
+                              </th>
+                              <th style="background-color: LightGray; " class="cw270 hasbg top ">
+                                 <div>
+                                    Materials/ Colors
+                                    </div>
+                              </th>
+                              <th style="background-color: LightGray; " class="cw270 hasbg top ">
+                                 <div>
+                                    Awnings/ Canopies
+                                    </div>
+                              </th>
+                              <th style="background-color: LightGray; background-color: LightGray; " class="cw270 hasbg top ">
+                                 <div>
+                                    Window
+                                    </div>
+                              </th>
+                              <th style="background-color: LightGray; " class="cw270 hasbg top ">
+                                 <div>
+                                    Parking Structures
+                                    </div>
+                              </th>
+                              <th style="background-color: Silver; " class="cw270 hasbg top ">
+                                 <div>
+                                    Tree/
+                                    <br>
+                                    Plant Materials
+                                    </div>
+                              </th>
+                              <th style="background-color: Silver; " class="cw270 hasbg top ">
+                                 <div>
+                                    Hardscaping
+                                    </div>
+                              </th>
+                              <th style="background-color: Silver; " class="cw270 hasbg top ">
+                                 <div>
+                                    Open Space
+                                    </div>
+                              </th>
+                              <th style="background-color: LightGray; " class="cw270 hasbg top ">
+                                 <div>
+                                    General
+                                    </div>
+                              </th>
+                              <th style="background-color: LightGray; " class="cw270 hasbg top ">
+                                 <div>
+                                    New or
+                                    <br>
+                                    Existing Streets
+                                    </div>
+                              </th>
+                              <th style="background-color: LightGray; " class="cw270 hasbg top ">
+                                 <div>
+                                    Streetscape Zone
+                                    </div>
+                              </th>
+                              <th style="background-color: LightGray; " class="cw270 hasbg top ">
+                                 <div>
+                                    Street/Ped Lighting
+                                    </div>
+                              </th>
+                              <th style="background-color: LightGray; " class="cw270 hasbg top ">
+                                 <div>
+                                    Pedestrian
+                                    <br>
+                                    Amenities
+                                    </div>
+                              </th>
+                              <th style="background-color: Silver; " class="cw270 hasbg top ">
+                                 <div>
+                                    Screening of Service
+                                    <br>
+                                    Areas and Utilities
+                                    </div>
+                              </th>
+                           </tr></thead><tbody>
+                           
+                           
+                           
+                           <tr>
+                              <td style="background-color: YellowGreen; " class="hasbg top ">
+                                 A. New Development*
+                                 </td>
+                              <td style="background-color: Silver; " class="hasbg top ">
+                                 X
+                                 </td>
+                              <td style="background-color: Silver; " class="hasbg top ">
+                                 X
+                                 </td>
+                              <td style="background-color: Silver; " class="hasbg top ">
+                                 X
+                                 </td>
+                              <td style="background-color: Silver; " class="hasbg top ">
+                                 X
+                                 </td>
+                              <td style="background-color: Silver; " class="hasbg top ">
+                                 X
+                                 </td>
+                              <td style="background-color: Silver; " class="hasbg top ">
+                                 X
+                                 </td>
+                              <td style="background-color: Silver; " class="hasbg top ">
+                                 X
+                                 </td>
+                              <td style="background-color: LightGray; " class="hasbg top ">
+                                 X
+                                 </td>
+                              <td style="background-color: LightGray; " class="hasbg top ">
+                                 X
+                                 </td>
+                              <td style="background-color: LightGray; " class="hasbg top ">
+                                 X
+                                 </td>
+                              <td style="background-color: LightGray; " class="hasbg top ">
+                                 X
+                                 </td>
+                              <td style="background-color: LightGray; " class="hasbg top ">
+                                 X
+                                 </td>
+                              <td style="background-color: LightGray; " class="hasbg top ">
+                                 X
+                                 </td>
+                              <td style="background-color: Silver; " class="hasbg top ">
+                                 X
+                                 </td>
+                              <td style="background-color: Silver; " class="hasbg top ">
+                                 X
+                                 </td>
+                              <td style="background-color: Silver; " class="hasbg top ">
+                                 X
+                                 </td>
+                              <td style="background-color: LightGray; " class="hasbg top ">
+                                 X
+                                 </td>
+                              <td style="background-color: LightGray; " class="hasbg top ">
+                                 X
+                                 </td>
+                              <td style="background-color: LightGray; " class="hasbg top ">
+                                 X
+                                 </td>
+                              <td style="background-color: LightGray; " class="hasbg top ">
+                                 X
+                                 </td>
+                              <td style="background-color: LightGray; " class="hasbg top ">
+                                 X
+                                 </td>
+                              <td style="background-color: Silver; " class="hasbg top "></td>
+                           </tr>
+                           <tr>
+                              <td style="background-color: YellowGreen; " class="hasbg top ">
+                                 B. Change of use/expansion of existing use (with NO change in building area) (new
+                                 use shall comply with the underlying zoning district)**
+                                 </td>
+                              <td style="background-color: Silver; " class="hasbg top "></td>
+                              <td style="background-color: Silver; " class="hasbg top "></td>
+                              <td style="background-color: Silver; " class="hasbg top "></td>
+                              <td style="background-color: Silver; " class="hasbg top "></td>
+                              <td style="background-color: Silver; " class="hasbg top "></td>
+                              <td style="background-color: Silver; " class="hasbg top "></td>
+                              <td style="background-color: Silver; " class="hasbg top ">
+                                 X
+                                 </td>
+                              <td style="background-color: LightGray; " class="hasbg top "></td>
+                              <td style="background-color: LightGray; " class="hasbg top "></td>
+                              <td style="background-color: LightGray; " class="hasbg top "></td>
+                              <td style="background-color: LightGray; " class="hasbg top "></td>
+                              <td style="background-color: LightGray; " class="hasbg top "></td>
+                              <td style="background-color: LightGray; " class="hasbg top "></td>
+                              <td style="background-color: Silver; " class="hasbg top "></td>
+                              <td style="background-color: Silver; " class="hasbg top "></td>
+                              <td style="background-color: Silver; " class="hasbg top "></td>
+                              <td style="background-color: LightGray; " class="hasbg top "></td>
+                              <td style="background-color: LightGray; " class="hasbg top "></td>
+                              <td style="background-color: LightGray; " class="hasbg top "></td>
+                              <td style="background-color: LightGray; " class="hasbg top "></td>
+                              <td style="background-color: LightGray; " class="hasbg top "></td>
+                              <td style="background-color: Silver; " class="hasbg top "></td>
+                           </tr>
+                           <tr>
+                              <td style="background-color: YellowGreen; " class="hasbg top ">
+                                 C. Interior remodel with no change of use, no change in any Street facing Facade,
+                                 no increase of any existing nonconformity and no change in building area
+                                 </td>
+                              <td style="background-color: Silver; " class="hasbg top "></td>
+                              <td style="background-color: Silver; " class="hasbg top "></td>
+                              <td style="background-color: Silver; " class="hasbg top "></td>
+                              <td style="background-color: Silver; " class="hasbg top "></td>
+                              <td style="background-color: Silver; " class="hasbg top "></td>
+                              <td style="background-color: Silver; " class="hasbg top "></td>
+                              <td style="background-color: Silver; " class="hasbg top "></td>
+                              <td style="background-color: LightGray; " class="hasbg top "></td>
+                              <td style="background-color: LightGray; " class="hasbg top "></td>
+                              <td style="background-color: LightGray; " class="hasbg top "></td>
+                              <td style="background-color: LightGray; " class="hasbg top "></td>
+                              <td style="background-color: LightGray; " class="hasbg top "></td>
+                              <td style="background-color: LightGray; " class="hasbg top "></td>
+                              <td style="background-color: Silver; " class="hasbg top "></td>
+                              <td style="background-color: Silver; " class="hasbg top "></td>
+                              <td style="background-color: Silver; " class="hasbg top "></td>
+                              <td style="background-color: LightGray; " class="hasbg top "></td>
+                              <td style="background-color: LightGray; " class="hasbg top "></td>
+                              <td style="background-color: LightGray; " class="hasbg top "></td>
+                              <td style="background-color: LightGray; " class="hasbg top "></td>
+                              <td style="background-color: LightGray; " class="hasbg top "></td>
+                              <td style="background-color: Silver; " class="hasbg top "></td>
+                           </tr>
+                           <tr>
+                              <td style="background-color: YellowGreen; " class="hasbg top ">
+                                 D. Facade changes to existing buildings (regardless of value of improvements proposed)
+                                 </td>
+                              <td style="background-color: Silver; " class="hasbg top "></td>
+                              <td style="background-color: Silver; " class="hasbg top "></td>
+                              <td style="background-color: Silver; " class="hasbg top "></td>
+                              <td style="background-color: Silver; " class="hasbg top "></td>
+                              <td style="background-color: Silver; " class="hasbg top "></td>
+                              <td style="background-color: Silver; " class="hasbg top "></td>
+                              <td style="background-color: Silver; " class="hasbg top "></td>
+                              <td style="background-color: LightGray; " class="hasbg top "></td>
+                              <td style="background-color: LightGray; " class="hasbg top "></td>
+                              <td style="background-color: LightGray; " class="hasbg top "></td>
+                              <td style="background-color: LightGray; " class="hasbg top "></td>
+                              <td style="background-color: LightGray; " class="hasbg top "></td>
+                              <td style="background-color: LightGray; " class="hasbg top "></td>
+                              <td style="background-color: Silver; " class="hasbg top "></td>
+                              <td style="background-color: Silver; " class="hasbg top "></td>
+                              <td style="background-color: Silver; " class="hasbg top "></td>
+                              <td style="background-color: LightGray; " class="hasbg top "></td>
+                              <td style="background-color: LightGray; " class="hasbg top "></td>
+                              <td style="background-color: LightGray; " class="hasbg top "></td>
+                              <td style="background-color: LightGray; " class="hasbg top "></td>
+                              <td style="background-color: LightGray; " class="hasbg top "></td>
+                              <td style="background-color: Silver; " class="hasbg top "></td>
+                           </tr>
+                           <tr>
+                              <td style="background-color: YellowGreen; " class="hasbg top ">
+                                  1. Addition of non-air conditioned space such as patios, porches, arcades, canopies,
+                                 and outdoor seating areas (shall be permitted so long as no existing nonconformity
+                                 is increased)**
+                                 </td>
+                              <td style="background-color: Silver; " class="hasbg top ">
+                                 X
+                                 </td>
+                              <td style="background-color: Silver; " class="hasbg top ">
+                                 X
+                                 </td>
+                              <td style="background-color: Silver; " class="hasbg top "></td>
+                              <td style="background-color: Silver; " class="hasbg top "></td>
+                              <td style="background-color: Silver; " class="hasbg top "></td>
+                              <td style="background-color: Silver; " class="hasbg top ">
+                                 X
+                                 </td>
+                              <td style="background-color: Silver; " class="hasbg top ">
+                                 X
+                                 </td>
+                              <td style="background-color: LightGray; " class="hasbg top "></td>
+                              <td style="background-color: LightGray; " class="hasbg top "></td>
+                              <td style="background-color: LightGray; " class="hasbg top "></td>
+                              <td style="background-color: LightGray; " class="hasbg top ">
+                                 X
+                                 </td>
+                              <td style="background-color: LightGray; " class="hasbg top "></td>
+                              <td style="background-color: LightGray; " class="hasbg top "></td>
+                              <td style="background-color: Silver; " class="hasbg top "></td>
+                              <td style="background-color: Silver; " class="hasbg top "></td>
+                              <td style="background-color: Silver; " class="hasbg top "></td>
+                              <td style="background-color: LightGray; " class="hasbg top "></td>
+                              <td style="background-color: LightGray; " class="hasbg top "></td>
+                              <td style="background-color: LightGray; " class="hasbg top "></td>
+                              <td style="background-color: LightGray; " class="hasbg top "></td>
+                              <td style="background-color: LightGray; " class="hasbg top "></td>
+                              <td style="background-color: Silver; " class="hasbg top "></td>
+                           </tr>
+                           <tr>
+                              <td style="background-color: YellowGreen; " class="hasbg top ">
+                                  2. Changes to any Street facing Facades (Standards in the specific section shall
+                                 apply except that architectural regulations shall only apply to the Street facing
+                                 Facade being changed)**
+                                 </td>
+                              <td style="background-color: Silver; " class="hasbg top "></td>
+                              <td style="background-color: Silver; " class="hasbg top "></td>
+                              <td style="background-color: Silver; " class="hasbg top "></td>
+                              <td style="background-color: Silver; " class="hasbg top "></td>
+                              <td style="background-color: Silver; " class="hasbg top "></td>
+                              <td style="background-color: Silver; " class="hasbg top "></td>
+                              <td style="background-color: Silver; " class="hasbg top "></td>
+                              <td style="background-color: LightGray; " class="hasbg top ">
+                                 X
+                                 </td>
+                              <td style="background-color: LightGray; " class="hasbg top ">
+                                 X
+                                 </td>
+                              <td style="background-color: LightGray; " class="hasbg top ">
+                                 X
+                                 </td>
+                              <td style="background-color: LightGray; " class="hasbg top ">
+                                 X
+                                 </td>
+                              <td style="background-color: LightGray; " class="hasbg top ">
+                                 X
+                                 </td>
+                              <td style="background-color: LightGray; " class="hasbg top "></td>
+                              <td style="background-color: Silver; " class="hasbg top ">
+                                 X
+                                 </td>
+                              <td style="background-color: Silver; " class="hasbg top "></td>
+                              <td style="background-color: Silver; " class="hasbg top "></td>
+                              <td style="background-color: LightGray; " class="hasbg top "></td>
+                              <td style="background-color: LightGray; " class="hasbg top "></td>
+                              <td style="background-color: LightGray; " class="hasbg top "></td>
+                              <td style="background-color: LightGray; " class="hasbg top "></td>
+                              <td style="background-color: LightGray; " class="hasbg top "></td>
+                              <td style="background-color: Silver; " class="hasbg top "></td>
+                           </tr>
+                           <tr>
+                              <td style="background-color: YellowGreen; " colspan="23" class="hasbg top ">
+                                 E. Expansion of Building Area
+                                 </td>
+                           </tr>
+                           <tr>
+                              <td style="background-color: YellowGreen; " class="hasbg top ">
+                                  1. 0%—49% increase in building area regardless of value of improvements
+                                 <br>
+                                  (Standards in applicable sections shall apply only to the expansions)**
+                                 </td>
+                              <td style="background-color: Silver; " class="hasbg top ">
+                                 X
+                                 </td>
+                              <td style="background-color: Silver; " class="hasbg top ">
+                                 X
+                                 </td>
+                              <td style="background-color: Silver; " class="hasbg top ">
+                                 X
+                                 </td>
+                              <td style="background-color: Silver; " class="hasbg top ">
+                                 X
+                                 </td>
+                              <td style="background-color: Silver; " class="hasbg top ">
+                                 X
+                                 </td>
+                              <td style="background-color: Silver; " class="hasbg top ">
+                                 X
+                                 </td>
+                              <td style="background-color: Silver; " class="hasbg top ">
+                                 X
+                                 </td>
+                              <td style="background-color: LightGray; " class="hasbg top ">
+                                 X
+                                 </td>
+                              <td style="background-color: LightGray; " class="hasbg top ">
+                                 X
+                                 </td>
+                              <td style="background-color: LightGray; " class="hasbg top ">
+                                 X
+                                 </td>
+                              <td style="background-color: LightGray; " class="hasbg top ">
+                                 X
+                                 </td>
+                              <td style="background-color: LightGray; " class="hasbg top ">
+                                 X
+                                 </td>
+                              <td style="background-color: LightGray; " class="hasbg top "></td>
+                              <td style="background-color: Silver; " class="hasbg top ">
+                                 X
+                                 </td>
+                              <td style="background-color: Silver; " class="hasbg top ">
+                                 X
+                                 </td>
+                              <td style="background-color: Silver; " class="hasbg top "></td>
+                              <td style="background-color: LightGray; " class="hasbg top ">
+                                 X
+                                 </td>
+                              <td style="background-color: LightGray; " class="hasbg top ">
+                                 X
+                                 </td>
+                              <td style="background-color: LightGray; " class="hasbg top ">
+                                 X
+                                 </td>
+                              <td style="background-color: LightGray; " class="hasbg top ">
+                                 X
+                                 </td>
+                              <td style="background-color: LightGray; " class="hasbg top ">
+                                 X
+                                 </td>
+                              <td style="background-color: Silver; " class="hasbg top "></td>
+                           </tr>
+                           <tr>
+                              <td style="background-color: YellowGreen; " class="hasbg top ">
+                                  2. 50% or greater increase in building area BUT less than both:
+                                 <br>
+                                  a. 50% increase in value of improvements, and
+                                 <br>
+                                  b. Total proposed improvements valued at $100,000
+                                 <br>
+                                  (Standards in applicable sections shall apply only to the expansions)*
+                                 </td>
+                              <td style="background-color: Silver; " class="hasbg top ">
+                                 X
+                                 </td>
+                              <td style="background-color: Silver; " class="hasbg top ">
+                                 X
+                                 </td>
+                              <td style="background-color: Silver; " class="hasbg top ">
+                                 X
+                                 </td>
+                              <td style="background-color: Silver; " class="hasbg top ">
+                                 X
+                                 </td>
+                              <td style="background-color: Silver; " class="hasbg top ">
+                                 X
+                                 </td>
+                              <td style="background-color: Silver; " class="hasbg top ">
+                                 X
+                                 </td>
+                              <td style="background-color: Silver; " class="hasbg top ">
+                                 X
+                                 </td>
+                              <td style="background-color: LightGray; " class="hasbg top ">
+                                 X
+                                 </td>
+                              <td style="background-color: LightGray; " class="hasbg top ">
+                                 X
+                                 </td>
+                              <td style="background-color: LightGray; " class="hasbg top ">
+                                 X
+                                 </td>
+                              <td style="background-color: LightGray; " class="hasbg top ">
+                                 X
+                                 </td>
+                              <td style="background-color: LightGray; " class="hasbg top ">
+                                 X
+                                 </td>
+                              <td style="background-color: LightGray; " class="hasbg top "></td>
+                              <td style="background-color: Silver; " class="hasbg top ">
+                                 X
+                                 </td>
+                              <td style="background-color: Silver; " class="hasbg top ">
+                                 X
+                                 </td>
+                              <td style="background-color: Silver; " class="hasbg top "></td>
+                              <td style="background-color: LightGray; " class="hasbg top ">
+                                 X
+                                 </td>
+                              <td style="background-color: LightGray; " class="hasbg top ">
+                                 X
+                                 </td>
+                              <td style="background-color: LightGray; " class="hasbg top ">
+                                 X
+                                 </td>
+                              <td style="background-color: LightGray; " class="hasbg top ">
+                                 X
+                                 </td>
+                              <td style="background-color: LightGray; " class="hasbg top ">
+                                 X
+                                 </td>
+                              <td style="background-color: Silver; " class="hasbg top "></td>
+                           </tr>
+                           <tr>
+                              <td style="background-color: YellowGreen; " class="hasbg top ">
+                                  3. 50% or greater increase of building area AND more than either:
+                                 <br>
+                                  a. 50% increase in value of improvements or
+                                 <br>
+                                  b. Any proposed improvements valued at $100,000
+                                 <br>
+                                  (Standards in applicable sections shall apply to the entire site, including retrofitting
+                                 of the existing building and site).*
+                                 </td>
+                              <td style="background-color: Silver; " class="hasbg top ">
+                                 X
+                                 </td>
+                              <td style="background-color: Silver; " class="hasbg top ">
+                                 X
+                                 </td>
+                              <td style="background-color: Silver; " class="hasbg top ">
+                                 X
+                                 </td>
+                              <td style="background-color: Silver; " class="hasbg top ">
+                                 X
+                                 </td>
+                              <td style="background-color: Silver; " class="hasbg top ">
+                                 X
+                                 </td>
+                              <td style="background-color: Silver; " class="hasbg top ">
+                                 X
+                                 </td>
+                              <td style="background-color: Silver; " class="hasbg top ">
+                                 X
+                                 </td>
+                              <td style="background-color: LightGray; " class="hasbg top ">
+                                 X
+                                 </td>
+                              <td style="background-color: LightGray; " class="hasbg top ">
+                                 X
+                                 </td>
+                              <td style="background-color: LightGray; " class="hasbg top ">
+                                 X
+                                 </td>
+                              <td style="background-color: LightGray; " class="hasbg top ">
+                                 X
+                                 </td>
+                              <td style="background-color: LightGray; " class="hasbg top ">
+                                 X
+                                 </td>
+                              <td style="background-color: LightGray; " class="hasbg top "></td>
+                              <td style="background-color: Silver; " class="hasbg top ">
+                                 X
+                                 </td>
+                              <td style="background-color: Silver; " class="hasbg top ">
+                                 X
+                                 </td>
+                              <td style="background-color: Silver; " class="hasbg top "></td>
+                              <td style="background-color: LightGray; " class="hasbg top ">
+                                 X
+                                 </td>
+                              <td style="background-color: LightGray; " class="hasbg top ">
+                                 X
+                                 </td>
+                              <td style="background-color: LightGray; " class="hasbg top ">
+                                 X
+                                 </td>
+                              <td style="background-color: LightGray; " class="hasbg top ">
+                                 X
+                                 </td>
+                              <td style="background-color: LightGray; " class="hasbg top ">
+                                 X
+                                 </td>
+                              <td style="background-color: Silver; " class="hasbg top "></td>
+                           </tr>
+                           <tr>
+                              <td style="background-color: YellowGreen; " colspan="23" class="hasbg top ">
+                                 F. Expansion of Parking Lot only (not in conjunction with a building or use expansion)
+                                 </td>
+                           </tr>
+                           <tr>
+                              <td style="background-color: YellowGreen; " class="hasbg top ">
+                                  1. Up to 10 additional spaces (shall not be placed in any area that increases any
+                                 existing nonconformity)**
+                                 </td>
+                              <td style="background-color: Silver; " class="hasbg top "></td>
+                              <td style="background-color: Silver; " class="hasbg top "></td>
+                              <td style="background-color: Silver; " class="hasbg top "></td>
+                              <td style="background-color: Silver; " class="hasbg top "></td>
+                              <td style="background-color: Silver; " class="hasbg top ">
+                                 X
+                                 </td>
+                              <td style="background-color: Silver; " class="hasbg top "></td>
+                              <td style="background-color: Silver; " class="hasbg top ">
+                                 X
+                                 </td>
+                              <td style="background-color: LightGray; " class="hasbg top "></td>
+                              <td style="background-color: LightGray; " class="hasbg top "></td>
+                              <td style="background-color: LightGray; " class="hasbg top "></td>
+                              <td style="background-color: LightGray; " class="hasbg top "></td>
+                              <td style="background-color: LightGray; " class="hasbg top "></td>
+                              <td style="background-color: LightGray; " class="hasbg top "></td>
+                              <td style="background-color: Silver; " class="hasbg top ">
+                                 X
+                                 </td>
+                              <td style="background-color: Silver; " class="hasbg top "></td>
+                              <td style="background-color: Silver; " class="hasbg top "></td>
+                              <td style="background-color: LightGray; " class="hasbg top "></td>
+                              <td style="background-color: LightGray; " class="hasbg top "></td>
+                              <td style="background-color: LightGray; " class="hasbg top "></td>
+                              <td style="background-color: LightGray; " class="hasbg top "></td>
+                              <td style="background-color: LightGray; " class="hasbg top "></td>
+                              <td style="background-color: Silver; " class="hasbg top "></td>
+                           </tr>
+                           <tr>
+                              <td style="background-color: YellowGreen; " class="hasbg top ">
+                                  2. 11 or more additional spaces (shall not be placed in a manner that increases any
+                                 existing nonconformity)*
+                                 </td>
+                              <td style="background-color: Silver; " class="hasbg top "></td>
+                              <td style="background-color: Silver; " class="hasbg top "></td>
+                              <td style="background-color: Silver; " class="hasbg top "></td>
+                              <td style="background-color: Silver; " class="hasbg top "></td>
+                              <td style="background-color: Silver; " class="hasbg top ">
+                                 X
+                                 </td>
+                              <td style="background-color: Silver; " class="hasbg top ">
+                                 X
+                                 </td>
+                              <td style="background-color: Silver; " class="hasbg top ">
+                                 X
+                                 </td>
+                              <td style="background-color: LightGray; " class="hasbg top "></td>
+                              <td style="background-color: LightGray; " class="hasbg top "></td>
+                              <td style="background-color: LightGray; " class="hasbg top "></td>
+                              <td style="background-color: LightGray; " class="hasbg top "></td>
+                              <td style="background-color: LightGray; " class="hasbg top "></td>
+                              <td style="background-color: LightGray; " class="hasbg top "></td>
+                              <td style="background-color: Silver; " class="hasbg top ">
+                                 X
+                                 </td>
+                              <td style="background-color: Silver; " class="hasbg top ">
+                                 X
+                                 </td>
+                              <td style="background-color: Silver; " class="hasbg top "></td>
+                              <td style="background-color: LightGray; " class="hasbg top "></td>
+                              <td style="background-color: LightGray; " class="hasbg top "></td>
+                              <td style="background-color: LightGray; " class="hasbg top "></td>
+                              <td style="background-color: LightGray; " class="hasbg top "></td>
+                              <td style="background-color: LightGray; " class="hasbg top "></td>
+                              <td style="background-color: Silver; " class="hasbg top ">
+                                 X
+                                 </td>
+                           </tr>
+                           <tr>
+                              <td style="background-color: YellowGreen; " colspan="23" class="hasbg top ">
+                                 G. Decrease of Building Area
+                                 </td>
+                           </tr>
+                           <tr>
+                              <td style="background-color: YellowGreen; " class="hasbg top ">
+                                  1. 0% to 49% decrease in building area regardless of value of improvements
+                                 <br>
+                                  (Architectural regulations shall only apply to Facades impacted by building decrease)**
+                                 </td>
+                              <td style="background-color: Silver; " class="hasbg top "></td>
+                              <td style="background-color: Silver; " class="hasbg top "></td>
+                              <td style="background-color: Silver; " class="hasbg top "></td>
+                              <td style="background-color: Silver; " class="hasbg top "></td>
+                              <td style="background-color: Silver; " class="hasbg top ">
+                                 X
+                                 </td>
+                              <td style="background-color: Silver; " class="hasbg top ">
+                                 X
+                                 </td>
+                              <td style="background-color: Silver; " class="hasbg top ">
+                                 X
+                                 </td>
+                              <td style="background-color: LightGray; " class="hasbg top ">
+                                 X
+                                 </td>
+                              <td style="background-color: LightGray; " class="hasbg top ">
+                                 X
+                                 </td>
+                              <td style="background-color: LightGray; " class="hasbg top ">
+                                 X
+                                 </td>
+                              <td style="background-color: LightGray; " class="hasbg top ">
+                                 X
+                                 </td>
+                              <td style="background-color: LightGray; " class="hasbg top ">
+                                 X
+                                 </td>
+                              <td style="background-color: LightGray; " class="hasbg top ">
+                                 X
+                                 </td>
+                              <td style="background-color: Silver; " class="hasbg top ">
+                                 X
+                                 </td>
+                              <td style="background-color: Silver; " class="hasbg top "></td>
+                              <td style="background-color: Silver; " class="hasbg top "></td>
+                              <td style="background-color: LightGray; " class="hasbg top "></td>
+                              <td style="background-color: LightGray; " class="hasbg top "></td>
+                              <td style="background-color: LightGray; " class="hasbg top "></td>
+                              <td style="background-color: LightGray; " class="hasbg top "></td>
+                              <td style="background-color: LightGray; " class="hasbg top "></td>
+                              <td style="background-color: Silver; " class="hasbg top ">
+                                 X
+                                 </td>
+                           </tr>
+                           <tr>
+                              <td style="background-color: YellowGreen; " class="hasbg top ">
+                                  2. 50% or greater decrease of building area
+                                 <br>
+                                  (Standards in the specific section shall apply to the entire building and site)**
+                                 </td>
+                              <td style="background-color: Silver; " class="hasbg top "></td>
+                              <td style="background-color: Silver; " class="hasbg top "></td>
+                              <td style="background-color: Silver; " class="hasbg top "></td>
+                              <td style="background-color: Silver; " class="hasbg top "></td>
+                              <td style="background-color: Silver; " class="hasbg top ">
+                                 X
+                                 </td>
+                              <td style="background-color: Silver; " class="hasbg top ">
+                                 X
+                                 </td>
+                              <td style="background-color: Silver; " class="hasbg top ">
+                                 X
+                                 </td>
+                              <td style="background-color: LightGray; " class="hasbg top ">
+                                 X
+                                 </td>
+                              <td style="background-color: LightGray; " class="hasbg top ">
+                                 X
+                                 </td>
+                              <td style="background-color: LightGray; " class="hasbg top ">
+                                 X
+                                 </td>
+                              <td style="background-color: LightGray; " class="hasbg top ">
+                                 X
+                                 </td>
+                              <td style="background-color: LightGray; " class="hasbg top ">
+                                 X
+                                 </td>
+                              <td style="background-color: LightGray; " class="hasbg top ">
+                                 X
+                                 </td>
+                              <td style="background-color: Silver; " class="hasbg top ">
+                                 X
+                                 </td>
+                              <td style="background-color: Silver; " class="hasbg top "></td>
+                              <td style="background-color: Silver; " class="hasbg top "></td>
+                              <td style="background-color: LightGray; " class="hasbg top "></td>
+                              <td style="background-color: LightGray; " class="hasbg top "></td>
+                              <td style="background-color: LightGray; " class="hasbg top "></td>
+                              <td style="background-color: LightGray; " class="hasbg top "></td>
+                              <td style="background-color: LightGray; " class="hasbg top "></td>
+                              <td style="background-color: Silver; " class="hasbg top ">
+                                 X
+                                 </td>
+                           </tr>
+                           <tr>
+                              <td style="background-color: YellowGreen; " colspan="23" class="hasbg top ">
+                                 H. Reduction of Parking Spaces
+                                 </td>
+                           </tr>
+                           <tr>
+                              <td style="background-color: YellowGreen; " class="hasbg top ">
+                                  1. Reduction of up to 10 spaces**
+                                 </td>
+                              <td style="background-color: Silver; " class="hasbg top "></td>
+                              <td style="background-color: Silver; " class="hasbg top "></td>
+                              <td style="background-color: Silver; " class="hasbg top "></td>
+                              <td style="background-color: Silver; " class="hasbg top "></td>
+                              <td style="background-color: Silver; " class="hasbg top ">
+                                 X
+                                 </td>
+                              <td style="background-color: Silver; " class="hasbg top "></td>
+                              <td style="background-color: Silver; " class="hasbg top ">
+                                 X
+                                 </td>
+                              <td style="background-color: LightGray; " class="hasbg top "></td>
+                              <td style="background-color: LightGray; " class="hasbg top "></td>
+                              <td style="background-color: LightGray; " class="hasbg top "></td>
+                              <td style="background-color: LightGray; " class="hasbg top "></td>
+                              <td style="background-color: LightGray; " class="hasbg top "></td>
+                              <td style="background-color: LightGray; " class="hasbg top "></td>
+                              <td style="background-color: Silver; " class="hasbg top "></td>
+                              <td style="background-color: Silver; " class="hasbg top "></td>
+                              <td style="background-color: Silver; " class="hasbg top "></td>
+                              <td style="background-color: LightGray; " class="hasbg top "></td>
+                              <td style="background-color: LightGray; " class="hasbg top "></td>
+                              <td style="background-color: LightGray; " class="hasbg top "></td>
+                              <td style="background-color: LightGray; " class="hasbg top "></td>
+                              <td style="background-color: LightGray; " class="hasbg top "></td>
+                              <td style="background-color: Silver; " class="hasbg top "></td>
+                           </tr>
+                           <tr>
+                              <td style="background-color: YellowGreen; " class="hasbg top ">
+                                  2. Reduction of 11 or more spaces**
+                                 </td>
+                              <td style="background-color: Silver; " class="hasbg top "></td>
+                              <td style="background-color: Silver; " class="hasbg top "></td>
+                              <td style="background-color: Silver; " class="hasbg top "></td>
+                              <td style="background-color: Silver; " class="hasbg top "></td>
+                              <td style="background-color: Silver; " class="hasbg top ">
+                                 X
+                                 </td>
+                              <td style="background-color: Silver; " class="hasbg top ">
+                                 X
+                                 </td>
+                              <td style="background-color: Silver; " class="hasbg top ">
+                                 X
+                                 </td>
+                              <td style="background-color: LightGray; " class="hasbg top "></td>
+                              <td style="background-color: LightGray; " class="hasbg top "></td>
+                              <td style="background-color: LightGray; " class="hasbg top "></td>
+                              <td style="background-color: LightGray; " class="hasbg top "></td>
+                              <td style="background-color: LightGray; " class="hasbg top "></td>
+                              <td style="background-color: LightGray; " class="hasbg top "></td>
+                              <td style="background-color: Silver; " class="hasbg top ">
+                                 X
+                                 </td>
+                              <td style="background-color: Silver; " class="hasbg top "></td>
+                              <td style="background-color: Silver; " class="hasbg top "></td>
+                              <td style="background-color: LightGray; " class="hasbg top "></td>
+                              <td style="background-color: LightGray; " class="hasbg top "></td>
+                              <td style="background-color: LightGray; " class="hasbg top ">
+                                 X
+                                 </td>
+                              <td style="background-color: LightGray; " class="hasbg top "></td>
+                              <td style="background-color: LightGray; " class="hasbg top "></td>
+                              <td style="background-color: Silver; " class="hasbg top ">
+                                 X
+                                 </td>
+                           </tr>
+                           <tr>
+                              <td style="background-color: YellowGreen; " class="hasbg top ">
+                                 I. Acquisition of frontage by a governmental entity for Public Right-of-Way when not
+                                 otherwise affecting structures, required setbacks, or vehicular circulation on the
+                                 property***
+                                 </td>
+                              <td style="background-color: Silver; " class="hasbg top "></td>
+                              <td style="background-color: Silver; " class="hasbg top "></td>
+                              <td style="background-color: Silver; " class="hasbg top "></td>
+                              <td style="background-color: Silver; " class="hasbg top "></td>
+                              <td style="background-color: Silver; " class="hasbg top "></td>
+                              <td style="background-color: Silver; " class="hasbg top "></td>
+                              <td style="background-color: Silver; " class="hasbg top ">
+                                 X
+                                 </td>
+                              <td style="background-color: LightGray; " class="hasbg top "></td>
+                              <td style="background-color: LightGray; " class="hasbg top "></td>
+                              <td style="background-color: LightGray; " class="hasbg top "></td>
+                              <td style="background-color: LightGray; " class="hasbg top "></td>
+                              <td style="background-color: LightGray; " class="hasbg top "></td>
+                              <td style="background-color: LightGray; " class="hasbg top "></td>
+                              <td style="background-color: Silver; " class="hasbg top ">
+                                 X
+                                 </td>
+                              <td style="background-color: Silver; " class="hasbg top "></td>
+                              <td style="background-color: Silver; " class="hasbg top "></td>
+                              <td style="background-color: LightGray; " class="hasbg top "></td>
+                              <td style="background-color: LightGray; " class="hasbg top "></td>
+                              <td style="background-color: LightGray; " class="hasbg top ">
+                                 X
+                                 </td>
+                              <td style="background-color: LightGray; " class="hasbg top "></td>
+                              <td style="background-color: LightGray; " class="hasbg top "></td>
+                              <td style="background-color: Silver; " class="hasbg top "></td>
+                           </tr>
+                        </tbody>
+                     </table>

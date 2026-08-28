@@ -163,3 +163,4 @@ cython_debug/
 # cases/
 results/
 others/
+*.zip

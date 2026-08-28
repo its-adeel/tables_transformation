@@ -1,0 +1,439 @@
+Class:
+  A. - Signs permitted in residential (RS, R-1, R-2, R-3) districts:
+    Nameplate:
+      Type: Wall or door
+      Maximum Number: 1 per occupied unit
+      Maximum Sign Area: 2 sq. ft.
+      Maximum Sign Height: Below eave line
+      Location: Wall or door
+      Illumination Allowed: 'No'
+      Remarks: Shall identify only the name and/or address of the occupant.
+    Apartment identification:
+      Type: Wall or monument
+      Maximum Number: 1 per street frontage
+      Maximum Sign Area: 12 sq. ft.
+      Maximum Sign Height: Below eave line for wall sign and 4 ft. for monument sign1
+      Location: 5 ft. setback from property line
+      Illumination Allowed: May be illuminated only in R-2 and R-3 districts
+      Remarks: Shall only identify the apartment complex by name and address.
+    Institutional signs:
+      Type: Wall or monument
+      Maximum Number: 1 per use
+      Maximum Sign Area: 24 sq. ft.
+      Maximum Sign Height: Below eave line for wall sign and 4 ft. for monument sign1
+      Location: 10 ft. setback from front and 5 ft. setback from side property line
+      Illumination Allowed: 'Yes'
+      Remarks: Name of institution only. May incorporate changeable copy.
+    Neighborhood identification:
+      Type: Wall or monument
+      Maximum Number: 2 per major entrance
+      Maximum Sign Area: 48 sq. ft.
+      Maximum Sign Height: 4 ft.
+      Location: At major entrances to project/ neighborhood or residential subdivision of 5 or more dwelling units
+      Illumination Allowed: 'Yes'
+      Remarks: Copy limited to project/neighborhood name only. Allowed only if maintenance responsibility assigned to community association.
+    Mobilehome park identification:
+      Type: Wall or monument
+      Maximum Number: 1 per street frontage up to 2 per major entrance
+      Maximum Sign Area: 24 sq. ft.
+      Maximum Sign Height: 10 ft. for wall; 4 ft. for monument1
+      Location: 10 ft. setback from property line
+      Illumination Allowed: 'Yes'
+      Remarks: ''
+    Project identification sign, temporary:
+      Type: Freestanding (on site)
+      Maximum Number: 2 for subdivisions more than 5 acres, otherwise 1 sign
+      Maximum Sign Area: 76 sq. ft.
+      Maximum Sign Height: 15 ft.
+      Location: 10 ft. setback from any street. Located on the site of the project/subdivision
+      Illumination Allowed: 'No'
+      Remarks: All signs shall be removed within 30 days after the sale/rental of the last unit in the project. Refer to section 6-15-10 of this chapter for regulations pertaining to off site subdivision signs.
+    Pedestrian project directory:
+      Type: Wall or freestanding
+      Maximum Number: To be determined by the planning director
+      Maximum Sign Area: 4 sq. ft.
+      Maximum Sign Height: 5 ft.
+      Location: May not be located in any required setback
+      Illumination Allowed: 'Yes'
+      Remarks: To identify tenants and provide directions to individual units.
+    Real estate:
+      Residential:
+        Type: Freestanding
+        Maximum Number: 1 per residence
+        Maximum Sign Area: 6 sq. ft.
+        Maximum Sign Height: 5 ft.
+        Location: Within the subject property
+        Illumination Allowed: 'No'
+        Remarks: Copy limited to the sale, rent or lease of the subject property. Refer to subsection 6-15-5 (B) of this chapter.
+      Subdivision, on site commercial real estate signs and kiosks (refer to section 6-15-10 of this chapter): {}
+  B. - Signs permitted for office buildings in commercial (DC, GC) districts:
+    Business identification (single tenant):
+      Type: Wall or monument
+      Maximum Number: 1 each per street or parking frontage
+      Maximum Sign Area: 1/ 2 sq. ft. of sign area per linear foot of building fronting on a street, 24 sq. ft. maximum
+      Maximum Sign Height: Below eave line for wall sign and 4 ft. for monument1
+      Location: May not be located in a required setback area
+      Illumination Allowed: 'Yes'
+      Remarks: ''
+    Building identification (multiple tenant):
+      Wall:
+        Maximum Number: 1 per tenant per street frontage
+        Maximum Sign Area: 1/2 sq. ft. of sign area per linear foot of building fronting on a street, 40 sq. ft. maximum
+        Maximum Sign Height: Below eave line
+        Location: Wall or canopy
+        Illumination Allowed: 'Yes'
+        Remarks: Copy shall pertain only to the name and/or address of the building. Illumination shall be reverse backlit, channel lit or indirectly illuminated.
+      Monument:
+        Maximum Number: 1 per street frontage
+        Maximum Sign Area: 1/2 sq. ft. of sign area per linear foot of building fronting on a street, 40 sq. ft. maximum
+        Maximum Sign Height: 4 ft.1
+        Location: Shall be set back 5 ft. from property line
+        Illumination Allowed: 'Yes'
+        Remarks: Copy shall pertain only to the name and/or address of the building. Illumination shall be reverse backlit, channel lit or indirectly illuminated.
+    Center identification (multiple tenant):
+      Type: Wall or monument
+      Maximum Number: 1 per each street frontage
+      Maximum Sign Area: 100 sq. ft.
+      Maximum Sign Height: Below eave line for a wall sign, 15 ft. for a freestanding sign and 4 ft. for a monument sign1
+      Location: Shall be setback 5 ft. minimum from property line
+      Illumination Allowed: 'Yes'
+      Remarks: Copy shall pertain only to the name and/or address of the center and/or tenants of the center. Planter base or landscaped area to be provided equal to 4 times the area of 1 face of the sign.
+    Pedestrian business directory (multiple tenant):
+      Type: Wall or monument sign
+      Maximum Number: To be determined by the planning director
+      Maximum Sign Area: 15 sq. ft.
+      Maximum Sign Height: 6 ft. for monument; below eave line for wall sign
+      Location: May not be located in any required setback
+      Illumination Allowed: 'Yes'
+      Remarks: To identify tenants and provide directions to individual establishments.
+    Nameplate:
+      Type: Wall
+      Maximum Number: 1 per tenant
+      Maximum Sign Area: 4 sq. ft.
+      Maximum Sign Height: ''
+      Location: Adjacent to primary entrance of each tenant
+      Illumination Allowed: ''
+      Remarks: Copy limited to name and address of each tenant.
+    Window signs:
+      Type: Window
+      Maximum Number: 1 per window
+      Maximum Sign Area: 25% of window area
+      Maximum Sign Height: ''
+      Location: ''
+      Illumination Allowed: 'No'
+      Remarks: ''
+    Institutional signs:
+      Type: Wall or monument
+      Maximum Number: 1 per use
+      Maximum Sign Area: 15 sq. ft.
+      Maximum Sign Height: 4 ft. for monu-ment1 below eave line for wall sign
+      Location: Not in setback area
+      Illumination Allowed: 'Yes'
+      Remarks: ''
+    High rise buildings (4 stories or more):
+      Building identification:
+        Type: Wall sign
+        Maximum Number: 2 per building
+        Maximum Sign Area: 300 sq. ft.
+        Maximum Sign Height: To be determined by city council upon recommendation of planning director
+        Location: Above the windows of the highest floor and below the eave line
+        Illumination Allowed: 'Yes'
+        Remarks: Copy is limited to 1 company name and/or address per building. Company logos may be used in combination with letters. Signs shall be designed to be compatible with the architecture of the buildings.
+      Secondary tenant identification:
+        Type: Wall sign
+        Maximum Number: 4 per building
+        Maximum Sign Area: 22 sq. ft. maximum per sign. Maximum letter height 18"
+        Maximum Sign Height: Below the second floor, or 20 ft. whichever is less
+        Location: Near the entrance of the tenants they identify
+        Illumination Allowed: 'Yes'
+        Remarks: ''
+      Center or project:
+        Type: Monument
+        Maximum Number: 1 per street frontage
+        Maximum Sign Area: 40 sq. ft.
+        Maximum Sign Height: 4 ft.1
+        Location: At main entrance
+        Illumination Allowed: 'Yes'
+        Remarks: Shall contain only the name and/or tenants of the center, project and/or tenants of the center.
+    Temporary signs same as temporary signs allowed in commercial districts: {}
+  C. - Signs (nonoffice) permitted in commercial (DC, GC) districts:
+    Single tenant sites - not part of a center:
+      Business identification:
+        Type: Wall or canopy
+        Maximum Number: 1 single face sign per building per street or parking lot frontage. Maximum 3 signs per business
+        Maximum Sign Area: 1 sq. ft. of sign area per each linear foot of building fronting on a street. 75 sq. ft. maximum. Sign area in MC, otherwise 100 sq. ft. maximum. In addition, 1 sq. ft. of sign per each linear foot of the buildings rear elevation if a public entrance is provided from a rear street, alley, or parking lot, 50 sq. ft. maximum
+        Maximum Sign Height: May not project above the eave line
+        Location: May be located on parapet or canopy
+        Illumination Allowed: 'Yes'
+        Remarks: Allowable aggregate wall sign area shall exclude areas of allowed window signs.
+      Business identification (21):
+        Type: Projecting
+        Maximum Number: 1 double face sign per frontage
+        Maximum Sign Area: 25 sq. ft. maximum per face
+        Maximum Sign Height: May not extend beyond eave line
+        Location: May only be attached to the building to which the copy relates
+        Illumination Allowed: 'Yes'
+        Remarks: Authorized in lieu of a wall sign. Authorized only where no building setback is required.
+      Business identification (22):
+        Type: Window
+        Maximum Number: 1 sign per window
+        Maximum Sign Area: 30% of the glass area upon which the sign is located
+        Maximum Sign Height: ''
+        Location: Window lettering permitted on interior or exterior of glass window or door
+        Illumination Allowed: 'Yes'
+        Remarks: Allowable aggregate wall sign area shall exclude areas of allowable wall signs.
+      Business identification (23):
+        Type: Monument
+        Maximum Number: 1 double face sign per street frontage
+        Maximum Sign Area: 24 sq. ft. in NC, 32 sq. ft. in DC and GC
+        Maximum Sign Height: 4 ft.1
+        Location: Must not create traffic hazard at corners or driveways
+        Illumination Allowed: 'Yes'
+        Remarks: May not be located within 5 ft. of public right of way.
+      Business identification (GC only):
+        Type: Freestanding
+        Maximum Number: 1 double face sign per development
+        Maximum Sign Area: 100 sq. ft. per face
+        Maximum Sign Height: 25 ft. for freestanding
+        Location: Must be located in landscaped area
+        Illumination Allowed: 'Yes'
+        Remarks: Site must be adjacent to an arterial street or highway, or be within 1,000 ft. of a freeway centerline.
+      Drive-through restaurants:
+        Type: Menu boards
+        Maximum Number: 2 per site
+        Maximum Sign Area: 30 sq. ft.
+        Maximum Sign Height: 7 ft.
+        Location: Shall not be located so as to be a hazard for driveway or corner radius
+        Illumination Allowed: 'Yes'
+        Remarks: Shall face away from the street.
+    Multiple tenant sites- shopping centers:
+      Business identification:
+        Type: Wall or canopy
+        Maximum Number: 1 single face per tenant per street or parking lot frontage. Maximum 2 signs per business
+        Maximum Sign Area: 1 sq. ft. of sign area per each linear foot of building fronting on a street. Not to exceed 75 sq. ft. In addition, 1 sq. ft. of sign area per each linear foot of the buildings rear elevation if a public entrance is provided from a rear street or parking lot. Not to exceed 50 ft.
+        Maximum Sign Height: May not project above the eave line
+        Location: May be located on parapet or canopy
+        Illumination Allowed: 'Yes'
+        Remarks: All shopping centers shall develop a coordinated sign program for all tenants and uses in accordance with the requirements of this title. Allowable aggregate wall sign area shall exclude allowable window area used for signs. A center is one in which businesses and structures are designed in an integrated and interrelated development. Such design is independent of the number of structures, lots or parcels making up the center.
+      Business identification (27):
+        Type: Window
+        Maximum Number: 1 sign per window
+        Maximum Sign Area: 30% of the glass area upon which the sign is located
+        Maximum Sign Height: ''
+        Location: Window lettering permitted on interior or exterior of glass window or door
+        Illumination Allowed: No, except signs constructed of neon tube letters
+        Remarks: Allowable aggregate of window sign area shall exclude areas of allowable wall signs.
+      Business identification (28):
+        Type: Under marquee
+        Maximum Number: 1 per entrance (double face)
+        Maximum Sign Area: 6 sq. ft. per face
+        Maximum Sign Height: ''
+        Location: Below eave line and beneath canopy or marquee with 7 ft. clearance from sidewalk level to lowest point of sign
+        Illumination Allowed: ''
+        Remarks: Signs shall be uniform in color and design for all tenant identification within the center.
+      Business identification (29):
+        Type: Monument
+        Maximum Number: 1 double face
+        Maximum Sign Area: 25 sq. ft. per face
+        Maximum Sign Height: 4 ft.1
+        Location: Shall be set back a minimum of 5 ft. from front or side property lines
+        Illumination Allowed: 'Yes'
+        Remarks: Authorized for detached single business in structure of not less than 5,000 sq. ft.
+      Center identification:
+        Type: Freestanding
+        Maximum Number: 1 double face per each street frontage
+        Maximum Sign Area: 75 sq. ft. per face
+        Maximum Sign Height: Sign shall not exceed the height of the structure it identifies or 20 ft., whichever is less
+        Location: Shall be located in landscaped area; not be located to be a traffic hazard
+        Illumination Allowed: 'Yes'
+        Remarks: Sign may identify center and major tenants. Vertical clearance of 10 ft. required for freestanding signs projecting over vehicular passageway.
+      Center identification (freeway or highway):
+        Type: Freestanding
+        Maximum Number: 1 double face sign per center
+        Maximum Sign Area: 125 sq. ft. per face
+        Maximum Sign Height: 35 ft., unless a flag test or other suitable mechanism determines that a greater height is required due to vegetation or other factors that adversely detract from the 35 ft. provision
+        Location: Must be located in landscaped area; may not obscure another sign when viewed from a freeway or highway
+        Illumination Allowed: 'Yes'
+        Remarks: Center site must be adjacent to the right of way of a highway or within 1,000 ft. of a freeway centerline. Signs shall be constructed, erected and maintained to ensure integration with the surrounding environment and land uses, and shall be directed away from residential land use districts. Sign text shall be limited to the name of business. Consolidation of multiple business names or logos shall be encouraged in order to reduce the number of signs. Signs shall be serviced by underground utility connection. Signs shall advertise only businesses that are located within 1,000 ft. of a freeway centerline.
+      Center identification (all cases):
+        Type: Monument
+        Maximum Number: 1 double face
+        Maximum Sign Area: 25 sq. ft. per face
+        Maximum Sign Height: 4 ft. above grade1
+        Location: Shall be set back a minimum of 5 ft. from front or side property lines
+        Illumination Allowed: 'Yes'
+        Remarks: Sign may identify center, address of center and major tenants.
+      Drive-through restaurants:
+        Type: Menu boards
+        Maximum Number: 2 per site
+        Maximum Sign Area: 30 sq. ft.
+        Maximum Sign Height: 7 ft.
+        Location: Shall not be located so as to be a hazard for driveway or corner radius
+        Illumination Allowed: 'Yes'
+        Remarks: Shall face away from the street.
+    Service station:
+      Service station identification:
+        Wall:
+          Maximum Number: 1 per street frontage maximum 2
+          Maximum Sign Area: 10% of building face not to exceed 50 sq. ft.
+          Maximum Sign Height: Not above eave line or 20 ft., whichever is less
+          Location: ''
+          Illumination Allowed: 'Yes'
+          Remarks: A combination of monument and wall may be used, but no more than a total of 3 signs. The monument sign shall be designed to include the identity of the station. Price signs are allowed in accordance with state regulations.
+        Monument:
+          Maximum Number: 1 per street frontage maximum 2
+          Maximum Sign Area: 36 sq. ft. per face
+          Maximum Sign Height: 4 ft.
+          Location: ''
+          Illumination Allowed: ''
+          Remarks: A combination of monument and wall may be used, but no more than a total of 3 signs. The monument sign shall be designed to include the identity of the station. Price signs are allowed in accordance with state regulations.
+        Type: Freestanding
+        Maximum Number: 1 double face sign per center
+        Maximum Sign Area: 125 sq. ft. per face if adjacent to a highway or within 1,000 ft. of the centerline of a freeway, otherwise 75 sq. ft. per face
+        Maximum Sign Height: 25 ft.
+        Location: Must be located in landscaped area
+        Illumination Allowed: 'Yes'
+        Remarks: ''
+      Special service signs:
+        Type: Wall or ground
+        Maximum Number: 1 for each pump island, not to exceed a total of 4 per station
+        Maximum Sign Area: 2 sq. ft. per face
+        Maximum Sign Height: 8 ft.
+        Location: ''
+        Illumination Allowed: 'No'
+        Remarks: Special service signs shall be limited to such items as self-serve, full serve, air, water and cashier, and shall be nonilluminated.
+      Small accessory signs:
+        Type: Wall or pump island
+        Maximum Number: n/a
+        Maximum Sign Area: 2 sq. ft. per face
+        Maximum Sign Height: 8 ft.
+        Location: On site
+        Illumination Allowed: 'Yes'
+        Remarks: Small accessory signs are limited to warning signs such as "No Smoking" and signs on gas pumps or islands identifying the price of fuel, brand of gas, grade of gas and pumping instructions. Small accessory signs shall not require a sign permit.
+    Temporary signs:
+      Building:
+        Type: Window
+        Maximum Number: 1 per window
+        Maximum Sign Area: 30% of the glazed area of a window
+        Maximum Sign Height: ''
+        Location: Ground floor windows only
+        Illumination Allowed: 'No'
+        Remarks: ''
+      Construction:
+        Type: Freestanding
+        Maximum Number: 1 single face sign per street frontage
+        Maximum Sign Area: 32 sq. ft.
+        Maximum Sign Height: 10 ft.
+        Location: Located so as not to create traffic hazard or overhang public right of way
+        Illumination Allowed: 'No'
+        Remarks: Authorized upon the issuance of a grading or building permit. Sign shall be removed prior to certificate of occupancy.
+      Future facility of tenant:
+        Type: Freestanding wall or window
+        Maximum Number: 1 per street frontage or tenant
+        Maximum Sign Area: 32 sq. ft. per face
+        Maximum Sign Height: 8 ft.
+        Location: Within the subject property
+        Illumination Allowed: 'No'
+        Remarks: Sign shall be removed upon occupancy of the building.
+      Real estate:
+        Type: Freestanding wall or window
+        Maximum Number: 1 per street frontage
+        Maximum Sign Area: 32 sq. ft. per face
+        Maximum Sign Height: 8 ft.
+        Location: Within the subject property
+        Illumination Allowed: 'No'
+        Remarks: To advertise the sale-lease of structure or grounds and not for the purpose of advertising an agency occupying the premises.
+    Theaters:
+      Coming attractions display case:
+        Type: Wall
+        Maximum Number: 1 per screen for theaters or per stage for live theaters or cabarets
+        Maximum Sign Area: 6 sq. ft.
+        Maximum Sign Height: 8 ft.
+        Location: Near main entrance
+        Illumination Allowed: 'Yes'
+        Remarks: Cases shall be mounted and shall be large enough to display one 6 sq. ft. poster each.
+      Attraction board:
+        Type: Wall or freestanding
+        Maximum Number: 1 per theater, theater complex, or cabaret per street frontage
+        Maximum Sign Area: 20 sq. ft. plus 10 sq. ft. per screen or stage up to an overall maximum of 40 ft.
+        Maximum Sign Height: 25 ft.
+        Location: May be located in landscaped setback area, however, shall not be located so as to be a hazard for driveway or corner radius
+        Illumination Allowed: 'Yes'
+        Remarks: 'All attraction boards shall be building mounted unless only one of the following findings can be made: 1) A freestanding sign is the only feasible means by which the business conducted on the premises can obtain the same degree of identification to motorists as that available to neighboring businesses that do not have such signage; or 2) The building is set back from the street view by structures or mature vegetation such that a building mounted sign cannot provide adequate signage; or 3) The architectural style, materials or design elements are such that a building mounted sign is not feasible or would detract from the building''s appearance.'
+  D. - Signs permitted in industrial (I) district:
+    Business identification (single tenant):
+      Type: ''
+      Maximum Number: ''
+      Maximum Sign Area: ''
+      Maximum Sign Height: ''
+      Location: ''
+      Illumination Allowed: ''
+      Remarks: Same as "Signs (nonoffice) permitted in commercial districts (DC, GC)" of this table.
+    Multi-tenant sites:
+      Center or project identification:
+        Type: Entrance monument
+        Maximum Number: 1 per street entrance and 1 per major intersection
+        Maximum Sign Area: 40 sq. ft. per face
+        Maximum Sign Height: 4 ft.1
+        Location: Shall not be located so as to create traffic hazard for driveway or corner radius, as determined by the city engineer
+        Illumination Allowed: 'Yes'
+        Remarks: Planter base or landscape area equal to or greater than the area of 1 face of a sign. Shall contain only the name of the center or project, no tenant information. For each public secondary street with at least 150 ft. of frontage, a monument sign may be permitted indicating the name and/or address of the center on site.
+      Business identification:
+        Type: Wall
+        Maximum Number: 1 per street or parking lot frontage
+        Maximum Sign Area: 1 sq. ft. of sign area per each linear ft. of building frontage
+        Maximum Sign Height: May not project above the eave line
+        Location: ''
+        Illumination Allowed: 'Yes'
+        Remarks: Shall contain only the name and/or address and product of company. A sign program shall be required for developments with 3 or more tenants.
+      Business directory:
+        Type: Freestanding
+        Maximum Number: 1 per street or parking lot frontage
+        Maximum Sign Area: 32 sq. ft. per face
+        Maximum Sign Height: 8 ft.
+        Location: ''
+        Illumination Allowed: 'Yes'
+        Remarks: Intended to list only the names and addresses of on site occupants. Shall be designed as part of overall sign program.
+      Advisory/directional:
+        Type: Wall or freestanding
+        Maximum Number: Minimum number necessary to provide adequate information
+        Maximum Sign Area: 4 sq. ft.
+        Maximum Sign Height: 4 ft.
+        Location: Minimum 5 ft. setback from property lines
+        Illumination Allowed: 'Yes'
+        Remarks: Copy limited to directional information, such as "entrance" or "exit", but no directions to individual businesses.
+      Business information:
+        Type: Window or wall sign
+        Maximum Number: 1 per main building entrance
+        Maximum Sign Area: 4 sq. ft.
+        Maximum Sign Height: 6 ft.
+        Location: At main building entrance
+        Illumination Allowed: 'No'
+        Remarks: Intended to provide only name, address, telephone, business hours and emergency information for occupant.
+      Taft Airport:
+        Type: Wall or monument
+        Maximum Number: 2 per intersection entrance onto airport property
+        Maximum Sign Area: 160 sq. ft.
+        Maximum Sign Height: 5 ft.
+        Location: ''
+        Illumination Allowed: 'Yes'
+        Remarks: Intended only to identify the name and address of the airport or as approved by the planning commission.
+    Temporary signs, as allowed in GC, DC zone districts: {}
+  E. - Signs permitted in the community facilities (CF) district:
+    Facility identification:
+      Community facility:
+        Type: Wall, monument, or freestanding
+        Maximum Number: 1 per street or parking lot frontage
+        Maximum Sign Area: 30 sq. ft. per face
+        Maximum Sign Height: May not project above eave line for wall sign; 25 ft. for freestanding sign, 4 ft. for monument sign1
+        Location: ''
+        Illumination Allowed: 'No'
+        Remarks: Intended only to identify the name and address of a public or quasi-public facility or as approved by the planning commission.
+      Public parks:
+        Type: Wall or freestanding
+        Maximum Number: 1 per street or parking lot frontage
+        Maximum Sign Area: 30 sq. ft. per face
+        Maximum Sign Height: May not project above eave line for wall sign; 25 ft. for freestanding sign, 4 ft. for monument sign1
+        Location: ''
+        Illumination Allowed: 'No'
+        Remarks: Intended only to identify the name and address of a public or quasi-public facility or as approved by the planning commission.

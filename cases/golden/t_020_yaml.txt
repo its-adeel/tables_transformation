@@ -1,51 +1,46 @@
 SIGNAGE ALLOWED BY ROAD FRONTAGE:
   TYPE OF PROPERTY:
     Freestanding parcel:
-      LENGTH OF FRONTAGE: Less than 200 feet
-      NUMBER 2: '1'
-      TYPE: Ground Sign
-      HEIGHT: 8 feet
-      SIGN AREA 1, 3: ½ sq. ft. for each linear ft. of frontage
-    Freestanding parcel (2):
-      LENGTH OF FRONTAGE: 200—399 feet
-      NUMBER 2: '1'
-      TYPE: Freestanding
-      HEIGHT: 25 feet
-      SIGN AREA 1, 3: ½ sq. ft. for each linear ft. of frontage
-    Freestanding parcel (3):
-      LENGTH OF FRONTAGE: 200—399 feet
-      NUMBER 2: '1'
-      TYPE: Freestanding
-      HEIGHT: 25 feet
-      SIGN AREA 1, 3: ½ sq. ft. for each linear ft. of frontage
-    Freestanding parcel (4):
-      LENGTH OF FRONTAGE: More than 400 feet or portion thereof up to 799 feet
-      NUMBER 2: '1'
-      TYPE: Freestanding "primary"
-      HEIGHT: 35 feet
-      SIGN AREA 1, 3: ½ sq. ft. for each linear ft. of frontage up to 400 feet plus 1 sq. ft. for each linear ft. of frontage over 400 feet.
-    Freestanding parcel (5):
-      LENGTH OF FRONTAGE: Each additional 400 feet of frontage
-      NUMBER 2: '1'
-      TYPE: Freestanding "secondary"
-      HEIGHT: 25 feet
-      SIGN AREA 1, 3: ½ sq. ft. for each linear ft. of frontage up to 400 feet plus 1 sq. ft. for each linear ft. of frontage over 400 feet.
+      Less than 200 feet:
+        NUMBER 2: '1'
+        TYPE: Ground Sign
+        HEIGHT: 8 feet
+        SIGN AREA 1, 3: ½ sq. ft. for each linear ft. of frontage
+      200—399 feet:
+        NUMBER 2: '1'
+        TYPE: Freestanding
+        HEIGHT: 25 feet
+        SIGN AREA 1, 3: ½ sq. ft. for each linear ft. of frontage
+      200—399 feet (3):
+        NUMBER 2: '1'
+        TYPE: Freestanding
+        HEIGHT: 25 feet
+        SIGN AREA 1, 3: ½ sq. ft. for each linear ft. of frontage
+      More than 400 feet or portion thereof up to 799 feet:
+        NUMBER 2: '1'
+        TYPE: Freestanding "primary"
+        HEIGHT: 35 feet
+        SIGN AREA 1, 3: ½ sq. ft. for each linear ft. of frontage up to 400 feet plus 1 sq. ft. for each linear ft. of frontage over 400 feet.
+      Each additional 400 feet of frontage:
+        NUMBER 2: '1'
+        TYPE: Freestanding "secondary"
+        HEIGHT: 25 feet
+        SIGN AREA 1, 3: ½ sq. ft. for each linear ft. of frontage up to 400 feet plus 1 sq. ft. for each linear ft. of frontage over 400 feet.
     Commercial Subdivision Development:
-      LENGTH OF FRONTAGE: < 400 feet
-      NUMBER 2: '1'
-      TYPE: Freestanding "primary"
-      HEIGHT: 35 feet
-      SIGN AREA 1, 3: ½ sq. ft. for each linear ft. of frontage up to 400 feet plus 1 sq. ft. for each linear ft. of frontage over 400 feet.
-    Commercial Subdivision Development (7):
-      LENGTH OF FRONTAGE: ≥400 feet
-      NUMBER 2: '1'
-      TYPE: Freestanding "secondary"
-      HEIGHT: 25 feet
-      SIGN AREA 1, 3: ½ sq. ft. for each linear ft. of frontage up to 400 feet plus 1 sq. ft. for each linear ft. of frontage over 400 feet.
+      < 400 feet:
+        NUMBER 2: '1'
+        TYPE: Freestanding "primary"
+        HEIGHT: 35 feet
+        SIGN AREA 1, 3: ½ sq. ft. for each linear ft. of frontage up to 400 feet plus 1 sq. ft. for each linear ft. of frontage over 400 feet.
+      ≥400 feet:
+        NUMBER 2: '1'
+        TYPE: Freestanding "secondary"
+        HEIGHT: 25 feet
+        SIGN AREA 1, 3: ½ sq. ft. for each linear ft. of frontage up to 400 feet plus 1 sq. ft. for each linear ft. of frontage over 400 feet.
     Out-parcel of a commercial subdivision development:
-      LENGTH OF FRONTAGE: Less than 400 feet 4
-      NUMBER 2: '1'
-      TYPE: Ground Sign
-      HEIGHT: 8 feet
-      SIGN AREA 1, 3: ½ sq. ft. for each linear ft. of frontage
+      Less than 400 feet 4:
+        NUMBER 2: '1'
+        TYPE: Ground Sign
+        HEIGHT: 8 feet
+        SIGN AREA 1, 3: ½ sq. ft. for each linear ft. of frontage
     'Notes: 1. A minimum of 50 square feet of sign area will be allowed for all parcels. 2. Maximum three (3) freestanding signs per parcel or per Commercial. 3. Maximum sign area for the East Highway 544 section located to the south of the Highway 544 right-of-way shall have a maximum of 200 square feet. Maximum sign area per site shall be no greater than 750 sf. 4. Outparcels with greater than 400 feet of frontage will be reviewed under the freestanding parcel.': {}

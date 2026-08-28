@@ -1,0 +1,601 @@
+<table class="thead2 table left makeExpandableTable makeFixedTable" cellpadding="3" cellspacing="0" border="1" rules="all">
+                        <colgroup class="std">
+                           <col width="4.3478260869565215%">
+                           <col width="4.3478260869565215%">
+                           <col width="4.3478260869565215%">
+                           <col width="4.3478260869565215%">
+                           <col width="4.3478260869565215%">
+                           <col width="4.3478260869565215%">
+                           <col width="13.043478260869565%">
+                           <col width="8.695652173913043%">
+                           <col width="8.695652173913043%">
+                           <col width="8.695652173913043%">
+                           <col width="4.3478260869565215%">
+                           <col width="8.695652173913043%">
+                           <col width="8.695652173913043%">
+                           <col width="4.3478260869565215%">
+                           <col width="8.695652173913043%">
+                        </colgroup>
+                        <thead><tr>
+                              <th style="background-color: LightGray; " colspan="6" class="hasbg top ">
+                                 <span class="bold">Zoning Districts*</span>
+                                 </th>
+                              <th style="background-color: LightGray; " class="hasbg top ">
+                                 <span class="bold">Building Types*</span>
+                                 </th>
+                              <th style="background-color: LightGray; " colspan="8" class="hasbg top ">
+                                 <span class="bold">Development Standards</span>
+                                 </th>
+                           </tr><tr>
+                              <th style="background-color: LightGray; " colspan="6" class="hasbg top "></th>
+                              <th style="background-color: LightGray; " class="hasbg top "></th>
+                              <th style="background-color: LightGray; " colspan="3" class="hasbg top ">
+                                 <span class="bold">Lot Standards</span>
+                                 </th>
+                              <th style="background-color: LightGray; " colspan="4" class="hasbg top ">
+                                 <span class="bold">Minimum Setbacks</span>
+                                 </th>
+                              <th style="background-color: LightGray; " rowspan="2" class="hasbg top ">
+                                 <span class="bold">Building Height</span>
+                                 </th>
+                           </tr></thead><tbody>
+                           
+                           
+                           <tr>
+                              <td style="background-color: LightGray; " class="cw270 hasbg top ">
+                                 <div>
+                                    <span class="bold">R-1A</span>
+                                    </div>
+                              </td>
+                              <td style="background-color: LightGray; " class="cw270 hasbg top ">
+                                 <div>
+                                    <span class="bold">R-1B</span>
+                                    </div>
+                              </td>
+                              <td style="background-color: LightGray; " class="cw270 hasbg top ">
+                                 <div>
+                                    <span class="bold">R-2</span>
+                                    </div>
+                              </td>
+                              <td style="background-color: LightGray; " class="cw270 hasbg top ">
+                                 <div>
+                                    <span class="bold">R-3</span>
+                                    </div>
+                              </td>
+                              <td style="background-color: LightGray; " class="cw270 hasbg top ">
+                                 <div>
+                                    <span class="bold">R-4</span>
+                                    </div>
+                              </td>
+                              <td style="background-color: LightGray; " class="cw270 hasbg top ">
+                                 <div>
+                                    <span class="bold">R-5</span>
+                                    </div>
+                              </td>
+                              <td style="background-color: LightGray; " class="hasbg top "></td>
+                              <td style="background-color: LightGray; " class="hasbg top ">
+                                 <span class="bold">Size</span>
+                                 </td>
+                              <td style="background-color: LightGray; " class="hasbg top ">
+                                 <span class="bold">Width</span>
+                                 </td>
+                              <td style="background-color: LightGray; " class="hasbg top ">
+                                 <span class="bold">Max. Building Coverage</span>
+                                 </td>
+                              <td style="background-color: LightGray; " class="hasbg top ">
+                                 <span class="bold">Front [1]</span>
+                                 </td>
+                              <td style="background-color: LightGray; " class="hasbg top ">
+                                 <span class="bold">Interior Side</span>
+                                 </td>
+                              <td style="background-color: LightGray; " class="hasbg top ">
+                                 <span class="bold">Corner Side</span>
+                                 </td>
+                              <td style="background-color: LightGray; " class="hasbg top ">
+                                 <span class="bold">Rear</span>
+                                 </td>
+                           </tr>
+                           <tr>
+                              <td class=" top ">
+                                 ■
+                                 </td>
+                              <td class=" top ">
+                                 ■
+                                 </td>
+                              <td class=" top ">
+                                 ■
+                                 </td>
+                              <td class=" top ">
+                                 ■
+                                 </td>
+                              <td class=" top ">
+                                 ■
+                                 </td>
+                              <td class=" top ">
+                                 ■
+                                 </td>
+                              <td class=" top ">
+                                 <span class="ital">Detached House -<br>Neighborhood</span>
+                                 </td>
+                              <td class=" top ">
+                                 8K s.f. +
+                                 </td>
+                              <td class=" top ">
+                                 70′ +
+                                 </td>
+                              <td class=" top ">
+                                 40%
+                                 </td>
+                              <td class=" top ">
+                                 30′
+                                 </td>
+                              <td class=" top ">
+                                 7′
+                                 </td>
+                              <td class=" top ">
+                                 15′
+                                 </td>
+                              <td class=" top ">
+                                 25′
+                                 </td>
+                              <td class=" top ">
+                                 35′/2.5 stories
+                                 </td>
+                           </tr>
+                           <tr>
+                              <td class=" top "></td>
+                              <td class=" top ">
+                                 ■
+                                 </td>
+                              <td class=" top ">
+                                 ■
+                                 </td>
+                              <td class=" top ">
+                                 ■
+                                 </td>
+                              <td class=" top ">
+                                 ■
+                                 </td>
+                              <td class=" top ">
+                                 ■
+                                 </td>
+                              <td class=" top ">
+                                 <span class="ital">Detached House -<br>Compact</span>
+                                 </td>
+                              <td class=" top ">
+                                 3.5K—8K s.f.
+                                 </td>
+                              <td class=" top ">
+                                 35′ +
+                                 </td>
+                              <td class=" top ">
+                                 60%
+                                 </td>
+                              <td class=" top ">
+                                 20′
+                                 </td>
+                              <td class=" top ">
+                                 5′
+                                 </td>
+                              <td class=" top ">
+                                 8′
+                                 </td>
+                              <td class=" top ">
+                                 20′
+                                 </td>
+                              <td class=" top ">
+                                 35′/2.5 stories
+                                 </td>
+                           </tr>
+                           <tr>
+                              <td class=" top "></td>
+                              <td class=" top "></td>
+                              <td class=" top ">
+                                 ■
+                                 </td>
+                              <td class=" top ">
+                                 ■
+                                 </td>
+                              <td class=" top ">
+                                 ■
+                                 </td>
+                              <td class=" top ">
+                                 ■
+                                 </td>
+                              <td class=" top ">
+                                 <span class="ital">Duplex</span>
+                                 </td>
+                              <td class=" top ">
+                                 6K + 2 units per building
+                                 </td>
+                              <td class=" top ">
+                                 50′ +
+                                 </td>
+                              <td class=" top ">
+                                 40%
+                                 </td>
+                              <td class=" top ">
+                                 40′
+                                 </td>
+                              <td class=" top ">
+                                 5′
+                                 </td>
+                              <td class=" top ">
+                                 10′
+                                 </td>
+                              <td class=" top ">
+                                 25′
+                                 </td>
+                              <td class=" top ">
+                                 35′/2.5 stories
+                                 </td>
+                           </tr>
+                           <tr>
+                              <td class=" top "></td>
+                              <td class=" top "></td>
+                              <td class=" top "></td>
+                              <td class=" top "></td>
+                              <td class=" top ">
+                                 ■
+                                 </td>
+                              <td class=" top ">
+                                 ■
+                                 </td>
+                              <td class=" top ">
+                                 <span class="ital">Multi-unit House</span>
+                                 </td>
+                              <td class=" top ">
+                                 min. 4K s.f. per building 2—4 units
+                                 </td>
+                              <td class=" top ">
+                                 40′ +
+                                 </td>
+                              <td class=" top ">
+                                 60%
+                                 </td>
+                              <td class=" top ">
+                                 40′
+                                 </td>
+                              <td class=" top ">
+                                 5′
+                                 </td>
+                              <td class=" top ">
+                                 8′
+                                 </td>
+                              <td class=" top ">
+                                 20′
+                                 </td>
+                              <td class=" top ">
+                                 35′/2.5 stories
+                                 </td>
+                           </tr>
+                           <tr>
+                              <td class=" top "></td>
+                              <td class=" top "></td>
+                              <td class=" top "></td>
+                              <td class=" top "></td>
+                              <td class=" top ">
+                                 ■
+                                 </td>
+                              <td class=" top ">
+                                 ■
+                                 </td>
+                              <td class=" top ">
+                                 <span class="ital">Row House</span>
+                                 </td>
+                              <td class=" top ">
+                                 1.5K—3K s.f. per unit 3-8 units per building
+                                 </td>
+                              <td class=" top ">
+                                 16′—36′ per unit
+                                 </td>
+                              <td class=" top ">
+                                 75%
+                                 </td>
+                              <td class=" top ">
+                                 25′
+                                 </td>
+                              <td class=" top ">
+                                 5′
+                                 </td>
+                              <td class=" top ">
+                                 10′
+                                 </td>
+                              <td class=" top ">
+                                 20′
+                                 </td>
+                              <td class=" top ">
+                                 40′/3
+                                 <br>
+                                 stories
+                                 </td>
+                           </tr>
+                           <tr>
+                              <td class=" top "></td>
+                              <td class=" top "></td>
+                              <td class=" top "></td>
+                              <td class=" top "></td>
+                              <td class=" top ">
+                                 ■
+                                 </td>
+                              <td class=" top ">
+                                 ■
+                                 </td>
+                              <td class=" top ">
+                                 <span class="ital">Small<br>Apartment</span>
+                                 </td>
+                              <td class=" top ">
+                                 6K—14K s.f. per building 3—12 units
+                                 </td>
+                              <td class=" top ">
+                                 50′—100′
+                                 </td>
+                              <td class=" top ">
+                                 75%
+                                 </td>
+                              <td class=" top ">
+                                 25′
+                                 </td>
+                              <td class=" top ">
+                                 5′/10′*
+                                 </td>
+                              <td class=" top ">
+                                 10′
+                                 </td>
+                              <td class=" top ">
+                                 20′
+                                 </td>
+                              <td class=" top ">
+                                 45′/3
+                                 <br>
+                                 stories
+                                 </td>
+                           </tr>
+                           <tr>
+                              <td class=" top "></td>
+                              <td class=" top "></td>
+                              <td class=" top "></td>
+                              <td class=" top "></td>
+                              <td class=" top ">
+                                 □
+                                 </td>
+                              <td class=" top ">
+                                 ■
+                                 </td>
+                              <td class=" top ">
+                                 <span class="ital">Medium<br>Apartment</span>
+                                 </td>
+                              <td class=" top ">
+                                 10K—20K s.f. per building 13—40 units
+                                 </td>
+                              <td class=" top ">
+                                 80′—200′
+                                 </td>
+                              <td class=" top ">
+                                 65%
+                                 </td>
+                              <td class=" top ">
+                                 25′
+                                 </td>
+                              <td class=" top ">
+                                 5′/10*
+                                 </td>
+                              <td class=" top ">
+                                 10′
+                                 </td>
+                              <td class=" top ">
+                                 20′
+                                 </td>
+                              <td class=" top ">
+                                 65′/5
+                                 <br>
+                                 stories
+                                 </td>
+                           </tr>
+                           <tr>
+                              <td class=" top "></td>
+                              <td class=" top "></td>
+                              <td class=" top "></td>
+                              <td class=" top "></td>
+                              <td class=" top ">
+                                 □
+                                 </td>
+                              <td class=" top ">
+                                 ■
+                                 </td>
+                              <td class=" top ">
+                                 <span class="ital">Large<br>Apartment</span>
+                                 </td>
+                              <td class=" top ">
+                                 20K s.f. per building at least 800 s.f. per unit
+                                 </td>
+                              <td class=" top ">
+                                 200′ +
+                                 </td>
+                              <td class=" top ">
+                                 60%
+                                 </td>
+                              <td class=" top ">
+                                 30′
+                                 </td>
+                              <td colspan="3" class=" top ">
+                                 15′/3′ + for every
+                                 <br>
+                                 story over 4
+                                 </td>
+                              <td class=" top ">
+                                 115′/10
+                                 <br>
+                                 stories
+                                 </td>
+                           </tr>
+                           <tr>
+                              <td class=" top "></td>
+                              <td class=" top "></td>
+                              <td class=" top "></td>
+                              <td class=" top ">
+                                 ■
+                                 </td>
+                              <td class=" top "></td>
+                              <td class=" top "></td>
+                              <td class=" top ">
+                                 <span class="ital">Garden<br>Apartment</span>
+                                 </td>
+                              <td class=" top ">
+                                 40K s.f. per building at least 3.5K s.f. per unit
+                                 </td>
+                              <td class=" top ">
+                                 150′ +
+                                 </td>
+                              <td class=" top ">
+                                 40%
+                                 </td>
+                              <td class=" top ">
+                                 30′
+                                 </td>
+                              <td class=" top ">
+                                 15′
+                                 </td>
+                              <td class=" top ">
+                                 15′
+                                 </td>
+                              <td class=" top ">
+                                 15′
+                                 </td>
+                              <td class=" top ">
+                                 45′/3
+                                 <br>
+                                 stories
+                                 </td>
+                           </tr>
+                           <tr>
+                              <td class=" top "></td>
+                              <td class=" top "></td>
+                              <td class=" top "></td>
+                              <td class=" top "></td>
+                              <td class=" top ">
+                                 □
+                                 </td>
+                              <td class=" top "></td>
+                              <td class=" top ">
+                                 <span class="ital">Live/Work</span>
+                                 </td>
+                              <td class=" top ">
+                                 2K—10K s.f.
+                                 </td>
+                              <td class=" top ">
+                                 25′—100′
+                                 </td>
+                              <td class=" top ">
+                                 65%
+                                 </td>
+                              <td class=" top ">
+                                 20′
+                                 </td>
+                              <td class=" top ">
+                                 5′/0′ if party wall
+                                 </td>
+                              <td class=" top ">
+                                 8′
+                                 </td>
+                              <td class=" top ">
+                                 20′
+                                 </td>
+                              <td class=" top ">
+                                 45′/3
+                                 <br>
+                                 stories
+                                 </td>
+                           </tr>
+                           <tr>
+                              <td class=" top ">
+                                 □
+                                 </td>
+                              <td class=" top ">
+                                 □
+                                 </td>
+                              <td class=" top ">
+                                 □
+                                 </td>
+                              <td class=" top ">
+                                 □
+                                 </td>
+                              <td class=" top ">
+                                 □
+                                 </td>
+                              <td class=" top ">
+                                 □
+                                 </td>
+                              <td class=" top ">
+                                 <span class="ital">Small Civic</span>
+                                 </td>
+                              <td class=" top ">
+                                 5K—2 ac.
+                                 </td>
+                              <td class=" top ">
+                                 50′—300′
+                                 </td>
+                              <td class=" top ">
+                                 50%
+                                 </td>
+                              <td class=" top ">
+                                 20′—50′
+                                 </td>
+                              <td class=" top ">
+                                 5′
+                                 </td>
+                              <td class=" top ">
+                                 20′
+                                 </td>
+                              <td class=" top ">
+                                 20′
+                                 </td>
+                              <td class=" top ">
+                                 45′/3
+                                 <br>
+                                 stories
+                                 </td>
+                           </tr>
+                           <tr>
+                              <td class=" top "></td>
+                              <td class=" top "></td>
+                              <td class=" top "></td>
+                              <td class=" top "></td>
+                              <td class=" top ">
+                                 □
+                                 </td>
+                              <td class=" top ">
+                                 □
+                                 </td>
+                              <td class=" top ">
+                                 <span class="ital">Small Mixed-Use</span>
+                                 </td>
+                              <td class=" top ">
+                                 2K—10K s.f.
+                                 </td>
+                              <td class=" top ">
+                                 25′—100′
+                                 </td>
+                              <td class=" top ">
+                                 90%
+                                 </td>
+                              <td class=" top ">
+                                 0′—10′
+                                 </td>
+                              <td class=" top ">
+                                 5′/0′ if party wall
+                                 </td>
+                              <td class=" top ">
+                                 0′—10′
+                                 </td>
+                              <td class=" top ">
+                                 20′
+                                 </td>
+                              <td class=" top ">
+                                 45′/3
+                                 <br>
+                                 stories
+                                 </td>
+                           </tr>
+                        </tbody>
+                     </table>

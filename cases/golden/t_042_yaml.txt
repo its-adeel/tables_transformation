@@ -1,0 +1,190 @@
+Use Categories:
+  1. RESIDENTIAL:
+    A. Household living:
+      1. Residence above first floor:
+        Minimum Number of Vehicle Spaces: 1 per residence + business parking
+      2. Bed and breakfast:
+        Minimum Number of Vehicle Spaces: 1 per guest room + 2 spaces for owner's portion
+      3. Rooming/board house:
+        Minimum Number of Vehicle Spaces: 1 per rooming unit
+      4. Dormitories, Fraternities, Sororities:
+        Minimum Number of Vehicle Spaces: 1 per 2 residents
+      5. Single-family and duplex, triplex, four-plex:
+        Minimum Number of Vehicle Spaces: 2 per dwelling unit
+      6. Elderly apartment complex:
+        Minimum Number of Vehicle Spaces: 0.75 per dwelling unit
+      7. Multi-family, 5 units or more:
+        Minimum Number of Vehicle Spaces: 1.5 per unit
+      8. Studio Apartments:
+        Minimum Number of Vehicle Spaces: 1 per unit
+      9. All other household living:
+        Minimum Number of Vehicle Spaces: 1 per unit
+    B. Group living:
+      1. Nursing homes; assisted living facility; in-patient substance abuse treatment facility; group living facilities; res. care facility for elderly:
+        Minimum Number of Vehicle Spaces: 1 per 2.5 beds
+      2. Outpatient substance abuse treatment facility:
+        Minimum Number of Vehicle Spaces: 1 per 200 sf GFA
+      3. Other group living:
+        Minimum Number of Vehicle Spaces: 1 per 4 beds
+  2. INSTITUTIONAL AND CIVIC:
+    A. Schools:
+      1. Elementary and junior highs:
+        Minimum Number of Vehicle Spaces: 2 per classroom plus 1 for each 5 seats of the largest place of public assembly (stadium, auditorium or gym) whichever requires the greatest number of parking spaces.
+      2. High schools:
+        Minimum Number of Vehicle Spaces: 1 per 4 students plus 1 for each 5 seats of the largest place of public assembly (stadium, auditorium or gym) whichever requires the greatest number of parking spaces.
+      3. Schools of private instruction:
+        Minimum Number of Vehicle Spaces: 1 per 200 sf GFA
+      4. College, vocational/technical schools:
+        Minimum Number of Vehicle Spaces: 1 per 200 sf GFA
+    B. Community services:
+      Specific Uses: 1. Community center
+      Minimum Number of Vehicle Spaces: 1 per 200 sf GFA
+    C. Cultural:
+      Specific Uses: 1. Museums, art galleries & libraries
+      Minimum Number of Vehicle Spaces: 1 per 1,000 sf GFA
+    D. Day care:
+      Specific Uses: 1. Day care, pre-school & similar uses
+      Minimum Number of Vehicle Spaces: 1 per employee and staff member plus 1 for each 5 children
+    E. Detention facilities:
+      Specific Uses: 1. Jails, honor camps, reformatories, law enforcement rehabilitation centers
+      Minimum Number of Vehicle Spaces: 1 per employee on maximum shift, plus 1 per service vehicle
+    F. Hospital/clinic:
+      1. Hospital:
+        Minimum Number of Vehicle Spaces: 2.5 per bed for in-patient care facilities plus 1 per each 250 sq. ft. of floor area for outpatient facilities
+      2. Clinic:
+        Minimum Number of Vehicle Spaces: 1 per 200 sf
+    G. Laboratories & research:
+      Specific Uses: 1. Laboratories and research facilities
+      Minimum Number of Vehicle Spaces: 1 per 300 sf
+    H. Parks and open areas:
+      1. Golf Course:
+        Minimum Number of Vehicle Spaces: 6 spaces per hole
+      2. All other:
+        Minimum Number of Vehicle Spaces: 20 spaces per athletic field or ball diamond or 1 per 4 seats whichever results in more spaces
+    I. Private clubs, lodges:
+      Specific Uses: 1. Private clubs, country clubs, lodges
+      Minimum Number of Vehicle Spaces: 1 per 4 persons based on maximum occupancy
+    J. Radio/television:
+      Specific Uses: 1. Broadcast stations
+      Minimum Number of Vehicle Spaces: 1 per 300 sf GFA
+    K. Religious assembly:
+      Specific Uses: 1. Churches, synagogues, temple, etc.
+      Minimum Number of Vehicle Spaces: 1 per 4 persons based on maximum occupancy in auditorium
+    L. Safety services:
+      Specific Uses: 1. Police, fire, emergency response
+      Minimum Number of Vehicle Spaces: 1 per 200 sf
+  3. COMMERCIAL:
+    A. Recreation and entertainment:
+      1. Assembly/auditorium/theater:
+        Minimum Number of Vehicle Spaces: 1 per 4 persons based on maximum occupancy or 1 per 50 sf if seats are not permanent
+      2. Amusement center, park:
+        Minimum Number of Vehicle Spaces: 1 per 5,000 sf of gross land area or 1 for each 4 persons based on maximum occupancy
+      3. Bowling alley:
+        Minimum Number of Vehicle Spaces: 4 per lane
+      4. Clubs/lodges, casino, guest ranch, resort cabins and lodges:
+        Minimum Number of Vehicle Spaces: 1 per 3 persons based on maximum occupancy
+      5. Health club/fitness center:
+        Minimum Number of Vehicle Spaces: 1 per 200 sf
+      6. Marina/yacht club:
+        Minimum Number of Vehicle Spaces: 1 per 3 boat slips
+      7. Miniature golf:
+        Minimum Number of Vehicle Spaces: 2 per hole
+      8. RV park or campground:
+        Minimum Number of Vehicle Spaces: 1 per camping space plus 4 for office
+    B. Community service:
+      1. Community activity building:
+        Minimum Number of Vehicle Spaces: 1 per 500 sf GFA
+      2. All other community service and philanthropic:
+        Minimum Number of Vehicle Spaces: 1 per 500 sf GFA
+    C. Office:
+      1. General and governmental offices, in all districts except C-3:
+        Minimum Number of Vehicle Spaces: 1 per 300 sf GFA
+      2. General and governmental offices in the C-3 District:
+        Minimum Number of Vehicle Spaces: 1 per 500 sf GFA
+      3. Medical, dental, counseling:
+        Minimum Number of Vehicle Spaces: 1 per 200 sf GFA
+    D. Parking, commercial:
+      Specific Uses: 1. N/A
+      Minimum Number of Vehicle Spaces: N/A
+    E. Recreation and entertainment, outdoor:
+      1. Driving range:
+        Minimum Number of Vehicle Spaces: 1 per tee
+      2. Batting cage, waterslide, swim pool:
+        Minimum Number of Vehicle Spaces: 2 per cage; other - per site plan review based on maximum occupancy
+      3. Miniature golf:
+        Minimum Number of Vehicle Spaces: 2 per hole
+      4. All other outdoor recreation:
+        Minimum Number of Vehicle Spaces: Per site plan review based on maximum occupancy
+    F. Drive-in, drive-thru uses:
+      1. Automated teller machines:
+        Minimum Number of Vehicle Spaces: 4 per ATM lane
+      2. Drive-thru cleaners:
+        Minimum Number of Vehicle Spaces: 4 per window
+      3. Drive-thru liquor:
+        Minimum Number of Vehicle Spaces: 3 per window
+      4. Restaurant, drive-in, no indoor seating:
+        Minimum Number of Vehicle Spaces: 1 parking space per employee on maximum shift
+      5. Restaurant, fast-food with drive-thru facilities:
+        Minimum Number of Vehicle Spaces: 1 per 100 sf gross floor area including outdoor seating area
+    G. Retail sales and services:
+      1. Funeral home, mortuary, crematorium:
+        Minimum Number of Vehicle Spaces: 1 per 4 seats + 1 per employee
+      2. Restaurants, no drive through:
+        Minimum Number of Vehicle Spaces: 1 per 100 sf gross floor area including outdoor seating area
+      3. Shopping centers:
+        Minimum Number of Vehicle Spaces: 1 per 250 sf
+      4. General retail:
+        Minimum Number of Vehicle Spaces: 1 per 250 sf
+      5. Furniture stores and other low volume retail:
+        Minimum Number of Vehicle Spaces: 1 per 500 sf
+      6. Bar or tavern:
+        Minimum Number of Vehicle Spaces: 1 per 100 sf gross floor area including outdoor seating area
+      7. Bank:
+        Minimum Number of Vehicle Spaces: 1 per 300 sf
+      8. Event center or banquet hall:
+        Minimum Number of Vehicle Spaces: 1 space per 200 sf GFA
+      9. Nightclub:
+        Minimum Number of Vehicle Spaces: 1 space per 100 sf GFA
+      10. After hours establishment:
+        Minimum Number of Vehicle Spaces: 1 space per 100 sf GFA
+      11. Smoking lounge:
+        Minimum Number of Vehicle Spaces: 1 space per 100 sf GFA
+    H. Self-service storage:
+      Specific Uses: 1. Mini-warehouse
+      Minimum Number of Vehicle Spaces: 1 per 8 storage units
+    I. Vehicle service, limited:
+      1. Auto service, repair, body shop:
+        Minimum Number of Vehicle Spaces: 2 per service bay + 1 per employee
+      2. Car wash, self-service:
+        Minimum Number of Vehicle Spaces: 2 per stall
+      3. Car wash, full-service:
+        Minimum Number of Vehicle Spaces: 6 per stall
+      4. Gasoline station:
+        Minimum Number of Vehicle Spaces: 1.5 per fuel nozzle plus 1 per 200 square feet of store
+      5. Oil, lube, muffler:
+        Minimum Number of Vehicle Spaces: 4 per service bay + 1 per employee
+      6. Tire, batteries, accessory retailers:
+        Minimum Number of Vehicle Spaces: 1 per 300 sf GFA
+    J. Vehicle retail:
+      1. Vehicle sales, new & used, including recreational vehicles/boats:
+        Minimum Number of Vehicle Spaces: Spaces equal to 10 percent of vehicle display area
+      2. Large truck, equipment sales, boat sales:
+        Minimum Number of Vehicle Spaces: 1 per 1,000 sf
+    K. Lodging:
+      Specific Uses: 1. Hotel or motel
+      Minimum Number of Vehicle Spaces: 1 per room plus 75% of the required parking for attached uses
+  4. INDUSTRIAL:
+    A. Industrial service and manufacturing/production:
+      1. Indoor and outdoor operations:
+        Minimum Number of Vehicle Spaces: 1.1 per employee
+      2. Bottling works, creamery, lumberyard:
+        Minimum Number of Vehicle Spaces: 2 per 3 employee + 1 per service vehicle
+    B. Warehouse and freight movement:
+      Specific Uses: 1. Warehouse, freight movement facilities
+      Minimum Number of Vehicle Spaces: 1 per 5,000 sf; 5 spaces minimum
+    C. Waste-related use:
+      Specific Uses: 1. Landfill/solid waste facility
+      Minimum Number of Vehicle Spaces: 1.1 per employee
+    D. Wholesale sales:
+      Specific Uses: 1. Warehousing, equipment servicing & manufacturing area
+      Minimum Number of Vehicle Spaces: 1.1 per employee

@@ -137,6 +137,80 @@ def _cell_text(cell) -> str:
     return text.strip()
 
 
+# A compact map of the CSS named colours that actually turn up as table
+# shading in these documents (the grays, plus the handful of pale tints
+# used for banding). Only used to rank section depth by darkness — see
+# _cell_bg_luminance — so any colour missing here simply means that row
+# contributes no depth signal, never a wrong one.
+_NAMED_COLOR_RGB = {
+    "black": (0, 0, 0),
+    "darkslategray": (47, 79, 79), "darkslategrey": (47, 79, 79),
+    "dimgray": (105, 105, 105), "dimgrey": (105, 105, 105),
+    "gray": (128, 128, 128), "grey": (128, 128, 128),
+    "darkgray": (169, 169, 169), "darkgrey": (169, 169, 169),
+    "silver": (192, 192, 192),
+    "lightgray": (211, 211, 211), "lightgrey": (211, 211, 211),
+    "gainsboro": (220, 220, 220),
+    "lightsteelblue": (176, 196, 222),
+    "lightblue": (173, 216, 230),
+    "powderblue": (176, 224, 230),
+    "beige": (245, 245, 220),
+    "whitesmoke": (245, 245, 245),
+    "ivory": (255, 255, 240),
+    "white": (255, 255, 255),
+}
+
+
+def _cell_bg_luminance(cell):
+    """
+    Approximate the perceived lightness (0 = black, 255 = white) of this
+    cell's own background colour, or None when it doesn't set one.
+
+    Tables frequently express SECTION DEPTH through background shading
+    rather than through indentation or colspan: the outermost category
+    rows get the darkest fill, subcategories a lighter one, and the
+    innermost headings no fill at all. That convention is what makes a
+    row like "Residential" (dark) visibly contain "Household Living"
+    (unfilled) even though both are plain full-width cells with
+    identical markup otherwise.
+
+    Luminance is used rather than the colour NAME so the rule stays
+    general: "#404040", "rgb(64,64,64)" and "DarkGray" all rank the same
+    way, and a table shading its levels in blues or greens works
+    identically to one using grays. Only the ORDER of the resulting
+    values matters (darker = further out), never their absolute size, so
+    the rough coefficients below are more than accurate enough.
+    """
+    style = ""
+    for node in [cell, *cell.find_all(True)]:
+        node_style = node.get("style") or ""
+        match = re.search(r"background(?:-color)?\s*:\s*([^;]+)", node_style, re.I)
+        if match:
+            style = match.group(1).strip()
+            break
+    if not style:
+        return None
+
+    rgb = None
+    hex_match = re.match(r"^#([0-9a-f]{3}|[0-9a-f]{6})$", style, re.I)
+    if hex_match:
+        digits = hex_match.group(1)
+        if len(digits) == 3:
+            digits = "".join(c * 2 for c in digits)
+        rgb = tuple(int(digits[i:i + 2], 16) for i in (0, 2, 4))
+    else:
+        rgb_match = re.match(r"^rgba?\(\s*(\d+)\s*,\s*(\d+)\s*,\s*(\d+)", style, re.I)
+        if rgb_match:
+            rgb = tuple(int(rgb_match.group(i)) for i in (1, 2, 3))
+        else:
+            rgb = _NAMED_COLOR_RGB.get(style.replace(" ", "").lower())
+
+    if rgb is None:
+        return None
+    r, g, b = rgb
+    return 0.299 * r + 0.587 * g + 0.114 * b
+
+
 def _cell_indent(cell) -> int:
     """
     Return this cell's indentation level, however the source expresses
@@ -164,7 +238,27 @@ def _cell_indent(cell) -> int:
     consistently, so whichever measure is actually in play for this
     table will be the non-zero one, and the other stays 0 throughout —
     there's no risk of double-counting one real indent as two.
+
+    IMPORTANT: a cell whose ENTIRE content is nothing but non-breaking
+    spaces (no real text at all) is not "indented text" — in these
+    scraped tables, a lone "&nbsp;" is the standard placeholder for a
+    blank/empty cell, unrelated to indentation. Measuring the leading
+    "\xa0" run without checking whether any real text follows it would
+    flag every blank cell in the table as "indented by 1" purely
+    because it's empty. Since has_indented_labels (in build_matrix_yaml)
+    scans every cell in the WHOLE table, that false signal from ordinary
+    blank cells — not just cells that happen to be genuinely indented —
+    is enough to switch the whole table into indentation-hierarchy
+    nesting mode even when the table never uses indentation at all,
+    corrupting how colon-style subsection dividers attach to their
+    parent section. Only a cell with real text remaining after the
+    leading "\xa0" is stripped can carry a genuine indent.
     """
+    raw_text = cell.get_text(separator=" ")
+    stripped = raw_text.lstrip("\xa0")
+    if not stripped.strip():
+        return 0
+
     margin_values = []
     for node in [cell, *cell.find_all(True)]:
         style = node.get("style") or ""
@@ -173,8 +267,6 @@ def _cell_indent(cell) -> int:
             margin_values.append(float(match.group(1)))
     margin_indent = int(max(margin_values, default=0))
 
-    raw_text = cell.get_text(separator=" ")
-    stripped = raw_text.lstrip("\xa0")
     whitespace_indent = len(raw_text) - len(stripped)
 
     return max(margin_indent, whitespace_indent)
@@ -331,8 +423,8 @@ def expand_html_grid(table):
             # the browser just stretches the earlier cell down into this
             # row visually.
             if col_idx in row_spans and row_spans[col_idx][0] > 0:
-                remaining, text, is_header, span_id, is_bold, indent = row_spans[col_idx]
-                row_cells[col_idx] = (text, is_header, span_id, is_bold, indent)
+                remaining, text, is_header, span_id, is_bold, indent, bg_lum = row_spans[col_idx]
+                row_cells[col_idx] = (text, is_header, span_id, is_bold, indent, bg_lum)
                 row_spans[col_idx][0] -= 1              # one row closer to done
                 if row_spans[col_idx][0] == 0:
                     del row_spans[col_idx]                # fully paid off, forget it
@@ -351,6 +443,7 @@ def expand_html_grid(table):
             is_header = cell.name == "th"
             is_bold = _cell_is_bold(cell)
             indent = _cell_indent(cell)
+            bg_lum = _cell_bg_luminance(cell)
 
             # colspan/rowspan default to 1 if the attribute isn't present.
             # `or 1` also guards against a blank attribute like colspan="".
@@ -366,9 +459,9 @@ def expand_html_grid(table):
             # (colspan), and if it ALSO covers future rows (rowspan),
             # register that debt in row_spans so later rows pay it off.
             for _ in range(colspan):
-                row_cells[col_idx] = (text, is_header, span_id, is_bold, indent)
+                row_cells[col_idx] = (text, is_header, span_id, is_bold, indent, bg_lum)
                 if rowspan > 1:
-                    row_spans[col_idx] = [rowspan - 1, text, is_header, span_id, is_bold, indent]
+                    row_spans[col_idx] = [rowspan - 1, text, is_header, span_id, is_bold, indent, bg_lum]
                 col_idx += 1
 
         grid.append(row_cells)
@@ -376,7 +469,7 @@ def expand_html_grid(table):
     return header_row_count, grid
 
 
-def build_header_paths(header_rows: list, total_cols: int) -> tuple:
+def build_header_paths(header_rows: list, total_cols: int, data_rows: list = None) -> tuple:
     """
     Some tables have MULTIPLE stacked header rows — e.g. one row saying
     "Single-family Residential Zones" spanning 3 columns, and a second
@@ -461,8 +554,17 @@ def build_header_paths(header_rows: list, total_cols: int) -> tuple:
         # explicitly define short codes (``P = Permitted`` or ``P -
         # Permitted``).  Without this guard, an ordinary grouping header was
         # misclassified as a caption and disappeared from every column path.
-        looks_like_legend = bool(re.search(r"\b\S{1,4}\s*[=-]\s*\S", dominant_text))
-        if len(dominant_cols) >= 3 and is_majority and has_full_grouping_below and looks_like_legend:
+        # Same structural test used by _is_decorative_header_row: this is
+        # only a legend if the code it defines is actually USED as a
+        # value in the table body. The previous version matched any
+        # "<up to 4 chars> = ..." text, which both missed longer codes
+        # and could fire on an ordinary header containing an equals
+        # sign. The separate ">= 3 columns" requirement is dropped as
+        # redundant and arbitrary — is_majority already demands at least
+        # two columns AND a majority share, and has_full_grouping_below
+        # already guarantees a complete grouping level survives removal.
+        looks_like_legend = _defines_codes_used_in_body([dominant_text], data_rows)
+        if is_majority and has_full_grouping_below and looks_like_legend:
             note = dominant_text
             for c in dominant_cols:
                 remainder = paths[c][len(dominant_text):].lstrip(" >")
@@ -476,7 +578,147 @@ def build_header_paths(header_rows: list, total_cols: int) -> tuple:
     return paths, note, dominant_group
 
 
-def _is_decorative_header_row(row: dict, total_cols: int, row_idx: int = None, first_seen: dict = None) -> bool:
+def _defines_codes_used_in_body(texts, data_rows) -> bool:
+    """
+    Does this set of cell texts read like a LEGEND — a row that defines
+    what short codes appearing elsewhere in the table mean (e.g. "P =
+    Permitted Use", "C = Conditional Use")?
+
+    The reliable signal is not how the definition is punctuated or how
+    long the code is, but whether the thing being defined is ACTUALLY
+    USED as a value in the table's body. A legend exists precisely to
+    explain values the reader will meet further down; if the token to
+    the left of the "=" never appears as a data value anywhere, this
+    isn't a legend at all — it's an ordinary header that happens to
+    contain an equals sign (e.g. a column genuinely titled "Density =
+    Units per Acre", which really does label its column).
+
+    Checking usage against the body replaces an earlier rule that
+    required the code to be at most four characters. That bound was
+    arbitrary: a table using six-letter codes ("PERMIT", "CONDIT") has
+    exactly the same structure and exactly the same need, but silently
+    failed the test and had its legend zipped into every column's
+    header path instead ("CONDIT = Conditional Use > R-1"). Codes are
+    short by convention, not by rule, so convention is not something to
+    hard-code.
+    """
+    if not data_rows:
+        return False
+
+    body_values = set()
+    for row in data_rows:
+        for cell in row.values():
+            value = cell[0].strip()
+            if value:
+                body_values.add(value)
+    if not body_values:
+        return False
+
+    defined_codes = []
+    for text in texts:
+        # "<code> = <description>", or the same with a spaced dash
+        # ("P - Permitted Use"). The dash form REQUIRES surrounding
+        # whitespace so ordinary hyphenated names ("R-1", "Out-parcel")
+        # are never mistaken for a definition. The code is whatever
+        # sits left of the separator; no length bound is imposed here,
+        # because the body-usage check below is what actually decides.
+        match = re.match(r"^\s*(\S+)\s*=\s*\S.*", text)
+        if match is None:
+            match = re.match(r"^\s*(\S+)\s+[-–—]\s+\S.*", text)
+        if not match:
+            return False   # every cell must read like a definition
+        defined_codes.append(match.group(1))
+
+    if not defined_codes:
+        return False
+    return any(code in body_values for code in defined_codes)
+
+
+def _legend_row_indices(header_rows: list, data_rows: list) -> tuple:
+    """
+    Which header rows are LEGEND rows written as a two-cell grid?
+
+    A legend does not have to be phrased "P = Permitted Use" inside one
+    cell (see _defines_codes_used_in_body for that form). It is just as
+    often laid out as a little two-column table inside the header: the
+    code in one cell, its meaning spanning the cells beside it —
+
+        | TABLE 4.3        | P(16) | Permitted Use                |
+        | (title, rowspan) | CUP   | Conditional Use Permit Req.  |
+        | ...              | S     | Permit Requirement in ...    |
+
+    Left in place these rows are read as real grouping levels, and every
+    column ends up carrying the whole legend in its path ("Permitted Use
+    > Conditional Use Permit Required > ... > MU1B").
+
+    The test is the same one used elsewhere: a row qualifies only if the
+    short cell's text is ACTUALLY USED as a value in the table body. A
+    header row that merely happens to hold two texts is untouched.
+
+    Cells that span into or out of this row (the table's title, held in
+    a rowspan beside the legend) are ignored, because they belong to the
+    header proper rather than to any one legend line.
+
+    Returns (row_indices_to_drop, {code: meaning}). The meanings are kept
+    rather than discarded: a legend is the only thing in the document
+    that says what a bare "P" or "CUP" in a cell actually means, so
+    dropping it would strip the table of the key needed to read its own
+    values. The caller files it beside the data under the table's title.
+    """
+    if not data_rows or not header_rows:
+        return set(), {}
+
+    def _norm(text):
+        # Codes are cited with footnote markers ("P(16)") while the body
+        # writes the bare code ("P"), and a cell can carry several codes
+        # at once ("A,S"), so compare against both forms.
+        return re.sub(r"\s*\(.*?\)\s*$", "", text).strip()
+
+    body = set()
+    for r in data_rows:
+        for cell in r.values():
+            t = cell[0].strip()
+            if t:
+                body.add(t)
+                body.add(_norm(t))
+                for part in t.split(","):
+                    body.add(part.strip())
+                    body.add(_norm(part.strip()))
+    if not body:
+        return set(), {}
+
+    def span_ids(row):
+        return {
+            (row[c][2] if len(row[c]) > 2 else None)
+            for c in row
+        }
+
+    drop = set()
+    meanings = {}
+    for i, row in enumerate(header_rows):
+        before = set().union(*[span_ids(header_rows[j]) for j in range(i)]) if i else set()
+        after = span_ids(header_rows[i + 1]) if i + 1 < len(header_rows) else set()
+        own = []
+        for c in sorted(row):
+            cell = row[c]
+            sid = cell[2] if len(cell) > 2 else None
+            text = cell[0].strip()
+            if not text or sid in before or sid in after:
+                continue   # inherited, or spanning onward — not this line's
+            own.append(text)
+        distinct = list(dict.fromkeys(own))
+        if len(distinct) != 2:
+            continue
+        code, meaning = distinct
+        if len(code) > 10 or len(meaning) <= len(code):
+            continue
+        if code in body or _norm(code) in body:
+            drop.add(i)
+            meanings[code] = meaning
+    return drop, meanings
+
+
+def _is_decorative_header_row(row: dict, total_cols: int, row_idx: int = None, first_seen: dict = None, data_rows: list = None) -> bool:
     """
     Detect a <thead> row that doesn't genuinely define column structure,
     despite technically sitting inside <thead> alongside real header
@@ -531,7 +773,7 @@ def _is_decorative_header_row(row: dict, total_cols: int, row_idx: int = None, f
                     break
             if all_inherited:
                 return True
-    if all(re.match(r"^\S{1,4}\s*=\s*.+", t) for t in non_blank.values()):
+    if _defines_codes_used_in_body(non_blank.values(), data_rows):
         return True
     return False
 
@@ -753,6 +995,83 @@ def build_matrix_yaml(data_rows: list, header_paths: dict, total_cols: int) -> d
     # a zone code AND a use category), those two columns are ALREADY one
     # group before this check even runs.
 
+    # --- Is the leading group a MARKER MATRIX rather than the row label? ---
+    #
+    # Some tables put a permission grid to the LEFT of the row's actual
+    # name: one column per zoning district, each cell holding a small
+    # symbol ("■" allowed, "□" allowed with conditions, blank not
+    # allowed), and only THEN the column that actually names the row
+    # ("Detached House - Neighborhood"). Taking the leftmost group as the
+    # label there produces a key like "R-1A - R-1B - R-2 ..." — the
+    # district names themselves — and buries the real identity as a value.
+    #
+    # A marker block is recognisable without knowing what the symbols
+    # mean: across the whole table its columns hold only a tiny
+    # vocabulary of very short repeated tokens, while a genuine label
+    # column holds long, mostly-distinct text. Both halves of that test
+    # matter — a real label column can repeat (a rowspan category), and a
+    # value column can be short ("P", "35'"), but only a marker block is
+    # BOTH uniformly tiny AND drawn from a handful of symbols across
+    # every row.
+    #
+    # The block is then reported separately so each row can list which
+    # columns it was marked in, instead of carrying one key per column.
+    marker_group = None
+    top_segment = groups[0][0].split(" > ")[0] if groups else ""
+    leading_run = []
+    for path, cols in groups:
+        if path.split(" > ")[0] == top_segment:
+            leading_run.extend(cols)
+        else:
+            break
+    if len(groups) >= 2 and len(leading_run) >= 2 and len(leading_run) < total_cols:
+        cand_cols = leading_run
+        seen = set()
+        for r in data_rows:
+            for c in cand_cols:
+                t = (r.get(c) or ("",))[0].strip()
+                if t:
+                    seen.add(t)
+        after_cols = [c for _, cols in groups for c in cols if c not in set(cand_cols)]
+        next_col = after_cols[:1]
+        later_texts = [
+            (r.get(c) or ("",))[0].strip()
+            for r in data_rows for c in next_col
+        ]
+        later_nonblank = [t for t in later_texts if t]
+        if (
+            seen
+            and len(seen) <= 3
+            and all(len(t) <= 2 for t in seen)
+            and later_nonblank
+            and len(set(later_nonblank)) > 1
+            and max(len(t) for t in later_nonblank) > 2
+        ):
+            # Stable marker order: first appearance scanning the table.
+            order = []
+            for r in data_rows:
+                for c in cand_cols:
+                    t = (r.get(c) or ("",))[0].strip()
+                    if t and t not in order:
+                        order.append(t)
+            marker_group = {
+                "header": top_segment,
+                "cols": cand_cols,
+                "markers": order,
+                # Each column's own leaf name ("Zoning Districts* > R-1A"
+                # -> "R-1A") is what a row gets listed against.
+                "leaf": {
+                    c: (header_paths.get(c, "").rsplit(" > ", 1)[-1]
+                        if " > " in header_paths.get(c, "")
+                        else header_paths.get(c, ""))
+                    for c in cand_cols
+                },
+            }
+            drop = set(cand_cols)
+            groups = [(p, [c for c in cols if c not in drop])
+                      for p, cols in groups]
+            groups = [(p, cols) for p, cols in groups if cols]
+
     base_label_cols = groups[0][1]
     anchor_col = base_label_cols[0]
 
@@ -788,18 +1107,66 @@ def build_matrix_yaml(data_rows: list, header_paths: dict, total_cols: int) -> d
             if sid is not None and sid not in first_seen_row:
                 first_seen_row[sid] = i
 
-    block_rows = {}  # anchor span_id -> list of (row, row_index)
+    # --- Group data rows into BLOCKS ---
+    #
+    # A "block" is the set of consecutive rows that share one row label —
+    # the group a compound sub-label would need to distinguish between.
+    #
+    # Crucially, rows can share a label in TWO different ways, and both
+    # mean exactly the same thing to a reader:
+    #
+    #   - one physical cell with rowspan covering several rows, or
+    #   - the identical label text simply REPEATED in a separate cell on
+    #     each consecutive row (very common in hand-authored tables where
+    #     the author didn't bother merging the cells).
+    #
+    # Keying blocks by the anchor cell's span_id alone only recognises
+    # the first. A table that writes "Freestanding parcel" into three
+    # separate consecutive cells and then uses a rowspan for two more
+    # would be split into four unrelated blocks — three of them
+    # single-row, unable to see their own evidence — even though all
+    # five rows are plainly one group needing the next column to tell
+    # them apart. Worse, the fragments then reach DIFFERENT absorption
+    # depths, so one table ends up mixing nested and flat shapes for
+    # what is semantically the same thing.
+    #
+    # Grouping by the label TEXT across a run of consecutive rows treats
+    # both spellings of "these rows share a label" identically. The run
+    # must be CONSECUTIVE: the same label legitimately reappearing in a
+    # different part of the table (e.g. "Nameplate" under section A and
+    # again under section B) is two separate items, not one block.
+    # Falling back to span_id when the label is blank preserves the
+    # previous behaviour for tables whose anchor column is empty on most
+    # rows (the label living in a later label column instead).
+    block_rows = {}          # block id -> list of (row, row_index)
+    block_id_by_row = {}     # row index -> block id
+    _current_block_id = None
+    _prev_block_key = None
     for i, row in enumerate(data_rows):
         cols_present = sorted(row.keys())
         if cols_present == list(range(total_cols)):
             all_texts = {row[c][0].strip() for c in cols_present}
             if len(all_texts) == 1 and next(iter(all_texts)):
+                _prev_block_key = None   # divider breaks any run
                 continue  # full-width divider — not part of any block
         cell = row.get(anchor_col)
         if cell is None:
+            _prev_block_key = None
             continue
+        label_text = " - ".join(
+            dict.fromkeys(
+                t for t in (
+                    (row.get(c) or ("",))[0].strip() for c in base_label_cols
+                ) if t
+            )
+        )
         span_id = cell[2] if len(cell) > 2 else None
-        block_rows.setdefault(span_id, []).append((row, i))
+        block_key = ("text", label_text) if label_text else ("span", span_id)
+        if block_key != _prev_block_key:
+            _current_block_id = i   # a new block starts at this row
+        _prev_block_key = block_key
+        block_id_by_row[i] = _current_block_id
+        block_rows.setdefault(_current_block_id, []).append((row, i))
 
     all_rows_with_idx = [(row, i) for i, row in enumerate(data_rows)]
 
@@ -853,10 +1220,47 @@ def build_matrix_yaml(data_rows: list, header_paths: dict, total_cols: int) -> d
     # over-absorption on larger tables. Judging each column's own
     # variation independently, while leaving the existing per-block loop
     # structure otherwise untouched, avoids that failure mode.
+    #
+    # Both column_has_variation AND column_variation_block_count are
+    # tracked here. column_has_variation (any ONE qualifying block) is
+    # what a MULTI-row block uses to confirm ITS OWN already-genuine
+    # rowspan evidence — one block's own variation is sufficient reason
+    # for that same block to absorb a level.
+    #
+    # column_variation_block_count exists for a different situation: a
+    # single-row block below borrows evidence from the WHOLE table
+    # (there's nothing in its own single row to judge). That fallback is
+    # meant to catch a column that consistently behaves as an identity
+    # column across MANY categories in the table -- the table's rows are
+    # PREDOMINANTLY multi-row, compound-label categories, with just an
+    # occasional single-row outlier that still needs to conform to that
+    # same shape for consistency (the case the original docstring
+    # describes: "matches the SAME depth as every OTHER category...
+    # established by the table's OTHER, MULTI-ITEM categories").
+    #
+    # Counting has_variation from just ONE (or a small handful of)
+    # qualifying blocks anywhere is NOT enough to establish that pattern
+    # for a table that is mostly flat, single-row categories with only a
+    # rare rowspan block scattered in (e.g. two completely unrelated
+    # categories -- "Building identification" and "Service station
+    # identification" -- that each happen to offer a genuine Wall-mount/
+    # Monument-mount choice for THAT one category, correctly meriting
+    # their own nested levels). Once there are enough such isolated
+    # blocks to clear a small absolute count, they'd otherwise convince
+    # every OTHER, unrelated single-row category to also absorb a level
+    # it has no real reason to -- the more scattered rowspan blocks a
+    # table happens to contain, the WORSE this gets, which is backwards.
+    # What actually matters is proportion: are multi-item, split-worthy
+    # categories the table's norm, or a small minority? Requiring
+    # qualifying blocks to make up a genuine majority of ALL blocks
+    # (single- and multi-row alike) is what tells apart "this is how the
+    # table is generally shaped" from "a couple of unrelated categories
+    # happen to have their own internal choice".
     column_has_variation = {}
+    column_variation_block_count = {}
     for _, cols in groups[1:]:
         col = cols[0]
-        has_variation = False
+        qualifying_blocks = 0
         for rows_with_idx in block_rows.values():
             if len(rows_with_idx) <= 1:
                 continue
@@ -869,29 +1273,22 @@ def build_matrix_yaml(data_rows: list, header_paths: dict, total_cols: int) -> d
                 if sid is not None and first_seen_row.get(sid) == idx:
                     spans.add(sid)
             if len(spans) >= 2:
-                has_variation = True
-                break
-        column_has_variation[col] = has_variation
+                qualifying_blocks += 1
+        column_has_variation[col] = qualifying_blocks >= 1
+        column_variation_block_count[col] = qualifying_blocks
 
-    # One narrow, explicit carve-out: in a "Type of Property" /
-    # "Length of Frontage" table (a road-frontage signage schedule),
-    # "Length of Frontage" looks structurally identical to a genuine
-    # identity column like "Uses" elsewhere — both are flat, standalone
-    # headers that genuinely vary within a block — yet here it reads
-    # better left as a plain field per physical row rather than folded
-    # into the label. There's no general structural signal that tells
-    # the two apart, so rather than keep patching heuristics for every
-    # future table that looks like this one, this is a direct,
-    # named exception for this specific column pairing.
-    anchor_header = header_paths.get(anchor_col, "").strip().lower()
-    absorption_disabled = anchor_header == "type of property"
+    # The proportion the "borrowing" fallback (see using_borrowed_evidence
+    # below) actually checks against -- how many of ALL the table's
+    # blocks, not just the multi-row ones, genuinely show this split.
+    # Using every block (not just multi-row ones) as the denominator is
+    # what keeps a couple of scattered rowspan categories in an otherwise
+    # overwhelmingly flat, single-row table from ever reading as "the
+    # table's norm", however many of them happen to exist.
+    total_blocks = len(block_rows)
 
-    depth_by_anchor = {}
-    for span_id, rows_with_idx in block_rows.items():
+    depth_by_block = {}
+    for block_id, rows_with_idx in block_rows.items():
         depth = 0
-        if absorption_disabled:
-            depth_by_anchor[span_id] = depth
-            continue
         current_label_cols = list(base_label_cols)
         remaining = list(groups[1:])
         # A block with only ONE row can never show repetition against
@@ -904,6 +1301,7 @@ def build_matrix_yaml(data_rows: list, header_paths: dict, total_cols: int) -> d
         # entry inconsistently missing that level. Falling back to
         # evidence from the WHOLE table (rather than this one bare row)
         # captures that pattern.
+        using_borrowed_evidence = len(rows_with_idx) <= 1
         active_rows = rows_with_idx if len(rows_with_idx) > 1 else all_rows_with_idx
         while remaining:
             last_col = current_label_cols[-1]
@@ -952,7 +1350,30 @@ def build_matrix_yaml(data_rows: list, header_paths: dict, total_cols: int) -> d
             # tells that apart from a real identity column like "Uses".
             candidate_col = remaining[0][1][0]
             candidate_header_is_nested = " > " in header_paths.get(candidate_col, "")
-            candidate_has_variation = column_has_variation.get(candidate_col, False)
+            # A single-row block has no rowspan evidence of its own here
+            # — both multi_row_spans and candidate_has_variation, in
+            # this branch, are being borrowed wholesale from whatever
+            # OTHER blocks happen to show rowspan behavior anywhere in
+            # the table (see using_borrowed_evidence above). A raw count
+            # of qualifying blocks isn't the right bar here: a table can
+            # easily contain a handful of scattered, mutually-unrelated
+            # rowspan categories without that meaning the column is part
+            # of every OTHER row's identity too — and the more such
+            # isolated blocks happen to exist, the more a raw count gets
+            # it backwards. What the original docstring actually
+            # describes is a table where multi-item categories are the
+            # NORM and a single-row entry is the rare exception needing
+            # to conform — i.e. qualifying blocks need to be a genuine
+            # majority of the table's blocks, not just two or three.
+            # A block with its OWN real rows skips this proportion check
+            # entirely and keeps using the original single-block
+            # threshold, since that evidence genuinely belongs to it.
+            candidate_has_variation = (
+                total_blocks > 0
+                and column_variation_block_count.get(candidate_col, 0) / total_blocks > 0.5
+                if using_borrowed_evidence
+                else column_has_variation.get(candidate_col, False)
+            )
             if multi_row_spans > 0 and not candidate_header_is_nested and candidate_has_variation:
                 _, absorbed_cols = remaining.pop(0)
                 current_label_cols = current_label_cols + absorbed_cols
@@ -974,7 +1395,7 @@ def build_matrix_yaml(data_rows: list, header_paths: dict, total_cols: int) -> d
                 ]
             else:
                 break
-        depth_by_anchor[span_id] = depth
+        depth_by_block[block_id] = depth
 
     # --- Count how many rows share each row's LEAF label span ---
     #
@@ -995,10 +1416,8 @@ def build_matrix_yaml(data_rows: list, header_paths: dict, total_cols: int) -> d
     # were the second, and wrongly start swallowing "Residential Uses"'
     # correctly-standalone value as a sub-divider heading.
     leaf_block_size = {}
-    for row in data_rows:
-        anchor_cell = row.get(anchor_col)
-        a_span = anchor_cell[2] if anchor_cell and len(anchor_cell) > 2 else None
-        d = depth_by_anchor.get(a_span, 0)
+    for _row_idx, row in enumerate(data_rows):
+        d = depth_by_block.get(block_id_by_row.get(_row_idx), 0)
         leaf_cols = list(base_label_cols)
         vgroups = list(groups[1:])
         for _ in range(d):
@@ -1014,6 +1433,129 @@ def build_matrix_yaml(data_rows: list, header_paths: dict, total_cols: int) -> d
             continue
         leaf_block_size[sid] = leaf_block_size.get(sid, 0) + 1
 
+    # --- Does this table encode section depth in WHICH label column the
+    # text starts in? ---
+    #
+    # Some tables (e.g. a municipal sign schedule) use a compound label
+    # group whose columns act as nesting LEVELS rather than as parts of
+    # one flat name: a leading code column holds the major section's
+    # letter ("A.", "B."), the next column holds a subsection heading
+    # with that first column left blank ("Real estate:", "High rise
+    # buildings (4 stories or more):"), and the column after that holds
+    # items sitting inside that subsection, with BOTH earlier columns
+    # blank. In other words, the index of the first non-blank label
+    # column IS that row's depth in the hierarchy.
+    #
+    # Without reading that signal, every non-bold divider row lands at
+    # the top level regardless of its real depth, so a subsection like
+    # "Real estate:" becomes a false SIBLING of the major section "A."
+    # it actually belongs inside, and the items under it scatter to the
+    # top level too.
+    #
+    # This is only enabled when divider rows genuinely appear at two or
+    # more DIFFERENT such levels — that's what distinguishes a table
+    # actually using its label columns as depth from an ordinary
+    # compound label (e.g. item-number + item-name) where every divider
+    # sits at the same level and the columns are just parts of one name.
+    divider_levels_seen = set()
+    for row in data_rows:
+        if any(
+            (row.get(c) or ("",))[0].strip()
+            for _, vcols in groups[1:] for c in vcols
+        ):
+            continue   # has real value data — an ordinary row, not a divider
+        label_texts = [(row.get(c) or ("",))[0].strip() for c in base_label_cols]
+        level = next((i for i, t in enumerate(label_texts) if t), None)
+        if level is not None:
+            divider_levels_seen.add(level)
+    label_columns_encode_depth = (
+        len(base_label_cols) >= 2 and len(divider_levels_seen) >= 2
+    )
+
+    # --- Does this table encode section depth through BACKGROUND SHADING
+    # of its full-width divider rows? ---
+    #
+    # The other common way to nest sections (see label_columns_encode_depth
+    # above for the first) is to make every heading a full-width colspan
+    # row and distinguish the levels purely by fill: the outermost
+    # category darkest, subcategories lighter, the innermost headings
+    # unfilled. Structurally all these rows are identical, so without
+    # reading the shading they all collapse to one flat level — a
+    # top-level "Residential" left empty while the rows it should contain
+    # end up under a sibling heading.
+    #
+    # Distinct shades are ranked darkest-first and that ORDER becomes the
+    # nesting order. Only rows that are actually dividers count, and this
+    # is enabled only when two or more distinct shades genuinely appear
+    # among them, so a table that shades ALL its headings identically
+    # (or none of them) is untouched.
+    # --- Where does the table's real DATA stop? ---
+    #
+    # Tables routinely close with a run of full-width rows carrying
+    # footnotes ("* Standard ranges for width provided...", "** Total
+    # pavement widths..."). Structurally these are indistinguishable
+    # from a section heading — one cell spanning every column — but a
+    # heading introduces the rows beneath it, and these have no rows
+    # beneath them at all: they come after the last real data row in the
+    # table. Treating them as headings opens phantom sections at the end
+    # of the output and, worse, lets consecutive ones merge into each
+    # other as if they were a split heading.
+    #
+    # "After the last row carrying actual values" is the signal, and it
+    # needs no assumption about markers like "*" or "†", font size, or
+    # position beyond being last — a note is simply a full-width row
+    # that nothing can nest under.
+    last_data_row_idx = -1
+    for i, row in enumerate(data_rows):
+        cols_present = sorted(row.keys())
+        if cols_present == list(range(total_cols)):
+            all_texts = {row[c][0].strip() for c in cols_present}
+            if len(all_texts) == 1 and next(iter(all_texts)):
+                # A full-width row fills every value column with one
+                # spanned text. That is not data — counting it here
+                # would make the notes at the very bottom look like the
+                # table's last data, so nothing after them (including
+                # each other) would ever qualify as a note.
+                continue
+        if any(
+            (row.get(c) or ("",))[0].strip()
+            for _, vcols in groups[1:] for c in vcols
+        ):
+            last_data_row_idx = i
+
+    def _is_trailing_note_row(idx, row):
+        if idx <= last_data_row_idx:
+            return False
+        cols_present = sorted(row.keys())
+        if cols_present != list(range(total_cols)):
+            return False
+        all_texts = {row[c][0].strip() for c in cols_present}
+        return len(all_texts) == 1 and bool(next(iter(all_texts)))
+
+    full_width_divider_shades = set()
+    for i, row in enumerate(data_rows):
+        cols_present = sorted(row.keys())
+        if cols_present != list(range(total_cols)):
+            continue
+        all_texts = {row[c][0].strip() for c in cols_present}
+        if len(all_texts) != 1 or not next(iter(all_texts)):
+            continue
+        if _is_trailing_note_row(i, row):
+            continue   # a closing footnote, not a heading — see above
+        cell = row[cols_present[0]]
+        full_width_divider_shades.add(cell[5] if len(cell) > 5 else None)
+    shading_encodes_depth = len(full_width_divider_shades) >= 2
+    # Darkest first; an unshaded row (None) always ranks last, i.e.
+    # deepest, since "no fill" is the least prominent treatment there is.
+    shade_rank = {
+        shade: i for i, shade in enumerate(
+            sorted(
+                full_width_divider_shades,
+                key=lambda s: (s is None, s if s is not None else 0),
+            )
+        )
+    }
+
     result = {}
     # section_node always points at "whichever dictionary new rows should
     # currently be added into" — starts as the top-level result, but gets
@@ -1025,6 +1567,25 @@ def build_matrix_yaml(data_rows: list, header_paths: dict, total_cols: int) -> d
     # one another.
     section_context = result
     active_subsection = None
+    # When label_columns_encode_depth is on (see above), this maps each
+    # depth level to the dict opened by the most recent divider AT that
+    # level, so a divider can be attached under its real parent instead
+    # of at the top level. Opening a divider at level L discards every
+    # deeper level still recorded (those sections are finished — a new
+    # level-1 heading ends the level-2 items belonging to the previous
+    # one), then records itself at L. The deepest surviving entry is
+    # always where subsequent ordinary rows belong.
+    section_stack = {}
+    # The most recently opened divider, so a heading that turns out to be
+    # empty can be recognised when the NEXT one arrives — see the
+    # two-line-heading merge in divider check #1.
+    last_divider_open = None
+    # The most recent FULL-WIDTH section and, once adopted, the node that
+    # label-only dividers are nesting inside — see the adoption rule in
+    # divider check #3.
+    fullwidth_parent = None
+    fullwidth_key = None
+    subdivider_parent = None
     # The indent level the currently-active subsection's OWN divider row
     # sat at (e.g. 3 for "Restaurants:") — needed to know when it's
     # finished. Ordinary top-level items in these tables are ALSO
@@ -1051,7 +1612,7 @@ def build_matrix_yaml(data_rows: list, header_paths: dict, total_cols: int) -> d
     # that uses this same un-bold, indent-or-colon subsection pattern.
     indent_hierarchy_enabled = has_indented_labels
 
-    for row in data_rows:
+    for row_idx, row in enumerate(data_rows):
         cols_present = sorted(row.keys())
 
         # A subsection (e.g. "Restaurants:") is finished once we reach
@@ -1076,6 +1637,7 @@ def build_matrix_yaml(data_rows: list, header_paths: dict, total_cols: int) -> d
             all_texts = {row[c][0].strip() for c in cols_present}
             if len(all_texts) == 1 and next(iter(all_texts)):
                 divider_text = next(iter(all_texts))
+
                 # Same distinction as divider check #3 below: a BOLD
                 # full-width divider (e.g. "Commercial uses:") is a
                 # genuine major section and belongs at the very top
@@ -1090,10 +1652,72 @@ def build_matrix_yaml(data_rows: list, header_paths: dict, total_cols: int) -> d
                     row[c][3] for c in cols_present
                     if len(row[c]) > 3 and row[c][0].strip()
                 )
-                if divider_is_bold or not indent_hierarchy_enabled:
+                if shading_encodes_depth:
+                    # This row's fill decides how far out it sits (see
+                    # shading_encodes_depth above): re-open its own level,
+                    # discarding any deeper levels left over from the
+                    # previous section, and hang it off the nearest
+                    # still-open shallower one.
+                    divider_cell = row[cols_present[0]]
+                    shade = divider_cell[5] if len(divider_cell) > 5 else None
+                    level = shade_rank.get(shade, len(shade_rank))
+
+                    # A heading that received NOTHING and is immediately
+                    # followed by another heading at the same level was
+                    # never really two sections — it's one heading the
+                    # source split across two rows (a category and its
+                    # qualifier, e.g. "Household Living" then
+                    # "Dwelling"). Emitting the first as an empty dict
+                    # loses it as a label and leaves a meaningless node,
+                    # so the two are joined into a single compound
+                    # heading instead.
+                    #
+                    # Both guards matter. "Received nothing" means no
+                    # rows AND no deeper headings landed in it — a
+                    # genuine section always gets something. "Immediately
+                    # followed" (adjacent row indices) means no data row
+                    # sat between them, which is what separates a split
+                    # heading from a real section that merely happens to
+                    # be empty in this particular document.
+                    if (
+                        last_divider_open is not None
+                        and not _is_trailing_note_row(row_idx, row)
+                        and last_divider_open["level"] == level
+                        and last_divider_open["row_idx"] == row_idx - 1
+                        and isinstance(last_divider_open["node"], dict)
+                        and not last_divider_open["node"]
+                    ):
+                        prev_parent = last_divider_open["parent"]
+                        prev_key = last_divider_open["key"]
+                        if prev_parent.get(prev_key) is last_divider_open["node"]:
+                            del prev_parent[prev_key]
+                            divider_text = f"{prev_key} > {divider_text}"
+
+                    parent_node = result
+                    for lv in sorted(section_stack):
+                        if lv < level:
+                            parent_node = section_stack[lv]
+                    node = _get_or_create_child(parent_node, divider_text)
+                    for lv in [lv for lv in section_stack if lv >= level]:
+                        del section_stack[lv]
+                    section_stack[level] = node
+                    section_node = node
+                    section_context = node
+                    active_subsection = None
+                    last_divider_open = {
+                        "level": level,
+                        "parent": parent_node,
+                        "key": divider_text,
+                        "node": node,
+                        "row_idx": row_idx,
+                    }
+                elif divider_is_bold or not indent_hierarchy_enabled:
                     section_node = _get_or_create_child(result, divider_text)
                     section_context = section_node
                     active_subsection = None
+                    fullwidth_parent = section_node
+                    fullwidth_key = divider_text
+                    subdivider_parent = None
                 else:
                     active_subsection = _get_or_create_child(section_context, divider_text)
                     divider_cell = row.get(anchor_col)
@@ -1106,12 +1730,11 @@ def build_matrix_yaml(data_rows: list, header_paths: dict, total_cols: int) -> d
         # Different blocks in the same table can need a different
         # compound-label depth (see the per-block computation above) —
         # so this can't be a single value computed once for the whole
-        # table. Look up which block this row belongs to (via its own
-        # span_id at the anchor column) and build its label/value split
-        # from that block's own depth.
+        # table. Look up which block this row belongs to (a run of
+        # consecutive rows sharing one label — see block_rows above) and
+        # build its label/value split from that block's own depth.
         anchor_cell = row.get(anchor_col)
-        anchor_span_id = anchor_cell[2] if anchor_cell and len(anchor_cell) > 2 else None
-        depth = depth_by_anchor.get(anchor_span_id, 0)
+        depth = depth_by_block.get(block_id_by_row.get(row_idx), 0)
         # Track each absorbed level as its own SEGMENT (rather than one
         # flat column list) so a genuine compound label — e.g. a zoning
         # code's "Uses" column, or this table's "Length of Frontage" —
@@ -1493,10 +2116,71 @@ def build_matrix_yaml(data_rows: list, header_paths: dict, total_cols: int) -> d
                 # the active major section, while retaining that major as the
                 # context so the next same-level heading remains a sibling.
                 subsection_key = row_key.rstrip().rstrip(":").rstrip()
-                subsection_node = _get_or_create_child(
-                    result if label_is_bold_divider or not indent_hierarchy_enabled else section_context,
-                    subsection_key,
+
+                # When the table encodes depth in which label column the
+                # text starts in (see label_columns_encode_depth above),
+                # that level decides this divider's PARENT: a level-0
+                # divider ("A.") is a real major section at the top,
+                # while a deeper one ("Real estate:") belongs inside
+                # whichever divider most recently opened at the level
+                # above it, not alongside it at the top level.
+                if label_columns_encode_depth and not label_is_bold_divider:
+                    label_texts = [
+                        (row.get(c) or ("",))[0].strip() for c in base_label_cols
+                    ]
+                    level = next(
+                        (i for i, t in enumerate(label_texts) if t), 0
+                    )
+                    parent_node = result
+                    for lv in sorted(section_stack):
+                        if lv < level:
+                            parent_node = section_stack[lv]
+                    subsection_node = _get_or_create_child(parent_node, subsection_key)
+                    # Everything at this level or deeper is now finished.
+                    for lv in [lv for lv in section_stack if lv >= level]:
+                        del section_stack[lv]
+                    section_stack[level] = subsection_node
+                    section_node = subsection_node
+                    section_context = subsection_node
+                    active_subsection = None
+                    continue
+
+                # A full-width heading that opened and then received
+                # NOTHING before a label-only divider arrived was
+                # introducing that divider, not standing beside it (e.g.
+                # "Streetscape Zone" followed by "Total Streetscape
+                # Zone" / "Amenity Zone" / "Sidewalk"). In that case the
+                # label-only dividers belong INSIDE it, and — once the
+                # first one has adopted it — so do its siblings, which
+                # is what keeps them level with each other instead of
+                # nesting ever deeper.
+                #
+                # The emptiness test is what keeps this narrow: a
+                # full-width heading that already collected rows of its
+                # own is a peer of what follows, not its parent. The
+                # text comparison guards the common case of a heading
+                # restated as its own first sub-label, which would
+                # otherwise nest a key inside an identical key.
+                default_parent = (
+                    result if label_is_bold_divider or not indent_hierarchy_enabled
+                    else section_context
                 )
+                if (
+                    not label_is_bold_divider
+                    and not indent_hierarchy_enabled
+                    and subdivider_parent is None
+                    and fullwidth_parent is not None
+                    and not fullwidth_parent
+                    and subsection_key != fullwidth_key
+                ):
+                    subdivider_parent = fullwidth_parent
+                if (
+                    not label_is_bold_divider
+                    and not indent_hierarchy_enabled
+                    and subdivider_parent is not None
+                ):
+                    default_parent = subdivider_parent
+                subsection_node = _get_or_create_child(default_parent, subsection_key)
                 if label_is_bold_divider:
                     section_node = subsection_node
                     section_context = subsection_node
@@ -1596,6 +2280,23 @@ def build_matrix_yaml(data_rows: list, header_paths: dict, total_cols: int) -> d
                             existing[field] = [existing[field], inner_full[field]]
                     continue
             key = f"{key} ({row_counter})"
+        if marker_group is not None:
+            # One list per marker symbol, in first-seen order, naming the
+            # columns this row was marked in. Markers absent from the row
+            # still get an empty list so every row carries the same keys.
+            # These lead the entry because the block sits to the LEFT of
+            # the values in the table, and reading order is the least
+            # surprising order to preserve.
+            marker_items = {}
+            for mark in marker_group["markers"]:
+                hits = [
+                    marker_group["leaf"][c]
+                    for c in marker_group["cols"]
+                    if (row.get(c) or ("",))[0].strip() == mark
+                ]
+                marker_items[f'{marker_group["header"]} ({mark})'] = hits
+            inner_full = {**marker_items, **inner_full}
+
         target_node[key] = inner_full
 
     # Wrap every row under the label column's own header name (e.g. "Type
@@ -1827,6 +2528,48 @@ def _convert_one_table(table) -> tuple:
     other tables, instead of falling back to a meaningless "Table N".
     """
     header_row_count, grid = expand_html_grid(table)
+
+    # --- A header row that ended up in <tbody> ---
+    #
+    # The header can continue past the </thead>: a final row naming the
+    # individual columns is often written as ordinary <td>s, especially
+    # when those names are rotated or narrow (the per-district codes
+    # "R-1A ... R-5" under a "Zoning Districts*" span). Left in the body
+    # it is read as data, so those columns never get names and the row
+    # of names itself becomes a bogus entry.
+    #
+    # The give-away is shading: such a row carries the SAME background as
+    # the header rows above it, while the real data below is unshaded.
+    # That is a deliberate visual statement that it belongs with the
+    # header, and it needs no assumption about what the row contains.
+    def _row_shades(r):
+        return {c[5] if len(c) > 5 else None for c in r.values()}
+
+    while 0 < header_row_count < len(grid) - 1:
+        candidate_shades = _row_shades(grid[header_row_count])
+        header_shades = _row_shades(grid[header_row_count - 1])
+        next_shades = _row_shades(grid[header_row_count + 1])
+        # Shading alone is not enough: a table may simply tint its first
+        # body row. A continuation of the header also FILLS IN columns
+        # the row above left blank — that is the work it exists to do.
+        # Requiring that keeps a merely-tinted data row in the body.
+        prev_row = grid[header_row_count - 1]
+        cand_row = grid[header_row_count]
+        fills_gap = any(
+            (cand_row.get(c) or ("",))[0].strip()
+            and not (prev_row.get(c) or ("",))[0].strip()
+            for c in cand_row
+        )
+        if (
+            len(candidate_shades) == 1
+            and None not in candidate_shades
+            and candidate_shades == header_shades
+            and candidate_shades != next_shades
+            and fills_gap
+        ):
+            header_row_count += 1
+        else:
+            break
     if not grid:
         return "", {}, ""
 
@@ -1834,18 +2577,20 @@ def _convert_one_table(table) -> tuple:
 
     captions, offset = split_caption_rows(grid, header_row_count, total_cols)
     real_header_rows = grid[offset:header_row_count]
+    data_rows = grid[header_row_count:]
     _header_first_seen = {}
     for _i, _row in enumerate(real_header_rows):
         for _c, _cell in _row.items():
             _sid = _cell[2] if len(_cell) > 2 else None
             if _sid is not None and _sid not in _header_first_seen:
                 _header_first_seen[_sid] = _i
+    _legend_rows, _legend_meanings = _legend_row_indices(real_header_rows, data_rows)
     real_header_rows = [
         row for i, row in enumerate(real_header_rows)
-        if not _is_decorative_header_row(row, total_cols, i, _header_first_seen)
+        if i not in _legend_rows
+        and not _is_decorative_header_row(row, total_cols, i, _header_first_seen, data_rows)
     ]
-    header_paths, header_note, dominant_group = build_header_paths(real_header_rows, total_cols)
-    data_rows = grid[header_row_count:]
+    header_paths, header_note, dominant_group = build_header_paths(real_header_rows, total_cols, data_rows)
 
     # Some tables have NO <thead> at all (no header rows for
     # split_caption_rows to even look at), yet the very FIRST row can
@@ -1882,9 +2627,16 @@ def _convert_one_table(table) -> tuple:
 
     if not real_header_rows or len(distinct_headers) <= 1:
         fallback_caption = caption or next(iter(distinct_headers), "")
-        return fallback_caption, build_definition_list_yaml(data_rows, total_cols), dominant_group
+        dl = build_definition_list_yaml(data_rows, total_cols)
+        if _legend_meanings and dl:
+            dl = {"Legend": dict(_legend_meanings), **dl}
+        return fallback_caption, dl, dominant_group
     else:
         matrix = build_matrix_yaml(data_rows, header_paths, total_cols)
+        if _legend_meanings and matrix:
+            # Ahead of the data, so a reader (or a retrieval chunk) meets
+            # the key before the values it explains.
+            matrix = {"Legend": dict(_legend_meanings), **matrix}
         return caption, matrix, dominant_group
 
 

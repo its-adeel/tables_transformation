@@ -1,0 +1,1403 @@
+<table class="role-medium table-dense table-extra-dense table-ruled-outside-both table-ruled-inside-both table-shaded floattable--floated" data-controller="floattable" style="width: 628px;"><colgroup style=""><col style="width: 265.733px;" data-orig-width="265.733px"><col style="width: 66.3167px;" data-orig-width="66.3167px"><col style="width: 66.3px;" data-orig-width="66.3px"><col style="width: 65.4px;" data-orig-width="65.4px"><col style="width: 66.3167px;" data-orig-width="66.3167px"><col style="width: 96.9333px;" data-orig-width="96.9333px">
+</colgroup><thead>
+<tr>
+<td class="left" colspan="6">
+<p><b>Mixed Use Zones</b></p>
+</td>
+</tr>
+<tr>
+<td class="left" rowspan="5">
+<p><b>TABLE 4.3 </b><br><b><br>Allowed Land Uses and Permit Requirements for Mixed Use Zones</b></p>
+</td>
+<td>
+<p>P(<a class="fn" href="4.Tables#4.Tables__16__2" title="16">16</a>)</p>
+</td>
+<td class="left" colspan="4">
+<p><a class="def" href="28_UDefs__4ef45429f29133dbbf86ceeafdba62cf">Permitted Use</a></p>
+</td>
+</tr>
+<tr>
+<td>
+<p>CUP</p>
+</td>
+<td class="left" colspan="4">
+<p><a class="def" href="28_UDefs__d12b0c96295c81db30d52d2dbaf3a2b2">Conditional Use</a> Permit Required</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>S</p>
+</td>
+<td class="left" colspan="4">
+<p>Permit Requirement in Specific Use Regulations</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>A</p>
+</td>
+<td class="left" colspan="4">
+<p><a class="def" href="28_UDefs__28d12a81db36ebc25310e3ab9bbd5709">Accessory Use</a></p>
+</td>
+</tr>
+<tr>
+<td>
+<p>—</p>
+</td>
+<td class="left" colspan="4">
+<p>Use Not Allowed</p>
+</td>
+</tr>
+<tr>
+<td class="left" rowspan="2">
+<p><b>LAND USE TYPE </b>(<a class="fn" href="4.Tables#4.Tables__1__2" title="1">1</a>)</p>
+</td>
+<td colspan="4">
+<p><b>Permit Required by Zone</b></p>
+</td>
+<td rowspan="2">
+<p><b>Specific Use Regulations</b></p>
+</td>
+</tr>
+<tr>
+<td>
+<p><b>MU1A</b></p>
+</td>
+<td>
+<p><b>MU1B</b> (<a class="fn" href="4.Tables#4.Tables__21__1" title="21">21</a>)</p>
+</td>
+<td>
+<p><b>MU1C</b></p>
+</td>
+<td>
+<p><b>MU2</b>  (<a class="fn" href="4.Tables#4.Tables__22" title="22">22</a>)</p>
+</td>
+</tr>
+</thead><tbody>
+<tr>
+<td colspan="6">
+<p><b>INDUSTRY, MANUFACTURING AND PROCESSING</b></p>
+</td>
+</tr>
+<tr>
+<td>
+<p><a class="def has-preview" href="28_ADefs__cae8afa6454ee8ab78a619feaadcb255" data-original-title="" title="">Artisan/Craft Product Manufacturing</a></p>
+</td>
+<td class="center">
+<p>P</p>
+</td>
+<td class="center">
+<p>P</p>
+</td>
+<td class="center">
+<p>—</p>
+</td>
+<td class="center">
+<p>CUP(<a class="fn" href="4.Tables#4.Tables__6__2" title="6">6</a>)</p>
+</td>
+<td></td>
+</tr>
+<tr>
+<td>
+<p><a class="def" href="28_CDefs__15521006cea7b30a339516dca1aee563">Catering</a> Service, as a <a class="def" href="28_UDefs__c0d2ac4ad8c5545cba0e9b1742025fe8">Primary Use</a></p>
+</td>
+<td class="center">
+<p>P(<a class="fn" href="4.Tables#4.Tables__6__2" title="6">6</a>)</p>
+</td>
+<td class="center">
+<p>P</p>
+</td>
+<td class="center">
+<p>—</p>
+</td>
+<td class="center">
+<p>P(<a class="fn" href="4.Tables#4.Tables__6__2" title="6">6</a>)</p>
+</td>
+<td></td>
+</tr>
+<tr>
+<td>
+<p>Furniture and Fixture Manufacturing, Cabinet Making</p>
+</td>
+<td class="center">
+<p>—</p>
+</td>
+<td class="center">
+<p>P</p>
+</td>
+<td class="center">
+<p>—</p>
+</td>
+<td class="center">
+<p>—</p>
+</td>
+<td></td>
+</tr>
+<tr>
+<td>
+<p>Laboratory&nbsp;– Medical, Analytical</p>
+</td>
+<td class="center">
+<p>—</p>
+</td>
+<td class="center">
+<p>P</p>
+</td>
+<td class="center">
+<p>—</p>
+</td>
+<td class="center">
+<p>—</p>
+</td>
+<td></td>
+</tr>
+<tr>
+<td>
+<p>Manufacturing, Light</p>
+</td>
+<td class="center">
+<p>—</p>
+</td>
+<td class="center">
+<p>P(<a class="fn" href="4.Tables#4.Tables__14__2" title="14">14</a>)</p>
+</td>
+<td class="center">
+<p>—</p>
+</td>
+<td class="center">
+<p>—</p>
+</td>
+<td></td>
+</tr>
+<tr>
+<td>
+<p><a class="def" href="28_MDefs__92800de9fc8983099913e98c24c9333c">Media Production</a></p>
+</td>
+<td class="center">
+<p>P(<a class="fn" href="4.Tables#4.Tables__6__2" title="6">6</a>)</p>
+</td>
+<td class="center">
+<p>P</p>
+</td>
+<td class="center">
+<p>—</p>
+</td>
+<td class="center">
+<p>P(<a class="fn" href="4.Tables#4.Tables__6__2" title="6">6</a>)</p>
+</td>
+<td></td>
+</tr>
+<tr>
+<td>
+<p><a class="def" href="28_PDefs__212f2bd145661aec583cb82f654274e4">Printing and Publishing</a></p>
+</td>
+<td class="center">
+<p>P(<a class="fn" href="4.Tables#4.Tables__6__2" title="6">6</a>)</p>
+</td>
+<td class="center">
+<p>P</p>
+</td>
+<td class="center">
+<p>—</p>
+</td>
+<td class="center">
+<p>P(<a class="fn" href="4.Tables#4.Tables__6__2" title="6">6</a>)</p>
+</td>
+<td></td>
+</tr>
+<tr>
+<td>
+<p><a class="def" href="28_RDefs__52ba36e43348ded9b0b2472bba1db0a3">Research and Development</a></p>
+</td>
+<td class="center">
+<p>—</p>
+</td>
+<td class="center">
+<p>P</p>
+</td>
+<td class="center">
+<p>—</p>
+</td>
+<td class="center">
+<p>—</p>
+</td>
+<td></td>
+</tr>
+<tr>
+<td colspan="6">
+<p><b>LODGING</b></p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Lodging&nbsp;– <a class="def" href="28_SDefs__197663a9d71179e6e7163777d3750372">Short-Term Vacation Rentals</a></p>
+</td>
+<td class="center">
+<p>P(<a class="fn" href="4.Tables#4.Tables__15__2" title="15">15</a>)</p>
+</td>
+<td class="center">
+<p>P(<a class="fn" href="4.Tables#4.Tables__15__2" title="15">15</a>)</p>
+</td>
+<td class="center">
+<p>P(<a class="fn" href="4.Tables#4.Tables__15__2" title="15">15</a>)</p>
+</td>
+<td class="center">
+<p>P(<a class="fn" href="4.Tables#4.Tables__15__2" title="15">15</a>)</p>
+</td>
+<td class="center">
+<p>Section <a class="cite" href="7.110" title="7.110 Short-Term Vacation Rentals">7.110</a></p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Lodging&nbsp;– <a class="def" href="28_BDefs__a3128ad2af20be6417e80f464188d5f0">Bed and Breakfast Inn</a> (<a class="def" href="28_BDefs__a3128ad2af20be6417e80f464188d5f0">B&amp;B</a>)</p>
+</td>
+<td class="center">
+<p>—</p>
+</td>
+<td class="center">
+<p>—</p>
+</td>
+<td class="center">
+<p>—</p>
+</td>
+<td class="center">
+<p>P</p>
+</td>
+<td></td>
+</tr>
+<tr>
+<td>
+<p>Lodging&nbsp;– <a class="def" href="28_HDefs__8f80d7bc0918b22136d5931a4c30f100">Hotel</a>/<a class="def" href="28_HDefs__8f80d7bc0918b22136d5931a4c30f100">Motel</a></p>
+</td>
+<td class="center">
+<p>P</p>
+</td>
+<td class="center">
+<p>P</p>
+</td>
+<td class="center">
+<p>—</p>
+</td>
+<td class="center">
+<p>P</p>
+</td>
+<td></td>
+</tr>
+<tr>
+<td colspan="6">
+<p><b>RECREATION, EDUCATION AND PUBLIC ASSEMBLY</b></p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Cardroom</p>
+</td>
+<td class="center">
+<p>CUP</p>
+</td>
+<td class="center">
+<p>CUP</p>
+</td>
+<td class="center">
+<p>—</p>
+</td>
+<td class="center">
+<p>CUP</p>
+</td>
+<td class="center">
+<p>Chapter <a class="cite" href="9" title="Ch. 9 Cardroom Establishments">9</a></p>
+</td>
+</tr>
+<tr>
+<td>
+<p><a class="def" href="28_CDefs__585541edccfa4018e9ac733d7213698b">Community Meeting Facility</a></p>
+</td>
+<td class="center">
+<p>CUP</p>
+</td>
+<td class="center">
+<p>CUP</p>
+</td>
+<td class="center">
+<p>CUP</p>
+</td>
+<td class="center">
+<p>CUP</p>
+</td>
+<td></td>
+</tr>
+<tr>
+<td>
+<p><a class="def has-preview" href="28_CDefs__55b3105a797e4fa0b155fcba149dcf46" data-original-title="" title="">Commercial Recreation&nbsp;– Indoor</a></p>
+</td>
+<td class="center">
+<p>CUP</p>
+</td>
+<td class="center">
+<p>CUP</p>
+</td>
+<td class="center">
+<p>—</p>
+</td>
+<td class="center">
+<p>P(<a class="fn" href="4.Tables#4.Tables__6__2" title="6">6</a>)</p>
+</td>
+<td></td>
+</tr>
+<tr>
+<td>
+<p>Fitness/Health Facility</p>
+</td>
+<td class="center">
+<p>P</p>
+</td>
+<td class="center">
+<p>P</p>
+</td>
+<td class="center">
+<p>—</p>
+</td>
+<td class="center">
+<p>P</p>
+</td>
+<td></td>
+</tr>
+<tr>
+<td>
+<p><a class="def" href="28_LDefs__575ae443efd6197e8e8454e5d0b3e15a">Library, Museum, Art Gallery</a></p>
+</td>
+<td class="center">
+<p>P</p>
+</td>
+<td class="center">
+<p>P</p>
+</td>
+<td class="center">
+<p>—</p>
+</td>
+<td class="center">
+<p>P</p>
+</td>
+<td></td>
+</tr>
+<tr>
+<td>
+<p><a class="def" href="28_PDefs__9accbd68a0573079ba60b84e0a6e0efa">Park</a></p>
+</td>
+<td class="center">
+<p>P</p>
+</td>
+<td class="center">
+<p>P</p>
+</td>
+<td class="center">
+<p>P</p>
+</td>
+<td class="center">
+<p>P</p>
+</td>
+<td></td>
+</tr>
+<tr>
+<td>
+<p><a class="def" href="28_SDefs__f95a541b4c8a03d365e5ad525b1e0fea">School</a>&nbsp;– Elementary, Secondary, or College, Private</p>
+</td>
+<td class="center">
+<p>CUP</p>
+</td>
+<td class="center">
+<p>CUP</p>
+</td>
+<td class="center">
+<p>CUP</p>
+</td>
+<td class="center">
+<p>CUP</p>
+</td>
+<td></td>
+</tr>
+<tr>
+<td>
+<p><a class="def" href="28_SDefs__f95a541b4c8a03d365e5ad525b1e0fea">School</a>&nbsp;– Specialized Education and Training</p>
+</td>
+<td class="center">
+<p>CUP</p>
+</td>
+<td class="center">
+<p>CUP</p>
+</td>
+<td class="center">
+<p>—</p>
+</td>
+<td class="center">
+<p>CUP</p>
+</td>
+<td></td>
+</tr>
+<tr>
+<td>
+<p><a class="def" href="28_SDefs__e7a7786b08ea7f2f31d3e2ea5a114985">Studio&nbsp;– Art, Dance, Martial Arts, Music</a>, etc.</p>
+</td>
+<td class="center">
+<p>P</p>
+</td>
+<td class="center">
+<p>P</p>
+</td>
+<td class="center">
+<p>—</p>
+</td>
+<td class="center">
+<p>P</p>
+</td>
+<td></td>
+</tr>
+<tr>
+<td>
+<p><a class="def" href="28_TDefs__09cacc8ec53a566b7b37e6400b49319a">Theater, Cinema or Performing Arts</a></p>
+</td>
+<td class="center">
+<p>CUP</p>
+</td>
+<td class="center">
+<p>CUP</p>
+</td>
+<td class="center">
+<p>—</p>
+</td>
+<td class="center">
+<p>CUP</p>
+</td>
+<td class="center">
+<p>Theater District Ord. <span class="notcite">2158</span></p>
+</td>
+</tr>
+<tr>
+<td colspan="6">
+<p><b>RESIDENTIAL</b></p>
+</td>
+</tr>
+<tr>
+<td>
+<p><a class="def" href="28_DDefs__3cfd922e1a03aa966bc5da769b1b2391">Dwelling, Multiple</a></p>
+</td>
+<td class="center">
+<p>CUP</p>
+</td>
+<td class="center">
+<p>CUP</p>
+</td>
+<td class="center">
+<p>P</p>
+</td>
+<td class="center">
+<p>—</p>
+</td>
+<td></td>
+</tr>
+<tr>
+<td>
+<p><a class="def" href="28_DDefs__1694922c8ca35cee76e2317f64177554">Dwelling, Accessory</a></p>
+</td>
+<td class="center">
+<p>A,S</p>
+</td>
+<td class="center">
+<p>A,S</p>
+</td>
+<td class="center">
+<p>A,S</p>
+</td>
+<td class="center">
+<p>A,S</p>
+</td>
+<td class="center">
+<p>Section <a class="cite" href="7.030" title="7.030 Accessory Dwelling Units">7.030</a></p>
+</td>
+</tr>
+<tr>
+<td>
+<p><a class="def" href="28_DDefs__b993fffc6c4f8f74146aeb2b8e1729ef">Dwelling, Junior Accessory</a></p>
+</td>
+<td class="center">
+<p>A,S</p>
+</td>
+<td class="center">
+<p>A,S</p>
+</td>
+<td class="center">
+<p>A,S</p>
+</td>
+<td class="center">
+<p>A,S</p>
+</td>
+<td class="center">
+<p>Section <a class="cite" href="7.035" title="7.035 Junior Accessory Dwelling Units">7.035</a></p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Dwelling, Single</p>
+</td>
+<td class="center">
+<p>—</p>
+</td>
+<td class="center">
+<p>—</p>
+</td>
+<td class="center">
+<p>P</p>
+</td>
+<td class="center">
+<p>—</p>
+</td>
+<td></td>
+</tr>
+<tr>
+<td>
+<p><a class="def" href="28_HDefs__3e496e061b5a159842ac4065b6a91329">Home Occupation</a></p>
+</td>
+<td class="center">
+<p>A,S(<a class="fn" href="4.Tables#4.Tables__2__2" title="2">2</a>)</p>
+</td>
+<td class="center">
+<p>A,S(<a class="fn" href="4.Tables#4.Tables__2__2" title="2">2</a>)</p>
+</td>
+<td class="center">
+<p>A,S(<a class="fn" href="4.Tables#4.Tables__2__2" title="2">2</a>)</p>
+</td>
+<td class="center">
+<p>A,S(<a class="fn" href="4.Tables#4.Tables__2__2" title="2">2</a>)</p>
+</td>
+<td class="center">
+<p>Section <a class="cite" href="7.050" title="7.050 Home Occupation Permit">7.050</a>&nbsp;&nbsp;</p>
+</td>
+</tr>
+<tr>
+<td>
+<p><a class="def" href="28_RDefs__9f8bd40f1057a35090a2a06c5fdb8240">Residential Care Facility</a> (<a class="fn" href="4.Tables#4.Tables__23" title="23">23</a>)</p>
+</td>
+<td class="center">
+<p>P</p>
+</td>
+<td class="center">
+<p>P</p>
+</td>
+<td class="center">
+<p>P</p>
+</td>
+<td class="center">
+<p>P</p>
+</td>
+<td></td>
+</tr>
+<tr>
+<td>
+<p>Residential in Mixed Use <a class="def" href="28_BDefs__05ec0b13ede7597430eed00817249cf7">Building</a></p>
+</td>
+<td class="center">
+<p>P(<a class="fn" href="4.Tables#4.Tables__6__2" title="6">6</a>)</p>
+</td>
+<td class="center">
+<p>P(<a class="fn" href="4.Tables#4.Tables__6__2" title="6">6</a>)</p>
+</td>
+<td class="center">
+<p>P(<a class="fn" href="4.Tables#4.Tables__6__2" title="6">6</a>)</p>
+</td>
+<td class="center">
+<p>P(<a class="fn" href="4.Tables#4.Tables__6__2" title="6">6</a>)</p>
+</td>
+<td></td>
+</tr>
+<tr>
+<td>
+<p>Work/Live</p>
+</td>
+<td class="center">
+<p>P(<a class="fn" href="4.Tables#4.Tables__6__2" title="6">6</a>)</p>
+</td>
+<td class="center">
+<p>P(<a class="fn" href="4.Tables#4.Tables__6__2" title="6">6</a>)</p>
+</td>
+<td class="center">
+<p>P</p>
+</td>
+<td class="center">
+<p>P(<a class="fn" href="4.Tables#4.Tables__6__2" title="6">6</a>)</p>
+</td>
+<td></td>
+</tr>
+<tr>
+<td colspan="6">
+<p><b>RETAIL</b></p>
+</td>
+</tr>
+<tr>
+<td>
+<p><a class="def" href="28_ADefs__eb181dbb2b351afb1ec816aa1a222ea7">Adult Oriented Business</a></p>
+</td>
+<td class="center">
+<p>CUP</p>
+</td>
+<td class="center">
+<p>CUP</p>
+</td>
+<td class="center">
+<p>—</p>
+</td>
+<td class="center">
+<p>CUP</p>
+</td>
+<td class="center">
+<p>Chapter <a class="cite" href="10" title="Ch. 10 Adult Oriented Business">10</a></p>
+</td>
+</tr>
+<tr>
+<td>
+<p><a class="def" href="28_ADefs__f3da059fcfca78462167689a4b183e38">Artisan Shop</a></p>
+</td>
+<td class="center">
+<p>P</p>
+</td>
+<td class="center">
+<p>P</p>
+</td>
+<td class="center">
+<p>—</p>
+</td>
+<td class="center">
+<p>P</p>
+</td>
+<td></td>
+</tr>
+<tr>
+<td>
+<p><a class="def" href="28_ADefs__1ded6273f4b212acd1be920ba37fa391">Auto Parts Sales</a></p>
+</td>
+<td class="center">
+<p>P</p>
+</td>
+<td class="center">
+<p>P</p>
+</td>
+<td class="center">
+<p>—</p>
+</td>
+<td class="center">
+<p>—</p>
+</td>
+<td></td>
+</tr>
+<tr>
+<td>
+<p><a class="def" href="28_BDefs__5291cc6fb77d4b1b365c1b691486c31d">Bar</a>, <a class="def" href="28_BDefs__5291cc6fb77d4b1b365c1b691486c31d">Tavern</a>, <a class="def" href="28_NDefs__0f500b082a26aa4ca68126cb32934b89">Night Club</a></p>
+</td>
+<td class="center">
+<p>CUP</p>
+</td>
+<td class="center">
+<p>CUP</p>
+</td>
+<td class="center">
+<p>—</p>
+</td>
+<td class="center">
+<p>CUP</p>
+</td>
+<td class="center">
+<p>Chapter <a class="cite" href="8" title="Ch. 8 Alcoholic Beverage Establishment">8</a>&nbsp;</p>
+</td>
+</tr>
+<tr>
+<td>
+<p><a class="def" href="28_BDefs__05ec0b13ede7597430eed00817249cf7">Building</a> and Landscape Materials Sales Indoor&nbsp;– 25,000 sf or Less</p>
+</td>
+<td class="center">
+<p>P</p>
+</td>
+<td class="center">
+<p>P</p>
+</td>
+<td class="center">
+<p>—</p>
+</td>
+<td class="center">
+<p>P</p>
+</td>
+<td></td>
+</tr>
+<tr>
+<td>
+<p><a class="def" href="28_BDefs__05ec0b13ede7597430eed00817249cf7">Building</a> and Landscape Materials Sales Indoor&nbsp;– More Than 25,000 sf</p>
+</td>
+<td class="center">
+<p>CUP(<a class="fn" href="4.Tables#4.Tables__20__1" title="20">20</a>)</p>
+</td>
+<td class="center">
+<p>CUP(<a class="fn" href="4.Tables#4.Tables__20__1" title="20">20</a>)</p>
+</td>
+<td class="center">
+<p>—</p>
+</td>
+<td class="center">
+<p>CUP(<a class="fn" href="4.Tables#4.Tables__20__1" title="20">20</a>)</p>
+</td>
+<td></td>
+</tr>
+<tr>
+<td>
+<p><a class="def" href="28_FDefs__da1b97636a9cd18278588989b329e646">Fueling Station/Gas Station</a></p>
+</td>
+<td class="center">
+<p>—</p>
+</td>
+<td class="center">
+<p>—</p>
+</td>
+<td class="center">
+<p>—</p>
+</td>
+<td class="center">
+<p>—</p>
+</td>
+<td></td>
+</tr>
+<tr>
+<td>
+<p><a class="def" href="28_GDefs__1b0de8be0479040d774d187875235f1d">General Retail</a>&nbsp;– 25,000 sf or Less</p>
+</td>
+<td class="center">
+<p>P</p>
+</td>
+<td class="center">
+<p>P</p>
+</td>
+<td class="center">
+<p>—</p>
+</td>
+<td class="center">
+<p>P</p>
+</td>
+<td></td>
+</tr>
+<tr>
+<td>
+<p><a class="def" href="28_GDefs__1b0de8be0479040d774d187875235f1d">General Retail</a> –More Than 25,000 sf</p>
+</td>
+<td class="center">
+<p>CUP(<a class="fn" href="4.Tables#4.Tables__20__1" title="20">20</a>)</p>
+</td>
+<td class="center">
+<p>CUP(<a class="fn" href="4.Tables#4.Tables__20__1" title="20">20</a>)</p>
+</td>
+<td class="center">
+<p>—</p>
+</td>
+<td class="center">
+<p>CUP(<a class="fn" href="4.Tables#4.Tables__20__1" title="20">20</a>)</p>
+</td>
+<td></td>
+</tr>
+<tr>
+<td>
+<p>Groceries/Specialty Foods&nbsp;– 25,000 sf or Less</p>
+</td>
+<td class="center">
+<p>P</p>
+</td>
+<td class="center">
+<p>P</p>
+</td>
+<td class="center">
+<p>—</p>
+</td>
+<td class="center">
+<p>P</p>
+</td>
+<td></td>
+</tr>
+<tr>
+<td>
+<p>Groceries/Specialty Foods&nbsp;– More Than 25,000 sf</p>
+</td>
+<td class="center">
+<p>CUP(<a class="fn" href="4.Tables#4.Tables__20__1" title="20">20</a>)</p>
+</td>
+<td class="center">
+<p>CUP(<a class="fn" href="4.Tables#4.Tables__20__1" title="20">20</a>)</p>
+</td>
+<td class="center">
+<p>—</p>
+</td>
+<td class="center">
+<p>CUP(<a class="fn" href="4.Tables#4.Tables__20__1" title="20">20</a>)</p>
+</td>
+<td></td>
+</tr>
+<tr>
+<td>
+<p><a class="def" href="28_PDefs__5f66c2f1d165a10557511476aaa611ef">Plant Nursery</a></p>
+</td>
+<td class="center">
+<p>P</p>
+</td>
+<td class="center">
+<p>P</p>
+</td>
+<td class="center">
+<p>—</p>
+</td>
+<td class="center">
+<p>—</p>
+</td>
+<td></td>
+</tr>
+<tr>
+<td>
+<p><a class="def" href="28_RDefs__a18b45a8a80a0ac4b708a96cc26d71cf">Restaurant</a>, <a class="def" href="28_RDefs__a18b45a8a80a0ac4b708a96cc26d71cf">Café</a>, <a class="def" href="28_RDefs__a18b45a8a80a0ac4b708a96cc26d71cf">Coffee Shop</a></p>
+</td>
+<td class="center">
+<p>P</p>
+</td>
+<td class="center">
+<p>P</p>
+</td>
+<td class="center">
+<p>CUP</p>
+</td>
+<td class="center">
+<p>P</p>
+</td>
+<td></td>
+</tr>
+<tr>
+<td colspan="6">
+<p><b>SERVICES&nbsp;– BUSINESS, FINANCIAL, PROFESSIONAL</b></p>
+</td>
+</tr>
+<tr>
+<td>
+<p>ATM</p>
+</td>
+<td class="center">
+<p>P</p>
+</td>
+<td class="center">
+<p>P</p>
+</td>
+<td class="center">
+<p>P</p>
+</td>
+<td class="center">
+<p>P</p>
+</td>
+<td></td>
+</tr>
+<tr>
+<td>
+<p><a class="def" href="28_BDefs__43a425664ec2862e41e0468ffefbd7aa">Bank, Financial Services</a></p>
+</td>
+<td class="center">
+<p>P</p>
+</td>
+<td class="center">
+<p>P</p>
+</td>
+<td class="center">
+<p>—</p>
+</td>
+<td class="center">
+<p>P</p>
+</td>
+<td></td>
+</tr>
+<tr>
+<td>
+<p><a class="def" href="28_BDefs__cd5a861af00852bfd217329ef61d2eb7">Business Support Service</a></p>
+</td>
+<td class="center">
+<p>P</p>
+</td>
+<td class="center">
+<p>P</p>
+</td>
+<td class="center">
+<p>—</p>
+</td>
+<td class="center">
+<p>P</p>
+</td>
+<td></td>
+</tr>
+<tr>
+<td>
+<p><a class="def" href="28_MDefs__9b6b3ac01ed943bbcb4025ba0b8aa2c3">Medical Services&nbsp;– Health Care Facility</a></p>
+</td>
+<td class="center">
+<p>P(<a class="fn" href="4.Tables#4.Tables__6__2" title="6">6</a>)</p>
+</td>
+<td class="center">
+<p>P(<a class="fn" href="4.Tables#4.Tables__6__2" title="6">6</a>)</p>
+</td>
+<td class="center">
+<p>—</p>
+</td>
+<td class="center">
+<p>P(<a class="fn" href="4.Tables#4.Tables__6__2" title="6">6</a>)</p>
+</td>
+<td></td>
+</tr>
+<tr>
+<td>
+<p><a class="def" href="28_MDefs__cd0f63b1bcd7ee4b6b016c144cd2f502">Medical Services&nbsp;– Major</a></p>
+</td>
+<td class="center">
+<p>P</p>
+</td>
+<td class="center">
+<p>P</p>
+</td>
+<td class="center">
+<p>—</p>
+</td>
+<td class="center">
+<p>P</p>
+</td>
+<td></td>
+</tr>
+<tr>
+<td>
+<p><a class="def" href="28_MDefs__702471bcde50f2cfec8233145226113a">Medical Services&nbsp;– Minor</a></p>
+</td>
+<td class="center">
+<p>P(<a class="fn" href="4.Tables#4.Tables__6__2" title="6">6</a>,<a class="fn" href="4.Tables#4.Tables__11__2" title="11">11</a>)</p>
+</td>
+<td class="center">
+<p>P(<a class="fn" href="4.Tables#4.Tables__6__2" title="6">6</a>,<a class="fn" href="4.Tables#4.Tables__11__2" title="11">11</a></p>
+</td>
+<td class="center">
+<p>P</p>
+</td>
+<td class="center">
+<p>P(<a class="fn" href="4.Tables#4.Tables__6__2" title="6">6</a>, <a class="fn" href="4.Tables#4.Tables__11__2" title="11">11</a>)</p>
+</td>
+<td></td>
+</tr>
+<tr>
+<td>
+<p><a class="def" href="28_ODefs__338b1e071e761050c9a254d77572fcf3">Office</a>&nbsp;– Government</p>
+</td>
+<td class="center">
+<p>P</p>
+</td>
+<td class="center">
+<p>P</p>
+</td>
+<td class="center">
+<p>P</p>
+</td>
+<td class="center">
+<p>P(<a class="fn" href="4.Tables#4.Tables__6__2" title="6">6</a>)</p>
+</td>
+<td></td>
+</tr>
+<tr>
+<td>
+<p><a class="def" href="28_ODefs__338b1e071e761050c9a254d77572fcf3">Office</a>&nbsp;– Headquarters, or Processing</p>
+</td>
+<td class="center">
+<p>P(<a class="fn" href="4.Tables#4.Tables__6__2" title="6">6</a>)</p>
+</td>
+<td class="center">
+<p>P</p>
+</td>
+<td class="center">
+<p>—</p>
+</td>
+<td class="center">
+<p>P(<a class="fn" href="4.Tables#4.Tables__6__2" title="6">6</a>)</p>
+</td>
+<td></td>
+</tr>
+<tr>
+<td>
+<p><a class="def" href="28_ODefs__338b1e071e761050c9a254d77572fcf3">Office</a>&nbsp;– Professional, Administrative</p>
+</td>
+<td class="center">
+<p>P</p>
+</td>
+<td class="center">
+<p>P</p>
+</td>
+<td class="center">
+<p>P</p>
+</td>
+<td class="center">
+<p>P(<a class="fn" href="4.Tables#4.Tables__6__2" title="6">6</a>)</p>
+</td>
+<td></td>
+</tr>
+<tr>
+<td colspan="6">
+<p><b>SERVICES&nbsp;– GENERAL</b></p>
+</td>
+</tr>
+<tr>
+<td>
+<p><a class="def" href="28_ADefs__4a16e466d250edeecadfcd7a4f7ea88c">Adult Day Program</a></p>
+</td>
+<td class="center">
+<p>CUP</p>
+</td>
+<td class="center">
+<p>CUP</p>
+</td>
+<td class="center">
+<p>CUP</p>
+</td>
+<td class="center">
+<p>P</p>
+</td>
+<td></td>
+</tr>
+<tr>
+<td>
+<p><a class="def" href="28_CDefs__f37bd08e829aa789107c3d0d885b011f">Child Care Center</a></p>
+</td>
+<td class="center">
+<p>P(<a class="fn" href="4.Tables#4.Tables__6__2" title="6">6</a>)</p>
+</td>
+<td class="center">
+<p>P(<a class="fn" href="4.Tables#4.Tables__6__2" title="6">6</a>)</p>
+</td>
+<td class="center">
+<p>—</p>
+</td>
+<td class="center">
+<p>P(<a class="fn" href="4.Tables#4.Tables__6__2" title="6">6</a>)</p>
+</td>
+<td></td>
+</tr>
+<tr>
+<td>
+<p><a class="def" href="28_CDefs__19951f460065401e215d468d1e548c81">Child Day Care</a>&nbsp;– Large Family</p>
+</td>
+<td class="center">
+<p>—</p>
+</td>
+<td class="center">
+<p>—</p>
+</td>
+<td class="center">
+<p>A(<a class="fn" href="4.Tables#4.Tables__4__2" title="4">4</a>)</p>
+</td>
+<td class="center">
+<p>—</p>
+</td>
+<td class="center">
+<p>Section <a class="cite" href="7.060" title="7.060 Large Family Child Day Care">7.060</a>&nbsp;</p>
+</td>
+</tr>
+<tr>
+<td>
+<p><a class="def" href="28_CDefs__19951f460065401e215d468d1e548c81">Child Day Care</a>&nbsp;– Small Family</p>
+</td>
+<td class="center">
+<p>A(<a class="fn" href="4.Tables#4.Tables__3__2" title="3">3</a>)</p>
+</td>
+<td class="center">
+<p>A(<a class="fn" href="4.Tables#4.Tables__3__2" title="3">3</a>)</p>
+</td>
+<td class="center">
+<p>A(<a class="fn" href="4.Tables#4.Tables__3__2" title="3">3</a>)</p>
+</td>
+<td class="center">
+<p>A(<a class="fn" href="4.Tables#4.Tables__3__2" title="3">3</a>)</p>
+</td>
+<td></td>
+</tr>
+<tr>
+<td>
+<p><a class="def" href="28_KDefs__fcb6afa17d8fa2b7bf8fb501b0076ad9">Kennel, Animal Boarding</a></p>
+</td>
+<td class="center">
+<p>—</p>
+</td>
+<td class="center">
+<p>CUP</p>
+</td>
+<td class="center">
+<p>—</p>
+</td>
+<td class="center">
+<p>—</p>
+</td>
+<td></td>
+</tr>
+<tr>
+<td>
+<p><a class="def" href="28_MDefs__009e25ef0e8ba9a113541cc63c1acbe5">Meals Assembly</a> Business</p>
+</td>
+<td class="center">
+<p>P(<a class="fn" href="4.Tables#4.Tables__12__2" title="12">12</a>)</p>
+</td>
+<td class="center">
+<p>—</p>
+</td>
+<td class="center">
+<p>—</p>
+</td>
+<td class="center">
+<p>—</p>
+</td>
+<td></td>
+</tr>
+<tr>
+<td>
+<p><a class="def" href="28_MDefs__250b7371f1cfaf050052ffc86ec1c663">Mortuary</a>, <a class="def" href="28_MDefs__250b7371f1cfaf050052ffc86ec1c663">Funeral Home</a></p>
+</td>
+<td class="center">
+<p>CUP</p>
+</td>
+<td class="center">
+<p>—</p>
+</td>
+<td class="center">
+<p>—</p>
+</td>
+<td class="center">
+<p>—</p>
+</td>
+<td></td>
+</tr>
+<tr>
+<td>
+<p><a class="def" href="28_PDefs__91536d1090b7e740934a918b80b29060">Personal Services</a></p>
+</td>
+<td class="center">
+<p>P</p>
+</td>
+<td class="center">
+<p>P</p>
+</td>
+<td class="center">
+<p>—</p>
+</td>
+<td class="center">
+<p>P</p>
+</td>
+<td></td>
+</tr>
+<tr>
+<td>
+<p><a class="def" href="28_PDefs__b8aa1fd91c800de1f835595fd89bd291">Personal Services&nbsp;– Restricted</a></p>
+</td>
+<td class="center">
+<p>P</p>
+</td>
+<td class="center">
+<p>P</p>
+</td>
+<td class="center">
+<p>—</p>
+</td>
+<td class="center">
+<p>P</p>
+</td>
+<td></td>
+</tr>
+<tr>
+<td>
+<p><a class="def" href="28_PDefs__5688be2e1b312834208782375eed9e53">Public Safety Facility</a></p>
+</td>
+<td class="center">
+<p>P</p>
+</td>
+<td class="center">
+<p>P</p>
+</td>
+<td class="center">
+<p>P</p>
+</td>
+<td class="center">
+<p>P</p>
+</td>
+<td></td>
+</tr>
+<tr>
+<td>
+<p><a class="def" href="28_VDefs__7647e2e54e3d999bc997893a4c6b4aa2">Vehicle Services</a>&nbsp;– <a class="def" href="28_VDefs(2)">Minor Maintenance/Repair</a></p>
+</td>
+<td class="center">
+<p>—</p>
+</td>
+<td class="center">
+<p>P</p>
+</td>
+<td class="center">
+<p>—</p>
+</td>
+<td class="center">
+<p>CUP</p>
+</td>
+<td></td>
+</tr>
+<tr>
+<td>
+<p><a class="def" href="28_VDefs__1a8668e6bc89ad22f7f9105d7a269637">Veterinary Clinic, Animal Hospital</a></p>
+</td>
+<td class="center">
+<p>P(<a class="fn" href="4.Tables#4.Tables__8__2" title="8">8</a>)</p>
+</td>
+<td class="center">
+<p>P(<a class="fn" href="4.Tables#4.Tables__8__2" title="8">8</a>)</p>
+</td>
+<td class="center">
+<p>—</p>
+</td>
+<td class="center">
+<p>P(<a class="fn" href="4.Tables#4.Tables__8__2" title="8">8</a>)</p>
+</td>
+<td></td>
+</tr>
+<tr>
+<td colspan="6">
+<p><b>TRANSPORTATION, COMMUNICATIONS, INFRASTRUCTURE</b></p>
+</td>
+</tr>
+<tr>
+<td>
+<p>City Water and Sewer Facility</p>
+</td>
+<td class="center">
+<p>P</p>
+</td>
+<td class="center">
+<p>P</p>
+</td>
+<td class="center">
+<p>P</p>
+</td>
+<td class="center">
+<p>P</p>
+</td>
+<td></td>
+</tr>
+<tr>
+<td>
+<p><a class="def" href="28_PDefs__574d990b18ecd665ef5ebbc3d99846b8">Parking Facility, Public or Commercial</a></p>
+</td>
+<td class="center">
+<p>CUP</p>
+</td>
+<td class="center">
+<p>—</p>
+</td>
+<td class="center">
+<p>—</p>
+</td>
+<td class="center">
+<p>CUP</p>
+</td>
+<td></td>
+</tr>
+<tr>
+<td>
+<p>Telecommunications Facility</p>
+</td>
+<td class="center">
+<p>S</p>
+</td>
+<td class="center">
+<p>S</p>
+</td>
+<td class="center">
+<p>S</p>
+</td>
+<td class="center">
+<p>S</p>
+</td>
+<td class="center">
+<p>Section <a class="cite" href="7.090" title="7.090 Telecommunications Facilities">7.090</a> and Muni Code <a class="cite ctx-Code" href="/Code/14.44" title="Ch. 14.44 Telecommunications Facility and Antenna Criteria">14.44</a></p>
+</td>
+</tr>
+<tr>
+<td>
+<p><a class="def" href="28_UDefs__39140af4823f0fc7aaf4658024690640">Utility Facility</a></p>
+</td>
+<td class="center">
+<p>CUP</p>
+</td>
+<td class="center">
+<p>CUP</p>
+</td>
+<td class="center">
+<p>—</p>
+</td>
+<td class="center">
+<p>CUP</p>
+</td>
+<td></td>
+</tr>
+<tr>
+<td>
+<p>Zero Emission Vehicles (Battery Charging Station)</p>
+</td>
+<td class="center">
+<p>A(<a class="fn" href="4.Tables#4.Tables__18__2" title="18">18</a>)</p>
+</td>
+<td class="center">
+<p>A(<a class="fn" href="4.Tables#4.Tables__18__2" title="18">18</a>)</p>
+</td>
+<td class="center">
+<p>A(<a class="fn" href="4.Tables#4.Tables__18__2" title="18">18</a>)</p>
+</td>
+<td class="center">
+<p>A(<a class="fn" href="4.Tables#4.Tables__18__2" title="18">18</a>)</p>
+</td>
+<td></td>
+</tr>
+<tr>
+<td>
+<p>Zero Emission Vehicles (Hydrogen Fuel Cell Station)</p>
+</td>
+<td class="center">
+<p>CUP(<a class="fn" href="4.Tables#4.Tables__19__2" title="19">19</a>)</p>
+</td>
+<td class="center">
+<p>—</p>
+</td>
+<td class="center">
+<p>—</p>
+</td>
+<td class="center">
+<p>CUP(<a class="fn" href="4.Tables#4.Tables__19__2" title="19">19</a>)</p>
+</td>
+<td></td>
+</tr>
+<tr>
+<td colspan="6"></td>
+</tr>
+<tr>
+<td colspan="6">
+<p><b>Key to zone symbols</b></p>
+</td>
+</tr>
+<tr>
+<td>
+<p><b>MU1A - Mixed Use 1A</b></p>
+</td>
+<td colspan="5">
+<p><b>MU1C - Mixed Use 1C</b></p>
+</td>
+</tr>
+<tr>
+<td>
+<p><b>MU1B - Mixed Use 1B</b></p>
+</td>
+<td colspan="5">
+<p><b>MU2 - Mixed Use 2</b></p>
+</td>
+</tr>
+</tbody></table>

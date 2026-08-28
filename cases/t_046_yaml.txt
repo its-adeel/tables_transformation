@@ -1,0 +1,94 @@
+TABLE 14.C | OFF STREET LOADING REQUIREMENTS:
+  Type Of Use:
+    Commercial uses:
+      0 - 29,999 sq. ft.:
+        Space Required: '1'
+      30,000 - 69,999 sq. ft.:
+        Space Required:
+        - '2'
+        - '3'
+      70,000 - 120,000 sq. ft.:
+        Space Required:
+        - '3'
+        - '4'
+      For each additional 50,000 gross square feet over 120,000:
+        Space Required: '1'
+      0 - 4,999 sq. ft.:
+        Space Required: '1'
+      5,000 - 29,000 sq. ft.:
+        Space Required: '2'
+      For each additional 50,000 sq. ft. over 120,000 sq. ft.:
+        Space Required: '1'
+      0 - 9,999 sq. ft.:
+        Space Required: '0'
+      10,000 - 99,999 sq. ft.:
+        Space Required: '1'
+      100,000 - 199,999 sq. ft.:
+        Space Required: '2'
+      Over 200,000 sq. ft.:
+        Space Required: '3'
+      0 - 9,999 sq. ft. (14):
+        Space Required: '0'
+      10,000 - 99,999 sq. ft. (15):
+        Space Required: '1'
+      100,000 - 199,999 sq. ft. (16):
+        Space Required: '2'
+      Over 200,000 sq. ft. (17):
+        Space Required: '3'
+    Automotive uses: {}
+    General retail and business services, eating and drinking facilities: {}
+    Hotel, motel: {}
+    'Offices: administrative, business, professional, medical, veterinary': {}
+    Industrial uses:
+      0 - 29,999 sq. ft.:
+        Space Required: '1'
+      30,000 - 69,999 sq. ft.:
+        Space Required: '2'
+      70,000 - 120,000 sq. ft.:
+        Space Required: '3'
+      For each additional 50,000 gross square feet over 120,000:
+        Space Required: '1'
+      0 - 9,999 sq. ft.:
+        Space Required: '1'
+      10,000 - 99,999 sq. ft.:
+        Space Required: '2'
+      100,000 - 199,999 sq. ft.:
+        Space Required: '3'
+      Over 200,000 sq. ft.:
+        Space Required: '4'
+    Manufacturing, warehouse and distribution: {}
+    Research and development: {}
+    'Medical and health services:':
+      Size: ''
+      Space Required: '2'
+    Convalescent and nursing homes:
+      Size: ''
+      Space Required: '2'
+    Hospitals:
+      0 - 9,999 sq. ft.:
+        Space Required: '1'
+      10,000 - 99,999 sq. ft.:
+        Space Required: '2'
+      100,000 - 199,999 sq. ft.:
+        Space Required: '3'
+      Over 200,000 sq. ft.:
+        Space Required: '4'
+    Medical, dental offices and clinics; veterinary hospitals and clinics:
+      0 - 9,999 sq. ft.:
+        Space Required: '0'
+      10,000 - 99,999 sq. ft.:
+        Space Required: '1'
+      100,000 - 199,999 sq. ft.:
+        Space Required: '2'
+      Over 200,000 sq. ft.:
+        Space Required: '3'
+    Residential uses:
+      Mobilehome parks and subdivisions:
+        Size: ''
+        Space Required: None
+      Senior housing (where meals are provided in common dining facilities):
+        Size: ''
+        Space Required: '2'
+      Single-family detached, single-family attached, multiple-family, model home complexes:
+        Size: ''
+        Space Required: None

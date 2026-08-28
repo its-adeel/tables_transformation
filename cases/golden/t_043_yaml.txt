@@ -1,0 +1,168 @@
+Building Types*:
+  Detached House - Neighborhood:
+    Zoning Districts* (■):
+    - R-1A
+    - R-1B
+    - R-2
+    - R-3
+    - R-4
+    - R-5
+    Zoning Districts* (□): []
+    Development Standards > Lot Standards > Size: 8K s.f. +
+    Development Standards > Lot Standards > Width: 70′ +
+    Development Standards > Lot Standards > Max. Building Coverage: 40%
+    Development Standards > Minimum Setbacks > Front [1]: 30′
+    Development Standards > Minimum Setbacks > Interior Side: 7′
+    Development Standards > Minimum Setbacks > Corner Side: 15′
+    Development Standards > Minimum Setbacks > Rear: 25′
+    Development Standards > Building Height: 35′/2.5 stories
+  Detached House - Compact:
+    Zoning Districts* (■):
+    - R-1B
+    - R-2
+    - R-3
+    - R-4
+    - R-5
+    Zoning Districts* (□): []
+    Development Standards > Lot Standards > Size: 3.5K—8K s.f.
+    Development Standards > Lot Standards > Width: 35′ +
+    Development Standards > Lot Standards > Max. Building Coverage: 60%
+    Development Standards > Minimum Setbacks > Front [1]: 20′
+    Development Standards > Minimum Setbacks > Interior Side: 5′
+    Development Standards > Minimum Setbacks > Corner Side: 8′
+    Development Standards > Minimum Setbacks > Rear: 20′
+    Development Standards > Building Height: 35′/2.5 stories
+  Duplex:
+    Zoning Districts* (■):
+    - R-2
+    - R-3
+    - R-4
+    - R-5
+    Zoning Districts* (□): []
+    Development Standards > Lot Standards > Size: 6K + 2 units per building
+    Development Standards > Lot Standards > Width: 50′ +
+    Development Standards > Lot Standards > Max. Building Coverage: 40%
+    Development Standards > Minimum Setbacks > Front [1]: 40′
+    Development Standards > Minimum Setbacks > Interior Side: 5′
+    Development Standards > Minimum Setbacks > Corner Side: 10′
+    Development Standards > Minimum Setbacks > Rear: 25′
+    Development Standards > Building Height: 35′/2.5 stories
+  Multi-unit House:
+    Zoning Districts* (■):
+    - R-4
+    - R-5
+    Zoning Districts* (□): []
+    Development Standards > Lot Standards > Size: min. 4K s.f. per building 2—4 units
+    Development Standards > Lot Standards > Width: 40′ +
+    Development Standards > Lot Standards > Max. Building Coverage: 60%
+    Development Standards > Minimum Setbacks > Front [1]: 40′
+    Development Standards > Minimum Setbacks > Interior Side: 5′
+    Development Standards > Minimum Setbacks > Corner Side: 8′
+    Development Standards > Minimum Setbacks > Rear: 20′
+    Development Standards > Building Height: 35′/2.5 stories
+  Row House:
+    Zoning Districts* (■):
+    - R-4
+    - R-5
+    Zoning Districts* (□): []
+    Development Standards > Lot Standards > Size: 1.5K—3K s.f. per unit 3-8 units per building
+    Development Standards > Lot Standards > Width: 16′—36′ per unit
+    Development Standards > Lot Standards > Max. Building Coverage: 75%
+    Development Standards > Minimum Setbacks > Front [1]: 25′
+    Development Standards > Minimum Setbacks > Interior Side: 5′
+    Development Standards > Minimum Setbacks > Corner Side: 10′
+    Development Standards > Minimum Setbacks > Rear: 20′
+    Development Standards > Building Height: 40′/3 stories
+  Small Apartment:
+    Zoning Districts* (■):
+    - R-4
+    - R-5
+    Zoning Districts* (□): []
+    Development Standards > Lot Standards > Size: 6K—14K s.f. per building 3—12 units
+    Development Standards > Lot Standards > Width: 50′—100′
+    Development Standards > Lot Standards > Max. Building Coverage: 75%
+    Development Standards > Minimum Setbacks > Front [1]: 25′
+    Development Standards > Minimum Setbacks > Interior Side: 5′/10′*
+    Development Standards > Minimum Setbacks > Corner Side: 10′
+    Development Standards > Minimum Setbacks > Rear: 20′
+    Development Standards > Building Height: 45′/3 stories
+  Medium Apartment:
+    Zoning Districts* (■):
+    - R-5
+    Zoning Districts* (□):
+    - R-4
+    Development Standards > Lot Standards > Size: 10K—20K s.f. per building 13—40 units
+    Development Standards > Lot Standards > Width: 80′—200′
+    Development Standards > Lot Standards > Max. Building Coverage: 65%
+    Development Standards > Minimum Setbacks > Front [1]: 25′
+    Development Standards > Minimum Setbacks > Interior Side: 5′/10*
+    Development Standards > Minimum Setbacks > Corner Side: 10′
+    Development Standards > Minimum Setbacks > Rear: 20′
+    Development Standards > Building Height: 65′/5 stories
+  Large Apartment:
+    Zoning Districts* (■):
+    - R-5
+    Zoning Districts* (□):
+    - R-4
+    Development Standards > Lot Standards > Size: 20K s.f. per building at least 800 s.f. per unit
+    Development Standards > Lot Standards > Width: 200′ +
+    Development Standards > Lot Standards > Max. Building Coverage: 60%
+    Development Standards > Minimum Setbacks > Front [1]: 30′
+    Development Standards > Minimum Setbacks > Interior Side: 15′/3′ + for every story over 4
+    Development Standards > Minimum Setbacks > Corner Side: 15′/3′ + for every story over 4
+    Development Standards > Minimum Setbacks > Rear: 15′/3′ + for every story over 4
+    Development Standards > Building Height: 115′/10 stories
+  Garden Apartment:
+    Zoning Districts* (■):
+    - R-3
+    Zoning Districts* (□): []
+    Development Standards > Lot Standards > Size: 40K s.f. per building at least 3.5K s.f. per unit
+    Development Standards > Lot Standards > Width: 150′ +
+    Development Standards > Lot Standards > Max. Building Coverage: 40%
+    Development Standards > Minimum Setbacks > Front [1]: 30′
+    Development Standards > Minimum Setbacks > Interior Side: 15′
+    Development Standards > Minimum Setbacks > Corner Side: 15′
+    Development Standards > Minimum Setbacks > Rear: 15′
+    Development Standards > Building Height: 45′/3 stories
+  Live/Work:
+    Zoning Districts* (■): []
+    Zoning Districts* (□):
+    - R-4
+    Development Standards > Lot Standards > Size: 2K—10K s.f.
+    Development Standards > Lot Standards > Width: 25′—100′
+    Development Standards > Lot Standards > Max. Building Coverage: 65%
+    Development Standards > Minimum Setbacks > Front [1]: 20′
+    Development Standards > Minimum Setbacks > Interior Side: 5′/0′ if party wall
+    Development Standards > Minimum Setbacks > Corner Side: 8′
+    Development Standards > Minimum Setbacks > Rear: 20′
+    Development Standards > Building Height: 45′/3 stories
+  Small Civic:
+    Zoning Districts* (■): []
+    Zoning Districts* (□):
+    - R-1A
+    - R-1B
+    - R-2
+    - R-3
+    - R-4
+    - R-5
+    Development Standards > Lot Standards > Size: 5K—2 ac.
+    Development Standards > Lot Standards > Width: 50′—300′
+    Development Standards > Lot Standards > Max. Building Coverage: 50%
+    Development Standards > Minimum Setbacks > Front [1]: 20′—50′
+    Development Standards > Minimum Setbacks > Interior Side: 5′
+    Development Standards > Minimum Setbacks > Corner Side: 20′
+    Development Standards > Minimum Setbacks > Rear: 20′
+    Development Standards > Building Height: 45′/3 stories
+  Small Mixed-Use:
+    Zoning Districts* (■): []
+    Zoning Districts* (□):
+    - R-4
+    - R-5
+    Development Standards > Lot Standards > Size: 2K—10K s.f.
+    Development Standards > Lot Standards > Width: 25′—100′
+    Development Standards > Lot Standards > Max. Building Coverage: 90%
+    Development Standards > Minimum Setbacks > Front [1]: 0′—10′
+    Development Standards > Minimum Setbacks > Interior Side: 5′/0′ if party wall
+    Development Standards > Minimum Setbacks > Corner Side: 0′—10′
+    Development Standards > Minimum Setbacks > Rear: 20′
+    Development Standards > Building Height: 45′/3 stories

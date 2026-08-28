@@ -1,0 +1,2029 @@
+Use Category > Subcategory:
+  Residential:
+    Household Living > Dwelling:
+      Single-Family, Detached:
+        Ag/Residential > CON: ''
+        Ag/Residential > A: P
+        Ag/Residential > LDR: P
+        Ag/Residential > MDR: P
+        Ag/Residential > HDR: P
+        Mixed-Use/Nonresidential > NC: P
+        Mixed-Use/Nonresidential > CC: ''
+        Mixed-Use/Nonresidential > MU: P
+        Mixed-Use/Nonresidential > D: ''
+        Mixed-Use/Nonresidential > ENT: ''
+        Mixed-Use/Nonresidential > BUS: ''
+        Mixed-Use/Nonresidential > I: ''
+        'Supplemental Use Standards > Note: This reference is to use-specific standards only, other code requirements may apply': ''
+      Single-Family, Attached (3 or more units):
+        Ag/Residential > CON: ''
+        Ag/Residential > A: ''
+        Ag/Residential > LDR: ''
+        Ag/Residential > MDR: P
+        Ag/Residential > HDR: P
+        Mixed-Use/Nonresidential > NC: P
+        Mixed-Use/Nonresidential > CC: ''
+        Mixed-Use/Nonresidential > MU: P
+        Mixed-Use/Nonresidential > D: ''
+        Mixed-Use/Nonresidential > ENT: ''
+        Mixed-Use/Nonresidential > BUS: ''
+        Mixed-Use/Nonresidential > I: ''
+        'Supplemental Use Standards > Note: This reference is to use-specific standards only, other code requirements may apply': ''
+      Single-Family, Two-Unit:
+        Ag/Residential > CON: ''
+        Ag/Residential > A: ''
+        Ag/Residential > LDR: ''
+        Ag/Residential > MDR: P
+        Ag/Residential > HDR: P
+        Mixed-Use/Nonresidential > NC: P
+        Mixed-Use/Nonresidential > CC: ''
+        Mixed-Use/Nonresidential > MU: P
+        Mixed-Use/Nonresidential > D: ''
+        Mixed-Use/Nonresidential > ENT: ''
+        Mixed-Use/Nonresidential > BUS: ''
+        Mixed-Use/Nonresidential > I: ''
+        'Supplemental Use Standards > Note: This reference is to use-specific standards only, other code requirements may apply': ''
+      Single-Family, Patio Home:
+        Ag/Residential > CON: ''
+        Ag/Residential > A: ''
+        Ag/Residential > LDR: ''
+        Ag/Residential > MDR: P
+        Ag/Residential > HDR: P
+        Mixed-Use/Nonresidential > NC: P
+        Mixed-Use/Nonresidential > CC: ''
+        Mixed-Use/Nonresidential > MU: P
+        Mixed-Use/Nonresidential > D: ''
+        Mixed-Use/Nonresidential > ENT: ''
+        Mixed-Use/Nonresidential > BUS: ''
+        Mixed-Use/Nonresidential > I: ''
+        'Supplemental Use Standards > Note: This reference is to use-specific standards only, other code requirements may apply': 94-49 (a)
+      Multi-Family:
+        Ag/Residential > CON: ''
+        Ag/Residential > A: ''
+        Ag/Residential > LDR: ''
+        Ag/Residential > MDR: ''
+        Ag/Residential > HDR: P
+        Mixed-Use/Nonresidential > NC: P
+        Mixed-Use/Nonresidential > CC: P
+        Mixed-Use/Nonresidential > MU: P
+        Mixed-Use/Nonresidential > D: P
+        Mixed-Use/Nonresidential > ENT: ''
+        Mixed-Use/Nonresidential > BUS: ''
+        Mixed-Use/Nonresidential > I: ''
+        'Supplemental Use Standards > Note: This reference is to use-specific standards only, other code requirements may apply': ''
+      Home Occupation, Home-Based Business, No-Impact Home Based Business:
+        Ag/Residential > CON: ''
+        Ag/Residential > A: P
+        Ag/Residential > LDR: P
+        Ag/Residential > MDR: P
+        Ag/Residential > HDR: P
+        Mixed-Use/Nonresidential > NC: P
+        Mixed-Use/Nonresidential > CC: P
+        Mixed-Use/Nonresidential > MU: P
+        Mixed-Use/Nonresidential > D: P
+        Mixed-Use/Nonresidential > ENT: P
+        Mixed-Use/Nonresidential > BUS: ''
+        Mixed-Use/Nonresidential > I: ''
+        'Supplemental Use Standards > Note: This reference is to use-specific standards only, other code requirements may apply': 94-61 (b)(1), 94-62 (a)(1)
+      Live/Work:
+        Ag/Residential > CON: ''
+        Ag/Residential > A: ''
+        Ag/Residential > LDR: ''
+        Ag/Residential > MDR: ''
+        Ag/Residential > HDR: ''
+        Mixed-Use/Nonresidential > NC: P
+        Mixed-Use/Nonresidential > CC: P
+        Mixed-Use/Nonresidential > MU: P
+        Mixed-Use/Nonresidential > D: P
+        Mixed-Use/Nonresidential > ENT: P
+        Mixed-Use/Nonresidential > BUS: ''
+        Mixed-Use/Nonresidential > I: ''
+        'Supplemental Use Standards > Note: This reference is to use-specific standards only, other code requirements may apply': 94-61 (b)(2)
+      Loft:
+        Ag/Residential > CON: ''
+        Ag/Residential > A: ''
+        Ag/Residential > LDR: ''
+        Ag/Residential > MDR: ''
+        Ag/Residential > HDR: ''
+        Mixed-Use/Nonresidential > NC: P
+        Mixed-Use/Nonresidential > CC: ''
+        Mixed-Use/Nonresidential > MU: P
+        Mixed-Use/Nonresidential > D: P
+        Mixed-Use/Nonresidential > ENT: ''
+        Mixed-Use/Nonresidential > BUS: ''
+        Mixed-Use/Nonresidential > I: ''
+        'Supplemental Use Standards > Note: This reference is to use-specific standards only, other code requirements may apply': ''
+      Manufactured Homes:
+        Ag/Residential > CON: ''
+        Ag/Residential > A: S
+        Ag/Residential > LDR: ''
+        Ag/Residential > MDR: ''
+        Ag/Residential > HDR: ''
+        Mixed-Use/Nonresidential > NC: ''
+        Mixed-Use/Nonresidential > CC: ''
+        Mixed-Use/Nonresidential > MU: ''
+        Mixed-Use/Nonresidential > D: ''
+        Mixed-Use/Nonresidential > ENT: ''
+        Mixed-Use/Nonresidential > BUS: ''
+        Mixed-Use/Nonresidential > I: ''
+        'Supplemental Use Standards > Note: This reference is to use-specific standards only, other code requirements may apply': 94-62 (a)(2)
+      Modular Housing:
+        Ag/Residential > CON: ''
+        Ag/Residential > A: P
+        Ag/Residential > LDR: P
+        Ag/Residential > MDR: P
+        Ag/Residential > HDR: P
+        Mixed-Use/Nonresidential > NC: ''
+        Mixed-Use/Nonresidential > CC: ''
+        Mixed-Use/Nonresidential > MU: ''
+        Mixed-Use/Nonresidential > D: ''
+        Mixed-Use/Nonresidential > ENT: ''
+        Mixed-Use/Nonresidential > BUS: ''
+        Mixed-Use/Nonresidential > I: ''
+        'Supplemental Use Standards > Note: This reference is to use-specific standards only, other code requirements may apply': ''
+      Mobile Home Community:
+        Ag/Residential > CON: ''
+        Ag/Residential > A: ''
+        Ag/Residential > LDR: ''
+        Ag/Residential > MDR: ''
+        Ag/Residential > HDR: S
+        Mixed-Use/Nonresidential > NC: ''
+        Mixed-Use/Nonresidential > CC: ''
+        Mixed-Use/Nonresidential > MU: ''
+        Mixed-Use/Nonresidential > D: ''
+        Mixed-Use/Nonresidential > ENT: ''
+        Mixed-Use/Nonresidential > BUS: ''
+        Mixed-Use/Nonresidential > I: ''
+        'Supplemental Use Standards > Note: This reference is to use-specific standards only, other code requirements may apply': 94-62 (a)(3)
+    Group Living:
+      Congregate Living Facility/Senior Housing:
+        Ag/Residential > CON: ''
+        Ag/Residential > A: ''
+        Ag/Residential > LDR: ''
+        Ag/Residential > MDR: ''
+        Ag/Residential > HDR: P
+        Mixed-Use/Nonresidential > NC: P
+        Mixed-Use/Nonresidential > CC: P
+        Mixed-Use/Nonresidential > MU: P
+        Mixed-Use/Nonresidential > D: ''
+        Mixed-Use/Nonresidential > ENT: ''
+        Mixed-Use/Nonresidential > BUS: ''
+        Mixed-Use/Nonresidential > I: ''
+        'Supplemental Use Standards > Note: This reference is to use-specific standards only, other code requirements may apply': 94-61 (b)(3)
+      Group Home:
+        Ag/Residential > CON: ''
+        Ag/Residential > A: ''
+        Ag/Residential > LDR: P
+        Ag/Residential > MDR: ''
+        Ag/Residential > HDR: ''
+        Mixed-Use/Nonresidential > NC: ''
+        Mixed-Use/Nonresidential > CC: ''
+        Mixed-Use/Nonresidential > MU: ''
+        Mixed-Use/Nonresidential > D: ''
+        Mixed-Use/Nonresidential > ENT: ''
+        Mixed-Use/Nonresidential > BUS: ''
+        Mixed-Use/Nonresidential > I: ''
+        'Supplemental Use Standards > Note: This reference is to use-specific standards only, other code requirements may apply': 94-61 (b)(4)
+      Nursing, Convalescent, and Rest Home:
+        Ag/Residential > CON: ''
+        Ag/Residential > A: ''
+        Ag/Residential > LDR: ''
+        Ag/Residential > MDR: ''
+        Ag/Residential > HDR: P
+        Mixed-Use/Nonresidential > NC: P
+        Mixed-Use/Nonresidential > CC: P
+        Mixed-Use/Nonresidential > MU: P
+        Mixed-Use/Nonresidential > D: ''
+        Mixed-Use/Nonresidential > ENT: ''
+        Mixed-Use/Nonresidential > BUS: ''
+        Mixed-Use/Nonresidential > I: ''
+        'Supplemental Use Standards > Note: This reference is to use-specific standards only, other code requirements may apply': ''
+      Shelter Care Facility:
+        Ag/Residential > CON: ''
+        Ag/Residential > A: ''
+        Ag/Residential > LDR: ''
+        Ag/Residential > MDR: ''
+        Ag/Residential > HDR: ''
+        Mixed-Use/Nonresidential > NC: S
+        Mixed-Use/Nonresidential > CC: S
+        Mixed-Use/Nonresidential > MU: ''
+        Mixed-Use/Nonresidential > D: ''
+        Mixed-Use/Nonresidential > ENT: ''
+        Mixed-Use/Nonresidential > BUS: ''
+        Mixed-Use/Nonresidential > I: ''
+        'Supplemental Use Standards > Note: This reference is to use-specific standards only, other code requirements may apply': 94-61 (b)(5)
+  Civic and Institutional:
+    Community Services:
+      Cemetery and Mausoleum>:
+        Ag/Residential > CON: ''
+        Ag/Residential > A: S
+        Ag/Residential > LDR: S
+        Ag/Residential > MDR: S
+        Ag/Residential > HDR: S
+        Mixed-Use/Nonresidential > NC: S
+        Mixed-Use/Nonresidential > CC: S
+        Mixed-Use/Nonresidential > MU: ''
+        Mixed-Use/Nonresidential > D: S
+        Mixed-Use/Nonresidential > ENT: ''
+        Mixed-Use/Nonresidential > BUS: ''
+        Mixed-Use/Nonresidential > I: ''
+        'Supplemental Use Standards > Note: This reference is to use-specific standards only, other code requirements may apply': ''
+      Funeral Home/Parlor:
+        Ag/Residential > CON: ''
+        Ag/Residential > A: ''
+        Ag/Residential > LDR: ''
+        Ag/Residential > MDR: ''
+        Ag/Residential > HDR: ''
+        Mixed-Use/Nonresidential > NC: ''
+        Mixed-Use/Nonresidential > CC: P
+        Mixed-Use/Nonresidential > MU: ''
+        Mixed-Use/Nonresidential > D: ''
+        Mixed-Use/Nonresidential > ENT: ''
+        Mixed-Use/Nonresidential > BUS: ''
+        Mixed-Use/Nonresidential > I: ''
+        'Supplemental Use Standards > Note: This reference is to use-specific standards only, other code requirements may apply': ''
+      Civic, Social and Fraternal Organizations:
+        Ag/Residential > CON: ''
+        Ag/Residential > A: ''
+        Ag/Residential > LDR: ''
+        Ag/Residential > MDR: ''
+        Ag/Residential > HDR: ''
+        Mixed-Use/Nonresidential > NC: P
+        Mixed-Use/Nonresidential > CC: P
+        Mixed-Use/Nonresidential > MU: P
+        Mixed-Use/Nonresidential > D: ''
+        Mixed-Use/Nonresidential > ENT: ''
+        Mixed-Use/Nonresidential > BUS: ''
+        Mixed-Use/Nonresidential > I: ''
+        'Supplemental Use Standards > Note: This reference is to use-specific standards only, other code requirements may apply': ''
+      Community Center:
+        Ag/Residential > CON: S
+        Ag/Residential > A: ''
+        Ag/Residential > LDR: ''
+        Ag/Residential > MDR: ''
+        Ag/Residential > HDR: ''
+        Mixed-Use/Nonresidential > NC: P
+        Mixed-Use/Nonresidential > CC: P
+        Mixed-Use/Nonresidential > MU: P
+        Mixed-Use/Nonresidential > D: P
+        Mixed-Use/Nonresidential > ENT: ''
+        Mixed-Use/Nonresidential > BUS: ''
+        Mixed-Use/Nonresidential > I: ''
+        'Supplemental Use Standards > Note: This reference is to use-specific standards only, other code requirements may apply': ''
+      Cultural Institutions:
+        Ag/Residential > CON: S
+        Ag/Residential > A: ''
+        Ag/Residential > LDR: ''
+        Ag/Residential > MDR: ''
+        Ag/Residential > HDR: ''
+        Mixed-Use/Nonresidential > NC: P
+        Mixed-Use/Nonresidential > CC: P
+        Mixed-Use/Nonresidential > MU: P
+        Mixed-Use/Nonresidential > D: P
+        Mixed-Use/Nonresidential > ENT: P
+        Mixed-Use/Nonresidential > BUS: ''
+        Mixed-Use/Nonresidential > I: ''
+        'Supplemental Use Standards > Note: This reference is to use-specific standards only, other code requirements may apply': 94-61 (c)(1)
+      Government Offices and Facilities:
+        Ag/Residential > CON: P
+        Ag/Residential > A: ''
+        Ag/Residential > LDR: ''
+        Ag/Residential > MDR: ''
+        Ag/Residential > HDR: ''
+        Mixed-Use/Nonresidential > NC: P
+        Mixed-Use/Nonresidential > CC: P
+        Mixed-Use/Nonresidential > MU: P
+        Mixed-Use/Nonresidential > D: P
+        Mixed-Use/Nonresidential > ENT: P
+        Mixed-Use/Nonresidential > BUS: P
+        Mixed-Use/Nonresidential > I: P
+        'Supplemental Use Standards > Note: This reference is to use-specific standards only, other code requirements may apply': 94-19 (a)
+      Public Service Facilities:
+        Ag/Residential > CON: ''
+        Ag/Residential > A: ''
+        Ag/Residential > LDR: ''
+        Ag/Residential > MDR: ''
+        Ag/Residential > HDR: ''
+        Mixed-Use/Nonresidential > NC: P
+        Mixed-Use/Nonresidential > CC: P
+        Mixed-Use/Nonresidential > MU: P
+        Mixed-Use/Nonresidential > D: ''
+        Mixed-Use/Nonresidential > ENT: ''
+        Mixed-Use/Nonresidential > BUS: P
+        Mixed-Use/Nonresidential > I: P
+        'Supplemental Use Standards > Note: This reference is to use-specific standards only, other code requirements may apply': 94-61 (c)(2)
+      Religious Assembly:
+        Ag/Residential > CON: ''
+        Ag/Residential > A: ''
+        Ag/Residential > LDR: S
+        Ag/Residential > MDR: S
+        Ag/Residential > HDR: S
+        Mixed-Use/Nonresidential > NC: P
+        Mixed-Use/Nonresidential > CC: P
+        Mixed-Use/Nonresidential > MU: P
+        Mixed-Use/Nonresidential > D: P
+        Mixed-Use/Nonresidential > ENT: P
+        Mixed-Use/Nonresidential > BUS: ''
+        Mixed-Use/Nonresidential > I: ''
+        'Supplemental Use Standards > Note: This reference is to use-specific standards only, other code requirements may apply': 94-61 (c)(3)
+    Day Care Facilities:
+      Family Day Care Home:
+        Ag/Residential > CON: ''
+        Ag/Residential > A: ''
+        Ag/Residential > LDR: S
+        Ag/Residential > MDR: S
+        Ag/Residential > HDR: S
+        Mixed-Use/Nonresidential > NC: P
+        Mixed-Use/Nonresidential > CC: ''
+        Mixed-Use/Nonresidential > MU: P
+        Mixed-Use/Nonresidential > D: ''
+        Mixed-Use/Nonresidential > ENT: ''
+        Mixed-Use/Nonresidential > BUS: ''
+        Mixed-Use/Nonresidential > I: ''
+        'Supplemental Use Standards > Note: This reference is to use-specific standards only, other code requirements may apply': 94-61 (c)(4)
+      Group Day Care Home:
+        Ag/Residential > CON: ''
+        Ag/Residential > A: ''
+        Ag/Residential > LDR: ''
+        Ag/Residential > MDR: ''
+        Ag/Residential > HDR: ''
+        Mixed-Use/Nonresidential > NC: P
+        Mixed-Use/Nonresidential > CC: P
+        Mixed-Use/Nonresidential > MU: P
+        Mixed-Use/Nonresidential > D: ''
+        Mixed-Use/Nonresidential > ENT: ''
+        Mixed-Use/Nonresidential > BUS: P
+        Mixed-Use/Nonresidential > I: ''
+        'Supplemental Use Standards > Note: This reference is to use-specific standards only, other code requirements may apply': 94-61 (c)(5)
+      Child Care Center:
+        Ag/Residential > CON: ''
+        Ag/Residential > A: ''
+        Ag/Residential > LDR: ''
+        Ag/Residential > MDR: ''
+        Ag/Residential > HDR: ''
+        Mixed-Use/Nonresidential > NC: P
+        Mixed-Use/Nonresidential > CC: P
+        Mixed-Use/Nonresidential > MU: P
+        Mixed-Use/Nonresidential > D: ''
+        Mixed-Use/Nonresidential > ENT: ''
+        Mixed-Use/Nonresidential > BUS: P
+        Mixed-Use/Nonresidential > I: ''
+        'Supplemental Use Standards > Note: This reference is to use-specific standards only, other code requirements may apply': 94-61 (c)(5)
+    Educational Facilities:
+      School, Primary or Secondary, Public or Private:
+        Ag/Residential > CON: ''
+        Ag/Residential > A: ''
+        Ag/Residential > LDR: S
+        Ag/Residential > MDR: S
+        Ag/Residential > HDR: S
+        Mixed-Use/Nonresidential > NC: P
+        Mixed-Use/Nonresidential > CC: P
+        Mixed-Use/Nonresidential > MU: P
+        Mixed-Use/Nonresidential > D: ''
+        Mixed-Use/Nonresidential > ENT: ''
+        Mixed-Use/Nonresidential > BUS: ''
+        Mixed-Use/Nonresidential > I: ''
+        'Supplemental Use Standards > Note: This reference is to use-specific standards only, other code requirements may apply': 94-61 (c)(6)
+      School, Vocational-Technical and Trade:
+        Ag/Residential > CON: ''
+        Ag/Residential > A: S
+        Ag/Residential > LDR: ''
+        Ag/Residential > MDR: ''
+        Ag/Residential > HDR: ''
+        Mixed-Use/Nonresidential > NC: ''
+        Mixed-Use/Nonresidential > CC: P
+        Mixed-Use/Nonresidential > MU: P
+        Mixed-Use/Nonresidential > D: ''
+        Mixed-Use/Nonresidential > ENT: ''
+        Mixed-Use/Nonresidential > BUS: P
+        Mixed-Use/Nonresidential > I: ''
+        'Supplemental Use Standards > Note: This reference is to use-specific standards only, other code requirements may apply': 94-61 (c)(6)
+      University or College:
+        Ag/Residential > CON: ''
+        Ag/Residential > A: S
+        Ag/Residential > LDR: ''
+        Ag/Residential > MDR: ''
+        Ag/Residential > HDR: ''
+        Mixed-Use/Nonresidential > NC: ''
+        Mixed-Use/Nonresidential > CC: P
+        Mixed-Use/Nonresidential > MU: P
+        Mixed-Use/Nonresidential > D: ''
+        Mixed-Use/Nonresidential > ENT: ''
+        Mixed-Use/Nonresidential > BUS: P
+        Mixed-Use/Nonresidential > I: ''
+        'Supplemental Use Standards > Note: This reference is to use-specific standards only, other code requirements may apply': 94-61 (c)(6)
+    Health Care Facilities:
+      Alcohol and Drug Abuse Treatment Facility:
+        Ag/Residential > CON: ''
+        Ag/Residential > A: ''
+        Ag/Residential > LDR: ''
+        Ag/Residential > MDR: ''
+        Ag/Residential > HDR: ''
+        Mixed-Use/Nonresidential > NC: S
+        Mixed-Use/Nonresidential > CC: S
+        Mixed-Use/Nonresidential > MU: ''
+        Mixed-Use/Nonresidential > D: ''
+        Mixed-Use/Nonresidential > ENT: ''
+        Mixed-Use/Nonresidential > BUS: ''
+        Mixed-Use/Nonresidential > I: ''
+        'Supplemental Use Standards > Note: This reference is to use-specific standards only, other code requirements may apply': ''
+      Hospital:
+        Ag/Residential > CON: ''
+        Ag/Residential > A: ''
+        Ag/Residential > LDR: ''
+        Ag/Residential > MDR: ''
+        Ag/Residential > HDR: ''
+        Mixed-Use/Nonresidential > NC: ''
+        Mixed-Use/Nonresidential > CC: P
+        Mixed-Use/Nonresidential > MU: P
+        Mixed-Use/Nonresidential > D: ''
+        Mixed-Use/Nonresidential > ENT: ''
+        Mixed-Use/Nonresidential > BUS: ''
+        Mixed-Use/Nonresidential > I: ''
+        'Supplemental Use Standards > Note: This reference is to use-specific standards only, other code requirements may apply': 94-61 (c)(7)
+      Medical and Dental Offices and Clinics:
+        Ag/Residential > CON: ''
+        Ag/Residential > A: ''
+        Ag/Residential > LDR: ''
+        Ag/Residential > MDR: ''
+        Ag/Residential > HDR: ''
+        Mixed-Use/Nonresidential > NC: P
+        Mixed-Use/Nonresidential > CC: P
+        Mixed-Use/Nonresidential > MU: P
+        Mixed-Use/Nonresidential > D: P
+        Mixed-Use/Nonresidential > ENT: P
+        Mixed-Use/Nonresidential > BUS: P
+        Mixed-Use/Nonresidential > I: ''
+        'Supplemental Use Standards > Note: This reference is to use-specific standards only, other code requirements may apply': ''
+      Urgent Care Facility:
+        Ag/Residential > CON: ''
+        Ag/Residential > A: ''
+        Ag/Residential > LDR: ''
+        Ag/Residential > MDR: ''
+        Ag/Residential > HDR: ''
+        Mixed-Use/Nonresidential > NC: ''
+        Mixed-Use/Nonresidential > CC: P
+        Mixed-Use/Nonresidential > MU: P
+        Mixed-Use/Nonresidential > D: ''
+        Mixed-Use/Nonresidential > ENT: ''
+        Mixed-Use/Nonresidential > BUS: ''
+        Mixed-Use/Nonresidential > I: ''
+        'Supplemental Use Standards > Note: This reference is to use-specific standards only, other code requirements may apply': ''
+    Parks and Open Space:
+      Athletic Area:
+        Ag/Residential > CON: ''
+        Ag/Residential > A: ''
+        Ag/Residential > LDR: S
+        Ag/Residential > MDR: S
+        Ag/Residential > HDR: S
+        Mixed-Use/Nonresidential > NC: S
+        Mixed-Use/Nonresidential > CC: P
+        Mixed-Use/Nonresidential > MU: P
+        Mixed-Use/Nonresidential > D: ''
+        Mixed-Use/Nonresidential > ENT: P
+        Mixed-Use/Nonresidential > BUS: ''
+        Mixed-Use/Nonresidential > I: ''
+        'Supplemental Use Standards > Note: This reference is to use-specific standards only, other code requirements may apply': ''
+      Community Garden:
+        Ag/Residential > CON: ''
+        Ag/Residential > A: P
+        Ag/Residential > LDR: P
+        Ag/Residential > MDR: P
+        Ag/Residential > HDR: P
+        Mixed-Use/Nonresidential > NC: P
+        Mixed-Use/Nonresidential > CC: ''
+        Mixed-Use/Nonresidential > MU: P
+        Mixed-Use/Nonresidential > D: ''
+        Mixed-Use/Nonresidential > ENT: P
+        Mixed-Use/Nonresidential > BUS: ''
+        Mixed-Use/Nonresidential > I: ''
+        'Supplemental Use Standards > Note: This reference is to use-specific standards only, other code requirements may apply': 94-61 (c)(8), 94-63 (e)(2)
+      Park and Playground:
+        Ag/Residential > CON: S
+        Ag/Residential > A: S
+        Ag/Residential > LDR: S
+        Ag/Residential > MDR: S
+        Ag/Residential > HDR: S
+        Mixed-Use/Nonresidential > NC: S
+        Mixed-Use/Nonresidential > CC: S
+        Mixed-Use/Nonresidential > MU: S
+        Mixed-Use/Nonresidential > D: S
+        Mixed-Use/Nonresidential > ENT: S
+        Mixed-Use/Nonresidential > BUS: S
+        Mixed-Use/Nonresidential > I: S
+        'Supplemental Use Standards > Note: This reference is to use-specific standards only, other code requirements may apply': ''
+      Recreation Areas and Facilities:
+        Ag/Residential > CON: S
+        Ag/Residential > A: S
+        Ag/Residential > LDR: S
+        Ag/Residential > MDR: S
+        Ag/Residential > HDR: S
+        Mixed-Use/Nonresidential > NC: S
+        Mixed-Use/Nonresidential > CC: S
+        Mixed-Use/Nonresidential > MU: S
+        Mixed-Use/Nonresidential > D: S
+        Mixed-Use/Nonresidential > ENT: S
+        Mixed-Use/Nonresidential > BUS: S
+        Mixed-Use/Nonresidential > I: S
+        'Supplemental Use Standards > Note: This reference is to use-specific standards only, other code requirements may apply': ''
+    Transportation:
+      Airport and Passenger Terminal:
+        Ag/Residential > CON: ''
+        Ag/Residential > A: S
+        Ag/Residential > LDR: ''
+        Ag/Residential > MDR: ''
+        Ag/Residential > HDR: ''
+        Mixed-Use/Nonresidential > NC: ''
+        Mixed-Use/Nonresidential > CC: S
+        Mixed-Use/Nonresidential > MU: ''
+        Mixed-Use/Nonresidential > D: ''
+        Mixed-Use/Nonresidential > ENT: ''
+        Mixed-Use/Nonresidential > BUS: S
+        Mixed-Use/Nonresidential > I: P
+        'Supplemental Use Standards > Note: This reference is to use-specific standards only, other code requirements may apply': ''
+      Park and Ride Lot:
+        Ag/Residential > CON: ''
+        Ag/Residential > A: ''
+        Ag/Residential > LDR: ''
+        Ag/Residential > MDR: ''
+        Ag/Residential > HDR: S
+        Mixed-Use/Nonresidential > NC: S
+        Mixed-Use/Nonresidential > CC: S
+        Mixed-Use/Nonresidential > MU: S
+        Mixed-Use/Nonresidential > D: S
+        Mixed-Use/Nonresidential > ENT: S
+        Mixed-Use/Nonresidential > BUS: P
+        Mixed-Use/Nonresidential > I: P
+        'Supplemental Use Standards > Note: This reference is to use-specific standards only, other code requirements may apply': ''
+      Bus Garage and Equipment Maintenance:
+        Ag/Residential > CON: ''
+        Ag/Residential > A: ''
+        Ag/Residential > LDR: ''
+        Ag/Residential > MDR: ''
+        Ag/Residential > HDR: ''
+        Mixed-Use/Nonresidential > NC: ''
+        Mixed-Use/Nonresidential > CC: ''
+        Mixed-Use/Nonresidential > MU: ''
+        Mixed-Use/Nonresidential > D: ''
+        Mixed-Use/Nonresidential > ENT: ''
+        Mixed-Use/Nonresidential > BUS: P
+        Mixed-Use/Nonresidential > I: P
+        'Supplemental Use Standards > Note: This reference is to use-specific standards only, other code requirements may apply': ''
+      Bus Terminal:
+        Ag/Residential > CON: ''
+        Ag/Residential > A: ''
+        Ag/Residential > LDR: ''
+        Ag/Residential > MDR: ''
+        Ag/Residential > HDR: ''
+        Mixed-Use/Nonresidential > NC: ''
+        Mixed-Use/Nonresidential > CC: P
+        Mixed-Use/Nonresidential > MU: P
+        Mixed-Use/Nonresidential > D: P
+        Mixed-Use/Nonresidential > ENT: P
+        Mixed-Use/Nonresidential > BUS: P
+        Mixed-Use/Nonresidential > I: P
+        'Supplemental Use Standards > Note: This reference is to use-specific standards only, other code requirements may apply': ''
+    Utility:
+      Utility:
+        Major Facilities/Service Yard:
+          Ag/Residential > CON: ''
+          Ag/Residential > A: S
+          Ag/Residential > LDR: ''
+          Ag/Residential > MDR: ''
+          Ag/Residential > HDR: ''
+          Mixed-Use/Nonresidential > NC: ''
+          Mixed-Use/Nonresidential > CC: S
+          Mixed-Use/Nonresidential > MU: ''
+          Mixed-Use/Nonresidential > D: ''
+          Mixed-Use/Nonresidential > ENT: ''
+          Mixed-Use/Nonresidential > BUS: S
+          Mixed-Use/Nonresidential > I: P
+          'Supplemental Use Standards > Note: This reference is to use-specific standards only, other code requirements may apply': ''
+        Minor Facilities/Office:
+          Ag/Residential > CON: ''
+          Ag/Residential > A: S
+          Ag/Residential > LDR: S
+          Ag/Residential > MDR: S
+          Ag/Residential > HDR: S
+          Mixed-Use/Nonresidential > NC: S
+          Mixed-Use/Nonresidential > CC: P
+          Mixed-Use/Nonresidential > MU: P
+          Mixed-Use/Nonresidential > D: P
+          Mixed-Use/Nonresidential > ENT: ''
+          Mixed-Use/Nonresidential > BUS: P
+          Mixed-Use/Nonresidential > I: P
+          'Supplemental Use Standards > Note: This reference is to use-specific standards only, other code requirements may apply': ''
+      Wireless Communication Facility:
+        Antenna and Antenna Support Structure:
+          Ag/Residential > CON: ''
+          Ag/Residential > A: S
+          Ag/Residential > LDR: ''
+          Ag/Residential > MDR: ''
+          Ag/Residential > HDR: ''
+          Mixed-Use/Nonresidential > NC: ''
+          Mixed-Use/Nonresidential > CC: S
+          Mixed-Use/Nonresidential > MU: S
+          Mixed-Use/Nonresidential > D: S
+          Mixed-Use/Nonresidential > ENT: S
+          Mixed-Use/Nonresidential > BUS: P
+          Mixed-Use/Nonresidential > I: P
+          'Supplemental Use Standards > Note: This reference is to use-specific standards only, other code requirements may apply': ''
+        Telecommunications Tower and Facility:
+          Ag/Residential > CON: ''
+          Ag/Residential > A: S
+          Ag/Residential > LDR: ''
+          Ag/Residential > MDR: ''
+          Ag/Residential > HDR: ''
+          Mixed-Use/Nonresidential > NC: ''
+          Mixed-Use/Nonresidential > CC: S
+          Mixed-Use/Nonresidential > MU: ''
+          Mixed-Use/Nonresidential > D: ''
+          Mixed-Use/Nonresidential > ENT: ''
+          Mixed-Use/Nonresidential > BUS: S
+          Mixed-Use/Nonresidential > I: S
+          'Supplemental Use Standards > Note: This reference is to use-specific standards only, other code requirements may apply': ''
+        Small Wireless Facility:
+          Ag/Residential > CON: P
+          Ag/Residential > A: P
+          Ag/Residential > LDR: ''
+          Ag/Residential > MDR: P
+          Ag/Residential > HDR: P
+          Mixed-Use/Nonresidential > NC: P
+          Mixed-Use/Nonresidential > CC: P
+          Mixed-Use/Nonresidential > MU: P
+          Mixed-Use/Nonresidential > D: P
+          Mixed-Use/Nonresidential > ENT: P
+          Mixed-Use/Nonresidential > BUS: P
+          Mixed-Use/Nonresidential > I: P
+          'Supplemental Use Standards > Note: This reference is to use-specific standards only, other code requirements may apply': 94-61 (d)(1)
+  Commercial:
+    Animal Sales and Service:
+      Pet Grooming:
+        Ag/Residential > CON: ''
+        Ag/Residential > A: ''
+        Ag/Residential > LDR: ''
+        Ag/Residential > MDR: ''
+        Ag/Residential > HDR: ''
+        Mixed-Use/Nonresidential > NC: P
+        Mixed-Use/Nonresidential > CC: P
+        Mixed-Use/Nonresidential > MU: P
+        Mixed-Use/Nonresidential > D: P
+        Mixed-Use/Nonresidential > ENT: ''
+        Mixed-Use/Nonresidential > BUS: ''
+        Mixed-Use/Nonresidential > I: ''
+        'Supplemental Use Standards > Note: This reference is to use-specific standards only, other code requirements may apply': ''
+      Pet Shop:
+        Ag/Residential > CON: ''
+        Ag/Residential > A: ''
+        Ag/Residential > LDR: ''
+        Ag/Residential > MDR: ''
+        Ag/Residential > HDR: ''
+        Mixed-Use/Nonresidential > NC: P
+        Mixed-Use/Nonresidential > CC: P
+        Mixed-Use/Nonresidential > MU: P
+        Mixed-Use/Nonresidential > D: P
+        Mixed-Use/Nonresidential > ENT: P
+        Mixed-Use/Nonresidential > BUS: ''
+        Mixed-Use/Nonresidential > I: ''
+        'Supplemental Use Standards > Note: This reference is to use-specific standards only, other code requirements may apply': ''
+      Kennel:
+        Ag/Residential > CON: ''
+        Ag/Residential > A: P
+        Ag/Residential > LDR: ''
+        Ag/Residential > MDR: ''
+        Ag/Residential > HDR: ''
+        Mixed-Use/Nonresidential > NC: ''
+        Mixed-Use/Nonresidential > CC: P
+        Mixed-Use/Nonresidential > MU: ''
+        Mixed-Use/Nonresidential > D: ''
+        Mixed-Use/Nonresidential > ENT: ''
+        Mixed-Use/Nonresidential > BUS: ''
+        Mixed-Use/Nonresidential > I: ''
+        'Supplemental Use Standards > Note: This reference is to use-specific standards only, other code requirements may apply': 94-61 (d)(1)
+      Shelter:
+        Ag/Residential > CON: ''
+        Ag/Residential > A: S
+        Ag/Residential > LDR: ''
+        Ag/Residential > MDR: ''
+        Ag/Residential > HDR: ''
+        Mixed-Use/Nonresidential > NC: ''
+        Mixed-Use/Nonresidential > CC: S
+        Mixed-Use/Nonresidential > MU: ''
+        Mixed-Use/Nonresidential > D: ''
+        Mixed-Use/Nonresidential > ENT: ''
+        Mixed-Use/Nonresidential > BUS: ''
+        Mixed-Use/Nonresidential > I: ''
+        'Supplemental Use Standards > Note: This reference is to use-specific standards only, other code requirements may apply': 94-61 (d)(1)
+      Stables:
+        Ag/Residential > CON: S
+        Ag/Residential > A: S
+        Ag/Residential > LDR: ''
+        Ag/Residential > MDR: ''
+        Ag/Residential > HDR: ''
+        Mixed-Use/Nonresidential > NC: ''
+        Mixed-Use/Nonresidential > CC: ''
+        Mixed-Use/Nonresidential > MU: ''
+        Mixed-Use/Nonresidential > D: ''
+        Mixed-Use/Nonresidential > ENT: ''
+        Mixed-Use/Nonresidential > BUS: ''
+        Mixed-Use/Nonresidential > I: ''
+        'Supplemental Use Standards > Note: This reference is to use-specific standards only, other code requirements may apply': 94-61 (d)(1)
+    Veterinary Services:
+      Indoor Only:
+        Ag/Residential > CON: ''
+        Ag/Residential > A: ''
+        Ag/Residential > LDR: ''
+        Ag/Residential > MDR: ''
+        Ag/Residential > HDR: ''
+        Mixed-Use/Nonresidential > NC: P
+        Mixed-Use/Nonresidential > CC: P
+        Mixed-Use/Nonresidential > MU: P
+        Mixed-Use/Nonresidential > D: ''
+        Mixed-Use/Nonresidential > ENT: ''
+        Mixed-Use/Nonresidential > BUS: ''
+        Mixed-Use/Nonresidential > I: ''
+        'Supplemental Use Standards > Note: This reference is to use-specific standards only, other code requirements may apply': ''
+      With Outdoor Facilities:
+        Ag/Residential > CON: ''
+        Ag/Residential > A: P
+        Ag/Residential > LDR: ''
+        Ag/Residential > MDR: ''
+        Ag/Residential > HDR: ''
+        Mixed-Use/Nonresidential > NC: ''
+        Mixed-Use/Nonresidential > CC: ''
+        Mixed-Use/Nonresidential > MU: ''
+        Mixed-Use/Nonresidential > D: ''
+        Mixed-Use/Nonresidential > ENT: ''
+        Mixed-Use/Nonresidential > BUS: ''
+        Mixed-Use/Nonresidential > I: ''
+        'Supplemental Use Standards > Note: This reference is to use-specific standards only, other code requirements may apply': 94-61 (d)(1)
+    Office:
+      Business and Professional Office:
+        Ag/Residential > CON: ''
+        Ag/Residential > A: ''
+        Ag/Residential > LDR: ''
+        Ag/Residential > MDR: ''
+        Ag/Residential > HDR: ''
+        Mixed-Use/Nonresidential > NC: P
+        Mixed-Use/Nonresidential > CC: P
+        Mixed-Use/Nonresidential > MU: P
+        Mixed-Use/Nonresidential > D: P
+        Mixed-Use/Nonresidential > ENT: P
+        Mixed-Use/Nonresidential > BUS: P
+        Mixed-Use/Nonresidential > I: P
+        'Supplemental Use Standards > Note: This reference is to use-specific standards only, other code requirements may apply': ''
+    Recreation and Entertainment, Outdoor:
+      Amusement Park or Theme Park:
+        Ag/Residential > CON: ''
+        Ag/Residential > A: ''
+        Ag/Residential > LDR: ''
+        Ag/Residential > MDR: ''
+        Ag/Residential > HDR: ''
+        Mixed-Use/Nonresidential > NC: ''
+        Mixed-Use/Nonresidential > CC: S
+        Mixed-Use/Nonresidential > MU: ''
+        Mixed-Use/Nonresidential > D: S
+        Mixed-Use/Nonresidential > ENT: P
+        Mixed-Use/Nonresidential > BUS: ''
+        Mixed-Use/Nonresidential > I: ''
+        'Supplemental Use Standards > Note: This reference is to use-specific standards only, other code requirements may apply': ''
+      Recreation and Entertainment, Outdoor:
+        Ag/Residential > CON: ''
+        Ag/Residential > A: ''
+        Ag/Residential > LDR: ''
+        Ag/Residential > MDR: ''
+        Ag/Residential > HDR: ''
+        Mixed-Use/Nonresidential > NC: ''
+        Mixed-Use/Nonresidential > CC: S
+        Mixed-Use/Nonresidential > MU: S
+        Mixed-Use/Nonresidential > D: S
+        Mixed-Use/Nonresidential > ENT: P
+        Mixed-Use/Nonresidential > BUS: ''
+        Mixed-Use/Nonresidential > I: ''
+        'Supplemental Use Standards > Note: This reference is to use-specific standards only, other code requirements may apply': ''
+      Marina:
+        Ag/Residential > CON: ''
+        Ag/Residential > A: ''
+        Ag/Residential > LDR: ''
+        Ag/Residential > MDR: ''
+        Ag/Residential > HDR: ''
+        Mixed-Use/Nonresidential > NC: ''
+        Mixed-Use/Nonresidential > CC: ''
+        Mixed-Use/Nonresidential > MU: ''
+        Mixed-Use/Nonresidential > D: ''
+        Mixed-Use/Nonresidential > ENT: ''
+        Mixed-Use/Nonresidential > BUS: ''
+        Mixed-Use/Nonresidential > I: ''
+        'Supplemental Use Standards > Note: This reference is to use-specific standards only, other code requirements may apply': ''
+      Private:
+        Ag/Residential > CON: S
+        Ag/Residential > A: S
+        Ag/Residential > LDR: ''
+        Ag/Residential > MDR: ''
+        Ag/Residential > HDR: ''
+        Mixed-Use/Nonresidential > NC: ''
+        Mixed-Use/Nonresidential > CC: S
+        Mixed-Use/Nonresidential > MU: S
+        Mixed-Use/Nonresidential > D: S
+        Mixed-Use/Nonresidential > ENT: ''
+        Mixed-Use/Nonresidential > BUS: ''
+        Mixed-Use/Nonresidential > I: ''
+        'Supplemental Use Standards > Note: This reference is to use-specific standards only, other code requirements may apply': ''
+      Public:
+        Ag/Residential > CON: S
+        Ag/Residential > A: S
+        Ag/Residential > LDR: ''
+        Ag/Residential > MDR: ''
+        Ag/Residential > HDR: ''
+        Mixed-Use/Nonresidential > NC: ''
+        Mixed-Use/Nonresidential > CC: S
+        Mixed-Use/Nonresidential > MU: S
+        Mixed-Use/Nonresidential > D: S
+        Mixed-Use/Nonresidential > ENT: ''
+        Mixed-Use/Nonresidential > BUS: ''
+        Mixed-Use/Nonresidential > I: ''
+        'Supplemental Use Standards > Note: This reference is to use-specific standards only, other code requirements may apply': ''
+    Recreation and Entertainment, Indoor:
+      Amusement Parlor/Arcade:
+        Ag/Residential > CON: ''
+        Ag/Residential > A: ''
+        Ag/Residential > LDR: ''
+        Ag/Residential > MDR: ''
+        Ag/Residential > HDR: ''
+        Mixed-Use/Nonresidential > NC: ''
+        Mixed-Use/Nonresidential > CC: P
+        Mixed-Use/Nonresidential > MU: P
+        Mixed-Use/Nonresidential > D: P
+        Mixed-Use/Nonresidential > ENT: P
+        Mixed-Use/Nonresidential > BUS: ''
+        Mixed-Use/Nonresidential > I: ''
+        'Supplemental Use Standards > Note: This reference is to use-specific standards only, other code requirements may apply': 94-61 (d)(2), 94-63 (e)(1)
+      Fortune Telling:
+        Ag/Residential > CON: ''
+        Ag/Residential > A: ''
+        Ag/Residential > LDR: ''
+        Ag/Residential > MDR: ''
+        Ag/Residential > HDR: ''
+        Mixed-Use/Nonresidential > NC: ''
+        Mixed-Use/Nonresidential > CC: ''
+        Mixed-Use/Nonresidential > MU: ''
+        Mixed-Use/Nonresidential > D: P
+        Mixed-Use/Nonresidential > ENT: P
+        Mixed-Use/Nonresidential > BUS: ''
+        Mixed-Use/Nonresidential > I: ''
+        'Supplemental Use Standards > Note: This reference is to use-specific standards only, other code requirements may apply': ''
+      Recreation and Entertainment, Indoor:
+        Ag/Residential > CON: ''
+        Ag/Residential > A: ''
+        Ag/Residential > LDR: ''
+        Ag/Residential > MDR: ''
+        Ag/Residential > HDR: ''
+        Mixed-Use/Nonresidential > NC: ''
+        Mixed-Use/Nonresidential > CC: P
+        Mixed-Use/Nonresidential > MU: P
+        Mixed-Use/Nonresidential > D: P
+        Mixed-Use/Nonresidential > ENT: P
+        Mixed-Use/Nonresidential > BUS: ''
+        Mixed-Use/Nonresidential > I: ''
+        'Supplemental Use Standards > Note: This reference is to use-specific standards only, other code requirements may apply': ''
+      Theater:
+        Ag/Residential > CON: ''
+        Ag/Residential > A: ''
+        Ag/Residential > LDR: ''
+        Ag/Residential > MDR: ''
+        Ag/Residential > HDR: ''
+        Mixed-Use/Nonresidential > NC: ''
+        Mixed-Use/Nonresidential > CC: P
+        Mixed-Use/Nonresidential > MU: P
+        Mixed-Use/Nonresidential > D: P
+        Mixed-Use/Nonresidential > ENT: P
+        Mixed-Use/Nonresidential > BUS: ''
+        Mixed-Use/Nonresidential > I: ''
+        'Supplemental Use Standards > Note: This reference is to use-specific standards only, other code requirements may apply': 94-61 (d)(3)
+    Commercial Services:
+      Commercial Services, General:
+        Ag/Residential > CON: ''
+        Ag/Residential > A: ''
+        Ag/Residential > LDR: ''
+        Ag/Residential > MDR: ''
+        Ag/Residential > HDR: ''
+        Mixed-Use/Nonresidential > NC: P
+        Mixed-Use/Nonresidential > CC: P
+        Mixed-Use/Nonresidential > MU: P
+        Mixed-Use/Nonresidential > D: P
+        Mixed-Use/Nonresidential > ENT: P
+        Mixed-Use/Nonresidential > BUS: P
+        Mixed-Use/Nonresidential > I: ''
+        'Supplemental Use Standards > Note: This reference is to use-specific standards only, other code requirements may apply': ''
+      Drag Show:
+        Ag/Residential > CON: ''
+        Ag/Residential > A: ''
+        Ag/Residential > LDR: ''
+        Ag/Residential > MDR: ''
+        Ag/Residential > HDR: ''
+        Mixed-Use/Nonresidential > NC: ''
+        Mixed-Use/Nonresidential > CC: ''
+        Mixed-Use/Nonresidential > MU: ''
+        Mixed-Use/Nonresidential > D: S
+        Mixed-Use/Nonresidential > ENT: ''
+        Mixed-Use/Nonresidential > BUS: ''
+        Mixed-Use/Nonresidential > I: ''
+        'Supplemental Use Standards > Note: This reference is to use-specific standards only, other code requirements may apply': ''
+      Eating and Drinking:
+        Brewery, Distillery or Winery:
+          Ag/Residential > CON: ''
+          Ag/Residential > A: ''
+          Ag/Residential > LDR: ''
+          Ag/Residential > MDR: ''
+          Ag/Residential > HDR: ''
+          Mixed-Use/Nonresidential > NC: ''
+          Mixed-Use/Nonresidential > CC: P
+          Mixed-Use/Nonresidential > MU: P
+          Mixed-Use/Nonresidential > D: P
+          Mixed-Use/Nonresidential > ENT: P
+          Mixed-Use/Nonresidential > BUS: P
+          Mixed-Use/Nonresidential > I: P
+          'Supplemental Use Standards > Note: This reference is to use-specific standards only, other code requirements may apply': 94-63 (e)(3)
+        Food Truck Court:
+          Ag/Residential > CON: ''
+          Ag/Residential > A: ''
+          Ag/Residential > LDR: ''
+          Ag/Residential > MDR: ''
+          Ag/Residential > HDR: ''
+          Mixed-Use/Nonresidential > NC: ''
+          Mixed-Use/Nonresidential > CC: S
+          Mixed-Use/Nonresidential > MU: S
+          Mixed-Use/Nonresidential > D: S
+          Mixed-Use/Nonresidential > ENT: S
+          Mixed-Use/Nonresidential > BUS: S
+          Mixed-Use/Nonresidential > I: ''
+          'Supplemental Use Standards > Note: This reference is to use-specific standards only, other code requirements may apply': 94-62 (b)(1)
+        Microbrewery:
+          Ag/Residential > CON: ''
+          Ag/Residential > A: ''
+          Ag/Residential > LDR: ''
+          Ag/Residential > MDR: ''
+          Ag/Residential > HDR: ''
+          Mixed-Use/Nonresidential > NC: P
+          Mixed-Use/Nonresidential > CC: P
+          Mixed-Use/Nonresidential > MU: P
+          Mixed-Use/Nonresidential > D: P
+          Mixed-Use/Nonresidential > ENT: P
+          Mixed-Use/Nonresidential > BUS: P
+          Mixed-Use/Nonresidential > I: P
+          'Supplemental Use Standards > Note: This reference is to use-specific standards only, other code requirements may apply': 94-61 (e)(4), 94-63 (e)(3)
+        Restaurant:
+          Ag/Residential > CON: ''
+          Ag/Residential > A: ''
+          Ag/Residential > LDR: ''
+          Ag/Residential > MDR: ''
+          Ag/Residential > HDR: ''
+          Mixed-Use/Nonresidential > NC: P
+          Mixed-Use/Nonresidential > CC: P
+          Mixed-Use/Nonresidential > MU: P
+          Mixed-Use/Nonresidential > D: P
+          Mixed-Use/Nonresidential > ENT: P
+          Mixed-Use/Nonresidential > BUS: P
+          Mixed-Use/Nonresidential > I: P
+          'Supplemental Use Standards > Note: This reference is to use-specific standards only, other code requirements may apply': 94-63 (e)(3)
+        With Drive-Thru:
+          Ag/Residential > CON: ''
+          Ag/Residential > A: ''
+          Ag/Residential > LDR: ''
+          Ag/Residential > MDR: ''
+          Ag/Residential > HDR: ''
+          Mixed-Use/Nonresidential > NC: S
+          Mixed-Use/Nonresidential > CC: P
+          Mixed-Use/Nonresidential > MU: P
+          Mixed-Use/Nonresidential > D: S
+          Mixed-Use/Nonresidential > ENT: S
+          Mixed-Use/Nonresidential > BUS: P
+          Mixed-Use/Nonresidential > I: ''
+          'Supplemental Use Standards > Note: This reference is to use-specific standards only, other code requirements may apply': 94-87 (j)
+      Financial Services:
+        Alternative Financial Services:
+          Ag/Residential > CON: ''
+          Ag/Residential > A: ''
+          Ag/Residential > LDR: ''
+          Ag/Residential > MDR: ''
+          Ag/Residential > HDR: ''
+          Mixed-Use/Nonresidential > NC: ''
+          Mixed-Use/Nonresidential > CC: P
+          Mixed-Use/Nonresidential > MU: ''
+          Mixed-Use/Nonresidential > D: ''
+          Mixed-Use/Nonresidential > ENT: ''
+          Mixed-Use/Nonresidential > BUS: ''
+          Mixed-Use/Nonresidential > I: ''
+          'Supplemental Use Standards > Note: This reference is to use-specific standards only, other code requirements may apply': 94-61 (d)(4)
+        Automated Teller Machine:
+          Ag/Residential > CON: ''
+          Ag/Residential > A: ''
+          Ag/Residential > LDR: ''
+          Ag/Residential > MDR: ''
+          Ag/Residential > HDR: ''
+          Mixed-Use/Nonresidential > NC: P
+          Mixed-Use/Nonresidential > CC: P
+          Mixed-Use/Nonresidential > MU: P
+          Mixed-Use/Nonresidential > D: P
+          Mixed-Use/Nonresidential > ENT: P
+          Mixed-Use/Nonresidential > BUS: P
+          Mixed-Use/Nonresidential > I: ''
+          'Supplemental Use Standards > Note: This reference is to use-specific standards only, other code requirements may apply': 94-61 (d)(5), 94-87 (j)
+        Financial Institution:
+          Ag/Residential > CON: ''
+          Ag/Residential > A: ''
+          Ag/Residential > LDR: ''
+          Ag/Residential > MDR: ''
+          Ag/Residential > HDR: ''
+          Mixed-Use/Nonresidential > NC: P
+          Mixed-Use/Nonresidential > CC: P
+          Mixed-Use/Nonresidential > MU: P
+          Mixed-Use/Nonresidential > D: P
+          Mixed-Use/Nonresidential > ENT: P
+          Mixed-Use/Nonresidential > BUS: P
+          Mixed-Use/Nonresidential > I: ''
+          'Supplemental Use Standards > Note: This reference is to use-specific standards only, other code requirements may apply': 94-61 (d)(6)
+        With Drive-Thru:
+          Ag/Residential > CON: ''
+          Ag/Residential > A: ''
+          Ag/Residential > LDR: ''
+          Ag/Residential > MDR: ''
+          Ag/Residential > HDR: ''
+          Mixed-Use/Nonresidential > NC: S
+          Mixed-Use/Nonresidential > CC: P
+          Mixed-Use/Nonresidential > MU: P
+          Mixed-Use/Nonresidential > D: S
+          Mixed-Use/Nonresidential > ENT: S
+          Mixed-Use/Nonresidential > BUS: P
+          Mixed-Use/Nonresidential > I: ''
+          'Supplemental Use Standards > Note: This reference is to use-specific standards only, other code requirements may apply': 94-87 (j)
+        Off-Premises Contacts (OPC):
+          Ag/Residential > CON: ''
+          Ag/Residential > A: ''
+          Ag/Residential > LDR: ''
+          Ag/Residential > MDR: ''
+          Ag/Residential > HDR: ''
+          Mixed-Use/Nonresidential > NC: ''
+          Mixed-Use/Nonresidential > CC: P
+          Mixed-Use/Nonresidential > MU: P
+          Mixed-Use/Nonresidential > D: P
+          Mixed-Use/Nonresidential > ENT: P
+          Mixed-Use/Nonresidential > BUS: ''
+          Mixed-Use/Nonresidential > I: ''
+          'Supplemental Use Standards > Note: This reference is to use-specific standards only, other code requirements may apply': 94-61 (d)(7), 94-63 (e)(4)
+        Adult Entertainment:
+          Ag/Residential > CON: ''
+          Ag/Residential > A: ''
+          Ag/Residential > LDR: ''
+          Ag/Residential > MDR: ''
+          Ag/Residential > HDR: ''
+          Mixed-Use/Nonresidential > NC: ''
+          Mixed-Use/Nonresidential > CC: ''
+          Mixed-Use/Nonresidential > MU: ''
+          Mixed-Use/Nonresidential > D: S
+          Mixed-Use/Nonresidential > ENT: ''
+          Mixed-Use/Nonresidential > BUS: ''
+          Mixed-Use/Nonresidential > I: ''
+          'Supplemental Use Standards > Note: This reference is to use-specific standards only, other code requirements may apply': 94-62 (b)(2)
+    Retail Sales:
+      Retail, General:
+        Ag/Residential > CON: ''
+        Ag/Residential > A: ''
+        Ag/Residential > LDR: ''
+        Ag/Residential > MDR: ''
+        Ag/Residential > HDR: ''
+        Mixed-Use/Nonresidential > NC: P
+        Mixed-Use/Nonresidential > CC: P
+        Mixed-Use/Nonresidential > MU: P
+        Mixed-Use/Nonresidential > D: P
+        Mixed-Use/Nonresidential > ENT: P
+        Mixed-Use/Nonresidential > BUS: P
+        Mixed-Use/Nonresidential > I: ''
+        'Supplemental Use Standards > Note: This reference is to use-specific standards only, other code requirements may apply': 94-61 (d)(8)
+      With Drive-Thru:
+        Ag/Residential > CON: ''
+        Ag/Residential > A: ''
+        Ag/Residential > LDR: ''
+        Ag/Residential > MDR: ''
+        Ag/Residential > HDR: ''
+        Mixed-Use/Nonresidential > NC: S
+        Mixed-Use/Nonresidential > CC: P
+        Mixed-Use/Nonresidential > MU: P
+        Mixed-Use/Nonresidential > D: S
+        Mixed-Use/Nonresidential > ENT:
+        - P
+        - S
+        Mixed-Use/Nonresidential > BUS: P
+        Mixed-Use/Nonresidential > I: ''
+        'Supplemental Use Standards > Note: This reference is to use-specific standards only, other code requirements may apply': 94-61 (d)(8), 94-87 (j)
+      Drug-Store or Pharmacy:
+        Ag/Residential > CON: ''
+        Ag/Residential > A: ''
+        Ag/Residential > LDR: ''
+        Ag/Residential > MDR: ''
+        Ag/Residential > HDR: ''
+        Mixed-Use/Nonresidential > NC: P
+        Mixed-Use/Nonresidential > CC: P
+        Mixed-Use/Nonresidential > MU: P
+        Mixed-Use/Nonresidential > D: P
+        Mixed-Use/Nonresidential > ENT: P
+        Mixed-Use/Nonresidential > BUS: P
+        Mixed-Use/Nonresidential > I: ''
+        'Supplemental Use Standards > Note: This reference is to use-specific standards only, other code requirements may apply': 94-61 (d)(8)
+      Home Supply and Lumberyard:
+        Ag/Residential > CON: ''
+        Ag/Residential > A: ''
+        Ag/Residential > LDR: ''
+        Ag/Residential > MDR: ''
+        Ag/Residential > HDR: ''
+        Mixed-Use/Nonresidential > NC: ''
+        Mixed-Use/Nonresidential > CC: P
+        Mixed-Use/Nonresidential > MU: ''
+        Mixed-Use/Nonresidential > D: ''
+        Mixed-Use/Nonresidential > ENT: ''
+        Mixed-Use/Nonresidential > BUS: P
+        Mixed-Use/Nonresidential > I: P
+        'Supplemental Use Standards > Note: This reference is to use-specific standards only, other code requirements may apply': 94-61 (d)(8), 94-62 (c)(1)
+      Medical Marijuana Dispensary Facility:
+        Ag/Residential > CON: ''
+        Ag/Residential > A: ''
+        Ag/Residential > LDR: ''
+        Ag/Residential > MDR: ''
+        Ag/Residential > HDR: ''
+        Mixed-Use/Nonresidential > NC: ''
+        Mixed-Use/Nonresidential > CC: P
+        Mixed-Use/Nonresidential > MU: ''
+        Mixed-Use/Nonresidential > D: ''
+        Mixed-Use/Nonresidential > ENT: ''
+        Mixed-Use/Nonresidential > BUS: ''
+        Mixed-Use/Nonresidential > I: ''
+        'Supplemental Use Standards > Note: This reference is to use-specific standards only, other code requirements may apply': 94-61 (e)(11)
+      Comprehensive Marijuana Dispensary Facility:
+        Ag/Residential > CON: ''
+        Ag/Residential > A: ''
+        Ag/Residential > LDR: ''
+        Ag/Residential > MDR: ''
+        Ag/Residential > HDR: ''
+        Mixed-Use/Nonresidential > NC: ''
+        Mixed-Use/Nonresidential > CC: P
+        Mixed-Use/Nonresidential > MU: ''
+        Mixed-Use/Nonresidential > D: ''
+        Mixed-Use/Nonresidential > ENT: ''
+        Mixed-Use/Nonresidential > BUS: ''
+        Mixed-Use/Nonresidential > I: ''
+        'Supplemental Use Standards > Note: This reference is to use-specific standards only, other code requirements may apply': 94-61 (e)(11)
+      Microbusiness Marijuana Dispensary Facility:
+        Ag/Residential > CON: ''
+        Ag/Residential > A: ''
+        Ag/Residential > LDR: ''
+        Ag/Residential > MDR: ''
+        Ag/Residential > HDR: ''
+        Mixed-Use/Nonresidential > NC: ''
+        Mixed-Use/Nonresidential > CC: P
+        Mixed-Use/Nonresidential > MU: ''
+        Mixed-Use/Nonresidential > D: ''
+        Mixed-Use/Nonresidential > ENT: ''
+        Mixed-Use/Nonresidential > BUS: ''
+        Mixed-Use/Nonresidential > I: ''
+        'Supplemental Use Standards > Note: This reference is to use-specific standards only, other code requirements may apply': 94-61 (e)(11)
+      Plant Nursery and Greenhouse:
+        Ag/Residential > CON: ''
+        Ag/Residential > A: P
+        Ag/Residential > LDR: ''
+        Ag/Residential > MDR: ''
+        Ag/Residential > HDR: ''
+        Mixed-Use/Nonresidential > NC: P
+        Mixed-Use/Nonresidential > CC: P
+        Mixed-Use/Nonresidential > MU: ''
+        Mixed-Use/Nonresidential > D: ''
+        Mixed-Use/Nonresidential > ENT: ''
+        Mixed-Use/Nonresidential > BUS: P
+        Mixed-Use/Nonresidential > I: P
+        'Supplemental Use Standards > Note: This reference is to use-specific standards only, other code requirements may apply': 94-61 (d)(8), 94-62 (c)(1)
+      Thrift Store:
+        Ag/Residential > CON: ''
+        Ag/Residential > A: ''
+        Ag/Residential > LDR: ''
+        Ag/Residential > MDR: ''
+        Ag/Residential > HDR: ''
+        Mixed-Use/Nonresidential > NC: P
+        Mixed-Use/Nonresidential > CC: P
+        Mixed-Use/Nonresidential > MU: P
+        Mixed-Use/Nonresidential > D: P
+        Mixed-Use/Nonresidential > ENT: ''
+        Mixed-Use/Nonresidential > BUS: ''
+        Mixed-Use/Nonresidential > I: ''
+        'Supplemental Use Standards > Note: This reference is to use-specific standards only, other code requirements may apply': 94-61 (d)(8), 94-61 (d)(9)
+    Personal Services:
+      Barber [shop], Beauty Shop, Spa:
+        Ag/Residential > CON: ''
+        Ag/Residential > A: ''
+        Ag/Residential > LDR: ''
+        Ag/Residential > MDR: ''
+        Ag/Residential > HDR: ''
+        Mixed-Use/Nonresidential > NC: P
+        Mixed-Use/Nonresidential > CC: P
+        Mixed-Use/Nonresidential > MU: P
+        Mixed-Use/Nonresidential > D: P
+        Mixed-Use/Nonresidential > ENT: P
+        Mixed-Use/Nonresidential > BUS: P
+        Mixed-Use/Nonresidential > I: ''
+        'Supplemental Use Standards > Note: This reference is to use-specific standards only, other code requirements may apply': ''
+      Dry Cleaner/Laundromat/Laundry Service Station:
+        Ag/Residential > CON: ''
+        Ag/Residential > A: ''
+        Ag/Residential > LDR: ''
+        Ag/Residential > MDR: ''
+        Ag/Residential > HDR: ''
+        Mixed-Use/Nonresidential > NC: P
+        Mixed-Use/Nonresidential > CC: P
+        Mixed-Use/Nonresidential > MU: P
+        Mixed-Use/Nonresidential > D: P
+        Mixed-Use/Nonresidential > ENT: ''
+        Mixed-Use/Nonresidential > BUS: P
+        Mixed-Use/Nonresidential > I: P
+        'Supplemental Use Standards > Note: This reference is to use-specific standards only, other code requirements may apply': ''
+      With Drive-Thru:
+        Ag/Residential > CON: ''
+        Ag/Residential > A: ''
+        Ag/Residential > LDR: ''
+        Ag/Residential > MDR: ''
+        Ag/Residential > HDR: ''
+        Mixed-Use/Nonresidential > NC: S
+        Mixed-Use/Nonresidential > CC: P
+        Mixed-Use/Nonresidential > MU: P
+        Mixed-Use/Nonresidential > D: S
+        Mixed-Use/Nonresidential > ENT: ''
+        Mixed-Use/Nonresidential > BUS: P
+        Mixed-Use/Nonresidential > I: P
+        'Supplemental Use Standards > Note: This reference is to use-specific standards only, other code requirements may apply': 94-87 (j)
+      Massage Establishment:
+        Ag/Residential > CON: ''
+        Ag/Residential > A: ''
+        Ag/Residential > LDR: ''
+        Ag/Residential > MDR: ''
+        Ag/Residential > HDR: ''
+        Mixed-Use/Nonresidential > NC: P
+        Mixed-Use/Nonresidential > CC: P
+        Mixed-Use/Nonresidential > MU: P
+        Mixed-Use/Nonresidential > D: P
+        Mixed-Use/Nonresidential > ENT: P
+        Mixed-Use/Nonresidential > BUS: ''
+        Mixed-Use/Nonresidential > I: ''
+        'Supplemental Use Standards > Note: This reference is to use-specific standards only, other code requirements may apply': ''
+      Studio - Art, Fitness, Music, Dance:
+        Ag/Residential > CON: ''
+        Ag/Residential > A: ''
+        Ag/Residential > LDR: ''
+        Ag/Residential > MDR: ''
+        Ag/Residential > HDR: ''
+        Mixed-Use/Nonresidential > NC: P
+        Mixed-Use/Nonresidential > CC: P
+        Mixed-Use/Nonresidential > MU: P
+        Mixed-Use/Nonresidential > D: P
+        Mixed-Use/Nonresidential > ENT: P
+        Mixed-Use/Nonresidential > BUS: P
+        Mixed-Use/Nonresidential > I: ''
+        'Supplemental Use Standards > Note: This reference is to use-specific standards only, other code requirements may apply': ''
+      Tattoo Parlor:
+        Ag/Residential > CON: ''
+        Ag/Residential > A: ''
+        Ag/Residential > LDR: ''
+        Ag/Residential > MDR: ''
+        Ag/Residential > HDR: ''
+        Mixed-Use/Nonresidential > NC: P
+        Mixed-Use/Nonresidential > CC: P
+        Mixed-Use/Nonresidential > MU: P
+        Mixed-Use/Nonresidential > D: P
+        Mixed-Use/Nonresidential > ENT: P
+        Mixed-Use/Nonresidential > BUS: ''
+        Mixed-Use/Nonresidential > I: ''
+        'Supplemental Use Standards > Note: This reference is to use-specific standards only, other code requirements may apply': ''
+      Lodging Establishment:
+        Bed and Breakfast Inn:
+          Ag/Residential > CON: ''
+          Ag/Residential > A: ''
+          Ag/Residential > LDR: ''
+          Ag/Residential > MDR: ''
+          Ag/Residential > HDR: P
+          Mixed-Use/Nonresidential > NC: P
+          Mixed-Use/Nonresidential > CC: P
+          Mixed-Use/Nonresidential > MU: P
+          Mixed-Use/Nonresidential > D: P
+          Mixed-Use/Nonresidential > ENT: P
+          Mixed-Use/Nonresidential > BUS: ''
+          Mixed-Use/Nonresidential > I: ''
+          'Supplemental Use Standards > Note: This reference is to use-specific standards only, other code requirements may apply': ''
+        Campground and Vehicle Park:
+          Ag/Residential > CON: S
+          Ag/Residential > A: S
+          Ag/Residential > LDR: ''
+          Ag/Residential > MDR: ''
+          Ag/Residential > HDR: ''
+          Mixed-Use/Nonresidential > NC: ''
+          Mixed-Use/Nonresidential > CC: S
+          Mixed-Use/Nonresidential > MU: ''
+          Mixed-Use/Nonresidential > D: S
+          Mixed-Use/Nonresidential > ENT: S
+          Mixed-Use/Nonresidential > BUS: ''
+          Mixed-Use/Nonresidential > I: ''
+          'Supplemental Use Standards > Note: This reference is to use-specific standards only, other code requirements may apply': ''
+        Hotel and Motel:
+          Ag/Residential > CON: ''
+          Ag/Residential > A: ''
+          Ag/Residential > LDR: ''
+          Ag/Residential > MDR: ''
+          Ag/Residential > HDR: ''
+          Mixed-Use/Nonresidential > NC: S
+          Mixed-Use/Nonresidential > CC: P
+          Mixed-Use/Nonresidential > MU: P
+          Mixed-Use/Nonresidential > D: P
+          Mixed-Use/Nonresidential > ENT: P
+          Mixed-Use/Nonresidential > BUS: P
+          Mixed-Use/Nonresidential > I: ''
+          'Supplemental Use Standards > Note: This reference is to use-specific standards only, other code requirements may apply': 94-61 (e)(12)
+        Short-term Rental:
+          Ag/Residential > CON: P
+          Ag/Residential > A: P
+          Ag/Residential > LDR: ''
+          Ag/Residential > MDR: P
+          Ag/Residential > HDR: P
+          Mixed-Use/Nonresidential > NC: P
+          Mixed-Use/Nonresidential > CC: P
+          Mixed-Use/Nonresidential > MU: P
+          Mixed-Use/Nonresidential > D: P
+          Mixed-Use/Nonresidential > ENT: P
+          Mixed-Use/Nonresidential > BUS: ''
+          Mixed-Use/Nonresidential > I: ''
+          'Supplemental Use Standards > Note: This reference is to use-specific standards only, other code requirements may apply': 94-61 (e)(12)
+        Timeshare Unit:
+          Ag/Residential > CON: ''
+          Ag/Residential > A: ''
+          Ag/Residential > LDR: ''
+          Ag/Residential > MDR: ''
+          Ag/Residential > HDR: ''
+          Mixed-Use/Nonresidential > NC: ''
+          Mixed-Use/Nonresidential > CC: P
+          Mixed-Use/Nonresidential > MU: P
+          Mixed-Use/Nonresidential > D: ''
+          Mixed-Use/Nonresidential > ENT: P
+          Mixed-Use/Nonresidential > BUS: ''
+          Mixed-Use/Nonresidential > I: ''
+          'Supplemental Use Standards > Note: This reference is to use-specific standards only, other code requirements may apply': 94-61 (e)(12)
+      Vehicles and Equipment:
+        Car Wash:
+          Ag/Residential > CON: ''
+          Ag/Residential > A: ''
+          Ag/Residential > LDR: ''
+          Ag/Residential > MDR: ''
+          Ag/Residential > HDR: ''
+          Mixed-Use/Nonresidential > NC: ''
+          Mixed-Use/Nonresidential > CC: P
+          Mixed-Use/Nonresidential > MU: ''
+          Mixed-Use/Nonresidential > D: ''
+          Mixed-Use/Nonresidential > ENT: ''
+          Mixed-Use/Nonresidential > BUS: P
+          Mixed-Use/Nonresidential > I: P
+          'Supplemental Use Standards > Note: This reference is to use-specific standards only, other code requirements may apply': 94-61 (e)(1)
+      Commercial Vehicles:
+        Rental Services:
+          Ag/Residential > CON: ''
+          Ag/Residential > A: ''
+          Ag/Residential > LDR: ''
+          Ag/Residential > MDR: ''
+          Ag/Residential > HDR: ''
+          Mixed-Use/Nonresidential > NC: ''
+          Mixed-Use/Nonresidential > CC: P
+          Mixed-Use/Nonresidential > MU: ''
+          Mixed-Use/Nonresidential > D: ''
+          Mixed-Use/Nonresidential > ENT: ''
+          Mixed-Use/Nonresidential > BUS: P
+          Mixed-Use/Nonresidential > I: P
+          'Supplemental Use Standards > Note: This reference is to use-specific standards only, other code requirements may apply': 94-61 (e)(2)
+        Repair Services:
+          Ag/Residential > CON: ''
+          Ag/Residential > A: ''
+          Ag/Residential > LDR: ''
+          Ag/Residential > MDR: ''
+          Ag/Residential > HDR: ''
+          Mixed-Use/Nonresidential > NC: ''
+          Mixed-Use/Nonresidential > CC: P
+          Mixed-Use/Nonresidential > MU: ''
+          Mixed-Use/Nonresidential > D: ''
+          Mixed-Use/Nonresidential > ENT: ''
+          Mixed-Use/Nonresidential > BUS: P
+          Mixed-Use/Nonresidential > I: P
+          'Supplemental Use Standards > Note: This reference is to use-specific standards only, other code requirements may apply': 94-61 (e)(3)
+        Sales:
+          Ag/Residential > CON: ''
+          Ag/Residential > A: ''
+          Ag/Residential > LDR: ''
+          Ag/Residential > MDR: ''
+          Ag/Residential > HDR: ''
+          Mixed-Use/Nonresidential > NC: ''
+          Mixed-Use/Nonresidential > CC: P
+          Mixed-Use/Nonresidential > MU: ''
+          Mixed-Use/Nonresidential > D: ''
+          Mixed-Use/Nonresidential > ENT: ''
+          Mixed-Use/Nonresidential > BUS: P
+          Mixed-Use/Nonresidential > I: P
+          'Supplemental Use Standards > Note: This reference is to use-specific standards only, other code requirements may apply': 94-61 (e)(2)
+      Personal Vehicles:
+        Rental Services:
+          Ag/Residential > CON: ''
+          Ag/Residential > A: ''
+          Ag/Residential > LDR: ''
+          Ag/Residential > MDR: ''
+          Ag/Residential > HDR: ''
+          Mixed-Use/Nonresidential > NC: ''
+          Mixed-Use/Nonresidential > CC: P
+          Mixed-Use/Nonresidential > MU: ''
+          Mixed-Use/Nonresidential > D: ''
+          Mixed-Use/Nonresidential > ENT: ''
+          Mixed-Use/Nonresidential > BUS: P
+          Mixed-Use/Nonresidential > I: P
+          'Supplemental Use Standards > Note: This reference is to use-specific standards only, other code requirements may apply': 94-61 (e)(2)
+        Repair Services:
+          Ag/Residential > CON: ''
+          Ag/Residential > A: ''
+          Ag/Residential > LDR: ''
+          Ag/Residential > MDR: ''
+          Ag/Residential > HDR: ''
+          Mixed-Use/Nonresidential > NC: ''
+          Mixed-Use/Nonresidential > CC: P
+          Mixed-Use/Nonresidential > MU: ''
+          Mixed-Use/Nonresidential > D: ''
+          Mixed-Use/Nonresidential > ENT: ''
+          Mixed-Use/Nonresidential > BUS: P
+          Mixed-Use/Nonresidential > I: P
+          'Supplemental Use Standards > Note: This reference is to use-specific standards only, other code requirements may apply': 94-61 (e)(3)
+        Sales:
+          Ag/Residential > CON: ''
+          Ag/Residential > A: ''
+          Ag/Residential > LDR: ''
+          Ag/Residential > MDR: ''
+          Ag/Residential > HDR: ''
+          Mixed-Use/Nonresidential > NC: ''
+          Mixed-Use/Nonresidential > CC: P
+          Mixed-Use/Nonresidential > MU: ''
+          Mixed-Use/Nonresidential > D: ''
+          Mixed-Use/Nonresidential > ENT: ''
+          Mixed-Use/Nonresidential > BUS: P
+          Mixed-Use/Nonresidential > I: P
+          'Supplemental Use Standards > Note: This reference is to use-specific standards only, other code requirements may apply': 94-61 (e)(2)
+        Commercial Parking:
+          Ag/Residential > CON: ''
+          Ag/Residential > A: ''
+          Ag/Residential > LDR: ''
+          Ag/Residential > MDR: ''
+          Ag/Residential > HDR: ''
+          Mixed-Use/Nonresidential > NC: ''
+          Mixed-Use/Nonresidential > CC: P
+          Mixed-Use/Nonresidential > MU: P
+          Mixed-Use/Nonresidential > D: P
+          Mixed-Use/Nonresidential > ENT: P
+          Mixed-Use/Nonresidential > BUS: P
+          Mixed-Use/Nonresidential > I: ''
+          'Supplemental Use Standards > Note: This reference is to use-specific standards only, other code requirements may apply': ''
+        Service Stations:
+          Ag/Residential > CON: ''
+          Ag/Residential > A: ''
+          Ag/Residential > LDR: ''
+          Ag/Residential > MDR: ''
+          Ag/Residential > HDR: ''
+          Mixed-Use/Nonresidential > NC: ''
+          Mixed-Use/Nonresidential > CC: P
+          Mixed-Use/Nonresidential > MU: P
+          Mixed-Use/Nonresidential > D: ''
+          Mixed-Use/Nonresidential > ENT: P
+          Mixed-Use/Nonresidential > BUS: P
+          Mixed-Use/Nonresidential > I: P
+          'Supplemental Use Standards > Note: This reference is to use-specific standards only, other code requirements may apply': 94-61 (e)(4)
+        Accessory Car Wash:
+          Ag/Residential > CON: ''
+          Ag/Residential > A: ''
+          Ag/Residential > LDR: ''
+          Ag/Residential > MDR: ''
+          Ag/Residential > HDR: ''
+          Mixed-Use/Nonresidential > NC: ''
+          Mixed-Use/Nonresidential > CC: P
+          Mixed-Use/Nonresidential > MU: P
+          Mixed-Use/Nonresidential > D: ''
+          Mixed-Use/Nonresidential > ENT: P
+          Mixed-Use/Nonresidential > BUS: P
+          Mixed-Use/Nonresidential > I: P
+          'Supplemental Use Standards > Note: This reference is to use-specific standards only, other code requirements may apply': 94-61 (e)(5)
+        Electric Vehicle Charging Station:
+          Ag/Residential > CON: P
+          Ag/Residential > A: P
+          Ag/Residential > LDR: P
+          Ag/Residential > MDR: P
+          Ag/Residential > HDR: P
+          Mixed-Use/Nonresidential > NC: P
+          Mixed-Use/Nonresidential > CC: P
+          Mixed-Use/Nonresidential > MU: P
+          Mixed-Use/Nonresidential > D: P
+          Mixed-Use/Nonresidential > ENT: P
+          Mixed-Use/Nonresidential > BUS: P
+          Mixed-Use/Nonresidential > I: P
+          'Supplemental Use Standards > Note: This reference is to use-specific standards only, other code requirements may apply': 94-61 (e)(6)
+        Truck Stop:
+          Ag/Residential > CON: ''
+          Ag/Residential > A: ''
+          Ag/Residential > LDR: ''
+          Ag/Residential > MDR: ''
+          Ag/Residential > HDR: ''
+          Mixed-Use/Nonresidential > NC: ''
+          Mixed-Use/Nonresidential > CC: ''
+          Mixed-Use/Nonresidential > MU: ''
+          Mixed-Use/Nonresidential > D: ''
+          Mixed-Use/Nonresidential > ENT: ''
+          Mixed-Use/Nonresidential > BUS: ''
+          Mixed-Use/Nonresidential > I: P
+          'Supplemental Use Standards > Note: This reference is to use-specific standards only, other code requirements may apply': 94-61 (e)(7)
+  Industrial:
+    Industrial Services:
+      Building Maintenance, Sales and Service:
+        Ag/Residential > CON: ''
+        Ag/Residential > A: ''
+        Ag/Residential > LDR: ''
+        Ag/Residential > MDR: ''
+        Ag/Residential > HDR: ''
+        Mixed-Use/Nonresidential > NC: ''
+        Mixed-Use/Nonresidential > CC: P
+        Mixed-Use/Nonresidential > MU: ''
+        Mixed-Use/Nonresidential > D: ''
+        Mixed-Use/Nonresidential > ENT: ''
+        Mixed-Use/Nonresidential > BUS: P
+        Mixed-Use/Nonresidential > I: P
+        'Supplemental Use Standards > Note: This reference is to use-specific standards only, other code requirements may apply': 94-61 (f)(1)
+      Construction Contractor:
+        Ag/Residential > CON: ''
+        Ag/Residential > A: ''
+        Ag/Residential > LDR: ''
+        Ag/Residential > MDR: ''
+        Ag/Residential > HDR: ''
+        Mixed-Use/Nonresidential > NC: ''
+        Mixed-Use/Nonresidential > CC: ''
+        Mixed-Use/Nonresidential > MU: ''
+        Mixed-Use/Nonresidential > D: ''
+        Mixed-Use/Nonresidential > ENT: ''
+        Mixed-Use/Nonresidential > BUS: P
+        Mixed-Use/Nonresidential > I: P
+        'Supplemental Use Standards > Note: This reference is to use-specific standards only, other code requirements may apply': 94-61 (f)(1), 94-62 (c)(1)
+      Data Center:
+        Ag/Residential > CON: ''
+        Ag/Residential > A: ''
+        Ag/Residential > LDR: ''
+        Ag/Residential > MDR: ''
+        Ag/Residential > HDR: ''
+        Mixed-Use/Nonresidential > NC: ''
+        Mixed-Use/Nonresidential > CC: ''
+        Mixed-Use/Nonresidential > MU: ''
+        Mixed-Use/Nonresidential > D: ''
+        Mixed-Use/Nonresidential > ENT: ''
+        Mixed-Use/Nonresidential > BUS: ''
+        Mixed-Use/Nonresidential > I: S
+        'Supplemental Use Standards > Note: This reference is to use-specific standards only, other code requirements may apply': 94-61 (f)(1), 94-62 (c)(2)
+      Digital Production:
+        Ag/Residential > CON: ''
+        Ag/Residential > A: ''
+        Ag/Residential > LDR: ''
+        Ag/Residential > MDR: ''
+        Ag/Residential > HDR: ''
+        Mixed-Use/Nonresidential > NC: ''
+        Mixed-Use/Nonresidential > CC: ''
+        Mixed-Use/Nonresidential > MU: ''
+        Mixed-Use/Nonresidential > D: ''
+        Mixed-Use/Nonresidential > ENT: ''
+        Mixed-Use/Nonresidential > BUS: P
+        Mixed-Use/Nonresidential > I: P
+        'Supplemental Use Standards > Note: This reference is to use-specific standards only, other code requirements may apply': 94-61 (f)(1)
+      Medical Research Laboratory:
+        Ag/Residential > CON: ''
+        Ag/Residential > A: ''
+        Ag/Residential > LDR: ''
+        Ag/Residential > MDR: ''
+        Ag/Residential > HDR: ''
+        Mixed-Use/Nonresidential > NC: ''
+        Mixed-Use/Nonresidential > CC: ''
+        Mixed-Use/Nonresidential > MU: ''
+        Mixed-Use/Nonresidential > D: ''
+        Mixed-Use/Nonresidential > ENT: ''
+        Mixed-Use/Nonresidential > BUS: P
+        Mixed-Use/Nonresidential > I: P
+        'Supplemental Use Standards > Note: This reference is to use-specific standards only, other code requirements may apply': 94-61 (f)(1)
+      Medical Marijuana Testing Facility:
+        Ag/Residential > CON: ''
+        Ag/Residential > A: ''
+        Ag/Residential > LDR: ''
+        Ag/Residential > MDR: ''
+        Ag/Residential > HDR: ''
+        Mixed-Use/Nonresidential > NC: ''
+        Mixed-Use/Nonresidential > CC: ''
+        Mixed-Use/Nonresidential > MU: ''
+        Mixed-Use/Nonresidential > D: ''
+        Mixed-Use/Nonresidential > ENT: ''
+        Mixed-Use/Nonresidential > BUS: ''
+        Mixed-Use/Nonresidential > I: P
+        'Supplemental Use Standards > Note: This reference is to use-specific standards only, other code requirements may apply': 94-61 (d)(10)
+      Wrecker Service:
+        Ag/Residential > CON: ''
+        Ag/Residential > A: ''
+        Ag/Residential > LDR: ''
+        Ag/Residential > MDR: ''
+        Ag/Residential > HDR: ''
+        Mixed-Use/Nonresidential > NC: ''
+        Mixed-Use/Nonresidential > CC: ''
+        Mixed-Use/Nonresidential > MU: ''
+        Mixed-Use/Nonresidential > D: ''
+        Mixed-Use/Nonresidential > ENT: ''
+        Mixed-Use/Nonresidential > BUS: S
+        Mixed-Use/Nonresidential > I: P
+        'Supplemental Use Standards > Note: This reference is to use-specific standards only, other code requirements may apply': 94-61 (f)(1), 94-61 (f)(2)
+    Energy Production and Natural Resource Extraction:
+      Energy Production, Renewable:
+        Ag/Residential > CON: ''
+        Ag/Residential > A: ''
+        Ag/Residential > LDR: ''
+        Ag/Residential > MDR: ''
+        Ag/Residential > HDR: ''
+        Mixed-Use/Nonresidential > NC: ''
+        Mixed-Use/Nonresidential > CC: ''
+        Mixed-Use/Nonresidential > MU: ''
+        Mixed-Use/Nonresidential > D: ''
+        Mixed-Use/Nonresidential > ENT: ''
+        Mixed-Use/Nonresidential > BUS: ''
+        Mixed-Use/Nonresidential > I: ''
+        'Supplemental Use Standards > Note: This reference is to use-specific standards only, other code requirements may apply': 94-61 (f)(1)
+      Cogeneration Facility:
+        Ag/Residential > CON: ''
+        Ag/Residential > A: ''
+        Ag/Residential > LDR: ''
+        Ag/Residential > MDR: ''
+        Ag/Residential > HDR: ''
+        Mixed-Use/Nonresidential > NC: ''
+        Mixed-Use/Nonresidential > CC: ''
+        Mixed-Use/Nonresidential > MU: ''
+        Mixed-Use/Nonresidential > D: ''
+        Mixed-Use/Nonresidential > ENT: ''
+        Mixed-Use/Nonresidential > BUS: ''
+        Mixed-Use/Nonresidential > I: S
+        'Supplemental Use Standards > Note: This reference is to use-specific standards only, other code requirements may apply': 94-61 (f)(1)
+      Solar Array:
+        Ag/Residential > CON: ''
+        Ag/Residential > A: S
+        Ag/Residential > LDR: ''
+        Ag/Residential > MDR: ''
+        Ag/Residential > HDR: ''
+        Mixed-Use/Nonresidential > NC: ''
+        Mixed-Use/Nonresidential > CC: ''
+        Mixed-Use/Nonresidential > MU: ''
+        Mixed-Use/Nonresidential > D: ''
+        Mixed-Use/Nonresidential > ENT: ''
+        Mixed-Use/Nonresidential > BUS: S
+        Mixed-Use/Nonresidential > I: S
+        'Supplemental Use Standards > Note: This reference is to use-specific standards only, other code requirements may apply': 94-61 (f)(1)
+      Wind Energy Commercial:
+        Ag/Residential > CON: ''
+        Ag/Residential > A: S
+        Ag/Residential > LDR: ''
+        Ag/Residential > MDR: ''
+        Ag/Residential > HDR: ''
+        Mixed-Use/Nonresidential > NC: ''
+        Mixed-Use/Nonresidential > CC: ''
+        Mixed-Use/Nonresidential > MU: ''
+        Mixed-Use/Nonresidential > D: ''
+        Mixed-Use/Nonresidential > ENT: ''
+        Mixed-Use/Nonresidential > BUS: S
+        Mixed-Use/Nonresidential > I: S
+        'Supplemental Use Standards > Note: This reference is to use-specific standards only, other code requirements may apply': 94-61 (f)(1)
+      Wind Energy Small:
+        Ag/Residential > CON: ''
+        Ag/Residential > A: S
+        Ag/Residential > LDR: ''
+        Ag/Residential > MDR: ''
+        Ag/Residential > HDR: ''
+        Mixed-Use/Nonresidential > NC: ''
+        Mixed-Use/Nonresidential > CC: ''
+        Mixed-Use/Nonresidential > MU: ''
+        Mixed-Use/Nonresidential > D: ''
+        Mixed-Use/Nonresidential > ENT: ''
+        Mixed-Use/Nonresidential > BUS: S
+        Mixed-Use/Nonresidential > I: S
+        'Supplemental Use Standards > Note: This reference is to use-specific standards only, other code requirements may apply': 94-61 (f)(1)
+      Mining and Quarrying:
+        Ag/Residential > CON: ''
+        Ag/Residential > A: S
+        Ag/Residential > LDR: ''
+        Ag/Residential > MDR: ''
+        Ag/Residential > HDR: ''
+        Mixed-Use/Nonresidential > NC: ''
+        Mixed-Use/Nonresidential > CC: ''
+        Mixed-Use/Nonresidential > MU: ''
+        Mixed-Use/Nonresidential > D: ''
+        Mixed-Use/Nonresidential > ENT: ''
+        Mixed-Use/Nonresidential > BUS: ''
+        Mixed-Use/Nonresidential > I: S
+        'Supplemental Use Standards > Note: This reference is to use-specific standards only, other code requirements may apply': 94-61 (f)(1)
+      Oil, Gas, and Mineral Exploration and Production:
+        Ag/Residential > CON: ''
+        Ag/Residential > A: S
+        Ag/Residential > LDR: ''
+        Ag/Residential > MDR: ''
+        Ag/Residential > HDR: ''
+        Mixed-Use/Nonresidential > NC: ''
+        Mixed-Use/Nonresidential > CC: ''
+        Mixed-Use/Nonresidential > MU: ''
+        Mixed-Use/Nonresidential > D: ''
+        Mixed-Use/Nonresidential > ENT: ''
+        Mixed-Use/Nonresidential > BUS: ''
+        Mixed-Use/Nonresidential > I: S
+        'Supplemental Use Standards > Note: This reference is to use-specific standards only, other code requirements may apply': 94-61 (f)(1)
+    Manufacturing and Assembly:
+      Artisan/Light:
+        Ag/Residential > CON: ''
+        Ag/Residential > A: ''
+        Ag/Residential > LDR: ''
+        Ag/Residential > MDR: ''
+        Ag/Residential > HDR: ''
+        Mixed-Use/Nonresidential > NC: ''
+        Mixed-Use/Nonresidential > CC: ''
+        Mixed-Use/Nonresidential > MU: ''
+        Mixed-Use/Nonresidential > D: ''
+        Mixed-Use/Nonresidential > ENT: ''
+        Mixed-Use/Nonresidential > BUS: P
+        Mixed-Use/Nonresidential > I: P
+        'Supplemental Use Standards > Note: This reference is to use-specific standards only, other code requirements may apply': 94-61 (f)(1)
+      General:
+        General Manufacturing:
+          Ag/Residential > CON: ''
+          Ag/Residential > A: ''
+          Ag/Residential > LDR: ''
+          Ag/Residential > MDR: ''
+          Ag/Residential > HDR: ''
+          Mixed-Use/Nonresidential > NC: ''
+          Mixed-Use/Nonresidential > CC: ''
+          Mixed-Use/Nonresidential > MU: ''
+          Mixed-Use/Nonresidential > D: ''
+          Mixed-Use/Nonresidential > ENT: ''
+          Mixed-Use/Nonresidential > BUS: ''
+          Mixed-Use/Nonresidential > I: P
+          'Supplemental Use Standards > Note: This reference is to use-specific standards only, other code requirements may apply': 94-61 (f)(1)
+        Medical Marijuana-Infused Products Manufacturing Facility:
+          Ag/Residential > CON: ''
+          Ag/Residential > A: P
+          Ag/Residential > LDR: ''
+          Ag/Residential > MDR: ''
+          Ag/Residential > HDR: ''
+          Mixed-Use/Nonresidential > NC: ''
+          Mixed-Use/Nonresidential > CC: ''
+          Mixed-Use/Nonresidential > MU: ''
+          Mixed-Use/Nonresidential > D: ''
+          Mixed-Use/Nonresidential > ENT: ''
+          Mixed-Use/Nonresidential > BUS: ''
+          Mixed-Use/Nonresidential > I: P
+          'Supplemental Use Standards > Note: This reference is to use-specific standards only, other code requirements may apply': 94-61 (e)(11)
+        Comprehensive Marijuana-Infused Products Manufacturing Facility:
+          Ag/Residential > CON: ''
+          Ag/Residential > A: P
+          Ag/Residential > LDR: ''
+          Ag/Residential > MDR: ''
+          Ag/Residential > HDR: ''
+          Mixed-Use/Nonresidential > NC: ''
+          Mixed-Use/Nonresidential > CC: ''
+          Mixed-Use/Nonresidential > MU: ''
+          Mixed-Use/Nonresidential > D: ''
+          Mixed-Use/Nonresidential > ENT: ''
+          Mixed-Use/Nonresidential > BUS: ''
+          Mixed-Use/Nonresidential > I: P
+          'Supplemental Use Standards > Note: This reference is to use-specific standards only, other code requirements may apply': 94-61 (e)(11)
+        Publishing:
+          Ag/Residential > CON: ''
+          Ag/Residential > A: ''
+          Ag/Residential > LDR: ''
+          Ag/Residential > MDR: ''
+          Ag/Residential > HDR: ''
+          Mixed-Use/Nonresidential > NC: ''
+          Mixed-Use/Nonresidential > CC: ''
+          Mixed-Use/Nonresidential > MU: ''
+          Mixed-Use/Nonresidential > D: ''
+          Mixed-Use/Nonresidential > ENT: ''
+          Mixed-Use/Nonresidential > BUS: P
+          Mixed-Use/Nonresidential > I: P
+          'Supplemental Use Standards > Note: This reference is to use-specific standards only, other code requirements may apply': 94-61 (f)(1)
+        Welding and Automobile Body Shop:
+          Ag/Residential > CON: ''
+          Ag/Residential > A: ''
+          Ag/Residential > LDR: ''
+          Ag/Residential > MDR: ''
+          Ag/Residential > HDR: ''
+          Mixed-Use/Nonresidential > NC: ''
+          Mixed-Use/Nonresidential > CC: ''
+          Mixed-Use/Nonresidential > MU: ''
+          Mixed-Use/Nonresidential > D: ''
+          Mixed-Use/Nonresidential > ENT: ''
+          Mixed-Use/Nonresidential > BUS: S
+          Mixed-Use/Nonresidential > I: P
+          'Supplemental Use Standards > Note: This reference is to use-specific standards only, other code requirements may apply': 94-61 (f)(1), 94-61 (f)(3)
+      Heavy:
+        Heavy Manufacturing:
+          Ag/Residential > CON: ''
+          Ag/Residential > A: ''
+          Ag/Residential > LDR: ''
+          Ag/Residential > MDR: ''
+          Ag/Residential > HDR: ''
+          Mixed-Use/Nonresidential > NC: ''
+          Mixed-Use/Nonresidential > CC: ''
+          Mixed-Use/Nonresidential > MU: ''
+          Mixed-Use/Nonresidential > D: ''
+          Mixed-Use/Nonresidential > ENT: ''
+          Mixed-Use/Nonresidential > BUS: ''
+          Mixed-Use/Nonresidential > I: P
+          'Supplemental Use Standards > Note: This reference is to use-specific standards only, other code requirements may apply': 94-61 (f)(1), 94-61 (f)(4)
+    Wholesale, Storage, and Distribution:
+      Freight Terminal and Warehouse:
+        Ag/Residential > CON: ''
+        Ag/Residential > A: ''
+        Ag/Residential > LDR: ''
+        Ag/Residential > MDR: ''
+        Ag/Residential > HDR: ''
+        Mixed-Use/Nonresidential > NC: ''
+        Mixed-Use/Nonresidential > CC: ''
+        Mixed-Use/Nonresidential > MU: ''
+        Mixed-Use/Nonresidential > D: ''
+        Mixed-Use/Nonresidential > ENT: ''
+        Mixed-Use/Nonresidential > BUS: ''
+        Mixed-Use/Nonresidential > I: P
+        'Supplemental Use Standards > Note: This reference is to use-specific standards only, other code requirements may apply': 94-61 (f)(1) 94-61 (f)(5)
+      Warehouse:
+        Commercial (Non-hazardous):
+          Ag/Residential > CON: ''
+          Ag/Residential > A: ''
+          Ag/Residential > LDR: ''
+          Ag/Residential > MDR: ''
+          Ag/Residential > HDR: ''
+          Mixed-Use/Nonresidential > NC: ''
+          Mixed-Use/Nonresidential > CC: ''
+          Mixed-Use/Nonresidential > MU: ''
+          Mixed-Use/Nonresidential > D: ''
+          Mixed-Use/Nonresidential > ENT: ''
+          Mixed-Use/Nonresidential > BUS: P
+          Mixed-Use/Nonresidential > I: P
+          'Supplemental Use Standards > Note: This reference is to use-specific standards only, other code requirements may apply': 94-61 (f)(1)
+        Self-Storage/Personal Property:
+          Ag/Residential > CON: ''
+          Ag/Residential > A: ''
+          Ag/Residential > LDR: ''
+          Ag/Residential > MDR: ''
+          Ag/Residential > HDR: S
+          Mixed-Use/Nonresidential > NC: ''
+          Mixed-Use/Nonresidential > CC: P
+          Mixed-Use/Nonresidential > MU: ''
+          Mixed-Use/Nonresidential > D: ''
+          Mixed-Use/Nonresidential > ENT: ''
+          Mixed-Use/Nonresidential > BUS: P
+          Mixed-Use/Nonresidential > I: P
+          'Supplemental Use Standards > Note: This reference is to use-specific standards only, other code requirements may apply': 94-61 (f)(1), 94-61 (f)(6)
+        Wholesale Sales and Distribution:
+          Ag/Residential > CON: ''
+          Ag/Residential > A: ''
+          Ag/Residential > LDR: ''
+          Ag/Residential > MDR: ''
+          Ag/Residential > HDR: ''
+          Mixed-Use/Nonresidential > NC: ''
+          Mixed-Use/Nonresidential > CC: ''
+          Mixed-Use/Nonresidential > MU: ''
+          Mixed-Use/Nonresidential > D: ''
+          Mixed-Use/Nonresidential > ENT: ''
+          Mixed-Use/Nonresidential > BUS: P
+          Mixed-Use/Nonresidential > I: P
+          'Supplemental Use Standards > Note: This reference is to use-specific standards only, other code requirements may apply': 94-61 (f)(1)
+      Waste and Salvage:
+        Automobile Parts Recyding:
+          Ag/Residential > CON: ''
+          Ag/Residential > A: ''
+          Ag/Residential > LDR: ''
+          Ag/Residential > MDR: ''
+          Ag/Residential > HDR: ''
+          Mixed-Use/Nonresidential > NC: ''
+          Mixed-Use/Nonresidential > CC: ''
+          Mixed-Use/Nonresidential > MU: ''
+          Mixed-Use/Nonresidential > D: ''
+          Mixed-Use/Nonresidential > ENT: ''
+          Mixed-Use/Nonresidential > BUS: ''
+          Mixed-Use/Nonresidential > I: P
+          'Supplemental Use Standards > Note: This reference is to use-specific standards only, other code requirements may apply': 94-61 (f)(1)
+  Agricultural:
+    Agritainment:
+      Ag/Residential > CON: ''
+      Ag/Residential > A: P
+      Ag/Residential > LDR: ''
+      Ag/Residential > MDR: ''
+      Ag/Residential > HDR: ''
+      Mixed-Use/Nonresidential > NC: ''
+      Mixed-Use/Nonresidential > CC: ''
+      Mixed-Use/Nonresidential > MU: ''
+      Mixed-Use/Nonresidential > D: ''
+      Mixed-Use/Nonresidential > ENT: ''
+      Mixed-Use/Nonresidential > BUS: ''
+      Mixed-Use/Nonresidential > I: ''
+      'Supplemental Use Standards > Note: This reference is to use-specific standards only, other code requirements may apply': 94-61 (g)(1)
+    Animal Raising, Farm or Domestic Use:
+      Ag/Residential > CON: ''
+      Ag/Residential > A: P
+      Ag/Residential > LDR: ''
+      Ag/Residential > MDR: ''
+      Ag/Residential > HDR: ''
+      Mixed-Use/Nonresidential > NC: ''
+      Mixed-Use/Nonresidential > CC: ''
+      Mixed-Use/Nonresidential > MU: ''
+      Mixed-Use/Nonresidential > D: ''
+      Mixed-Use/Nonresidential > ENT: ''
+      Mixed-Use/Nonresidential > BUS: ''
+      Mixed-Use/Nonresidential > I: ''
+      'Supplemental Use Standards > Note: This reference is to use-specific standards only, other code requirements may apply': 94-61 (g)(2)
+    Crop Raising:
+      Ag/Residential > CON: ''
+      Ag/Residential > A: P
+      Ag/Residential > LDR: ''
+      Ag/Residential > MDR: ''
+      Ag/Residential > HDR: ''
+      Mixed-Use/Nonresidential > NC: ''
+      Mixed-Use/Nonresidential > CC: ''
+      Mixed-Use/Nonresidential > MU: ''
+      Mixed-Use/Nonresidential > D: ''
+      Mixed-Use/Nonresidential > ENT: ''
+      Mixed-Use/Nonresidential > BUS: ''
+      Mixed-Use/Nonresidential > I: ''
+      'Supplemental Use Standards > Note: This reference is to use-specific standards only, other code requirements may apply': 94-61 (g)(3)
+    Commercial Livestock:
+      Ag/Residential > CON: ''
+      Ag/Residential > A: P
+      Ag/Residential > LDR: ''
+      Ag/Residential > MDR: ''
+      Ag/Residential > HDR: ''
+      Mixed-Use/Nonresidential > NC: ''
+      Mixed-Use/Nonresidential > CC: ''
+      Mixed-Use/Nonresidential > MU: ''
+      Mixed-Use/Nonresidential > D: ''
+      Mixed-Use/Nonresidential > ENT: ''
+      Mixed-Use/Nonresidential > BUS: ''
+      Mixed-Use/Nonresidential > I: P
+      'Supplemental Use Standards > Note: This reference is to use-specific standards only, other code requirements may apply': 94-61 (g)(4)
+    Farm Products Warehouse and Storage:
+      Ag/Residential > CON: ''
+      Ag/Residential > A: P
+      Ag/Residential > LDR: ''
+      Ag/Residential > MDR: ''
+      Ag/Residential > HDR: ''
+      Mixed-Use/Nonresidential > NC: ''
+      Mixed-Use/Nonresidential > CC: ''
+      Mixed-Use/Nonresidential > MU: ''
+      Mixed-Use/Nonresidential > D: ''
+      Mixed-Use/Nonresidential > ENT: ''
+      Mixed-Use/Nonresidential > BUS: ''
+      Mixed-Use/Nonresidential > I: P
+      'Supplemental Use Standards > Note: This reference is to use-specific standards only, other code requirements may apply': ''
+    Medical Marijuana Cultivation Facility:
+      Ag/Residential > CON: ''
+      Ag/Residential > A: P
+      Ag/Residential > LDR: ''
+      Ag/Residential > MDR: ''
+      Ag/Residential > HDR: ''
+      Mixed-Use/Nonresidential > NC: ''
+      Mixed-Use/Nonresidential > CC: ''
+      Mixed-Use/Nonresidential > MU: ''
+      Mixed-Use/Nonresidential > D: ''
+      Mixed-Use/Nonresidential > ENT: ''
+      Mixed-Use/Nonresidential > BUS: ''
+      Mixed-Use/Nonresidential > I: ''
+      'Supplemental Use Standards > Note: This reference is to use-specific standards only, other code requirements may apply': 94-61 (e)(11)
+    Comprehensive Marijuana Cultivation Facility:
+      Ag/Residential > CON: ''
+      Ag/Residential > A: P
+      Ag/Residential > LDR: ''
+      Ag/Residential > MDR: ''
+      Ag/Residential > HDR: ''
+      Mixed-Use/Nonresidential > NC: ''
+      Mixed-Use/Nonresidential > CC: ''
+      Mixed-Use/Nonresidential > MU: ''
+      Mixed-Use/Nonresidential > D: ''
+      Mixed-Use/Nonresidential > ENT: ''
+      Mixed-Use/Nonresidential > BUS: ''
+      Mixed-Use/Nonresidential > I: ''
+      'Supplemental Use Standards > Note: This reference is to use-specific standards only, other code requirements may apply': 94-61 (e)(11)
+    Microbusiness Marijuana Wholesale Facility:
+      Ag/Residential > CON: ''
+      Ag/Residential > A: P
+      Ag/Residential > LDR: ''
+      Ag/Residential > MDR: ''
+      Ag/Residential > HDR: ''
+      Mixed-Use/Nonresidential > NC: ''
+      Mixed-Use/Nonresidential > CC: ''
+      Mixed-Use/Nonresidential > MU: ''
+      Mixed-Use/Nonresidential > D: ''
+      Mixed-Use/Nonresidential > ENT: ''
+      Mixed-Use/Nonresidential > BUS: ''
+      Mixed-Use/Nonresidential > I: ''
+      'Supplemental Use Standards > Note: This reference is to use-specific standards only, other code requirements may apply': 94-61 (e)(11)

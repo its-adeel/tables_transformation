@@ -1,0 +1,435 @@
+Mixed Use Zones:
+  Legend:
+    P( 16 ): Permitted Use
+    CUP: Conditional Use Permit Required
+    S: Permit Requirement in Specific Use Regulations
+    A: Accessory Use
+    —: Use Not Allowed
+  LAND USE TYPE ( 1 ):
+    INDUSTRY, MANUFACTURING AND PROCESSING:
+      Artisan/Craft Product Manufacturing:
+        Permit Required by Zone > MU1A: P
+        Permit Required by Zone > MU1B ( 21 ): P
+        Permit Required by Zone > MU1C: —
+        Permit Required by Zone > MU2 ( 22 ): CUP( 6 )
+        Specific Use Regulations: ''
+      Catering Service, as a Primary Use:
+        Permit Required by Zone > MU1A: P( 6 )
+        Permit Required by Zone > MU1B ( 21 ): P
+        Permit Required by Zone > MU1C: —
+        Permit Required by Zone > MU2 ( 22 ): P( 6 )
+        Specific Use Regulations: ''
+      Furniture and Fixture Manufacturing, Cabinet Making:
+        Permit Required by Zone > MU1A: —
+        Permit Required by Zone > MU1B ( 21 ): P
+        Permit Required by Zone > MU1C: —
+        Permit Required by Zone > MU2 ( 22 ): —
+        Specific Use Regulations: ''
+      Laboratory – Medical, Analytical:
+        Permit Required by Zone > MU1A: —
+        Permit Required by Zone > MU1B ( 21 ): P
+        Permit Required by Zone > MU1C: —
+        Permit Required by Zone > MU2 ( 22 ): —
+        Specific Use Regulations: ''
+      Manufacturing, Light:
+        Permit Required by Zone > MU1A: —
+        Permit Required by Zone > MU1B ( 21 ): P( 14 )
+        Permit Required by Zone > MU1C: —
+        Permit Required by Zone > MU2 ( 22 ): —
+        Specific Use Regulations: ''
+      Media Production:
+        Permit Required by Zone > MU1A: P( 6 )
+        Permit Required by Zone > MU1B ( 21 ): P
+        Permit Required by Zone > MU1C: —
+        Permit Required by Zone > MU2 ( 22 ): P( 6 )
+        Specific Use Regulations: ''
+      Printing and Publishing:
+        Permit Required by Zone > MU1A: P( 6 )
+        Permit Required by Zone > MU1B ( 21 ): P
+        Permit Required by Zone > MU1C: —
+        Permit Required by Zone > MU2 ( 22 ): P( 6 )
+        Specific Use Regulations: ''
+      Research and Development:
+        Permit Required by Zone > MU1A: —
+        Permit Required by Zone > MU1B ( 21 ): P
+        Permit Required by Zone > MU1C: —
+        Permit Required by Zone > MU2 ( 22 ): —
+        Specific Use Regulations: ''
+    LODGING:
+      Lodging – Short-Term Vacation Rentals:
+        Permit Required by Zone > MU1A: P( 15 )
+        Permit Required by Zone > MU1B ( 21 ): P( 15 )
+        Permit Required by Zone > MU1C: P( 15 )
+        Permit Required by Zone > MU2 ( 22 ): P( 15 )
+        Specific Use Regulations: Section 7.110
+      Lodging – Bed and Breakfast Inn ( B&B ):
+        Permit Required by Zone > MU1A: —
+        Permit Required by Zone > MU1B ( 21 ): —
+        Permit Required by Zone > MU1C: —
+        Permit Required by Zone > MU2 ( 22 ): P
+        Specific Use Regulations: ''
+      Lodging – Hotel / Motel:
+        Permit Required by Zone > MU1A: P
+        Permit Required by Zone > MU1B ( 21 ): P
+        Permit Required by Zone > MU1C: —
+        Permit Required by Zone > MU2 ( 22 ): P
+        Specific Use Regulations: ''
+    RECREATION, EDUCATION AND PUBLIC ASSEMBLY:
+      Cardroom:
+        Permit Required by Zone > MU1A: CUP
+        Permit Required by Zone > MU1B ( 21 ): CUP
+        Permit Required by Zone > MU1C: —
+        Permit Required by Zone > MU2 ( 22 ): CUP
+        Specific Use Regulations: Chapter 9
+      Community Meeting Facility:
+        Permit Required by Zone > MU1A: CUP
+        Permit Required by Zone > MU1B ( 21 ): CUP
+        Permit Required by Zone > MU1C: CUP
+        Permit Required by Zone > MU2 ( 22 ): CUP
+        Specific Use Regulations: ''
+      Commercial Recreation – Indoor:
+        Permit Required by Zone > MU1A: CUP
+        Permit Required by Zone > MU1B ( 21 ): CUP
+        Permit Required by Zone > MU1C: —
+        Permit Required by Zone > MU2 ( 22 ): P( 6 )
+        Specific Use Regulations: ''
+      Fitness/Health Facility:
+        Permit Required by Zone > MU1A: P
+        Permit Required by Zone > MU1B ( 21 ): P
+        Permit Required by Zone > MU1C: —
+        Permit Required by Zone > MU2 ( 22 ): P
+        Specific Use Regulations: ''
+      Library, Museum, Art Gallery:
+        Permit Required by Zone > MU1A: P
+        Permit Required by Zone > MU1B ( 21 ): P
+        Permit Required by Zone > MU1C: —
+        Permit Required by Zone > MU2 ( 22 ): P
+        Specific Use Regulations: ''
+      Park:
+        Permit Required by Zone > MU1A: P
+        Permit Required by Zone > MU1B ( 21 ): P
+        Permit Required by Zone > MU1C: P
+        Permit Required by Zone > MU2 ( 22 ): P
+        Specific Use Regulations: ''
+      School – Elementary, Secondary, or College, Private:
+        Permit Required by Zone > MU1A: CUP
+        Permit Required by Zone > MU1B ( 21 ): CUP
+        Permit Required by Zone > MU1C: CUP
+        Permit Required by Zone > MU2 ( 22 ): CUP
+        Specific Use Regulations: ''
+      School – Specialized Education and Training:
+        Permit Required by Zone > MU1A: CUP
+        Permit Required by Zone > MU1B ( 21 ): CUP
+        Permit Required by Zone > MU1C: —
+        Permit Required by Zone > MU2 ( 22 ): CUP
+        Specific Use Regulations: ''
+      Studio – Art, Dance, Martial Arts, Music , etc.:
+        Permit Required by Zone > MU1A: P
+        Permit Required by Zone > MU1B ( 21 ): P
+        Permit Required by Zone > MU1C: —
+        Permit Required by Zone > MU2 ( 22 ): P
+        Specific Use Regulations: ''
+      Theater, Cinema or Performing Arts:
+        Permit Required by Zone > MU1A: CUP
+        Permit Required by Zone > MU1B ( 21 ): CUP
+        Permit Required by Zone > MU1C: —
+        Permit Required by Zone > MU2 ( 22 ): CUP
+        Specific Use Regulations: Theater District Ord. 2158
+    RESIDENTIAL:
+      Dwelling, Multiple:
+        Permit Required by Zone > MU1A: CUP
+        Permit Required by Zone > MU1B ( 21 ): CUP
+        Permit Required by Zone > MU1C: P
+        Permit Required by Zone > MU2 ( 22 ): —
+        Specific Use Regulations: ''
+      Dwelling, Accessory:
+        Permit Required by Zone > MU1A: A,S
+        Permit Required by Zone > MU1B ( 21 ): A,S
+        Permit Required by Zone > MU1C: A,S
+        Permit Required by Zone > MU2 ( 22 ): A,S
+        Specific Use Regulations: Section 7.030
+      Dwelling, Junior Accessory:
+        Permit Required by Zone > MU1A: A,S
+        Permit Required by Zone > MU1B ( 21 ): A,S
+        Permit Required by Zone > MU1C: A,S
+        Permit Required by Zone > MU2 ( 22 ): A,S
+        Specific Use Regulations: Section 7.035
+      Dwelling, Single:
+        Permit Required by Zone > MU1A: —
+        Permit Required by Zone > MU1B ( 21 ): —
+        Permit Required by Zone > MU1C: P
+        Permit Required by Zone > MU2 ( 22 ): —
+        Specific Use Regulations: ''
+      Home Occupation:
+        Permit Required by Zone > MU1A: A,S( 2 )
+        Permit Required by Zone > MU1B ( 21 ): A,S( 2 )
+        Permit Required by Zone > MU1C: A,S( 2 )
+        Permit Required by Zone > MU2 ( 22 ): A,S( 2 )
+        Specific Use Regulations: Section 7.050
+      Residential Care Facility ( 23 ):
+        Permit Required by Zone > MU1A: P
+        Permit Required by Zone > MU1B ( 21 ): P
+        Permit Required by Zone > MU1C: P
+        Permit Required by Zone > MU2 ( 22 ): P
+        Specific Use Regulations: ''
+      Residential in Mixed Use Building:
+        Permit Required by Zone > MU1A: P( 6 )
+        Permit Required by Zone > MU1B ( 21 ): P( 6 )
+        Permit Required by Zone > MU1C: P( 6 )
+        Permit Required by Zone > MU2 ( 22 ): P( 6 )
+        Specific Use Regulations: ''
+      Work/Live:
+        Permit Required by Zone > MU1A: P( 6 )
+        Permit Required by Zone > MU1B ( 21 ): P( 6 )
+        Permit Required by Zone > MU1C: P
+        Permit Required by Zone > MU2 ( 22 ): P( 6 )
+        Specific Use Regulations: ''
+    RETAIL:
+      Adult Oriented Business:
+        Permit Required by Zone > MU1A: CUP
+        Permit Required by Zone > MU1B ( 21 ): CUP
+        Permit Required by Zone > MU1C: —
+        Permit Required by Zone > MU2 ( 22 ): CUP
+        Specific Use Regulations: Chapter 10
+      Artisan Shop:
+        Permit Required by Zone > MU1A: P
+        Permit Required by Zone > MU1B ( 21 ): P
+        Permit Required by Zone > MU1C: —
+        Permit Required by Zone > MU2 ( 22 ): P
+        Specific Use Regulations: ''
+      Auto Parts Sales:
+        Permit Required by Zone > MU1A: P
+        Permit Required by Zone > MU1B ( 21 ): P
+        Permit Required by Zone > MU1C: —
+        Permit Required by Zone > MU2 ( 22 ): —
+        Specific Use Regulations: ''
+      Bar , Tavern , Night Club:
+        Permit Required by Zone > MU1A: CUP
+        Permit Required by Zone > MU1B ( 21 ): CUP
+        Permit Required by Zone > MU1C: —
+        Permit Required by Zone > MU2 ( 22 ): CUP
+        Specific Use Regulations: Chapter 8
+      Building and Landscape Materials Sales Indoor – 25,000 sf or Less:
+        Permit Required by Zone > MU1A: P
+        Permit Required by Zone > MU1B ( 21 ): P
+        Permit Required by Zone > MU1C: —
+        Permit Required by Zone > MU2 ( 22 ): P
+        Specific Use Regulations: ''
+      Building and Landscape Materials Sales Indoor – More Than 25,000 sf:
+        Permit Required by Zone > MU1A: CUP( 20 )
+        Permit Required by Zone > MU1B ( 21 ): CUP( 20 )
+        Permit Required by Zone > MU1C: —
+        Permit Required by Zone > MU2 ( 22 ): CUP( 20 )
+        Specific Use Regulations: ''
+      Fueling Station/Gas Station:
+        Permit Required by Zone > MU1A: —
+        Permit Required by Zone > MU1B ( 21 ): —
+        Permit Required by Zone > MU1C: —
+        Permit Required by Zone > MU2 ( 22 ): —
+        Specific Use Regulations: ''
+      General Retail – 25,000 sf or Less:
+        Permit Required by Zone > MU1A: P
+        Permit Required by Zone > MU1B ( 21 ): P
+        Permit Required by Zone > MU1C: —
+        Permit Required by Zone > MU2 ( 22 ): P
+        Specific Use Regulations: ''
+      General Retail –More Than 25,000 sf:
+        Permit Required by Zone > MU1A: CUP( 20 )
+        Permit Required by Zone > MU1B ( 21 ): CUP( 20 )
+        Permit Required by Zone > MU1C: —
+        Permit Required by Zone > MU2 ( 22 ): CUP( 20 )
+        Specific Use Regulations: ''
+      Groceries/Specialty Foods – 25,000 sf or Less:
+        Permit Required by Zone > MU1A: P
+        Permit Required by Zone > MU1B ( 21 ): P
+        Permit Required by Zone > MU1C: —
+        Permit Required by Zone > MU2 ( 22 ): P
+        Specific Use Regulations: ''
+      Groceries/Specialty Foods – More Than 25,000 sf:
+        Permit Required by Zone > MU1A: CUP( 20 )
+        Permit Required by Zone > MU1B ( 21 ): CUP( 20 )
+        Permit Required by Zone > MU1C: —
+        Permit Required by Zone > MU2 ( 22 ): CUP( 20 )
+        Specific Use Regulations: ''
+      Plant Nursery:
+        Permit Required by Zone > MU1A: P
+        Permit Required by Zone > MU1B ( 21 ): P
+        Permit Required by Zone > MU1C: —
+        Permit Required by Zone > MU2 ( 22 ): —
+        Specific Use Regulations: ''
+      Restaurant , Café , Coffee Shop:
+        Permit Required by Zone > MU1A: P
+        Permit Required by Zone > MU1B ( 21 ): P
+        Permit Required by Zone > MU1C: CUP
+        Permit Required by Zone > MU2 ( 22 ): P
+        Specific Use Regulations: ''
+    SERVICES – BUSINESS, FINANCIAL, PROFESSIONAL:
+      ATM:
+        Permit Required by Zone > MU1A: P
+        Permit Required by Zone > MU1B ( 21 ): P
+        Permit Required by Zone > MU1C: P
+        Permit Required by Zone > MU2 ( 22 ): P
+        Specific Use Regulations: ''
+      Bank, Financial Services:
+        Permit Required by Zone > MU1A: P
+        Permit Required by Zone > MU1B ( 21 ): P
+        Permit Required by Zone > MU1C: —
+        Permit Required by Zone > MU2 ( 22 ): P
+        Specific Use Regulations: ''
+      Business Support Service:
+        Permit Required by Zone > MU1A: P
+        Permit Required by Zone > MU1B ( 21 ): P
+        Permit Required by Zone > MU1C: —
+        Permit Required by Zone > MU2 ( 22 ): P
+        Specific Use Regulations: ''
+      Medical Services – Health Care Facility:
+        Permit Required by Zone > MU1A: P( 6 )
+        Permit Required by Zone > MU1B ( 21 ): P( 6 )
+        Permit Required by Zone > MU1C: —
+        Permit Required by Zone > MU2 ( 22 ): P( 6 )
+        Specific Use Regulations: ''
+      Medical Services – Major:
+        Permit Required by Zone > MU1A: P
+        Permit Required by Zone > MU1B ( 21 ): P
+        Permit Required by Zone > MU1C: —
+        Permit Required by Zone > MU2 ( 22 ): P
+        Specific Use Regulations: ''
+      Medical Services – Minor:
+        Permit Required by Zone > MU1A: P( 6 , 11 )
+        Permit Required by Zone > MU1B ( 21 ): P( 6 , 11
+        Permit Required by Zone > MU1C: P
+        Permit Required by Zone > MU2 ( 22 ): P( 6 , 11 )
+        Specific Use Regulations: ''
+      Office – Government:
+        Permit Required by Zone > MU1A: P
+        Permit Required by Zone > MU1B ( 21 ): P
+        Permit Required by Zone > MU1C: P
+        Permit Required by Zone > MU2 ( 22 ): P( 6 )
+        Specific Use Regulations: ''
+      Office – Headquarters, or Processing:
+        Permit Required by Zone > MU1A: P( 6 )
+        Permit Required by Zone > MU1B ( 21 ): P
+        Permit Required by Zone > MU1C: —
+        Permit Required by Zone > MU2 ( 22 ): P( 6 )
+        Specific Use Regulations: ''
+      Office – Professional, Administrative:
+        Permit Required by Zone > MU1A: P
+        Permit Required by Zone > MU1B ( 21 ): P
+        Permit Required by Zone > MU1C: P
+        Permit Required by Zone > MU2 ( 22 ): P( 6 )
+        Specific Use Regulations: ''
+    SERVICES – GENERAL:
+      Adult Day Program:
+        Permit Required by Zone > MU1A: CUP
+        Permit Required by Zone > MU1B ( 21 ): CUP
+        Permit Required by Zone > MU1C: CUP
+        Permit Required by Zone > MU2 ( 22 ): P
+        Specific Use Regulations: ''
+      Child Care Center:
+        Permit Required by Zone > MU1A: P( 6 )
+        Permit Required by Zone > MU1B ( 21 ): P( 6 )
+        Permit Required by Zone > MU1C: —
+        Permit Required by Zone > MU2 ( 22 ): P( 6 )
+        Specific Use Regulations: ''
+      Child Day Care – Large Family:
+        Permit Required by Zone > MU1A: —
+        Permit Required by Zone > MU1B ( 21 ): —
+        Permit Required by Zone > MU1C: A( 4 )
+        Permit Required by Zone > MU2 ( 22 ): —
+        Specific Use Regulations: Section 7.060
+      Child Day Care – Small Family:
+        Permit Required by Zone > MU1A: A( 3 )
+        Permit Required by Zone > MU1B ( 21 ): A( 3 )
+        Permit Required by Zone > MU1C: A( 3 )
+        Permit Required by Zone > MU2 ( 22 ): A( 3 )
+        Specific Use Regulations: ''
+      Kennel, Animal Boarding:
+        Permit Required by Zone > MU1A: —
+        Permit Required by Zone > MU1B ( 21 ): CUP
+        Permit Required by Zone > MU1C: —
+        Permit Required by Zone > MU2 ( 22 ): —
+        Specific Use Regulations: ''
+      Meals Assembly Business:
+        Permit Required by Zone > MU1A: P( 12 )
+        Permit Required by Zone > MU1B ( 21 ): —
+        Permit Required by Zone > MU1C: —
+        Permit Required by Zone > MU2 ( 22 ): —
+        Specific Use Regulations: ''
+      Mortuary , Funeral Home:
+        Permit Required by Zone > MU1A: CUP
+        Permit Required by Zone > MU1B ( 21 ): —
+        Permit Required by Zone > MU1C: —
+        Permit Required by Zone > MU2 ( 22 ): —
+        Specific Use Regulations: ''
+      Personal Services:
+        Permit Required by Zone > MU1A: P
+        Permit Required by Zone > MU1B ( 21 ): P
+        Permit Required by Zone > MU1C: —
+        Permit Required by Zone > MU2 ( 22 ): P
+        Specific Use Regulations: ''
+      Personal Services – Restricted:
+        Permit Required by Zone > MU1A: P
+        Permit Required by Zone > MU1B ( 21 ): P
+        Permit Required by Zone > MU1C: —
+        Permit Required by Zone > MU2 ( 22 ): P
+        Specific Use Regulations: ''
+      Public Safety Facility:
+        Permit Required by Zone > MU1A: P
+        Permit Required by Zone > MU1B ( 21 ): P
+        Permit Required by Zone > MU1C: P
+        Permit Required by Zone > MU2 ( 22 ): P
+        Specific Use Regulations: ''
+      Vehicle Services – Minor Maintenance/Repair:
+        Permit Required by Zone > MU1A: —
+        Permit Required by Zone > MU1B ( 21 ): P
+        Permit Required by Zone > MU1C: —
+        Permit Required by Zone > MU2 ( 22 ): CUP
+        Specific Use Regulations: ''
+      Veterinary Clinic, Animal Hospital:
+        Permit Required by Zone > MU1A: P( 8 )
+        Permit Required by Zone > MU1B ( 21 ): P( 8 )
+        Permit Required by Zone > MU1C: —
+        Permit Required by Zone > MU2 ( 22 ): P( 8 )
+        Specific Use Regulations: ''
+    TRANSPORTATION, COMMUNICATIONS, INFRASTRUCTURE:
+      City Water and Sewer Facility:
+        Permit Required by Zone > MU1A: P
+        Permit Required by Zone > MU1B ( 21 ): P
+        Permit Required by Zone > MU1C: P
+        Permit Required by Zone > MU2 ( 22 ): P
+        Specific Use Regulations: ''
+      Parking Facility, Public or Commercial:
+        Permit Required by Zone > MU1A: CUP
+        Permit Required by Zone > MU1B ( 21 ): —
+        Permit Required by Zone > MU1C: —
+        Permit Required by Zone > MU2 ( 22 ): CUP
+        Specific Use Regulations: ''
+      Telecommunications Facility:
+        Permit Required by Zone > MU1A: S
+        Permit Required by Zone > MU1B ( 21 ): S
+        Permit Required by Zone > MU1C: S
+        Permit Required by Zone > MU2 ( 22 ): S
+        Specific Use Regulations: Section 7.090 and Muni Code 14.44
+      Utility Facility:
+        Permit Required by Zone > MU1A: CUP
+        Permit Required by Zone > MU1B ( 21 ): CUP
+        Permit Required by Zone > MU1C: —
+        Permit Required by Zone > MU2 ( 22 ): CUP
+        Specific Use Regulations: ''
+      Zero Emission Vehicles (Battery Charging Station):
+        Permit Required by Zone > MU1A: A( 18 )
+        Permit Required by Zone > MU1B ( 21 ): A( 18 )
+        Permit Required by Zone > MU1C: A( 18 )
+        Permit Required by Zone > MU2 ( 22 ): A( 18 )
+        Specific Use Regulations: ''
+      Zero Emission Vehicles (Hydrogen Fuel Cell Station):
+        Permit Required by Zone > MU1A: CUP( 19 )
+        Permit Required by Zone > MU1B ( 21 ): —
+        Permit Required by Zone > MU1C: —
+        Permit Required by Zone > MU2 ( 22 ): CUP( 19 )
+        Specific Use Regulations: ''
+    Key to zone symbols: {}
+    MU1A - Mixed Use 1A:
+      (General): MU1C - Mixed Use 1C
+    MU1B - Mixed Use 1B:
+      (General): MU2 - Mixed Use 2

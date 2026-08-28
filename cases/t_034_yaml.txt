@@ -89,58 +89,58 @@ Core Sub-district Street Design Standards:
         Local Street/ Private Vehicular Route > Residential: -N
         Alley > Commercial: -N
         Alley > Residential: -N
-    Streetscape Zone: {}
-    Total Streetscape Zone:
-      Primary Pedestrian Street:
-        Arterial: 12' (min.)
-        Collector (Divided): 12' (min.)
-        Collector (Undivided): 12' (min.)
-        Local Street/ Private Vehicular Route > Commercial: 12' (min.)
-        Local Street/ Private Vehicular Route > Residential: 10' (min.)
-        Alley > Commercial: NA
-        Alley > Residential: NA
-      All other Streets:
-        Arterial: 8' (min.)
-        Collector (Divided): 8' (min.)
-        Collector (Undivided): 8' (min.)
-        Local Street/ Private Vehicular Route > Commercial: 8' (min.)
-        Local Street/ Private Vehicular Route > Residential: 8' (min.)
-        Alley > Commercial: NA
-        Alley > Residential: NA
-    Amenity Zone:
-      Primary Pedestrian Street:
-        Arterial: 6' (min.)
-        Collector (Divided): 6' (min.)
-        Collector (Undivided): 6' (min.)
-        Local Street/ Private Vehicular Route > Commercial: 6' (min.)
-        Local Street/ Private Vehicular Route > Residential: 4' (min.)
-        Alley > Commercial: NA
-        Alley > Residential: NA
-      All other Streets:
-        Arterial: 4' (min.)
-        Collector (Divided): 4' (min.)
-        Collector (Undivided): 4' (min.)
-        Local Street/ Private Vehicular Route > Commercial: 4' (min.)
-        Local Street/ Private Vehicular Route > Residential: 4' (min.)
-        Alley > Commercial: NA
-        Alley > Residential: NA
-    Sidewalk (clear width) μ:
-      Primary Pedestrian Street:
-        Arterial: 6' (min.)
-        Collector (Divided): 6' (min.)
-        Collector (Undivided): 6' (min.)
-        Local Street/ Private Vehicular Route > Commercial: 6' (min.)
-        Local Street/ Private Vehicular Route > Residential: 6' (min.)
-        Alley > Commercial: NA
-        Alley > Residential: NA
-      All other Streets:
-        Arterial: 4' (min.)
-        Collector (Divided): 4' (min.)
-        Collector (Undivided): 4' (min.)
-        Local Street/ Private Vehicular Route > Commercial: 4' (min.)
-        Local Street/ Private Vehicular Route > Residential: 4' (min.)
-        Alley > Commercial: NA
-        Alley > Residential: NA
+    Streetscape Zone:
+      Total Streetscape Zone:
+        Primary Pedestrian Street:
+          Arterial: 12' (min.)
+          Collector (Divided): 12' (min.)
+          Collector (Undivided): 12' (min.)
+          Local Street/ Private Vehicular Route > Commercial: 12' (min.)
+          Local Street/ Private Vehicular Route > Residential: 10' (min.)
+          Alley > Commercial: NA
+          Alley > Residential: NA
+        All other Streets:
+          Arterial: 8' (min.)
+          Collector (Divided): 8' (min.)
+          Collector (Undivided): 8' (min.)
+          Local Street/ Private Vehicular Route > Commercial: 8' (min.)
+          Local Street/ Private Vehicular Route > Residential: 8' (min.)
+          Alley > Commercial: NA
+          Alley > Residential: NA
+      Amenity Zone:
+        Primary Pedestrian Street:
+          Arterial: 6' (min.)
+          Collector (Divided): 6' (min.)
+          Collector (Undivided): 6' (min.)
+          Local Street/ Private Vehicular Route > Commercial: 6' (min.)
+          Local Street/ Private Vehicular Route > Residential: 4' (min.)
+          Alley > Commercial: NA
+          Alley > Residential: NA
+        All other Streets:
+          Arterial: 4' (min.)
+          Collector (Divided): 4' (min.)
+          Collector (Undivided): 4' (min.)
+          Local Street/ Private Vehicular Route > Commercial: 4' (min.)
+          Local Street/ Private Vehicular Route > Residential: 4' (min.)
+          Alley > Commercial: NA
+          Alley > Residential: NA
+      Sidewalk (clear width) μ:
+        Primary Pedestrian Street:
+          Arterial: 6' (min.)
+          Collector (Divided): 6' (min.)
+          Collector (Undivided): 6' (min.)
+          Local Street/ Private Vehicular Route > Commercial: 6' (min.)
+          Local Street/ Private Vehicular Route > Residential: 6' (min.)
+          Alley > Commercial: NA
+          Alley > Residential: NA
+        All other Streets:
+          Arterial: 4' (min.)
+          Collector (Divided): 4' (min.)
+          Collector (Undivided): 4' (min.)
+          Local Street/ Private Vehicular Route > Commercial: 4' (min.)
+          Local Street/ Private Vehicular Route > Residential: 4' (min.)
+          Alley > Commercial: NA
+          Alley > Residential: NA
     '* Standard ranges for width provided. Min. ROW widths may vary based on the Streetscape Zone. ROW widths for dedication along existing Streets shall be based on the City''s adopted Thoroughfare Plan and LDR.': {}
     '** Total pavement widths shall be sufficient for fire access.': {}
     '# Unless alley acts as a fire lane, then fire lane standards shall apply': {}
