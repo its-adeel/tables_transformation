@@ -56,20 +56,23 @@ CASES_DIR = "cases"
 def _cell_is_bold(cell) -> bool:
     """
     Was this cell's text marked as bold? Category/section rows in these
-    tables are consistently bold (<b>, <strong>, or class="bold"), while
-    ordinary data rows are not. That distinction is the ONLY reliable way
-    to tell a category-description row apart from a legitimate value that
-    happens to span every column (see divider check #2 in
-    build_matrix_yaml) — structurally the two are identical HTML.
+    tables are consistently bold (<b>, <strong>, class="bold", or an
+    inline style="font-weight:bold"), while ordinary data rows are not.
+    That distinction is the ONLY reliable way to tell a category-
+    description row apart from a legitimate value that happens to span
+    every column (see divider check #2 in build_matrix_yaml) —
+    structurally the two are identical HTML.
     """
     if cell.find(["b", "strong"]) is not None:
         return True
-    for descendant in cell.find_all(True):
+    for descendant in [cell, *cell.find_all(True)]:
         classes = descendant.get("class") or []
         if any("bold" in c for c in classes):
             return True
-    classes = cell.get("class") or []
-    return any("bold" in c for c in classes)
+        style = descendant.get("style") or ""
+        if re.search(r"font-weight\s*:\s*(bold|[6-9]\d\d)\b", style, re.I):
+            return True
+    return False
 
 
 def _cell_is_header_styled(cell) -> bool:
@@ -135,14 +138,46 @@ def _cell_text(cell) -> str:
 
 
 def _cell_indent(cell) -> int:
-    """Return the largest explicit left margin used by a cell's content."""
-    values = []
+    """
+    Return this cell's indentation level, however the source expresses
+    it. Two different conventions show up across scraped documents:
+
+    - Explicit CSS: an inline "margin-left: Npx" style on the cell or
+      one of its descendants.
+    - Faked whitespace: a leading run of non-breaking spaces (\xa0)
+      baked directly into the cell's own text, since real collapsible
+      HTML whitespace can't be used for visual indentation — e.g.
+      "\xa0\xa0\xa0Reverse vending machines" for a sub-item nested one
+      level under an ordinary "\xa0\xa0\xa0Pottery sales"-style top-
+      level item's own 3-space indent. _cell_text() strips this away
+      entirely when building the cell's clean text (it's noise for the
+      text itself), so it has to be measured here, before that
+      stripping happens. Only \xa0 counts, deliberately — ordinary
+      whitespace (spaces, newlines, tabs) is virtually always just
+      source-code formatting around the HTML itself, present uniformly
+      in every cell regardless of any real visual structure, and
+      counting it would make every row in an unrelated table look
+      "indented" by the same fixed, meaningless amount.
+
+    Returns 0 if neither signal is present. The two are combined with
+    max() rather than added: a table only ever uses ONE convention
+    consistently, so whichever measure is actually in play for this
+    table will be the non-zero one, and the other stays 0 throughout —
+    there's no risk of double-counting one real indent as two.
+    """
+    margin_values = []
     for node in [cell, *cell.find_all(True)]:
         style = node.get("style") or ""
         match = re.search(r"margin-left\s*:\s*([0-9]+(?:\.[0-9]+)?)px", style, re.I)
         if match:
-            values.append(float(match.group(1)))
-    return int(max(values, default=0))
+            margin_values.append(float(match.group(1)))
+    margin_indent = int(max(margin_values, default=0))
+
+    raw_text = cell.get_text(separator=" ")
+    stripped = raw_text.lstrip("\xa0")
+    whitespace_indent = len(raw_text) - len(stripped)
+
+    return max(margin_indent, whitespace_indent)
 
 
 def _find_all_content_tables(soup):
@@ -990,6 +1025,15 @@ def build_matrix_yaml(data_rows: list, header_paths: dict, total_cols: int) -> d
     # one another.
     section_context = result
     active_subsection = None
+    # The indent level the currently-active subsection's OWN divider row
+    # sat at (e.g. 3 for "Restaurants:") — needed to know when it's
+    # finished. Ordinary top-level items in these tables are ALSO
+    # indented (they're not at indent 0; only the very top of the whole
+    # hierarchy is), so "closed" can't mean "back to zero indent" — it
+    # means "back to this subsection's OWN indent or shallower", which
+    # is exactly what a sibling row (another ordinary item, or the next
+    # subsection) looks like.
+    active_subsection_indent = 0
     row_counter = 0   # only used to disambiguate accidental duplicate labels
     # Tracks, per multi-row block (by anchor span_id), whichever
     # "OPTION 1"/"OPTION 2"-style local sub-divider is currently active
@@ -1000,20 +1044,62 @@ def build_matrix_yaml(data_rows: list, header_paths: dict, total_cols: int) -> d
         for row in data_rows for cell in row.values()
     )
     # Indentation-only subsection schedules use a single classification
-    # column plus an approval/status column. Keep the extra interpretation
-    # scoped to that shape so unrelated tables that merely indent wrapped
-    # labels retain their established output.
-    indent_hierarchy_enabled = has_indented_labels and groups[0][0].strip().lower() == "use classifications"
+    # column plus an approval/status column. Any table showing genuine
+    # indentation is a candidate for this — restricting it to one
+    # specific label-column header text ("Use Classifications") only
+    # covered the table that originally motivated it, not every table
+    # that uses this same un-bold, indent-or-colon subsection pattern.
+    indent_hierarchy_enabled = has_indented_labels
 
     for row in data_rows:
         cols_present = sorted(row.keys())
+
+        # A subsection (e.g. "Restaurants:") is finished once we reach
+        # ANY row — divider or ordinary — back at its own indent level
+        # or shallower. This has to run before check #1 even looks at
+        # this row: a sibling subsection's own opening divider (e.g.
+        # "Recycling facilities...)" ending, "Restaurants:" beginning)
+        # needs the PREVIOUS subsection closed first, or it would open
+        # nested inside it instead of as its sibling.
+        if indent_hierarchy_enabled and active_subsection is not None:
+            anchor_cell_here = row.get(anchor_col)
+            this_row_indent = (
+                anchor_cell_here[4]
+                if anchor_cell_here and len(anchor_cell_here) > 4
+                else 0
+            )
+            if this_row_indent <= active_subsection_indent:
+                active_subsection = None
 
         # --- Divider check #1: full-width colspan (see docstring) ---
         if cols_present == list(range(total_cols)):
             all_texts = {row[c][0].strip() for c in cols_present}
             if len(all_texts) == 1 and next(iter(all_texts)):
-                section_node = _get_or_create_child(result, next(iter(all_texts)))
-                section_context = section_node
+                divider_text = next(iter(all_texts))
+                # Same distinction as divider check #3 below: a BOLD
+                # full-width divider (e.g. "Commercial uses:") is a
+                # genuine major section and belongs at the very top
+                # level. An un-bold one (e.g. "Restaurants:", which
+                # happens to use a colspan spanning the whole row
+                # instead of just its own label column) is really a
+                # SUBSECTION of whichever major section is currently
+                # active, and needs to nest there instead — otherwise
+                # it escapes to the top level exactly like a genuine
+                # major section would, alongside it as a false sibling.
+                divider_is_bold = any(
+                    row[c][3] for c in cols_present
+                    if len(row[c]) > 3 and row[c][0].strip()
+                )
+                if divider_is_bold or not indent_hierarchy_enabled:
+                    section_node = _get_or_create_child(result, divider_text)
+                    section_context = section_node
+                    active_subsection = None
+                else:
+                    active_subsection = _get_or_create_child(section_context, divider_text)
+                    divider_cell = row.get(anchor_col)
+                    active_subsection_indent = (
+                        divider_cell[4] if divider_cell and len(divider_cell) > 4 else 0
+                    )
                 continue   # don't add this row itself, just move on
 
         # --- Determine THIS row's own label/value split ---
@@ -1414,8 +1500,18 @@ def build_matrix_yaml(data_rows: list, header_paths: dict, total_cols: int) -> d
                 if label_is_bold_divider:
                     section_node = subsection_node
                     section_context = subsection_node
+                    # A whole new major section starts here — any
+                    # subsection left open from the PREVIOUS major
+                    # section is finished, whether or not this table's
+                    # rows ever dip back to zero indent to close it
+                    # explicitly. Leaving it set would wrongly attach
+                    # this new section's own rows to that stale,
+                    # unrelated subsection instead of to the section
+                    # itself.
+                    active_subsection = None
                 elif indent_hierarchy_enabled:
                     active_subsection = subsection_node
+                    active_subsection_indent = row_indent
                 else:
                     section_node = subsection_node
                 continue
@@ -1443,8 +1539,6 @@ def build_matrix_yaml(data_rows: list, header_paths: dict, total_cols: int) -> d
         # block's shared anchor text, already used as the sub-divider's
         # parent key), so it falls to the same "Row N" naming used for
         # any row with a blank label.
-        if indent_hierarchy_enabled and row_indent == 0:
-            active_subsection = None
         if leaf_span_id in active_local_divider:
             target_node = active_local_divider[leaf_span_id]
             row_counter += 1

@@ -310,23 +310,23 @@ Use:
     Real estate services:
       MU: P
       GC: P
-  Recycling facilities (subject to provisions of section 6-12-22 of this title):
-    Reverse vending machines:
-      MU: P
-      GC: P
-    Small collection facilities:
-      MU: X
-      GC: C
-    Large collection facilities:
-      MU: X
-      GC: X
-  'Restaurants:':
-    With drive-through service (subject to provisions of section 6-12-15 of this title):
-      MU: P
-      GC: P
-    With entertainment and/or serving alcoholic beverages, including upgrading an existing ABC license (refer to section 6-12-5 of this title):
-      MU: C
-      GC: C
+    Recycling facilities (subject to provisions of section 6-12-22 of this title):
+      Reverse vending machines:
+        MU: P
+        GC: P
+      Small collection facilities:
+        MU: X
+        GC: C
+      Large collection facilities:
+        MU: X
+        GC: X
+    'Restaurants:':
+      With drive-through service (subject to provisions of section 6-12-15 of this title):
+        MU: P
+        GC: P
+      With entertainment and/or serving alcoholic beverages, including upgrading an existing ABC license (refer to section 6-12-5 of this title):
+        MU: C
+        GC: C
     Secondhand stores/pawnshops:
       MU: P
       GC: P
@@ -530,4 +530,4 @@ Use:
     Temporary uses as prescribed in section 6-2-10 of this title, are permitted subject to issuance of a temporary use permit:
       MU: P
       GC: P
-  Other uses similar to, and no more objectionable than, the uses identified above, shall be reviewed per the process required by the similar use, as determined by the Planning Commission: {}
+    Other uses similar to, and no more objectionable than, the uses identified above, shall be reviewed per the process required by the similar use, as determined by the Planning Commission: {}
