@@ -39,6 +39,7 @@ real-world patterns.
 ├── html_to_yaml.py          # HTML parsing, grid expansion, inference, and YAML output
 ├── regression_test.py       # Byte-for-byte golden-file regression harness
 ├── requirements.txt         # Python dependencies
+├── table links.csv          # Source URL and table name for each tested case
 └── cases/
     ├── t_001_html.txt       # Raw HTML input
     ├── t_001_yaml.txt       # Current converter output
@@ -115,6 +116,24 @@ also reported as a failure signal instead of being silently ignored.
 
 At the time of writing, the suite contains 50 real-world cases.
 
+## Tested table sources
+
+[table links.csv](table%20links.csv) is the index of source tables represented
+by the regression corpus. Each completed row records:
+
+- the case ID used by files in `cases/`, such as `t_001`;
+- the original web page containing the table; and
+- the table name or heading on that page.
+
+This mapping makes it possible to trace a generated YAML structure back to the
+real table it represents. The currently populated entries cover `t_001` through
+`t_050`.
+
+When adding a new regression case, add its source URL and table name to this CSV
+using the same case ID as its `<case_id>_html.txt` and golden YAML files. If a
+source page contains multiple tables, record the specific table title rather
+than only the page title.
+
 ## Fixing a table edge case
 
 The expected workflow is deliberately conservative:
@@ -162,15 +181,3 @@ The implementation favors evidence present in the HTML over assumptions tied to
 one municipality or one table. When two visual constructs share the same HTML
 shape, formatting and surrounding rows may be used to distinguish their roles.
 
-## Contributing
-
-Changes should include a real regression case whenever possible. A useful pull
-request explains:
-
-- what the source table visually means;
-- how the previous output was wrong;
-- why the new inference rule is safe; and
-- the result of the complete golden-file regression run.
-
-Please keep fixes narrowly scoped and review generated YAML as data, not merely
-as valid syntax.
