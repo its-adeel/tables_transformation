@@ -1,0 +1,134 @@
+TABLE 24-11-1 BASE ZONES:
+  Zone Symbol:
+    Rural Zones:
+      Agriculture Zones:
+        AG-20:
+          Name of Zone: Agriculture, 20-acre min. parcel size
+          General Plan Land Use Designation Implemented by Zone: AG
+        AG-40:
+          Name of Zone: Agriculture, 40-acre min. parcel size
+          General Plan Land Use Designation Implemented by Zone: AG
+        AG-80:
+          Name of Zone: Agriculture, 80-acre min. parcel size
+          General Plan Land Use Designation Implemented by Zone: AG
+        AG-160:
+          Name of Zone: Agriculture, 160-acre min. parcel size
+          General Plan Land Use Designation Implemented by Zone: AG
+        AS:
+          Name of Zone: Agriculture Services
+          General Plan Land Use Designation Implemented by Zone: AS
+      Natural Resource Zones:
+        TM:
+          Name of Zone: Timber Mountain
+          General Plan Land Use Designation Implemented by Zone: TM
+        TPZ:
+          Name of Zone: Timber Production
+          General Plan Land Use Designation Implemented by Zone: TM
+        RC:
+          Name of Zone: Resource Conservation
+          General Plan Land Use Designation Implemented by Zone: RC
+      Residential Zones:
+        FR-1:
+          Name of Zone: Foothill Residential, 1-acre min. parcel size
+          General Plan Land Use Designation Implemented by Zone: FR
+        FR-2:
+          Name of Zone: Foothill Residential, 2-acre min. parcel size
+          General Plan Land Use Designation Implemented by Zone: FR
+        FR-5:
+          Name of Zone: Foothill Residential, 5-acre min. parcel size
+          General Plan Land Use Designation Implemented by Zone: FR
+        FR-10:
+          Name of Zone: Foothill Residential, 10-acre min. parcel size
+          General Plan Land Use Designation Implemented by Zone: FR
+        FR-20:
+          Name of Zone: Foothill Residential, 20-acre min. parcel size
+          General Plan Land Use Designation Implemented by Zone: FR
+        FR-40:
+          Name of Zone: Foothill Residential, 40-acre min. parcel size
+          General Plan Land Use Designation Implemented by Zone: FR
+        FCR-20:
+          Name of Zone: Foothill Country Residential, 20-acre min. parcel size
+          General Plan Land Use Designation Implemented by Zone: FR
+        RR-5:
+          Name of Zone: Rural Residential, 5-acre min. parcel size
+          General Plan Land Use Designation Implemented by Zone: RR
+        RR-10:
+          Name of Zone: Rural Residential, 10-acre min. parcel size
+          General Plan Land Use Designation Implemented by Zone: RR
+        RCR-10:
+          Name of Zone: Rural Country Residential, 10-acre min. parcel size
+          General Plan Land Use Designation Implemented by Zone: RR
+    Urban Zones:
+      Residential Zones:
+        VLDR:
+          Name of Zone: Very Low Density Residential, up to 1 unit per parcel
+          General Plan Land Use Designation Implemented by Zone: VLDR
+        VLDR-2.5:
+          Name of Zone: Very Low Density Residential, up to 1 unit per parcel
+          General Plan Land Use Designation Implemented by Zone: VLDR
+        VLDCR:
+          Name of Zone: Very Low Density Country Residential, up to 1 unit per parcel
+          General Plan Land Use Designation Implemented by Zone: VLDR
+        LDR:
+          Name of Zone: Low Density Residential, up to 1 unit per parcel
+          General Plan Land Use Designation Implemented by Zone: LDR
+        MDR:
+          Name of Zone: Medium Density Residential, up to 1 unit per parcel
+          General Plan Land Use Designation Implemented by Zone: MDR
+        MHDR:
+          Name of Zone: Medium High Density Residential, up to 14 units per acre
+          General Plan Land Use Designation Implemented by Zone: MHDR
+        HDR:
+          Name of Zone: High Density Residential, 14 to 20 units per acre
+          General Plan Land Use Designation Implemented by Zone: HDR
+        VHDR:
+          Name of Zone: Very High Density Residential, 20 to 30 units per acre
+          General Plan Land Use Designation Implemented by Zone: VHDR
+      Commercial and Mixed Use Zones:
+        GC:
+          Name of Zone: General Commercial a
+          General Plan Land Use Designation Implemented by Zone: RTL
+        NC:
+          Name of Zone: Neighborhood Commercial b
+          General Plan Land Use Designation Implemented by Zone: RTL
+        CC:
+          Name of Zone: Community Commercial c
+          General Plan Land Use Designation Implemented by Zone: RTL
+        REC:
+          Name of Zone: Recreation Commercial a
+          General Plan Land Use Designation Implemented by Zone: REC
+        SE:
+          Name of Zone: Sports and Entertainment a
+          General Plan Land Use Designation Implemented by Zone: SE
+        MU-1:
+          Name of Zone: Mixed Use, 6 units per acre max. density b
+          General Plan Land Use Designation Implemented by Zone: MU
+        MU-2:
+          Name of Zone: Mixed Use, 7 to 14 units per acre a
+          General Plan Land Use Designation Implemented by Zone: MU
+        MU-3:
+          Name of Zone: Mixed Use, 15 to 20 units per acre d
+          General Plan Land Use Designation Implemented by Zone: MU
+      Industrial Zones:
+        LI:
+          Name of Zone: Limited Industrial a
+          General Plan Land Use Designation Implemented by Zone: I
+        GI:
+          Name of Zone: General Industrial d
+          General Plan Land Use Designation Implemented by Zone: I
+        HI:
+          Name of Zone: Heavy Industrial d
+          General Plan Land Use Designation Implemented by Zone: I
+      Special Purpose Zones:
+        PB:
+          Name of Zone: Public a
+          General Plan Land Use Designation Implemented by Zone: P
+        AIR:
+          Name of Zone: Airport d
+          General Plan Land Use Designation Implemented by Zone: I
+        RBP:
+          Name of Zone: Research and Business Park a
+          General Plan Land Use Designation Implemented by Zone: RBP
+        PD:
+          Name of Zone: Planned Development
+          General Plan Land Use Designation Implemented by Zone: PUD

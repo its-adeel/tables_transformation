@@ -2,584 +2,814 @@ Table I. Permitted Uses:
   A > CATEGORY USE > P = Permitted as a matter of right CU = May be permitted by the Board of Adjustment:
     Residential:
       Any use permitted in any residential district:
-        B > Zoning District — Conditional Or Permitted Use "C-1," "C-2, "C-3," "DT" > "C-1" Neighborhood: P
-        B > Zoning District — Conditional Or Permitted Use "C-1," "C-2, "C-3," "DT" > "C-2" General: P
-        B > Zoning District — Conditional Or Permitted Use "C-1," "C-2, "C-3," "DT" > "C-3" Highway: P
-        B > Zoning District — Conditional Or Permitted Use "C-1," "C-2, "C-3," "DT" > "DT" Downtown District: P
+        B:
+          Zoning District — Conditional Or Permitted Use "C-1," "C-2, "C-3," "DT":
+            '"C-1" Neighborhood': P
+            '"C-2" General': P
+            '"C-3" Highway': P
+            '"DT" Downtown District': P
       Any use permitted on review in any residential district (a):
-        B > Zoning District — Conditional Or Permitted Use "C-1," "C-2, "C-3," "DT" > "C-1" Neighborhood: P
-        B > Zoning District — Conditional Or Permitted Use "C-1," "C-2, "C-3," "DT" > "C-2" General: P
-        B > Zoning District — Conditional Or Permitted Use "C-1," "C-2, "C-3," "DT" > "C-3" Highway: P
-        B > Zoning District — Conditional Or Permitted Use "C-1," "C-2, "C-3," "DT" > "DT" Downtown District: P
+        B:
+          Zoning District — Conditional Or Permitted Use "C-1," "C-2, "C-3," "DT":
+            '"C-1" Neighborhood': P
+            '"C-2" General': P
+            '"C-3" Highway': P
+            '"DT" Downtown District': P
     Commercial, miscellaneous (b)(c):
       Adult use, by license only (f):
-        B > Zoning District — Conditional Or Permitted Use "C-1," "C-2, "C-3," "DT" > "C-1" Neighborhood: ''
-        B > Zoning District — Conditional Or Permitted Use "C-1," "C-2, "C-3," "DT" > "C-2" General: ''
-        B > Zoning District — Conditional Or Permitted Use "C-1," "C-2, "C-3," "DT" > "C-3" Highway: CU
-        B > Zoning District — Conditional Or Permitted Use "C-1," "C-2, "C-3," "DT" > "DT" Downtown District: ''
+        B:
+          Zoning District — Conditional Or Permitted Use "C-1," "C-2, "C-3," "DT":
+            '"C-1" Neighborhood': ''
+            '"C-2" General': ''
+            '"C-3" Highway': CU
+            '"DT" Downtown District': ''
       Alcohol sales:
-        B > Zoning District — Conditional Or Permitted Use "C-1," "C-2, "C-3," "DT" > "C-1" Neighborhood: CU
-        B > Zoning District — Conditional Or Permitted Use "C-1," "C-2, "C-3," "DT" > "C-2" General: P
-        B > Zoning District — Conditional Or Permitted Use "C-1," "C-2, "C-3," "DT" > "C-3" Highway: P
-        B > Zoning District — Conditional Or Permitted Use "C-1," "C-2, "C-3," "DT" > "DT" Downtown District: P
+        B:
+          Zoning District — Conditional Or Permitted Use "C-1," "C-2, "C-3," "DT":
+            '"C-1" Neighborhood': CU
+            '"C-2" General': P
+            '"C-3" Highway': P
+            '"DT" Downtown District': P
       Antique shop:
-        B > Zoning District — Conditional Or Permitted Use "C-1," "C-2, "C-3," "DT" > "C-1" Neighborhood: P
-        B > Zoning District — Conditional Or Permitted Use "C-1," "C-2, "C-3," "DT" > "C-2" General: P
-        B > Zoning District — Conditional Or Permitted Use "C-1," "C-2, "C-3," "DT" > "C-3" Highway: P
-        B > Zoning District — Conditional Or Permitted Use "C-1," "C-2, "C-3," "DT" > "DT" Downtown District: P
+        B:
+          Zoning District — Conditional Or Permitted Use "C-1," "C-2, "C-3," "DT":
+            '"C-1" Neighborhood': P
+            '"C-2" General': P
+            '"C-3" Highway': P
+            '"DT" Downtown District': P
       Appliance shop:
-        B > Zoning District — Conditional Or Permitted Use "C-1," "C-2, "C-3," "DT" > "C-1" Neighborhood: ''
-        B > Zoning District — Conditional Or Permitted Use "C-1," "C-2, "C-3," "DT" > "C-2" General: P
-        B > Zoning District — Conditional Or Permitted Use "C-1," "C-2, "C-3," "DT" > "C-3" Highway: P
-        B > Zoning District — Conditional Or Permitted Use "C-1," "C-2, "C-3," "DT" > "DT" Downtown District: P
+        B:
+          Zoning District — Conditional Or Permitted Use "C-1," "C-2, "C-3," "DT":
+            '"C-1" Neighborhood': ''
+            '"C-2" General': P
+            '"C-3" Highway': P
+            '"DT" Downtown District': P
       Arts school, gallery or museum:
-        B > Zoning District — Conditional Or Permitted Use "C-1," "C-2, "C-3," "DT" > "C-1" Neighborhood: P
-        B > Zoning District — Conditional Or Permitted Use "C-1," "C-2, "C-3," "DT" > "C-2" General: P
-        B > Zoning District — Conditional Or Permitted Use "C-1," "C-2, "C-3," "DT" > "C-3" Highway: P
-        B > Zoning District — Conditional Or Permitted Use "C-1," "C-2, "C-3," "DT" > "DT" Downtown District: P
+        B:
+          Zoning District — Conditional Or Permitted Use "C-1," "C-2, "C-3," "DT":
+            '"C-1" Neighborhood': P
+            '"C-2" General': P
+            '"C-3" Highway': P
+            '"DT" Downtown District': P
       Artists materials, supply studio:
-        B > Zoning District — Conditional Or Permitted Use "C-1," "C-2, "C-3," "DT" > "C-1" Neighborhood: P
-        B > Zoning District — Conditional Or Permitted Use "C-1," "C-2, "C-3," "DT" > "C-2" General: P
-        B > Zoning District — Conditional Or Permitted Use "C-1," "C-2, "C-3," "DT" > "C-3" Highway: P
-        B > Zoning District — Conditional Or Permitted Use "C-1," "C-2, "C-3," "DT" > "DT" Downtown District: P
+        B:
+          Zoning District — Conditional Or Permitted Use "C-1," "C-2, "C-3," "DT":
+            '"C-1" Neighborhood': P
+            '"C-2" General': P
+            '"C-3" Highway': P
+            '"DT" Downtown District': P
       Automobile parking lot:
-        B > Zoning District — Conditional Or Permitted Use "C-1," "C-2, "C-3," "DT" > "C-1" Neighborhood: P
-        B > Zoning District — Conditional Or Permitted Use "C-1," "C-2, "C-3," "DT" > "C-2" General: P
-        B > Zoning District — Conditional Or Permitted Use "C-1," "C-2, "C-3," "DT" > "C-3" Highway: P
-        B > Zoning District — Conditional Or Permitted Use "C-1," "C-2, "C-3," "DT" > "DT" Downtown District: P
+        B:
+          Zoning District — Conditional Or Permitted Use "C-1," "C-2, "C-3," "DT":
+            '"C-1" Neighborhood': P
+            '"C-2" General': P
+            '"C-3" Highway': P
+            '"DT" Downtown District': P
       Automobile service station:
-        B > Zoning District — Conditional Or Permitted Use "C-1," "C-2, "C-3," "DT" > "C-1" Neighborhood: CU
-        B > Zoning District — Conditional Or Permitted Use "C-1," "C-2, "C-3," "DT" > "C-2" General: P
-        B > Zoning District — Conditional Or Permitted Use "C-1," "C-2, "C-3," "DT" > "C-3" Highway: P
-        B > Zoning District — Conditional Or Permitted Use "C-1," "C-2, "C-3," "DT" > "DT" Downtown District: ''
+        B:
+          Zoning District — Conditional Or Permitted Use "C-1," "C-2, "C-3," "DT":
+            '"C-1" Neighborhood': CU
+            '"C-2" General': P
+            '"C-3" Highway': P
+            '"DT" Downtown District': ''
       Automobile repair, minor in conjunction with a service station:
-        B > Zoning District — Conditional Or Permitted Use "C-1," "C-2, "C-3," "DT" > "C-1" Neighborhood: CU
-        B > Zoning District — Conditional Or Permitted Use "C-1," "C-2, "C-3," "DT" > "C-2" General: P
-        B > Zoning District — Conditional Or Permitted Use "C-1," "C-2, "C-3," "DT" > "C-3" Highway: P
-        B > Zoning District — Conditional Or Permitted Use "C-1," "C-2, "C-3," "DT" > "DT" Downtown District: ''
+        B:
+          Zoning District — Conditional Or Permitted Use "C-1," "C-2, "C-3," "DT":
+            '"C-1" Neighborhood': CU
+            '"C-2" General': P
+            '"C-3" Highway': P
+            '"DT" Downtown District': ''
       Baby shop:
-        B > Zoning District — Conditional Or Permitted Use "C-1," "C-2, "C-3," "DT" > "C-1" Neighborhood: P
-        B > Zoning District — Conditional Or Permitted Use "C-1," "C-2, "C-3," "DT" > "C-2" General: P
-        B > Zoning District — Conditional Or Permitted Use "C-1," "C-2, "C-3," "DT" > "C-3" Highway: P
-        B > Zoning District — Conditional Or Permitted Use "C-1," "C-2, "C-3," "DT" > "DT" Downtown District: P
+        B:
+          Zoning District — Conditional Or Permitted Use "C-1," "C-2, "C-3," "DT":
+            '"C-1" Neighborhood': P
+            '"C-2" General': P
+            '"C-3" Highway': P
+            '"DT" Downtown District': P
       Bakery goods store:
-        B > Zoning District — Conditional Or Permitted Use "C-1," "C-2, "C-3," "DT" > "C-1" Neighborhood: P
-        B > Zoning District — Conditional Or Permitted Use "C-1," "C-2, "C-3," "DT" > "C-2" General: P
-        B > Zoning District — Conditional Or Permitted Use "C-1," "C-2, "C-3," "DT" > "C-3" Highway: P
-        B > Zoning District — Conditional Or Permitted Use "C-1," "C-2, "C-3," "DT" > "DT" Downtown District: P
+        B:
+          Zoning District — Conditional Or Permitted Use "C-1," "C-2, "C-3," "DT":
+            '"C-1" Neighborhood': P
+            '"C-2" General': P
+            '"C-3" Highway': P
+            '"DT" Downtown District': P
       Bank:
-        B > Zoning District — Conditional Or Permitted Use "C-1," "C-2, "C-3," "DT" > "C-1" Neighborhood: P
-        B > Zoning District — Conditional Or Permitted Use "C-1," "C-2, "C-3," "DT" > "C-2" General: P
-        B > Zoning District — Conditional Or Permitted Use "C-1," "C-2, "C-3," "DT" > "C-3" Highway: P
-        B > Zoning District — Conditional Or Permitted Use "C-1," "C-2, "C-3," "DT" > "DT" Downtown District: P
+        B:
+          Zoning District — Conditional Or Permitted Use "C-1," "C-2, "C-3," "DT":
+            '"C-1" Neighborhood': P
+            '"C-2" General': P
+            '"C-3" Highway': P
+            '"DT" Downtown District': P
       Barbershop:
-        B > Zoning District — Conditional Or Permitted Use "C-1," "C-2, "C-3," "DT" > "C-1" Neighborhood: P
-        B > Zoning District — Conditional Or Permitted Use "C-1," "C-2, "C-3," "DT" > "C-2" General: P
-        B > Zoning District — Conditional Or Permitted Use "C-1," "C-2, "C-3," "DT" > "C-3" Highway: P
-        B > Zoning District — Conditional Or Permitted Use "C-1," "C-2, "C-3," "DT" > "DT" Downtown District: P
+        B:
+          Zoning District — Conditional Or Permitted Use "C-1," "C-2, "C-3," "DT":
+            '"C-1" Neighborhood': P
+            '"C-2" General': P
+            '"C-3" Highway': P
+            '"DT" Downtown District': P
       Beauty shop:
-        B > Zoning District — Conditional Or Permitted Use "C-1," "C-2, "C-3," "DT" > "C-1" Neighborhood: P
-        B > Zoning District — Conditional Or Permitted Use "C-1," "C-2, "C-3," "DT" > "C-2" General: P
-        B > Zoning District — Conditional Or Permitted Use "C-1," "C-2, "C-3," "DT" > "C-3" Highway: P
-        B > Zoning District — Conditional Or Permitted Use "C-1," "C-2, "C-3," "DT" > "DT" Downtown District: P
+        B:
+          Zoning District — Conditional Or Permitted Use "C-1," "C-2, "C-3," "DT":
+            '"C-1" Neighborhood': P
+            '"C-2" General': P
+            '"C-3" Highway': P
+            '"DT" Downtown District': P
       Book or stationery store:
-        B > Zoning District — Conditional Or Permitted Use "C-1," "C-2, "C-3," "DT" > "C-1" Neighborhood: P
-        B > Zoning District — Conditional Or Permitted Use "C-1," "C-2, "C-3," "DT" > "C-2" General: P
-        B > Zoning District — Conditional Or Permitted Use "C-1," "C-2, "C-3," "DT" > "C-3" Highway: P
-        B > Zoning District — Conditional Or Permitted Use "C-1," "C-2, "C-3," "DT" > "DT" Downtown District: P
+        B:
+          Zoning District — Conditional Or Permitted Use "C-1," "C-2, "C-3," "DT":
+            '"C-1" Neighborhood': P
+            '"C-2" General': P
+            '"C-3" Highway': P
+            '"DT" Downtown District': P
       Camera shop:
-        B > Zoning District — Conditional Or Permitted Use "C-1," "C-2, "C-3," "DT" > "C-1" Neighborhood: P
-        B > Zoning District — Conditional Or Permitted Use "C-1," "C-2, "C-3," "DT" > "C-2" General: P
-        B > Zoning District — Conditional Or Permitted Use "C-1," "C-2, "C-3," "DT" > "C-3" Highway: P
-        B > Zoning District — Conditional Or Permitted Use "C-1," "C-2, "C-3," "DT" > "DT" Downtown District: P
+        B:
+          Zoning District — Conditional Or Permitted Use "C-1," "C-2, "C-3," "DT":
+            '"C-1" Neighborhood': P
+            '"C-2" General': P
+            '"C-3" Highway': P
+            '"DT" Downtown District': P
       Candy store:
-        B > Zoning District — Conditional Or Permitted Use "C-1," "C-2, "C-3," "DT" > "C-1" Neighborhood: P
-        B > Zoning District — Conditional Or Permitted Use "C-1," "C-2, "C-3," "DT" > "C-2" General: P
-        B > Zoning District — Conditional Or Permitted Use "C-1," "C-2, "C-3," "DT" > "C-3" Highway: P
-        B > Zoning District — Conditional Or Permitted Use "C-1," "C-2, "C-3," "DT" > "DT" Downtown District: P
+        B:
+          Zoning District — Conditional Or Permitted Use "C-1," "C-2, "C-3," "DT":
+            '"C-1" Neighborhood': P
+            '"C-2" General': P
+            '"C-3" Highway': P
+            '"DT" Downtown District': P
       Catering establishment:
-        B > Zoning District — Conditional Or Permitted Use "C-1," "C-2, "C-3," "DT" > "C-1" Neighborhood: P
-        B > Zoning District — Conditional Or Permitted Use "C-1," "C-2, "C-3," "DT" > "C-2" General: P
-        B > Zoning District — Conditional Or Permitted Use "C-1," "C-2, "C-3," "DT" > "C-3" Highway: P
-        B > Zoning District — Conditional Or Permitted Use "C-1," "C-2, "C-3," "DT" > "DT" Downtown District: P
+        B:
+          Zoning District — Conditional Or Permitted Use "C-1," "C-2, "C-3," "DT":
+            '"C-1" Neighborhood': P
+            '"C-2" General': P
+            '"C-3" Highway': P
+            '"DT" Downtown District': P
       Curio or gift shop:
-        B > Zoning District — Conditional Or Permitted Use "C-1," "C-2, "C-3," "DT" > "C-1" Neighborhood: P
-        B > Zoning District — Conditional Or Permitted Use "C-1," "C-2, "C-3," "DT" > "C-2" General: P
-        B > Zoning District — Conditional Or Permitted Use "C-1," "C-2, "C-3," "DT" > "C-3" Highway: P
-        B > Zoning District — Conditional Or Permitted Use "C-1," "C-2, "C-3," "DT" > "DT" Downtown District: P
+        B:
+          Zoning District — Conditional Or Permitted Use "C-1," "C-2, "C-3," "DT":
+            '"C-1" Neighborhood': P
+            '"C-2" General': P
+            '"C-3" Highway': P
+            '"DT" Downtown District': P
       Drug shop or fountain:
-        B > Zoning District — Conditional Or Permitted Use "C-1," "C-2, "C-3," "DT" > "C-1" Neighborhood: P
-        B > Zoning District — Conditional Or Permitted Use "C-1," "C-2, "C-3," "DT" > "C-2" General: P
-        B > Zoning District — Conditional Or Permitted Use "C-1," "C-2, "C-3," "DT" > "C-3" Highway: P
-        B > Zoning District — Conditional Or Permitted Use "C-1," "C-2, "C-3," "DT" > "DT" Downtown District: P
+        B:
+          Zoning District — Conditional Or Permitted Use "C-1," "C-2, "C-3," "DT":
+            '"C-1" Neighborhood': P
+            '"C-2" General': P
+            '"C-3" Highway': P
+            '"DT" Downtown District': P
       Dry goods store:
-        B > Zoning District — Conditional Or Permitted Use "C-1," "C-2, "C-3," "DT" > "C-1" Neighborhood: P
-        B > Zoning District — Conditional Or Permitted Use "C-1," "C-2, "C-3," "DT" > "C-2" General: P
-        B > Zoning District — Conditional Or Permitted Use "C-1," "C-2, "C-3," "DT" > "C-3" Highway: P
-        B > Zoning District — Conditional Or Permitted Use "C-1," "C-2, "C-3," "DT" > "DT" Downtown District: P
+        B:
+          Zoning District — Conditional Or Permitted Use "C-1," "C-2, "C-3," "DT":
+            '"C-1" Neighborhood': P
+            '"C-2" General': P
+            '"C-3" Highway': P
+            '"DT" Downtown District': P
       Dairy products or ice cream store:
-        B > Zoning District — Conditional Or Permitted Use "C-1," "C-2, "C-3," "DT" > "C-1" Neighborhood: P
-        B > Zoning District — Conditional Or Permitted Use "C-1," "C-2, "C-3," "DT" > "C-2" General: P
-        B > Zoning District — Conditional Or Permitted Use "C-1," "C-2, "C-3," "DT" > "C-3" Highway: P
-        B > Zoning District — Conditional Or Permitted Use "C-1," "C-2, "C-3," "DT" > "DT" Downtown District: P
+        B:
+          Zoning District — Conditional Or Permitted Use "C-1," "C-2, "C-3," "DT":
+            '"C-1" Neighborhood': P
+            '"C-2" General': P
+            '"C-3" Highway': P
+            '"DT" Downtown District': P
       Delicatessen:
-        B > Zoning District — Conditional Or Permitted Use "C-1," "C-2, "C-3," "DT" > "C-1" Neighborhood: P
-        B > Zoning District — Conditional Or Permitted Use "C-1," "C-2, "C-3," "DT" > "C-2" General: P
-        B > Zoning District — Conditional Or Permitted Use "C-1," "C-2, "C-3," "DT" > "C-3" Highway: P
-        B > Zoning District — Conditional Or Permitted Use "C-1," "C-2, "C-3," "DT" > "DT" Downtown District: P
+        B:
+          Zoning District — Conditional Or Permitted Use "C-1," "C-2, "C-3," "DT":
+            '"C-1" Neighborhood': P
+            '"C-2" General': P
+            '"C-3" Highway': P
+            '"DT" Downtown District': P
       Dress shop:
-        B > Zoning District — Conditional Or Permitted Use "C-1," "C-2, "C-3," "DT" > "C-1" Neighborhood: P
-        B > Zoning District — Conditional Or Permitted Use "C-1," "C-2, "C-3," "DT" > "C-2" General: P
-        B > Zoning District — Conditional Or Permitted Use "C-1," "C-2, "C-3," "DT" > "C-3" Highway: P
-        B > Zoning District — Conditional Or Permitted Use "C-1," "C-2, "C-3," "DT" > "DT" Downtown District: P
+        B:
+          Zoning District — Conditional Or Permitted Use "C-1," "C-2, "C-3," "DT":
+            '"C-1" Neighborhood': P
+            '"C-2" General': P
+            '"C-3" Highway': P
+            '"DT" Downtown District': P
       Fireworks sales:
-        B > Zoning District — Conditional Or Permitted Use "C-1," "C-2, "C-3," "DT" > "C-1" Neighborhood: ''
-        B > Zoning District — Conditional Or Permitted Use "C-1," "C-2, "C-3," "DT" > "C-2" General: ''
-        B > Zoning District — Conditional Or Permitted Use "C-1," "C-2, "C-3," "DT" > "C-3" Highway: P
-        B > Zoning District — Conditional Or Permitted Use "C-1," "C-2, "C-3," "DT" > "DT" Downtown District: P
+        B:
+          Zoning District — Conditional Or Permitted Use "C-1," "C-2, "C-3," "DT":
+            '"C-1" Neighborhood': ''
+            '"C-2" General': ''
+            '"C-3" Highway': P
+            '"DT" Downtown District': P
       Florist shop, greenhouse, nursery:
-        B > Zoning District — Conditional Or Permitted Use "C-1," "C-2, "C-3," "DT" > "C-1" Neighborhood: P
-        B > Zoning District — Conditional Or Permitted Use "C-1," "C-2, "C-3," "DT" > "C-2" General: P
-        B > Zoning District — Conditional Or Permitted Use "C-1," "C-2, "C-3," "DT" > "C-3" Highway: P
-        B > Zoning District — Conditional Or Permitted Use "C-1," "C-2, "C-3," "DT" > "DT" Downtown District: P
+        B:
+          Zoning District — Conditional Or Permitted Use "C-1," "C-2, "C-3," "DT":
+            '"C-1" Neighborhood': P
+            '"C-2" General': P
+            '"C-3" Highway': P
+            '"DT" Downtown District': P
       Furniture store:
-        B > Zoning District — Conditional Or Permitted Use "C-1," "C-2, "C-3," "DT" > "C-1" Neighborhood: ''
-        B > Zoning District — Conditional Or Permitted Use "C-1," "C-2, "C-3," "DT" > "C-2" General: P
-        B > Zoning District — Conditional Or Permitted Use "C-1," "C-2, "C-3," "DT" > "C-3" Highway: P
-        B > Zoning District — Conditional Or Permitted Use "C-1," "C-2, "C-3," "DT" > "DT" Downtown District: P
+        B:
+          Zoning District — Conditional Or Permitted Use "C-1," "C-2, "C-3," "DT":
+            '"C-1" Neighborhood': ''
+            '"C-2" General': P
+            '"C-3" Highway': P
+            '"DT" Downtown District': P
       Funeral Home/Mortuary:
-        B > Zoning District — Conditional Or Permitted Use "C-1," "C-2, "C-3," "DT" > "C-1" Neighborhood: P
-        B > Zoning District — Conditional Or Permitted Use "C-1," "C-2, "C-3," "DT" > "C-2" General: P
-        B > Zoning District — Conditional Or Permitted Use "C-1," "C-2, "C-3," "DT" > "C-3" Highway: P
-        B > Zoning District — Conditional Or Permitted Use "C-1," "C-2, "C-3," "DT" > "DT" Downtown District: P
+        B:
+          Zoning District — Conditional Or Permitted Use "C-1," "C-2, "C-3," "DT":
+            '"C-1" Neighborhood': P
+            '"C-2" General': P
+            '"C-3" Highway': P
+            '"DT" Downtown District': P
       Grocery store, quick shop:
-        B > Zoning District — Conditional Or Permitted Use "C-1," "C-2, "C-3," "DT" > "C-1" Neighborhood: P
-        B > Zoning District — Conditional Or Permitted Use "C-1," "C-2, "C-3," "DT" > "C-2" General: P
-        B > Zoning District — Conditional Or Permitted Use "C-1," "C-2, "C-3," "DT" > "C-3" Highway: P
-        B > Zoning District — Conditional Or Permitted Use "C-1," "C-2, "C-3," "DT" > "DT" Downtown District: P
+        B:
+          Zoning District — Conditional Or Permitted Use "C-1," "C-2, "C-3," "DT":
+            '"C-1" Neighborhood': P
+            '"C-2" General': P
+            '"C-3" Highway': P
+            '"DT" Downtown District': P
       Hardware store:
-        B > Zoning District — Conditional Or Permitted Use "C-1," "C-2, "C-3," "DT" > "C-1" Neighborhood: ''
-        B > Zoning District — Conditional Or Permitted Use "C-1," "C-2, "C-3," "DT" > "C-2" General: P
-        B > Zoning District — Conditional Or Permitted Use "C-1," "C-2, "C-3," "DT" > "C-3" Highway: P
-        B > Zoning District — Conditional Or Permitted Use "C-1," "C-2, "C-3," "DT" > "DT" Downtown District: P
+        B:
+          Zoning District — Conditional Or Permitted Use "C-1," "C-2, "C-3," "DT":
+            '"C-1" Neighborhood': ''
+            '"C-2" General': P
+            '"C-3" Highway': P
+            '"DT" Downtown District': P
       Jewelry or notion store:
-        B > Zoning District — Conditional Or Permitted Use "C-1," "C-2, "C-3," "DT" > "C-1" Neighborhood: P
-        B > Zoning District — Conditional Or Permitted Use "C-1," "C-2, "C-3," "DT" > "C-2" General: P
-        B > Zoning District — Conditional Or Permitted Use "C-1," "C-2, "C-3," "DT" > "C-3" Highway: P
-        B > Zoning District — Conditional Or Permitted Use "C-1," "C-2, "C-3," "DT" > "DT" Downtown District: P
+        B:
+          Zoning District — Conditional Or Permitted Use "C-1," "C-2, "C-3," "DT":
+            '"C-1" Neighborhood': P
+            '"C-2" General': P
+            '"C-3" Highway': P
+            '"DT" Downtown District': P
       Lodge hall:
-        B > Zoning District — Conditional Or Permitted Use "C-1," "C-2, "C-3," "DT" > "C-1" Neighborhood: ''
-        B > Zoning District — Conditional Or Permitted Use "C-1," "C-2, "C-3," "DT" > "C-2" General: P
-        B > Zoning District — Conditional Or Permitted Use "C-1," "C-2, "C-3," "DT" > "C-3" Highway: P
-        B > Zoning District — Conditional Or Permitted Use "C-1," "C-2, "C-3," "DT" > "DT" Downtown District: P
+        B:
+          Zoning District — Conditional Or Permitted Use "C-1," "C-2, "C-3," "DT":
+            '"C-1" Neighborhood': ''
+            '"C-2" General': P
+            '"C-3" Highway': P
+            '"DT" Downtown District': P
       Machine shop:
-        B > Zoning District — Conditional Or Permitted Use "C-1," "C-2, "C-3," "DT" > "C-1" Neighborhood: ''
-        B > Zoning District — Conditional Or Permitted Use "C-1," "C-2, "C-3," "DT" > "C-2" General: P
-        B > Zoning District — Conditional Or Permitted Use "C-1," "C-2, "C-3," "DT" > "C-3" Highway: P
-        B > Zoning District — Conditional Or Permitted Use "C-1," "C-2, "C-3," "DT" > "DT" Downtown District: P
+        B:
+          Zoning District — Conditional Or Permitted Use "C-1," "C-2, "C-3," "DT":
+            '"C-1" Neighborhood': ''
+            '"C-2" General': P
+            '"C-3" Highway': P
+            '"DT" Downtown District': P
       Meat market:
-        B > Zoning District — Conditional Or Permitted Use "C-1," "C-2, "C-3," "DT" > "C-1" Neighborhood: P
-        B > Zoning District — Conditional Or Permitted Use "C-1," "C-2, "C-3," "DT" > "C-2" General: P
-        B > Zoning District — Conditional Or Permitted Use "C-1," "C-2, "C-3," "DT" > "C-3" Highway: P
-        B > Zoning District — Conditional Or Permitted Use "C-1," "C-2, "C-3," "DT" > "DT" Downtown District: P
+        B:
+          Zoning District — Conditional Or Permitted Use "C-1," "C-2, "C-3," "DT":
+            '"C-1" Neighborhood': P
+            '"C-2" General': P
+            '"C-3" Highway': P
+            '"DT" Downtown District': P
       Medical facility (g):
-        B > Zoning District — Conditional Or Permitted Use "C-1," "C-2, "C-3," "DT" > "C-1" Neighborhood: P
-        B > Zoning District — Conditional Or Permitted Use "C-1," "C-2, "C-3," "DT" > "C-2" General: P
-        B > Zoning District — Conditional Or Permitted Use "C-1," "C-2, "C-3," "DT" > "C-3" Highway: P
-        B > Zoning District — Conditional Or Permitted Use "C-1," "C-2, "C-3," "DT" > "DT" Downtown District: P
+        B:
+          Zoning District — Conditional Or Permitted Use "C-1," "C-2, "C-3," "DT":
+            '"C-1" Neighborhood': P
+            '"C-2" General': P
+            '"C-3" Highway': P
+            '"DT" Downtown District': P
       Marijuana dispensaries, including microbusiness dispensaries (h):
-        B > Zoning District — Conditional Or Permitted Use "C-1," "C-2, "C-3," "DT" > "C-1" Neighborhood: ''
-        B > Zoning District — Conditional Or Permitted Use "C-1," "C-2, "C-3," "DT" > "C-2" General: P
-        B > Zoning District — Conditional Or Permitted Use "C-1," "C-2, "C-3," "DT" > "C-3" Highway: P
-        B > Zoning District — Conditional Or Permitted Use "C-1," "C-2, "C-3," "DT" > "DT" Downtown District: ''
+        B:
+          Zoning District — Conditional Or Permitted Use "C-1," "C-2, "C-3," "DT":
+            '"C-1" Neighborhood': ''
+            '"C-2" General': P
+            '"C-3" Highway': P
+            '"DT" Downtown District': ''
       Messenger or telegraph service:
-        B > Zoning District — Conditional Or Permitted Use "C-1," "C-2, "C-3," "DT" > "C-1" Neighborhood: P
-        B > Zoning District — Conditional Or Permitted Use "C-1," "C-2, "C-3," "DT" > "C-2" General: P
-        B > Zoning District — Conditional Or Permitted Use "C-1," "C-2, "C-3," "DT" > "C-3" Highway: P
-        B > Zoning District — Conditional Or Permitted Use "C-1," "C-2, "C-3," "DT" > "DT" Downtown District: P
+        B:
+          Zoning District — Conditional Or Permitted Use "C-1," "C-2, "C-3," "DT":
+            '"C-1" Neighborhood': P
+            '"C-2" General': P
+            '"C-3" Highway': P
+            '"DT" Downtown District': P
       Musical instrument sales:
-        B > Zoning District — Conditional Or Permitted Use "C-1," "C-2, "C-3," "DT" > "C-1" Neighborhood: P
-        B > Zoning District — Conditional Or Permitted Use "C-1," "C-2, "C-3," "DT" > "C-2" General: P
-        B > Zoning District — Conditional Or Permitted Use "C-1," "C-2, "C-3," "DT" > "C-3" Highway: P
-        B > Zoning District — Conditional Or Permitted Use "C-1," "C-2, "C-3," "DT" > "DT" Downtown District: P
+        B:
+          Zoning District — Conditional Or Permitted Use "C-1," "C-2, "C-3," "DT":
+            '"C-1" Neighborhood': P
+            '"C-2" General': P
+            '"C-3" Highway': P
+            '"DT" Downtown District': P
       Office business:
-        B > Zoning District — Conditional Or Permitted Use "C-1," "C-2, "C-3," "DT" > "C-1" Neighborhood: P
-        B > Zoning District — Conditional Or Permitted Use "C-1," "C-2, "C-3," "DT" > "C-2" General: P
-        B > Zoning District — Conditional Or Permitted Use "C-1," "C-2, "C-3," "DT" > "C-3" Highway: P
-        B > Zoning District — Conditional Or Permitted Use "C-1," "C-2, "C-3," "DT" > "DT" Downtown District: P
+        B:
+          Zoning District — Conditional Or Permitted Use "C-1," "C-2, "C-3," "DT":
+            '"C-1" Neighborhood': P
+            '"C-2" General': P
+            '"C-3" Highway': P
+            '"DT" Downtown District': P
       Optometrist sales and service:
-        B > Zoning District — Conditional Or Permitted Use "C-1," "C-2, "C-3," "DT" > "C-1" Neighborhood: P
-        B > Zoning District — Conditional Or Permitted Use "C-1," "C-2, "C-3," "DT" > "C-2" General: P
-        B > Zoning District — Conditional Or Permitted Use "C-1," "C-2, "C-3," "DT" > "C-3" Highway: P
-        B > Zoning District — Conditional Or Permitted Use "C-1," "C-2, "C-3," "DT" > "DT" Downtown District: P
+        B:
+          Zoning District — Conditional Or Permitted Use "C-1," "C-2, "C-3," "DT":
+            '"C-1" Neighborhood': P
+            '"C-2" General': P
+            '"C-3" Highway': P
+            '"DT" Downtown District': P
       Photographer sales and service:
-        B > Zoning District — Conditional Or Permitted Use "C-1," "C-2, "C-3," "DT" > "C-1" Neighborhood: P
-        B > Zoning District — Conditional Or Permitted Use "C-1," "C-2, "C-3," "DT" > "C-2" General: P
-        B > Zoning District — Conditional Or Permitted Use "C-1," "C-2, "C-3," "DT" > "C-3" Highway: P
-        B > Zoning District — Conditional Or Permitted Use "C-1," "C-2, "C-3," "DT" > "DT" Downtown District: P
+        B:
+          Zoning District — Conditional Or Permitted Use "C-1," "C-2, "C-3," "DT":
+            '"C-1" Neighborhood': P
+            '"C-2" General': P
+            '"C-3" Highway': P
+            '"DT" Downtown District': P
       Restaurant, conventional:
-        B > Zoning District — Conditional Or Permitted Use "C-1," "C-2, "C-3," "DT" > "C-1" Neighborhood: ''
-        B > Zoning District — Conditional Or Permitted Use "C-1," "C-2, "C-3," "DT" > "C-2" General: P
-        B > Zoning District — Conditional Or Permitted Use "C-1," "C-2, "C-3," "DT" > "C-3" Highway: P
-        B > Zoning District — Conditional Or Permitted Use "C-1," "C-2, "C-3," "DT" > "DT" Downtown District: P
+        B:
+          Zoning District — Conditional Or Permitted Use "C-1," "C-2, "C-3," "DT":
+            '"C-1" Neighborhood': ''
+            '"C-2" General': P
+            '"C-3" Highway': P
+            '"DT" Downtown District': P
       Self-service laundry or dry cleaning:
-        B > Zoning District — Conditional Or Permitted Use "C-1," "C-2, "C-3," "DT" > "C-1" Neighborhood: CU
-        B > Zoning District — Conditional Or Permitted Use "C-1," "C-2, "C-3," "DT" > "C-2" General: P
-        B > Zoning District — Conditional Or Permitted Use "C-1," "C-2, "C-3," "DT" > "C-3" Highway: P
-        B > Zoning District — Conditional Or Permitted Use "C-1," "C-2, "C-3," "DT" > "DT" Downtown District: P
+        B:
+          Zoning District — Conditional Or Permitted Use "C-1," "C-2, "C-3," "DT":
+            '"C-1" Neighborhood': CU
+            '"C-2" General': P
+            '"C-3" Highway': P
+            '"DT" Downtown District': P
       Sewing machine sales, instruction:
-        B > Zoning District — Conditional Or Permitted Use "C-1," "C-2, "C-3," "DT" > "C-1" Neighborhood: ''
-        B > Zoning District — Conditional Or Permitted Use "C-1," "C-2, "C-3," "DT" > "C-2" General: P
-        B > Zoning District — Conditional Or Permitted Use "C-1," "C-2, "C-3," "DT" > "C-3" Highway: P
-        B > Zoning District — Conditional Or Permitted Use "C-1," "C-2, "C-3," "DT" > "DT" Downtown District: P
+        B:
+          Zoning District — Conditional Or Permitted Use "C-1," "C-2, "C-3," "DT":
+            '"C-1" Neighborhood': ''
+            '"C-2" General': P
+            '"C-3" Highway': P
+            '"DT" Downtown District': P
       Sporting goods sales:
-        B > Zoning District — Conditional Or Permitted Use "C-1," "C-2, "C-3," "DT" > "C-1" Neighborhood: ''
-        B > Zoning District — Conditional Or Permitted Use "C-1," "C-2, "C-3," "DT" > "C-2" General: P
-        B > Zoning District — Conditional Or Permitted Use "C-1," "C-2, "C-3," "DT" > "C-3" Highway: P
-        B > Zoning District — Conditional Or Permitted Use "C-1," "C-2, "C-3," "DT" > "DT" Downtown District: P
+        B:
+          Zoning District — Conditional Or Permitted Use "C-1," "C-2, "C-3," "DT":
+            '"C-1" Neighborhood': ''
+            '"C-2" General': P
+            '"C-3" Highway': P
+            '"DT" Downtown District': P
       Shoe repair shop:
-        B > Zoning District — Conditional Or Permitted Use "C-1," "C-2, "C-3," "DT" > "C-1" Neighborhood: CU
-        B > Zoning District — Conditional Or Permitted Use "C-1," "C-2, "C-3," "DT" > "C-2" General: P
-        B > Zoning District — Conditional Or Permitted Use "C-1," "C-2, "C-3," "DT" > "C-3" Highway: P
-        B > Zoning District — Conditional Or Permitted Use "C-1," "C-2, "C-3," "DT" > "DT" Downtown District: P
+        B:
+          Zoning District — Conditional Or Permitted Use "C-1," "C-2, "C-3," "DT":
+            '"C-1" Neighborhood': CU
+            '"C-2" General': P
+            '"C-3" Highway': P
+            '"DT" Downtown District': P
       Tailor shop:
-        B > Zoning District — Conditional Or Permitted Use "C-1," "C-2, "C-3," "DT" > "C-1" Neighborhood: P
-        B > Zoning District — Conditional Or Permitted Use "C-1," "C-2, "C-3," "DT" > "C-2" General: P
-        B > Zoning District — Conditional Or Permitted Use "C-1," "C-2, "C-3," "DT" > "C-3" Highway: P
-        B > Zoning District — Conditional Or Permitted Use "C-1," "C-2, "C-3," "DT" > "DT" Downtown District: P
+        B:
+          Zoning District — Conditional Or Permitted Use "C-1," "C-2, "C-3," "DT":
+            '"C-1" Neighborhood': P
+            '"C-2" General': P
+            '"C-3" Highway': P
+            '"DT" Downtown District': P
       Toy store:
-        B > Zoning District — Conditional Or Permitted Use "C-1," "C-2, "C-3," "DT" > "C-1" Neighborhood: ''
-        B > Zoning District — Conditional Or Permitted Use "C-1," "C-2, "C-3," "DT" > "C-2" General: P
-        B > Zoning District — Conditional Or Permitted Use "C-1," "C-2, "C-3," "DT" > "C-3" Highway: P
-        B > Zoning District — Conditional Or Permitted Use "C-1," "C-2, "C-3," "DT" > "DT" Downtown District: P
+        B:
+          Zoning District — Conditional Or Permitted Use "C-1," "C-2, "C-3," "DT":
+            '"C-1" Neighborhood': ''
+            '"C-2" General': P
+            '"C-3" Highway': P
+            '"DT" Downtown District': P
       Variety store:
-        B > Zoning District — Conditional Or Permitted Use "C-1," "C-2, "C-3," "DT" > "C-1" Neighborhood: ''
-        B > Zoning District — Conditional Or Permitted Use "C-1," "C-2, "C-3," "DT" > "C-2" General: P
-        B > Zoning District — Conditional Or Permitted Use "C-1," "C-2, "C-3," "DT" > "C-3" Highway: P
-        B > Zoning District — Conditional Or Permitted Use "C-1," "C-2, "C-3," "DT" > "DT" Downtown District: P
+        B:
+          Zoning District — Conditional Or Permitted Use "C-1," "C-2, "C-3," "DT":
+            '"C-1" Neighborhood': ''
+            '"C-2" General': P
+            '"C-3" Highway': P
+            '"DT" Downtown District': P
       Name plate and sign relating to the use of the store and premises or to products on the premises:
-        B > Zoning District — Conditional Or Permitted Use "C-1," "C-2, "C-3," "DT" > "C-1" Neighborhood: ''
-        B > Zoning District — Conditional Or Permitted Use "C-1," "C-2, "C-3," "DT" > "C-2" General: P
-        B > Zoning District — Conditional Or Permitted Use "C-1," "C-2, "C-3," "DT" > "C-3" Highway: P
-        B > Zoning District — Conditional Or Permitted Use "C-1," "C-2, "C-3," "DT" > "DT" Downtown District: P
+        B:
+          Zoning District — Conditional Or Permitted Use "C-1," "C-2, "C-3," "DT":
+            '"C-1" Neighborhood': ''
+            '"C-2" General': P
+            '"C-3" Highway': P
+            '"DT" Downtown District': P
       Accessory buildings and uses customarily incidental to the above uses:
-        B > Zoning District — Conditional Or Permitted Use "C-1," "C-2, "C-3," "DT" > "C-1" Neighborhood: P
-        B > Zoning District — Conditional Or Permitted Use "C-1," "C-2, "C-3," "DT" > "C-2" General: P
-        B > Zoning District — Conditional Or Permitted Use "C-1," "C-2, "C-3," "DT" > "C-3" Highway: P
-        B > Zoning District — Conditional Or Permitted Use "C-1," "C-2, "C-3," "DT" > "DT" Downtown District: ''
+        B:
+          Zoning District — Conditional Or Permitted Use "C-1," "C-2, "C-3," "DT":
+            '"C-1" Neighborhood': P
+            '"C-2" General': P
+            '"C-3" Highway': P
+            '"DT" Downtown District': ''
       Frozen food locker:
-        B > Zoning District — Conditional Or Permitted Use "C-1," "C-2, "C-3," "DT" > "C-1" Neighborhood: ''
-        B > Zoning District — Conditional Or Permitted Use "C-1," "C-2, "C-3," "DT" > "C-2" General: P
-        B > Zoning District — Conditional Or Permitted Use "C-1," "C-2, "C-3," "DT" > "C-3" Highway: P
-        B > Zoning District — Conditional Or Permitted Use "C-1," "C-2, "C-3," "DT" > "DT" Downtown District: P
+        B:
+          Zoning District — Conditional Or Permitted Use "C-1," "C-2, "C-3," "DT":
+            '"C-1" Neighborhood': ''
+            '"C-2" General': P
+            '"C-3" Highway': P
+            '"DT" Downtown District': P
       Kennel:
-        B > Zoning District — Conditional Or Permitted Use "C-1," "C-2, "C-3," "DT" > "C-1" Neighborhood: ''
-        B > Zoning District — Conditional Or Permitted Use "C-1," "C-2, "C-3," "DT" > "C-2" General: CU
-        B > Zoning District — Conditional Or Permitted Use "C-1," "C-2, "C-3," "DT" > "C-3" Highway: CU
-        B > Zoning District — Conditional Or Permitted Use "C-1," "C-2, "C-3," "DT" > "DT" Downtown District: ''
+        B:
+          Zoning District — Conditional Or Permitted Use "C-1," "C-2, "C-3," "DT":
+            '"C-1" Neighborhood': ''
+            '"C-2" General': CU
+            '"C-3" Highway': CU
+            '"DT" Downtown District': ''
       Laboratories, testing:
-        B > Zoning District — Conditional Or Permitted Use "C-1," "C-2, "C-3," "DT" > "C-1" Neighborhood: ''
-        B > Zoning District — Conditional Or Permitted Use "C-1," "C-2, "C-3," "DT" > "C-2" General: P
-        B > Zoning District — Conditional Or Permitted Use "C-1," "C-2, "C-3," "DT" > "C-3" Highway: P
-        B > Zoning District — Conditional Or Permitted Use "C-1," "C-2, "C-3," "DT" > "DT" Downtown District: ''
+        B:
+          Zoning District — Conditional Or Permitted Use "C-1," "C-2, "C-3," "DT":
+            '"C-1" Neighborhood': ''
+            '"C-2" General': P
+            '"C-3" Highway': P
+            '"DT" Downtown District': ''
       Laboratories, research:
-        B > Zoning District — Conditional Or Permitted Use "C-1," "C-2, "C-3," "DT" > "C-1" Neighborhood: ''
-        B > Zoning District — Conditional Or Permitted Use "C-1," "C-2, "C-3," "DT" > "C-2" General: P
-        B > Zoning District — Conditional Or Permitted Use "C-1," "C-2, "C-3," "DT" > "C-3" Highway: P
-        B > Zoning District — Conditional Or Permitted Use "C-1," "C-2, "C-3," "DT" > "DT" Downtown District: ''
+        B:
+          Zoning District — Conditional Or Permitted Use "C-1," "C-2, "C-3," "DT":
+            '"C-1" Neighborhood': ''
+            '"C-2" General': P
+            '"C-3" Highway': P
+            '"DT" Downtown District': ''
       Printing, publishing, and allied industries:
-        B > Zoning District — Conditional Or Permitted Use "C-1," "C-2, "C-3," "DT" > "C-1" Neighborhood: ''
-        B > Zoning District — Conditional Or Permitted Use "C-1," "C-2, "C-3," "DT" > "C-2" General: P
-        B > Zoning District — Conditional Or Permitted Use "C-1," "C-2, "C-3," "DT" > "C-3" Highway: P
-        B > Zoning District — Conditional Or Permitted Use "C-1," "C-2, "C-3," "DT" > "DT" Downtown District: P
+        B:
+          Zoning District — Conditional Or Permitted Use "C-1," "C-2, "C-3," "DT":
+            '"C-1" Neighborhood': ''
+            '"C-2" General': P
+            '"C-3" Highway': P
+            '"DT" Downtown District': P
       Veterinary clinic for small animals all within enclosed structures (e):
-        B > Zoning District — Conditional Or Permitted Use "C-1," "C-2, "C-3," "DT" > "C-1" Neighborhood: ''
-        B > Zoning District — Conditional Or Permitted Use "C-1," "C-2, "C-3," "DT" > "C-2" General: P
-        B > Zoning District — Conditional Or Permitted Use "C-1," "C-2, "C-3," "DT" > "C-3" Highway: P
-        B > Zoning District — Conditional Or Permitted Use "C-1," "C-2, "C-3," "DT" > "DT" Downtown District: ''
+        B:
+          Zoning District — Conditional Or Permitted Use "C-1," "C-2, "C-3," "DT":
+            '"C-1" Neighborhood': ''
+            '"C-2" General': P
+            '"C-3" Highway': P
+            '"DT" Downtown District': ''
     Open Display Commercial (d):
       Boat sales, service and minor repair:
-        B > Zoning District — Conditional Or Permitted Use "C-1," "C-2, "C-3," "DT" > "C-1" Neighborhood: ''
-        B > Zoning District — Conditional Or Permitted Use "C-1," "C-2, "C-3," "DT" > "C-2" General: P
-        B > Zoning District — Conditional Or Permitted Use "C-1," "C-2, "C-3," "DT" > "C-3" Highway: P
-        B > Zoning District — Conditional Or Permitted Use "C-1," "C-2, "C-3," "DT" > "DT" Downtown District: ''
+        B:
+          Zoning District — Conditional Or Permitted Use "C-1," "C-2, "C-3," "DT":
+            '"C-1" Neighborhood': ''
+            '"C-2" General': P
+            '"C-3" Highway': P
+            '"DT" Downtown District': ''
       Farm implement and machinery, new and used sales:
-        B > Zoning District — Conditional Or Permitted Use "C-1," "C-2, "C-3," "DT" > "C-1" Neighborhood: ''
-        B > Zoning District — Conditional Or Permitted Use "C-1," "C-2, "C-3," "DT" > "C-2" General: P
-        B > Zoning District — Conditional Or Permitted Use "C-1," "C-2, "C-3," "DT" > "C-3" Highway: P
-        B > Zoning District — Conditional Or Permitted Use "C-1," "C-2, "C-3," "DT" > "DT" Downtown District: ''
+        B:
+          Zoning District — Conditional Or Permitted Use "C-1," "C-2, "C-3," "DT":
+            '"C-1" Neighborhood': ''
+            '"C-2" General': P
+            '"C-3" Highway': P
+            '"DT" Downtown District': ''
       Metal and wood fencing, ornamental grillwork and decorative wrought iron work and play equipment sales:
-        B > Zoning District — Conditional Or Permitted Use "C-1," "C-2, "C-3," "DT" > "C-1" Neighborhood: ''
-        B > Zoning District — Conditional Or Permitted Use "C-1," "C-2, "C-3," "DT" > "C-2" General: P
-        B > Zoning District — Conditional Or Permitted Use "C-1," "C-2, "C-3," "DT" > "C-3" Highway: P
-        B > Zoning District — Conditional Or Permitted Use "C-1," "C-2, "C-3," "DT" > "DT" Downtown District: ''
+        B:
+          Zoning District — Conditional Or Permitted Use "C-1," "C-2, "C-3," "DT":
+            '"C-1" Neighborhood': ''
+            '"C-2" General': P
+            '"C-3" Highway': P
+            '"DT" Downtown District': ''
       Mobile home and travel trailer sales:
-        B > Zoning District — Conditional Or Permitted Use "C-1," "C-2, "C-3," "DT" > "C-1" Neighborhood: ''
-        B > Zoning District — Conditional Or Permitted Use "C-1," "C-2, "C-3," "DT" > "C-2" General: P
-        B > Zoning District — Conditional Or Permitted Use "C-1," "C-2, "C-3," "DT" > "C-3" Highway: P
-        B > Zoning District — Conditional Or Permitted Use "C-1," "C-2, "C-3," "DT" > "DT" Downtown District: ''
+        B:
+          Zoning District — Conditional Or Permitted Use "C-1," "C-2, "C-3," "DT":
+            '"C-1" Neighborhood': ''
+            '"C-2" General': P
+            '"C-3" Highway': P
+            '"DT" Downtown District': ''
       Monument sales:
-        B > Zoning District — Conditional Or Permitted Use "C-1," "C-2, "C-3," "DT" > "C-1" Neighborhood: ''
-        B > Zoning District — Conditional Or Permitted Use "C-1," "C-2, "C-3," "DT" > "C-2" General: P
-        B > Zoning District — Conditional Or Permitted Use "C-1," "C-2, "C-3," "DT" > "C-3" Highway: P
-        B > Zoning District — Conditional Or Permitted Use "C-1," "C-2, "C-3," "DT" > "DT" Downtown District: ''
+        B:
+          Zoning District — Conditional Or Permitted Use "C-1," "C-2, "C-3," "DT":
+            '"C-1" Neighborhood': ''
+            '"C-2" General': P
+            '"C-3" Highway': P
+            '"DT" Downtown District': ''
       New and used automobile sales:
-        B > Zoning District — Conditional Or Permitted Use "C-1," "C-2, "C-3," "DT" > "C-1" Neighborhood: ''
-        B > Zoning District — Conditional Or Permitted Use "C-1," "C-2, "C-3," "DT" > "C-2" General: P
-        B > Zoning District — Conditional Or Permitted Use "C-1," "C-2, "C-3," "DT" > "C-3" Highway: P
-        B > Zoning District — Conditional Or Permitted Use "C-1," "C-2, "C-3," "DT" > "DT" Downtown District: ''
+        B:
+          Zoning District — Conditional Or Permitted Use "C-1," "C-2, "C-3," "DT":
+            '"C-1" Neighborhood': ''
+            '"C-2" General': P
+            '"C-3" Highway': P
+            '"DT" Downtown District': ''
       Prefabricated house sales:
-        B > Zoning District — Conditional Or Permitted Use "C-1," "C-2, "C-3," "DT" > "C-1" Neighborhood: ''
-        B > Zoning District — Conditional Or Permitted Use "C-1," "C-2, "C-3," "DT" > "C-2" General: P
-        B > Zoning District — Conditional Or Permitted Use "C-1," "C-2, "C-3," "DT" > "C-3" Highway: P
-        B > Zoning District — Conditional Or Permitted Use "C-1," "C-2, "C-3," "DT" > "DT" Downtown District: ''
+        B:
+          Zoning District — Conditional Or Permitted Use "C-1," "C-2, "C-3," "DT":
+            '"C-1" Neighborhood': ''
+            '"C-2" General': P
+            '"C-3" Highway': P
+            '"DT" Downtown District': ''
       Trailers for hauling, rental and sales:
-        B > Zoning District — Conditional Or Permitted Use "C-1," "C-2, "C-3," "DT" > "C-1" Neighborhood: ''
-        B > Zoning District — Conditional Or Permitted Use "C-1," "C-2, "C-3," "DT" > "C-2" General: P
-        B > Zoning District — Conditional Or Permitted Use "C-1," "C-2, "C-3," "DT" > "C-3" Highway: P
-        B > Zoning District — Conditional Or Permitted Use "C-1," "C-2, "C-3," "DT" > "DT" Downtown District: ''
+        B:
+          Zoning District — Conditional Or Permitted Use "C-1," "C-2, "C-3," "DT":
+            '"C-1" Neighborhood': ''
+            '"C-2" General': P
+            '"C-3" Highway': P
+            '"DT" Downtown District': ''
     Wholesale Trade:
       Motor vehicles and automotive equipment:
-        B > Zoning District — Conditional Or Permitted Use "C-1," "C-2, "C-3," "DT" > "C-1" Neighborhood: ''
-        B > Zoning District — Conditional Or Permitted Use "C-1," "C-2, "C-3," "DT" > "C-2" General: P
-        B > Zoning District — Conditional Or Permitted Use "C-1," "C-2, "C-3," "DT" > "C-3" Highway: P
-        B > Zoning District — Conditional Or Permitted Use "C-1," "C-2, "C-3," "DT" > "DT" Downtown District: ''
+        B:
+          Zoning District — Conditional Or Permitted Use "C-1," "C-2, "C-3," "DT":
+            '"C-1" Neighborhood': ''
+            '"C-2" General': P
+            '"C-3" Highway': P
+            '"DT" Downtown District': ''
       Drugs and allied products:
-        B > Zoning District — Conditional Or Permitted Use "C-1," "C-2, "C-3," "DT" > "C-1" Neighborhood: ''
-        B > Zoning District — Conditional Or Permitted Use "C-1," "C-2, "C-3," "DT" > "C-2" General: P
-        B > Zoning District — Conditional Or Permitted Use "C-1," "C-2, "C-3," "DT" > "C-3" Highway: P
-        B > Zoning District — Conditional Or Permitted Use "C-1," "C-2, "C-3," "DT" > "DT" Downtown District: CU
+        B:
+          Zoning District — Conditional Or Permitted Use "C-1," "C-2, "C-3," "DT":
+            '"C-1" Neighborhood': ''
+            '"C-2" General': P
+            '"C-3" Highway': P
+            '"DT" Downtown District': CU
       Piece goods, notions, apparel:
-        B > Zoning District — Conditional Or Permitted Use "C-1," "C-2, "C-3," "DT" > "C-1" Neighborhood: ''
-        B > Zoning District — Conditional Or Permitted Use "C-1," "C-2, "C-3," "DT" > "C-2" General: P
-        B > Zoning District — Conditional Or Permitted Use "C-1," "C-2, "C-3," "DT" > "C-3" Highway: ''
-        B > Zoning District — Conditional Or Permitted Use "C-1," "C-2, "C-3," "DT" > "DT" Downtown District: ''
+        B:
+          Zoning District — Conditional Or Permitted Use "C-1," "C-2, "C-3," "DT":
+            '"C-1" Neighborhood': ''
+            '"C-2" General': P
+            '"C-3" Highway': ''
+            '"DT" Downtown District': ''
       Groceries and related products:
-        B > Zoning District — Conditional Or Permitted Use "C-1," "C-2, "C-3," "DT" > "C-1" Neighborhood: ''
-        B > Zoning District — Conditional Or Permitted Use "C-1," "C-2, "C-3," "DT" > "C-2" General: P
-        B > Zoning District — Conditional Or Permitted Use "C-1," "C-2, "C-3," "DT" > "C-3" Highway: P
-        B > Zoning District — Conditional Or Permitted Use "C-1," "C-2, "C-3," "DT" > "DT" Downtown District: P
+        B:
+          Zoning District — Conditional Or Permitted Use "C-1," "C-2, "C-3," "DT":
+            '"C-1" Neighborhood': ''
+            '"C-2" General': P
+            '"C-3" Highway': P
+            '"DT" Downtown District': P
       Electrical goods:
-        B > Zoning District — Conditional Or Permitted Use "C-1," "C-2, "C-3," "DT" > "C-1" Neighborhood: ''
-        B > Zoning District — Conditional Or Permitted Use "C-1," "C-2, "C-3," "DT" > "C-2" General: P
-        B > Zoning District — Conditional Or Permitted Use "C-1," "C-2, "C-3," "DT" > "C-3" Highway: P
-        B > Zoning District — Conditional Or Permitted Use "C-1," "C-2, "C-3," "DT" > "DT" Downtown District: P
+        B:
+          Zoning District — Conditional Or Permitted Use "C-1," "C-2, "C-3," "DT":
+            '"C-1" Neighborhood': ''
+            '"C-2" General': P
+            '"C-3" Highway': P
+            '"DT" Downtown District': P
       Hardware, plumbing and heating equipment and supplies:
-        B > Zoning District — Conditional Or Permitted Use "C-1," "C-2, "C-3," "DT" > "C-1" Neighborhood: ''
-        B > Zoning District — Conditional Or Permitted Use "C-1," "C-2, "C-3," "DT" > "C-2" General: P
-        B > Zoning District — Conditional Or Permitted Use "C-1," "C-2, "C-3," "DT" > "C-3" Highway: P
-        B > Zoning District — Conditional Or Permitted Use "C-1," "C-2, "C-3," "DT" > "DT" Downtown District: P
+        B:
+          Zoning District — Conditional Or Permitted Use "C-1," "C-2, "C-3," "DT":
+            '"C-1" Neighborhood': ''
+            '"C-2" General': P
+            '"C-3" Highway': P
+            '"DT" Downtown District': P
       Machinery equipment and supplies:
-        B > Zoning District — Conditional Or Permitted Use "C-1," "C-2, "C-3," "DT" > "C-1" Neighborhood: ''
-        B > Zoning District — Conditional Or Permitted Use "C-1," "C-2, "C-3," "DT" > "C-2" General: P
-        B > Zoning District — Conditional Or Permitted Use "C-1," "C-2, "C-3," "DT" > "C-3" Highway: P
-        B > Zoning District — Conditional Or Permitted Use "C-1," "C-2, "C-3," "DT" > "DT" Downtown District: ''
+        B:
+          Zoning District — Conditional Or Permitted Use "C-1," "C-2, "C-3," "DT":
+            '"C-1" Neighborhood': ''
+            '"C-2" General': P
+            '"C-3" Highway': P
+            '"DT" Downtown District': ''
     Retail Trade:
       Building materials, hardware and farm equipment dealers:
-        B > Zoning District — Conditional Or Permitted Use "C-1," "C-2, "C-3," "DT" > "C-1" Neighborhood: ''
-        B > Zoning District — Conditional Or Permitted Use "C-1," "C-2, "C-3," "DT" > "C-2" General: P
-        B > Zoning District — Conditional Or Permitted Use "C-1," "C-2, "C-3," "DT" > "C-3" Highway: P
-        B > Zoning District — Conditional Or Permitted Use "C-1," "C-2, "C-3," "DT" > "DT" Downtown District: P
+        B:
+          Zoning District — Conditional Or Permitted Use "C-1," "C-2, "C-3," "DT":
+            '"C-1" Neighborhood': ''
+            '"C-2" General': P
+            '"C-3" Highway': P
+            '"DT" Downtown District': P
       General merchandise:
-        B > Zoning District — Conditional Or Permitted Use "C-1," "C-2, "C-3," "DT" > "C-1" Neighborhood: ''
-        B > Zoning District — Conditional Or Permitted Use "C-1," "C-2, "C-3," "DT" > "C-2" General: P
-        B > Zoning District — Conditional Or Permitted Use "C-1," "C-2, "C-3," "DT" > "C-3" Highway: P
-        B > Zoning District — Conditional Or Permitted Use "C-1," "C-2, "C-3," "DT" > "DT" Downtown District: P
+        B:
+          Zoning District — Conditional Or Permitted Use "C-1," "C-2, "C-3," "DT":
+            '"C-1" Neighborhood': ''
+            '"C-2" General': P
+            '"C-3" Highway': P
+            '"DT" Downtown District': P
       Automobile dealers:
-        B > Zoning District — Conditional Or Permitted Use "C-1," "C-2, "C-3," "DT" > "C-1" Neighborhood: ''
-        B > Zoning District — Conditional Or Permitted Use "C-1," "C-2, "C-3," "DT" > "C-2" General: P
-        B > Zoning District — Conditional Or Permitted Use "C-1," "C-2, "C-3," "DT" > "C-3" Highway: P
-        B > Zoning District — Conditional Or Permitted Use "C-1," "C-2, "C-3," "DT" > "DT" Downtown District: ''
+        B:
+          Zoning District — Conditional Or Permitted Use "C-1," "C-2, "C-3," "DT":
+            '"C-1" Neighborhood': ''
+            '"C-2" General': P
+            '"C-3" Highway': P
+            '"DT" Downtown District': ''
       Apparel and accessory stores:
-        B > Zoning District — Conditional Or Permitted Use "C-1," "C-2, "C-3," "DT" > "C-1" Neighborhood: ''
-        B > Zoning District — Conditional Or Permitted Use "C-1," "C-2, "C-3," "DT" > "C-2" General: P
-        B > Zoning District — Conditional Or Permitted Use "C-1," "C-2, "C-3," "DT" > "C-3" Highway: P
-        B > Zoning District — Conditional Or Permitted Use "C-1," "C-2, "C-3," "DT" > "DT" Downtown District: P
+        B:
+          Zoning District — Conditional Or Permitted Use "C-1," "C-2, "C-3," "DT":
+            '"C-1" Neighborhood': ''
+            '"C-2" General': P
+            '"C-3" Highway': P
+            '"DT" Downtown District': P
       Furniture, home furnishings and equipment sales:
-        B > Zoning District — Conditional Or Permitted Use "C-1," "C-2, "C-3," "DT" > "C-1" Neighborhood: ''
-        B > Zoning District — Conditional Or Permitted Use "C-1," "C-2, "C-3," "DT" > "C-2" General: P
-        B > Zoning District — Conditional Or Permitted Use "C-1," "C-2, "C-3," "DT" > "C-3" Highway: P
-        B > Zoning District — Conditional Or Permitted Use "C-1," "C-2, "C-3," "DT" > "DT" Downtown District: P
+        B:
+          Zoning District — Conditional Or Permitted Use "C-1," "C-2, "C-3," "DT":
+            '"C-1" Neighborhood': ''
+            '"C-2" General': P
+            '"C-3" Highway': P
+            '"DT" Downtown District': P
       Eating Places:
-        B > Zoning District — Conditional Or Permitted Use "C-1," "C-2, "C-3," "DT" > "C-1" Neighborhood: ''
-        B > Zoning District — Conditional Or Permitted Use "C-1," "C-2, "C-3," "DT" > "C-2" General: P
-        B > Zoning District — Conditional Or Permitted Use "C-1," "C-2, "C-3," "DT" > "C-3" Highway: P
-        B > Zoning District — Conditional Or Permitted Use "C-1," "C-2, "C-3," "DT" > "DT" Downtown District: P
+        B:
+          Zoning District — Conditional Or Permitted Use "C-1," "C-2, "C-3," "DT":
+            '"C-1" Neighborhood': ''
+            '"C-2" General': P
+            '"C-3" Highway': P
+            '"DT" Downtown District': P
       Drinking places:
-        B > Zoning District — Conditional Or Permitted Use "C-1," "C-2, "C-3," "DT" > "C-1" Neighborhood: ''
-        B > Zoning District — Conditional Or Permitted Use "C-1," "C-2, "C-3," "DT" > "C-2" General: ''
-        B > Zoning District — Conditional Or Permitted Use "C-1," "C-2, "C-3," "DT" > "C-3" Highway: ''
-        B > Zoning District — Conditional Or Permitted Use "C-1," "C-2, "C-3," "DT" > "DT" Downtown District: ''
+        B:
+          Zoning District — Conditional Or Permitted Use "C-1," "C-2, "C-3," "DT":
+            '"C-1" Neighborhood': ''
+            '"C-2" General': ''
+            '"C-3" Highway': ''
+            '"DT" Downtown District': ''
       Bars/taverns:
-        B > Zoning District — Conditional Or Permitted Use "C-1," "C-2, "C-3," "DT" > "C-1" Neighborhood: ''
-        B > Zoning District — Conditional Or Permitted Use "C-1," "C-2, "C-3," "DT" > "C-2" General: P
-        B > Zoning District — Conditional Or Permitted Use "C-1," "C-2, "C-3," "DT" > "C-3" Highway: P
-        B > Zoning District — Conditional Or Permitted Use "C-1," "C-2, "C-3," "DT" > "DT" Downtown District: P
+        B:
+          Zoning District — Conditional Or Permitted Use "C-1," "C-2, "C-3," "DT":
+            '"C-1" Neighborhood': ''
+            '"C-2" General': P
+            '"C-3" Highway': P
+            '"DT" Downtown District': P
       Beer gardens:
-        B > Zoning District — Conditional Or Permitted Use "C-1," "C-2, "C-3," "DT" > "C-1" Neighborhood: ''
-        B > Zoning District — Conditional Or Permitted Use "C-1," "C-2, "C-3," "DT" > "C-2" General: P
-        B > Zoning District — Conditional Or Permitted Use "C-1," "C-2, "C-3," "DT" > "C-3" Highway: P
-        B > Zoning District — Conditional Or Permitted Use "C-1," "C-2, "C-3," "DT" > "DT" Downtown District: P
+        B:
+          Zoning District — Conditional Or Permitted Use "C-1," "C-2, "C-3," "DT":
+            '"C-1" Neighborhood': ''
+            '"C-2" General': P
+            '"C-3" Highway': P
+            '"DT" Downtown District': P
       Private clubs:
-        B > Zoning District — Conditional Or Permitted Use "C-1," "C-2, "C-3," "DT" > "C-1" Neighborhood: ''
-        B > Zoning District — Conditional Or Permitted Use "C-1," "C-2, "C-3," "DT" > "C-2" General: P
-        B > Zoning District — Conditional Or Permitted Use "C-1," "C-2, "C-3," "DT" > "C-3" Highway: P
-        B > Zoning District — Conditional Or Permitted Use "C-1," "C-2, "C-3," "DT" > "DT" Downtown District: P
+        B:
+          Zoning District — Conditional Or Permitted Use "C-1," "C-2, "C-3," "DT":
+            '"C-1" Neighborhood': ''
+            '"C-2" General': P
+            '"C-3" Highway': P
+            '"DT" Downtown District': P
       Nightclubs:
-        B > Zoning District — Conditional Or Permitted Use "C-1," "C-2, "C-3," "DT" > "C-1" Neighborhood: ''
-        B > Zoning District — Conditional Or Permitted Use "C-1," "C-2, "C-3," "DT" > "C-2" General: P
-        B > Zoning District — Conditional Or Permitted Use "C-1," "C-2, "C-3," "DT" > "C-3" Highway: P
-        B > Zoning District — Conditional Or Permitted Use "C-1," "C-2, "C-3," "DT" > "DT" Downtown District: ''
+        B:
+          Zoning District — Conditional Or Permitted Use "C-1," "C-2, "C-3," "DT":
+            '"C-1" Neighborhood': ''
+            '"C-2" General': P
+            '"C-3" Highway': P
+            '"DT" Downtown District': ''
       Miscellaneous retail stores:
-        B > Zoning District — Conditional Or Permitted Use "C-1," "C-2, "C-3," "DT" > "C-1" Neighborhood: CU
-        B > Zoning District — Conditional Or Permitted Use "C-1," "C-2, "C-3," "DT" > "C-2" General: P
-        B > Zoning District — Conditional Or Permitted Use "C-1," "C-2, "C-3," "DT" > "C-3" Highway: P
-        B > Zoning District — Conditional Or Permitted Use "C-1," "C-2, "C-3," "DT" > "DT" Downtown District: ''
+        B:
+          Zoning District — Conditional Or Permitted Use "C-1," "C-2, "C-3," "DT":
+            '"C-1" Neighborhood': CU
+            '"C-2" General': P
+            '"C-3" Highway': P
+            '"DT" Downtown District': ''
     Finance, Insurance and Real Estate:
       Banking:
-        B > Zoning District — Conditional Or Permitted Use "C-1," "C-2, "C-3," "DT" > "C-1" Neighborhood: P
-        B > Zoning District — Conditional Or Permitted Use "C-1," "C-2, "C-3," "DT" > "C-2" General: P
-        B > Zoning District — Conditional Or Permitted Use "C-1," "C-2, "C-3," "DT" > "C-3" Highway: P
-        B > Zoning District — Conditional Or Permitted Use "C-1," "C-2, "C-3," "DT" > "DT" Downtown District: P
+        B:
+          Zoning District — Conditional Or Permitted Use "C-1," "C-2, "C-3," "DT":
+            '"C-1" Neighborhood': P
+            '"C-2" General': P
+            '"C-3" Highway': P
+            '"DT" Downtown District': P
       Credit agencies, other than banks:
-        B > Zoning District — Conditional Or Permitted Use "C-1," "C-2, "C-3," "DT" > "C-1" Neighborhood: P
-        B > Zoning District — Conditional Or Permitted Use "C-1," "C-2, "C-3," "DT" > "C-2" General: P
-        B > Zoning District — Conditional Or Permitted Use "C-1," "C-2, "C-3," "DT" > "C-3" Highway: P
-        B > Zoning District — Conditional Or Permitted Use "C-1," "C-2, "C-3," "DT" > "DT" Downtown District: P
+        B:
+          Zoning District — Conditional Or Permitted Use "C-1," "C-2, "C-3," "DT":
+            '"C-1" Neighborhood': P
+            '"C-2" General': P
+            '"C-3" Highway': P
+            '"DT" Downtown District': P
       Security and commodity brokers, dealers, exchanges and services:
-        B > Zoning District — Conditional Or Permitted Use "C-1," "C-2, "C-3," "DT" > "C-1" Neighborhood: P
-        B > Zoning District — Conditional Or Permitted Use "C-1," "C-2, "C-3," "DT" > "C-2" General: P
-        B > Zoning District — Conditional Or Permitted Use "C-1," "C-2, "C-3," "DT" > "C-3" Highway: P
-        B > Zoning District — Conditional Or Permitted Use "C-1," "C-2, "C-3," "DT" > "DT" Downtown District: P
+        B:
+          Zoning District — Conditional Or Permitted Use "C-1," "C-2, "C-3," "DT":
+            '"C-1" Neighborhood': P
+            '"C-2" General': P
+            '"C-3" Highway': P
+            '"DT" Downtown District': P
       Insurance carriers:
-        B > Zoning District — Conditional Or Permitted Use "C-1," "C-2, "C-3," "DT" > "C-1" Neighborhood: P
-        B > Zoning District — Conditional Or Permitted Use "C-1," "C-2, "C-3," "DT" > "C-2" General: P
-        B > Zoning District — Conditional Or Permitted Use "C-1," "C-2, "C-3," "DT" > "C-3" Highway: P
-        B > Zoning District — Conditional Or Permitted Use "C-1," "C-2, "C-3," "DT" > "DT" Downtown District: P
+        B:
+          Zoning District — Conditional Or Permitted Use "C-1," "C-2, "C-3," "DT":
+            '"C-1" Neighborhood': P
+            '"C-2" General': P
+            '"C-3" Highway': P
+            '"DT" Downtown District': P
       Insurance agents, brokers and services:
-        B > Zoning District — Conditional Or Permitted Use "C-1," "C-2, "C-3," "DT" > "C-1" Neighborhood: P
-        B > Zoning District — Conditional Or Permitted Use "C-1," "C-2, "C-3," "DT" > "C-2" General: P
-        B > Zoning District — Conditional Or Permitted Use "C-1," "C-2, "C-3," "DT" > "C-3" Highway: P
-        B > Zoning District — Conditional Or Permitted Use "C-1," "C-2, "C-3," "DT" > "DT" Downtown District: P
+        B:
+          Zoning District — Conditional Or Permitted Use "C-1," "C-2, "C-3," "DT":
+            '"C-1" Neighborhood': P
+            '"C-2" General': P
+            '"C-3" Highway': P
+            '"DT" Downtown District': P
       Real estate:
-        B > Zoning District — Conditional Or Permitted Use "C-1," "C-2, "C-3," "DT" > "C-1" Neighborhood: P
-        B > Zoning District — Conditional Or Permitted Use "C-1," "C-2, "C-3," "DT" > "C-2" General: P
-        B > Zoning District — Conditional Or Permitted Use "C-1," "C-2, "C-3," "DT" > "C-3" Highway: P
-        B > Zoning District — Conditional Or Permitted Use "C-1," "C-2, "C-3," "DT" > "DT" Downtown District: P
+        B:
+          Zoning District — Conditional Or Permitted Use "C-1," "C-2, "C-3," "DT":
+            '"C-1" Neighborhood': P
+            '"C-2" General': P
+            '"C-3" Highway': P
+            '"DT" Downtown District': P
       Holding and other investment companies:
-        B > Zoning District — Conditional Or Permitted Use "C-1," "C-2, "C-3," "DT" > "C-1" Neighborhood: P
-        B > Zoning District — Conditional Or Permitted Use "C-1," "C-2, "C-3," "DT" > "C-2" General: P
-        B > Zoning District — Conditional Or Permitted Use "C-1," "C-2, "C-3," "DT" > "C-3" Highway: P
-        B > Zoning District — Conditional Or Permitted Use "C-1," "C-2, "C-3," "DT" > "DT" Downtown District: P
+        B:
+          Zoning District — Conditional Or Permitted Use "C-1," "C-2, "C-3," "DT":
+            '"C-1" Neighborhood': P
+            '"C-2" General': P
+            '"C-3" Highway': P
+            '"DT" Downtown District': P
     Services:
       Hotels, tourist courts and motels:
-        B > Zoning District — Conditional Or Permitted Use "C-1," "C-2, "C-3," "DT" > "C-1" Neighborhood: CU
-        B > Zoning District — Conditional Or Permitted Use "C-1," "C-2, "C-3," "DT" > "C-2" General: P
-        B > Zoning District — Conditional Or Permitted Use "C-1," "C-2, "C-3," "DT" > "C-3" Highway: P
-        B > Zoning District — Conditional Or Permitted Use "C-1," "C-2, "C-3," "DT" > "DT" Downtown District: P
+        B:
+          Zoning District — Conditional Or Permitted Use "C-1," "C-2, "C-3," "DT":
+            '"C-1" Neighborhood': CU
+            '"C-2" General': P
+            '"C-3" Highway': P
+            '"DT" Downtown District': P
       Rooming and boarding houses:
-        B > Zoning District — Conditional Or Permitted Use "C-1," "C-2, "C-3," "DT" > "C-1" Neighborhood: P
-        B > Zoning District — Conditional Or Permitted Use "C-1," "C-2, "C-3," "DT" > "C-2" General: P
-        B > Zoning District — Conditional Or Permitted Use "C-1," "C-2, "C-3," "DT" > "C-3" Highway: P
-        B > Zoning District — Conditional Or Permitted Use "C-1," "C-2, "C-3," "DT" > "DT" Downtown District: P
+        B:
+          Zoning District — Conditional Or Permitted Use "C-1," "C-2, "C-3," "DT":
+            '"C-1" Neighborhood': P
+            '"C-2" General': P
+            '"C-3" Highway': P
+            '"DT" Downtown District': P
       Personal services:
-        B > Zoning District — Conditional Or Permitted Use "C-1," "C-2, "C-3," "DT" > "C-1" Neighborhood: CU
-        B > Zoning District — Conditional Or Permitted Use "C-1," "C-2, "C-3," "DT" > "C-2" General: P
-        B > Zoning District — Conditional Or Permitted Use "C-1," "C-2, "C-3," "DT" > "C-3" Highway: P
-        B > Zoning District — Conditional Or Permitted Use "C-1," "C-2, "C-3," "DT" > "DT" Downtown District: P
+        B:
+          Zoning District — Conditional Or Permitted Use "C-1," "C-2, "C-3," "DT":
+            '"C-1" Neighborhood': CU
+            '"C-2" General': P
+            '"C-3" Highway': P
+            '"DT" Downtown District': P
       Miscellaneous business services:
-        B > Zoning District — Conditional Or Permitted Use "C-1," "C-2, "C-3," "DT" > "C-1" Neighborhood: CU
-        B > Zoning District — Conditional Or Permitted Use "C-1," "C-2, "C-3," "DT" > "C-2" General: P
-        B > Zoning District — Conditional Or Permitted Use "C-1," "C-2, "C-3," "DT" > "C-3" Highway: P
-        B > Zoning District — Conditional Or Permitted Use "C-1," "C-2, "C-3," "DT" > "DT" Downtown District: ''
+        B:
+          Zoning District — Conditional Or Permitted Use "C-1," "C-2, "C-3," "DT":
+            '"C-1" Neighborhood': CU
+            '"C-2" General': P
+            '"C-3" Highway': P
+            '"DT" Downtown District': ''
       Automobile repair, automobile services, garages:
-        B > Zoning District — Conditional Or Permitted Use "C-1," "C-2, "C-3," "DT" > "C-1" Neighborhood: ''
-        B > Zoning District — Conditional Or Permitted Use "C-1," "C-2, "C-3," "DT" > "C-2" General: P
-        B > Zoning District — Conditional Or Permitted Use "C-1," "C-2, "C-3," "DT" > "C-3" Highway: P
-        B > Zoning District — Conditional Or Permitted Use "C-1," "C-2, "C-3," "DT" > "DT" Downtown District: ''
+        B:
+          Zoning District — Conditional Or Permitted Use "C-1," "C-2, "C-3," "DT":
+            '"C-1" Neighborhood': ''
+            '"C-2" General': P
+            '"C-3" Highway': P
+            '"DT" Downtown District': ''
       Miscellaneous repair services:
-        B > Zoning District — Conditional Or Permitted Use "C-1," "C-2, "C-3," "DT" > "C-1" Neighborhood: CU
-        B > Zoning District — Conditional Or Permitted Use "C-1," "C-2, "C-3," "DT" > "C-2" General: P
-        B > Zoning District — Conditional Or Permitted Use "C-1," "C-2, "C-3," "DT" > "C-3" Highway: P
-        B > Zoning District — Conditional Or Permitted Use "C-1," "C-2, "C-3," "DT" > "DT" Downtown District: ''
+        B:
+          Zoning District — Conditional Or Permitted Use "C-1," "C-2, "C-3," "DT":
+            '"C-1" Neighborhood': CU
+            '"C-2" General': P
+            '"C-3" Highway': P
+            '"DT" Downtown District': ''
       Motion pictures:
-        B > Zoning District — Conditional Or Permitted Use "C-1," "C-2, "C-3," "DT" > "C-1" Neighborhood: ''
-        B > Zoning District — Conditional Or Permitted Use "C-1," "C-2, "C-3," "DT" > "C-2" General: P
-        B > Zoning District — Conditional Or Permitted Use "C-1," "C-2, "C-3," "DT" > "C-3" Highway: P
-        B > Zoning District — Conditional Or Permitted Use "C-1," "C-2, "C-3," "DT" > "DT" Downtown District: P
+        B:
+          Zoning District — Conditional Or Permitted Use "C-1," "C-2, "C-3," "DT":
+            '"C-1" Neighborhood': ''
+            '"C-2" General': P
+            '"C-3" Highway': P
+            '"DT" Downtown District': P
       Amusement and recreation services except motion pictures:
-        B > Zoning District — Conditional Or Permitted Use "C-1," "C-2, "C-3," "DT" > "C-1" Neighborhood: ''
-        B > Zoning District — Conditional Or Permitted Use "C-1," "C-2, "C-3," "DT" > "C-2" General: P
-        B > Zoning District — Conditional Or Permitted Use "C-1," "C-2, "C-3," "DT" > "C-3" Highway: P
-        B > Zoning District — Conditional Or Permitted Use "C-1," "C-2, "C-3," "DT" > "DT" Downtown District: P
+        B:
+          Zoning District — Conditional Or Permitted Use "C-1," "C-2, "C-3," "DT":
+            '"C-1" Neighborhood': ''
+            '"C-2" General': P
+            '"C-3" Highway': P
+            '"DT" Downtown District': P
       Medical and other health services:
-        B > Zoning District — Conditional Or Permitted Use "C-1," "C-2, "C-3," "DT" > "C-1" Neighborhood: P
-        B > Zoning District — Conditional Or Permitted Use "C-1," "C-2, "C-3," "DT" > "C-2" General: P
-        B > Zoning District — Conditional Or Permitted Use "C-1," "C-2, "C-3," "DT" > "C-3" Highway: P
-        B > Zoning District — Conditional Or Permitted Use "C-1," "C-2, "C-3," "DT" > "DT" Downtown District: P
+        B:
+          Zoning District — Conditional Or Permitted Use "C-1," "C-2, "C-3," "DT":
+            '"C-1" Neighborhood': P
+            '"C-2" General': P
+            '"C-3" Highway': P
+            '"DT" Downtown District': P
       Legal services:
-        B > Zoning District — Conditional Or Permitted Use "C-1," "C-2, "C-3," "DT" > "C-1" Neighborhood: P
-        B > Zoning District — Conditional Or Permitted Use "C-1," "C-2, "C-3," "DT" > "C-2" General: P
-        B > Zoning District — Conditional Or Permitted Use "C-1," "C-2, "C-3," "DT" > "C-3" Highway: P
-        B > Zoning District — Conditional Or Permitted Use "C-1," "C-2, "C-3," "DT" > "DT" Downtown District: P
+        B:
+          Zoning District — Conditional Or Permitted Use "C-1," "C-2, "C-3," "DT":
+            '"C-1" Neighborhood': P
+            '"C-2" General': P
+            '"C-3" Highway': P
+            '"DT" Downtown District': P
       Educational services:
-        B > Zoning District — Conditional Or Permitted Use "C-1," "C-2, "C-3," "DT" > "C-1" Neighborhood: P
-        B > Zoning District — Conditional Or Permitted Use "C-1," "C-2, "C-3," "DT" > "C-2" General: P
-        B > Zoning District — Conditional Or Permitted Use "C-1," "C-2, "C-3," "DT" > "C-3" Highway: P
-        B > Zoning District — Conditional Or Permitted Use "C-1," "C-2, "C-3," "DT" > "DT" Downtown District: P
+        B:
+          Zoning District — Conditional Or Permitted Use "C-1," "C-2, "C-3," "DT":
+            '"C-1" Neighborhood': P
+            '"C-2" General': P
+            '"C-3" Highway': P
+            '"DT" Downtown District': P
       Museums and art galleries:
-        B > Zoning District — Conditional Or Permitted Use "C-1," "C-2, "C-3," "DT" > "C-1" Neighborhood: P
-        B > Zoning District — Conditional Or Permitted Use "C-1," "C-2, "C-3," "DT" > "C-2" General: P
-        B > Zoning District — Conditional Or Permitted Use "C-1," "C-2, "C-3," "DT" > "C-3" Highway: P
-        B > Zoning District — Conditional Or Permitted Use "C-1," "C-2, "C-3," "DT" > "DT" Downtown District: P
+        B:
+          Zoning District — Conditional Or Permitted Use "C-1," "C-2, "C-3," "DT":
+            '"C-1" Neighborhood': P
+            '"C-2" General': P
+            '"C-3" Highway': P
+            '"DT" Downtown District': P
       Non-profit membership organizations:
-        B > Zoning District — Conditional Or Permitted Use "C-1," "C-2, "C-3," "DT" > "C-1" Neighborhood: P
-        B > Zoning District — Conditional Or Permitted Use "C-1," "C-2, "C-3," "DT" > "C-2" General: P
-        B > Zoning District — Conditional Or Permitted Use "C-1," "C-2, "C-3," "DT" > "C-3" Highway: P
-        B > Zoning District — Conditional Or Permitted Use "C-1," "C-2, "C-3," "DT" > "DT" Downtown District: P
+        B:
+          Zoning District — Conditional Or Permitted Use "C-1," "C-2, "C-3," "DT":
+            '"C-1" Neighborhood': P
+            '"C-2" General': P
+            '"C-3" Highway': P
+            '"DT" Downtown District': P
       Miscellaneous services:
-        B > Zoning District — Conditional Or Permitted Use "C-1," "C-2, "C-3," "DT" > "C-1" Neighborhood: CU
-        B > Zoning District — Conditional Or Permitted Use "C-1," "C-2, "C-3," "DT" > "C-2" General: P
-        B > Zoning District — Conditional Or Permitted Use "C-1," "C-2, "C-3," "DT" > "C-3" Highway: P
-        B > Zoning District — Conditional Or Permitted Use "C-1," "C-2, "C-3," "DT" > "DT" Downtown District: ''
+        B:
+          Zoning District — Conditional Or Permitted Use "C-1," "C-2, "C-3," "DT":
+            '"C-1" Neighborhood': CU
+            '"C-2" General': P
+            '"C-3" Highway': P
+            '"DT" Downtown District': ''
     Transportation, Communication, Electric, Gas and Sanitary Services:
       Railroad transportation:
-        B > Zoning District — Conditional Or Permitted Use "C-1," "C-2, "C-3," "DT" > "C-1" Neighborhood: ''
-        B > Zoning District — Conditional Or Permitted Use "C-1," "C-2, "C-3," "DT" > "C-2" General: P
-        B > Zoning District — Conditional Or Permitted Use "C-1," "C-2, "C-3," "DT" > "C-3" Highway: P
-        B > Zoning District — Conditional Or Permitted Use "C-1," "C-2, "C-3," "DT" > "DT" Downtown District: P
+        B:
+          Zoning District — Conditional Or Permitted Use "C-1," "C-2, "C-3," "DT":
+            '"C-1" Neighborhood': ''
+            '"C-2" General': P
+            '"C-3" Highway': P
+            '"DT" Downtown District': P
       Local and suburban transit and interurban highway passenger transportation:
-        B > Zoning District — Conditional Or Permitted Use "C-1," "C-2, "C-3," "DT" > "C-1" Neighborhood: ''
-        B > Zoning District — Conditional Or Permitted Use "C-1," "C-2, "C-3," "DT" > "C-2" General: P
-        B > Zoning District — Conditional Or Permitted Use "C-1," "C-2, "C-3," "DT" > "C-3" Highway: P
-        B > Zoning District — Conditional Or Permitted Use "C-1," "C-2, "C-3," "DT" > "DT" Downtown District: P
+        B:
+          Zoning District — Conditional Or Permitted Use "C-1," "C-2, "C-3," "DT":
+            '"C-1" Neighborhood': ''
+            '"C-2" General': P
+            '"C-3" Highway': P
+            '"DT" Downtown District': P
       Motor freight transportation and warehousing:
-        B > Zoning District — Conditional Or Permitted Use "C-1," "C-2, "C-3," "DT" > "C-1" Neighborhood: ''
-        B > Zoning District — Conditional Or Permitted Use "C-1," "C-2, "C-3," "DT" > "C-2" General: P
-        B > Zoning District — Conditional Or Permitted Use "C-1," "C-2, "C-3," "DT" > "C-3" Highway: P
-        B > Zoning District — Conditional Or Permitted Use "C-1," "C-2, "C-3," "DT" > "DT" Downtown District: ''
+        B:
+          Zoning District — Conditional Or Permitted Use "C-1," "C-2, "C-3," "DT":
+            '"C-1" Neighborhood': ''
+            '"C-2" General': P
+            '"C-3" Highway': P
+            '"DT" Downtown District': ''
       Arrangement of transportation:
-        B > Zoning District — Conditional Or Permitted Use "C-1," "C-2, "C-3," "DT" > "C-1" Neighborhood: ''
-        B > Zoning District — Conditional Or Permitted Use "C-1," "C-2, "C-3," "DT" > "C-2" General: P
-        B > Zoning District — Conditional Or Permitted Use "C-1," "C-2, "C-3," "DT" > "C-3" Highway: P
-        B > Zoning District — Conditional Or Permitted Use "C-1," "C-2, "C-3," "DT" > "DT" Downtown District: P
+        B:
+          Zoning District — Conditional Or Permitted Use "C-1," "C-2, "C-3," "DT":
+            '"C-1" Neighborhood': ''
+            '"C-2" General': P
+            '"C-3" Highway': P
+            '"DT" Downtown District': P
       Communication:
-        B > Zoning District — Conditional Or Permitted Use "C-1," "C-2, "C-3," "DT" > "C-1" Neighborhood: ''
-        B > Zoning District — Conditional Or Permitted Use "C-1," "C-2, "C-3," "DT" > "C-2" General: P
-        B > Zoning District — Conditional Or Permitted Use "C-1," "C-2, "C-3," "DT" > "C-3" Highway: P
-        B > Zoning District — Conditional Or Permitted Use "C-1," "C-2, "C-3," "DT" > "DT" Downtown District: P
+        B:
+          Zoning District — Conditional Or Permitted Use "C-1," "C-2, "C-3," "DT":
+            '"C-1" Neighborhood': ''
+            '"C-2" General': P
+            '"C-3" Highway': P
+            '"DT" Downtown District': P
       Electric, gas and sanitary services:
-        B > Zoning District — Conditional Or Permitted Use "C-1," "C-2, "C-3," "DT" > "C-1" Neighborhood: ''
-        B > Zoning District — Conditional Or Permitted Use "C-1," "C-2, "C-3," "DT" > "C-2" General: P
-        B > Zoning District — Conditional Or Permitted Use "C-1," "C-2, "C-3," "DT" > "C-3" Highway: P
-        B > Zoning District — Conditional Or Permitted Use "C-1," "C-2, "C-3," "DT" > "DT" Downtown District: P
+        B:
+          Zoning District — Conditional Or Permitted Use "C-1," "C-2, "C-3," "DT":
+            '"C-1" Neighborhood': ''
+            '"C-2" General': P
+            '"C-3" Highway': P
+            '"DT" Downtown District': P
       Accessory (DT):
-        B > Zoning District — Conditional Or Permitted Use "C-1," "C-2, "C-3," "DT" > "C-1" Neighborhood: ''
-        B > Zoning District — Conditional Or Permitted Use "C-1," "C-2, "C-3," "DT" > "C-2" General: ''
-        B > Zoning District — Conditional Or Permitted Use "C-1," "C-2, "C-3," "DT" > "C-3" Highway: ''
-        B > Zoning District — Conditional Or Permitted Use "C-1," "C-2, "C-3," "DT" > "DT" Downtown District: ''
+        B:
+          Zoning District — Conditional Or Permitted Use "C-1," "C-2, "C-3," "DT":
+            '"C-1" Neighborhood': ''
+            '"C-2" General': ''
+            '"C-3" Highway': ''
+            '"DT" Downtown District': ''
       Buildings, structures and uses incidental to any of the above uses, provided that there shall be no manufacture, processing or compounding of products other than those expressly permitted except those that are customarily incidental and essential to commercial establishments:
-        B > Zoning District — Conditional Or Permitted Use "C-1," "C-2, "C-3," "DT" > "C-1" Neighborhood: ''
-        B > Zoning District — Conditional Or Permitted Use "C-1," "C-2, "C-3," "DT" > "C-2" General: P
-        B > Zoning District — Conditional Or Permitted Use "C-1," "C-2, "C-3," "DT" > "C-3" Highway: P
-        B > Zoning District — Conditional Or Permitted Use "C-1," "C-2, "C-3," "DT" > "DT" Downtown District: ''
+        B:
+          Zoning District — Conditional Or Permitted Use "C-1," "C-2, "C-3," "DT":
+            '"C-1" Neighborhood': ''
+            '"C-2" General': P
+            '"C-3" Highway': P
+            '"DT" Downtown District': ''

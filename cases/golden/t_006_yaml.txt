@@ -3,1953 +3,2179 @@ Table 7.24-1 Allowed Uses | P - Permitted Use S = Special Review Use Districts i
     Residential Uses:
       Household Living:
         Use Type > Dwelling, Single-Family Detached:
-          Residential > RD: P
-          Residential > RL: P
-          Residential > RM: ''
-          Residential > RH: ''
-          Residential > CH M/H: P
-          Residential > RH-C: ''
-          Nonresidential > NC: ''
-          Nonresidential > MC: ''
-          Nonresidential > CH MU 1 / 2: ''
-          Nonresidential > TC: ''
-          Nonresidential > SC: ''
-          Nonresidential > P: ''
-          Nonresidential > PF: S
-          Nonresidential > IC: ''
-          Nonresidential > OLD: ''
+          Residential:
+            RD: P
+            RL: P
+            RM: ''
+            RH: ''
+            CH M/H: P
+            RH-C: ''
+          Nonresidential:
+            NC: ''
+            MC: ''
+            CH MU 1 / 2: ''
+            TC: ''
+            SC: ''
+            P: ''
+            PF: S
+            IC: ''
+            OLD: ''
           Use-Specific Regulations: ''
         Use Type > Dwelling, Two-Family/ Duplex:
-          Residential > RD: P
-          Residential > RL: P
-          Residential > RM: P
-          Residential > RH: ''
-          Residential > CH M/H: P
-          Residential > RH-C: ''
-          Nonresidential > NC: ''
-          Nonresidential > MC: ''
-          Nonresidential > CH MU 1 / 2: ''
-          Nonresidential > TC: ''
-          Nonresidential > SC: ''
-          Nonresidential > P: ''
-          Nonresidential > PF: S
-          Nonresidential > IC: ''
-          Nonresidential > OLD: ''
+          Residential:
+            RD: P
+            RL: P
+            RM: P
+            RH: ''
+            CH M/H: P
+            RH-C: ''
+          Nonresidential:
+            NC: ''
+            MC: ''
+            CH MU 1 / 2: ''
+            TC: ''
+            SC: ''
+            P: ''
+            PF: S
+            IC: ''
+            OLD: ''
           Use-Specific Regulations: ''
         Use Type > Dwelling, Townhouse:
-          Residential > RD: ''
-          Residential > RL: ''
-          Residential > RM: P
-          Residential > RH: P
-          Residential > CH M/H: P
-          Residential > RH-C: P
-          Nonresidential > NC: P
-          Nonresidential > MC: P
-          Nonresidential > CH MU 1 / 2: P
-          Nonresidential > TC: P
-          Nonresidential > SC: ''
-          Nonresidential > P: ''
-          Nonresidential > PF: S
-          Nonresidential > IC: ''
-          Nonresidential > OLD: ''
+          Residential:
+            RD: ''
+            RL: ''
+            RM: P
+            RH: P
+            CH M/H: P
+            RH-C: P
+          Nonresidential:
+            NC: P
+            MC: P
+            CH MU 1 / 2: P
+            TC: P
+            SC: ''
+            P: ''
+            PF: S
+            IC: ''
+            OLD: ''
           Use-Specific Regulations: ''
         Use Type > Dwelling, Multi-Family:
-          Residential > RD: ''
-          Residential > RL: ''
-          Residential > RM: P [1]
-          Residential > RH: P
-          Residential > CH M/H: P
-          Residential > RH-C: P
-          Nonresidential > NC: P
-          Nonresidential > MC: P
-          Nonresidential > CH MU 1 / 2: P
-          Nonresidential > TC: P
-          Nonresidential > SC: ''
-          Nonresidential > P: ''
-          Nonresidential > PF: S
-          Nonresidential > IC: ''
-          Nonresidential > OLD: ''
+          Residential:
+            RD: ''
+            RL: ''
+            RM: P [1]
+            RH: P
+            CH M/H: P
+            RH-C: P
+          Nonresidential:
+            NC: P
+            MC: P
+            CH MU 1 / 2: P
+            TC: P
+            SC: ''
+            P: ''
+            PF: S
+            IC: ''
+            OLD: ''
           Use-Specific Regulations: '[1] Limited to 8 units per building in RM'
         Use Type > Community Housing:
-          Residential > RD: P
-          Residential > RL: P
-          Residential > RM: P
-          Residential > RH: P
-          Residential > CH M/H: P
-          Residential > RH-C: P
-          Nonresidential > NC: P
-          Nonresidential > MC: P
-          Nonresidential > CH MU 1 / 2: P
-          Nonresidential > TC: P
-          Nonresidential > SC: P
-          Nonresidential > P: P
-          Nonresidential > PF: P
-          Nonresidential > IC: P
-          Nonresidential > OLD: P
+          Residential:
+            RD: P
+            RL: P
+            RM: P
+            RH: P
+            CH M/H: P
+            RH-C: P
+          Nonresidential:
+            NC: P
+            MC: P
+            CH MU 1 / 2: P
+            TC: P
+            SC: P
+            P: P
+            PF: P
+            IC: P
+            OLD: P
           Use-Specific Regulations: ''
         Use Type > Dwelling, live/ work:
-          Residential > RD: ''
-          Residential > RL: S
-          Residential > RM: S
-          Residential > RH: S
-          Residential > CH M/H: P
-          Residential > RH-C: S
-          Nonresidential > NC: S
-          Nonresidential > MC: S
-          Nonresidential > CH MU 1 / 2: P
-          Nonresidential > TC: P
-          Nonresidential > SC: ''
-          Nonresidential > P: ''
-          Nonresidential > PF: S
-          Nonresidential > IC: ''
-          Nonresidential > OLD: ''
+          Residential:
+            RD: ''
+            RL: S
+            RM: S
+            RH: S
+            CH M/H: P
+            RH-C: S
+          Nonresidential:
+            NC: S
+            MC: S
+            CH MU 1 / 2: P
+            TC: P
+            SC: ''
+            P: ''
+            PF: S
+            IC: ''
+            OLD: ''
           Use-Specific Regulations: ''
         Use Type > Accessory DU:
-          Residential > RD: S
-          Residential > RL: S
-          Residential > RM: S
-          Residential > RH: ''
-          Residential > CH M/H: S
-          Residential > RH-C: ''
-          Nonresidential > NC: ''
-          Nonresidential > MC: ''
-          Nonresidential > CH MU 1 / 2: ''
-          Nonresidential > TC: ''
-          Nonresidential > SC: ''
-          Nonresidential > P: ''
-          Nonresidential > PF: S
-          Nonresidential > IC: S
-          Nonresidential > OLD: ''
+          Residential:
+            RD: S
+            RL: S
+            RM: S
+            RH: ''
+            CH M/H: S
+            RH-C: ''
+          Nonresidential:
+            NC: ''
+            MC: ''
+            CH MU 1 / 2: ''
+            TC: ''
+            SC: ''
+            P: ''
+            PF: S
+            IC: S
+            OLD: ''
           Use-Specific Regulations: SF/DU Units Only
         Use Type > Dwelling, timeshare, interval ownership or fractional fee ownership/ vacation club:
-          Residential > RD: ''
-          Residential > RL: ''
-          Residential > RM: ''
-          Residential > RH: ''
-          Residential > CH M/H: S
-          Residential > RH-C: ''
-          Nonresidential > NC: S
-          Nonresidential > MC: P
-          Nonresidential > CH MU 1 / 2: ''
-          Nonresidential > TC: P
-          Nonresidential > SC: ''
-          Nonresidential > P: ''
-          Nonresidential > PF: ''
-          Nonresidential > IC: ''
-          Nonresidential > OLD: ''
+          Residential:
+            RD: ''
+            RL: ''
+            RM: ''
+            RH: ''
+            CH M/H: S
+            RH-C: ''
+          Nonresidential:
+            NC: S
+            MC: P
+            CH MU 1 / 2: ''
+            TC: P
+            SC: ''
+            P: ''
+            PF: ''
+            IC: ''
+            OLD: ''
           Use-Specific Regulations: 7.24.050 (d) 7.24.060 (a)
       Group Living:
         Use Type > Group homes:
-          Residential > RD: ''
-          Residential > RL: S
-          Residential > RM: S
-          Residential > RH: S
-          Residential > CH M/H: S
-          Residential > RH-C: S
-          Nonresidential > NC: S
-          Nonresidential > MC: S
-          Nonresidential > CH MU 1 / 2: ''
-          Nonresidential > TC: ''
-          Nonresidential > SC: ''
-          Nonresidential > P: ''
-          Nonresidential > PF: ''
-          Nonresidential > IC: ''
-          Nonresidential > OLD: ''
+          Residential:
+            RD: ''
+            RL: S
+            RM: S
+            RH: S
+            CH M/H: S
+            RH-C: S
+          Nonresidential:
+            NC: S
+            MC: S
+            CH MU 1 / 2: ''
+            TC: ''
+            SC: ''
+            P: ''
+            PF: ''
+            IC: ''
+            OLD: ''
           Use-Specific Regulations: 7.24.060 (b)
         Use Type > Retirement home, nursing home or assisted living facility:
-          Residential > RD: S
-          Residential > RL: S
-          Residential > RM: S
-          Residential > RH: S
-          Residential > CH M/H: ''
-          Residential > RH-C: ''
-          Nonresidential > NC: S
-          Nonresidential > MC: S
-          Nonresidential > CH MU 1 / 2: ''
-          Nonresidential > TC: ''
-          Nonresidential > SC: ''
-          Nonresidential > P: ''
-          Nonresidential > PF: ''
-          Nonresidential > IC: ''
-          Nonresidential > OLD: ''
+          Residential:
+            RD: S
+            RL: S
+            RM: S
+            RH: S
+            CH M/H: ''
+            RH-C: ''
+          Nonresidential:
+            NC: S
+            MC: S
+            CH MU 1 / 2: ''
+            TC: ''
+            SC: ''
+            P: ''
+            PF: ''
+            IC: ''
+            OLD: ''
           Use-Specific Regulations: ''
       Accommodation:
         Use Type > Bed and breakfast:
-          Residential > RD: S
-          Residential > RL: S
-          Residential > RM: S
-          Residential > RH: S
-          Residential > CH M/H: ''
-          Residential > RH-C: S
-          Nonresidential > NC: P
-          Nonresidential > MC: P
-          Nonresidential > CH MU 1 / 2: ''
-          Nonresidential > TC: P
-          Nonresidential > SC: ''
-          Nonresidential > P: ''
-          Nonresidential > PF: ''
-          Nonresidential > IC: ''
-          Nonresidential > OLD: ''
+          Residential:
+            RD: S
+            RL: S
+            RM: S
+            RH: S
+            CH M/H: ''
+            RH-C: S
+          Nonresidential:
+            NC: P
+            MC: P
+            CH MU 1 / 2: ''
+            TC: P
+            SC: ''
+            P: ''
+            PF: ''
+            IC: ''
+            OLD: ''
           Use-Specific Regulations: ''
         Use Type > Hotel, motel and lodge:
-          Residential > RD: ''
-          Residential > RL: ''
-          Residential > RM: ''
-          Residential > RH: ''
-          Residential > CH M/H: ''
-          Residential > RH-C: P
-          Nonresidential > NC: ''
-          Nonresidential > MC: P
-          Nonresidential > CH MU 1 / 2: ''
-          Nonresidential > TC: P
-          Nonresidential > SC: ''
-          Nonresidential > P: ''
-          Nonresidential > PF: ''
-          Nonresidential > IC: ''
-          Nonresidential > OLD: ''
+          Residential:
+            RD: ''
+            RL: ''
+            RM: ''
+            RH: ''
+            CH M/H: ''
+            RH-C: P
+          Nonresidential:
+            NC: ''
+            MC: P
+            CH MU 1 / 2: ''
+            TC: P
+            SC: ''
+            P: ''
+            PF: ''
+            IC: ''
+            OLD: ''
           Use-Specific Regulations: ''
     Public and Institutional Uses:
       Community Services:
         Use Type > Art gallery or museum:
-          Residential > RD: ''
-          Residential > RL: ''
-          Residential > RM: ''
-          Residential > RH: ''
-          Residential > CH M/H: ''
-          Residential > RH-C: P
-          Nonresidential > NC: P
-          Nonresidential > MC: P
-          Nonresidential > CH MU 1 / 2: ''
-          Nonresidential > TC: P
-          Nonresidential > SC: ''
-          Nonresidential > P: ''
-          Nonresidential > PF: P
-          Nonresidential > IC: ''
-          Nonresidential > OLD: ''
+          Residential:
+            RD: ''
+            RL: ''
+            RM: ''
+            RH: ''
+            CH M/H: ''
+            RH-C: P
+          Nonresidential:
+            NC: P
+            MC: P
+            CH MU 1 / 2: ''
+            TC: P
+            SC: ''
+            P: ''
+            PF: P
+            IC: ''
+            OLD: ''
           Use-Specific Regulations: ''
         Use Type > Community centers:
-          Residential > RD: S
-          Residential > RL: S
-          Residential > RM: S
-          Residential > RH: P
-          Residential > CH M/H: S
-          Residential > RH-C: ''
-          Nonresidential > NC: P
-          Nonresidential > MC: P
-          Nonresidential > CH MU 1 / 2: S
-          Nonresidential > TC: P
-          Nonresidential > SC: ''
-          Nonresidential > P: P
-          Nonresidential > PF: P
-          Nonresidential > IC: ''
-          Nonresidential > OLD: ''
+          Residential:
+            RD: S
+            RL: S
+            RM: S
+            RH: P
+            CH M/H: S
+            RH-C: ''
+          Nonresidential:
+            NC: P
+            MC: P
+            CH MU 1 / 2: S
+            TC: P
+            SC: ''
+            P: P
+            PF: P
+            IC: ''
+            OLD: ''
           Use-Specific Regulations: ''
         Use Type > Library:
-          Residential > RD: ''
-          Residential > RL: ''
-          Residential > RM: ''
-          Residential > RH: ''
-          Residential > CH M/H: ''
-          Residential > RH-C: ''
-          Nonresidential > NC: ''
-          Nonresidential > MC: ''
-          Nonresidential > CH MU 1 / 2: ''
-          Nonresidential > TC: P
-          Nonresidential > SC: ''
-          Nonresidential > P: ''
-          Nonresidential > PF: P
-          Nonresidential > IC: ''
-          Nonresidential > OLD: ''
+          Residential:
+            RD: ''
+            RL: ''
+            RM: ''
+            RH: ''
+            CH M/H: ''
+            RH-C: ''
+          Nonresidential:
+            NC: ''
+            MC: ''
+            CH MU 1 / 2: ''
+            TC: P
+            SC: ''
+            P: ''
+            PF: P
+            IC: ''
+            OLD: ''
           Use-Specific Regulations: 7.24.050 (a)
         Use Type > Government services, offices and facilities:
-          Residential > RD: ''
-          Residential > RL: ''
-          Residential > RM: ''
-          Residential > RH: ''
-          Residential > CH M/H: S
-          Residential > RH-C: ''
-          Nonresidential > NC: ''
-          Nonresidential > MC: ''
-          Nonresidential > CH MU 1 / 2: P
-          Nonresidential > TC: P
-          Nonresidential > SC: ''
-          Nonresidential > P: P
-          Nonresidential > PF: P
-          Nonresidential > IC: ''
-          Nonresidential > OLD: P
+          Residential:
+            RD: ''
+            RL: ''
+            RM: ''
+            RH: ''
+            CH M/H: S
+            RH-C: ''
+          Nonresidential:
+            NC: ''
+            MC: ''
+            CH MU 1 / 2: P
+            TC: P
+            SC: ''
+            P: P
+            PF: P
+            IC: ''
+            OLD: P
           Use-Specific Regulations: 7.24.050 (a)
         Use Type > Post office branches:
-          Residential > RD: ''
-          Residential > RL: ''
-          Residential > RM: ''
-          Residential > RH: ''
-          Residential > CH M/H: S
-          Residential > RH-C: ''
-          Nonresidential > NC: ''
-          Nonresidential > MC: ''
-          Nonresidential > CH MU 1 / 2: P
-          Nonresidential > TC: P
-          Nonresidential > SC: ''
-          Nonresidential > P: ''
-          Nonresidential > PF: P
-          Nonresidential > IC: ''
-          Nonresidential > OLD: ''
+          Residential:
+            RD: ''
+            RL: ''
+            RM: ''
+            RH: ''
+            CH M/H: S
+            RH-C: ''
+          Nonresidential:
+            NC: ''
+            MC: ''
+            CH MU 1 / 2: P
+            TC: P
+            SC: ''
+            P: ''
+            PF: P
+            IC: ''
+            OLD: ''
           Use-Specific Regulations: ''
         Use Type > Religious assembly:
-          Residential > RD: S
-          Residential > RL: S
-          Residential > RM: S
-          Residential > RH: S
-          Residential > CH M/H: ''
-          Residential > RH-C: S
-          Nonresidential > NC: S
-          Nonresidential > MC: S
-          Nonresidential > CH MU 1 / 2: ''
-          Nonresidential > TC: S
-          Nonresidential > SC: S
-          Nonresidential > P: S
-          Nonresidential > PF: ''
-          Nonresidential > IC: S
-          Nonresidential > OLD: ''
+          Residential:
+            RD: S
+            RL: S
+            RM: S
+            RH: S
+            CH M/H: ''
+            RH-C: S
+          Nonresidential:
+            NC: S
+            MC: S
+            CH MU 1 / 2: ''
+            TC: S
+            SC: S
+            P: S
+            PF: ''
+            IC: S
+            OLD: ''
           Use-Specific Regulations: ''
       Child Care:
         Use Type > Preschool, nursery school:
-          Residential > RD: S
-          Residential > RL: S
-          Residential > RM: S
-          Residential > RH: S
-          Residential > CH M/H: P
-          Residential > RH-C: ''
-          Nonresidential > NC: S
-          Nonresidential > MC: S
-          Nonresidential > CH MU 1 / 2: P
-          Nonresidential > TC: S
-          Nonresidential > SC: ''
-          Nonresidential > P: ''
-          Nonresidential > PF: S
-          Nonresidential > IC: S
-          Nonresidential > OLD: ''
+          Residential:
+            RD: S
+            RL: S
+            RM: S
+            RH: S
+            CH M/H: P
+            RH-C: ''
+          Nonresidential:
+            NC: S
+            MC: S
+            CH MU 1 / 2: P
+            TC: S
+            SC: ''
+            P: ''
+            PF: S
+            IC: S
+            OLD: ''
           Use-Specific Regulations: 7.24.060 (c)
         Use Type > Family Child Care Home:
-          Residential > RD: P
-          Residential > RL: P
-          Residential > RM: P
-          Residential > RH: P
-          Residential > CH M/H: P
-          Residential > RH-C: ''
-          Nonresidential > NC: P
-          Nonresidential > MC: P
-          Nonresidential > CH MU 1 / 2: P
-          Nonresidential > TC: P
-          Nonresidential > SC: ''
-          Nonresidential > P: ''
-          Nonresidential > PF: P
-          Nonresidential > IC: P
-          Nonresidential > OLD: ''
+          Residential:
+            RD: P
+            RL: P
+            RM: P
+            RH: P
+            CH M/H: P
+            RH-C: ''
+          Nonresidential:
+            NC: P
+            MC: P
+            CH MU 1 / 2: P
+            TC: P
+            SC: ''
+            P: ''
+            PF: P
+            IC: P
+            OLD: ''
           Use-Specific Regulations: 7.24.050 (d)
         Use Type > Child care center:
-          Residential > RD: ''
-          Residential > RL: ''
-          Residential > RM: S
-          Residential > RH: S
-          Residential > CH M/H: P
-          Residential > RH-C: ''
-          Nonresidential > NC: S
-          Nonresidential > MC: S
-          Nonresidential > CH MU 1 / 2: P
-          Nonresidential > TC: S
-          Nonresidential > SC: ''
-          Nonresidential > P: ''
-          Nonresidential > PF: ''
-          Nonresidential > IC: ''
-          Nonresidential > OLD: ''
+          Residential:
+            RD: ''
+            RL: ''
+            RM: S
+            RH: S
+            CH M/H: P
+            RH-C: ''
+          Nonresidential:
+            NC: S
+            MC: S
+            CH MU 1 / 2: P
+            TC: S
+            SC: ''
+            P: ''
+            PF: ''
+            IC: ''
+            OLD: ''
           Use-Specific Regulations: 7.24.060 (c)
       Educational Facilities:
         Use Type > College or university (nonexempt):
-          Residential > RD: ''
-          Residential > RL: ''
-          Residential > RM: ''
-          Residential > RH: ''
-          Residential > CH M/H: ''
-          Residential > RH-C: ''
-          Nonresidential > NC: S
-          Nonresidential > MC: P
-          Nonresidential > CH MU 1 / 2: S
-          Nonresidential > TC: S
-          Nonresidential > SC: ''
-          Nonresidential > P: ''
-          Nonresidential > PF: P
-          Nonresidential > IC: P
-          Nonresidential > OLD: ''
+          Residential:
+            RD: ''
+            RL: ''
+            RM: ''
+            RH: ''
+            CH M/H: ''
+            RH-C: ''
+          Nonresidential:
+            NC: S
+            MC: P
+            CH MU 1 / 2: S
+            TC: S
+            SC: ''
+            P: ''
+            PF: P
+            IC: P
+            OLD: ''
           Use-Specific Regulations: 7.24.050 (a)
         Use Type > School, K-12 (public and private):
-          Residential > RD: P
-          Residential > RL: P
-          Residential > RM: P
-          Residential > RH: P
-          Residential > CH M/H: S
-          Residential > RH-C: ''
-          Nonresidential > NC: P
-          Nonresidential > MC: P
-          Nonresidential > CH MU 1 / 2: S
-          Nonresidential > TC: ''
-          Nonresidential > SC: ''
-          Nonresidential > P: ''
-          Nonresidential > PF: P
-          Nonresidential > IC: ''
-          Nonresidential > OLD: ''
+          Residential:
+            RD: P
+            RL: P
+            RM: P
+            RH: P
+            CH M/H: S
+            RH-C: ''
+          Nonresidential:
+            NC: P
+            MC: P
+            CH MU 1 / 2: S
+            TC: ''
+            SC: ''
+            P: ''
+            PF: P
+            IC: ''
+            OLD: ''
           Use-Specific Regulations: 7.24.050 (a)
         Use Type > School, vocational- technical and trade:
-          Residential > RD: ''
-          Residential > RL: ''
-          Residential > RM: ''
-          Residential > RH: ''
-          Residential > CH M/H: ''
-          Residential > RH-C: ''
-          Nonresidential > NC: ''
-          Nonresidential > MC: ''
-          Nonresidential > CH MU 1 / 2: P
-          Nonresidential > TC: ''
-          Nonresidential > SC: ''
-          Nonresidential > P: ''
-          Nonresidential > PF: P
-          Nonresidential > IC: P
-          Nonresidential > OLD: ''
+          Residential:
+            RD: ''
+            RL: ''
+            RM: ''
+            RH: ''
+            CH M/H: ''
+            RH-C: ''
+          Nonresidential:
+            NC: ''
+            MC: ''
+            CH MU 1 / 2: P
+            TC: ''
+            SC: ''
+            P: ''
+            PF: P
+            IC: P
+            OLD: ''
           Use-Specific Regulations: 7.24.050 (a)
       Parks and Open Space:
         Use Type > Arboretum or botanical garden:
-          Residential > RD: ''
-          Residential > RL: ''
-          Residential > RM: ''
-          Residential > RH: S
-          Residential > CH M/H: ''
-          Residential > RH-C: ''
-          Nonresidential > NC: P
-          Nonresidential > MC: P
-          Nonresidential > CH MU 1 / 2: ''
-          Nonresidential > TC: ''
-          Nonresidential > SC: ''
-          Nonresidential > P: P
-          Nonresidential > PF: ''
-          Nonresidential > IC: ''
-          Nonresidential > OLD: ''
+          Residential:
+            RD: ''
+            RL: ''
+            RM: ''
+            RH: S
+            CH M/H: ''
+            RH-C: ''
+          Nonresidential:
+            NC: P
+            MC: P
+            CH MU 1 / 2: ''
+            TC: ''
+            SC: ''
+            P: P
+            PF: ''
+            IC: ''
+            OLD: ''
           Use-Specific Regulations: 7.24.050 (b)
         Use Type > Community garden:
-          Residential > RD: P
-          Residential > RL: P
-          Residential > RM: P
-          Residential > RH: P
-          Residential > CH M/H: P
-          Residential > RH-C: ''
-          Nonresidential > NC: P
-          Nonresidential > MC: P
-          Nonresidential > CH MU 1 / 2: P
-          Nonresidential > TC: ''
-          Nonresidential > SC: ''
-          Nonresidential > P: P
-          Nonresidential > PF: ''
-          Nonresidential > IC: ''
-          Nonresidential > OLD: ''
+          Residential:
+            RD: P
+            RL: P
+            RM: P
+            RH: P
+            CH M/H: P
+            RH-C: ''
+          Nonresidential:
+            NC: P
+            MC: P
+            CH MU 1 / 2: P
+            TC: ''
+            SC: ''
+            P: P
+            PF: ''
+            IC: ''
+            OLD: ''
           Use-Specific Regulations: ''
         Use Type > Community playfields and parks:
-          Residential > RD: ''
-          Residential > RL: ''
-          Residential > RM: ''
-          Residential > RH: ''
-          Residential > CH M/H: P
-          Residential > RH-C: ''
-          Nonresidential > NC: ''
-          Nonresidential > MC: ''
-          Nonresidential > CH MU 1 / 2: P
-          Nonresidential > TC: ''
-          Nonresidential > SC: ''
-          Nonresidential > P: P
-          Nonresidential > PF: ''
-          Nonresidential > IC: ''
-          Nonresidential > OLD: ''
+          Residential:
+            RD: ''
+            RL: ''
+            RM: ''
+            RH: ''
+            CH M/H: P
+            RH-C: ''
+          Nonresidential:
+            NC: ''
+            MC: ''
+            CH MU 1 / 2: P
+            TC: ''
+            SC: ''
+            P: P
+            PF: ''
+            IC: ''
+            OLD: ''
           Use-Specific Regulations: ''
         Use Type > Golf course:
-          Residential > RD: P
-          Residential > RL: P
-          Residential > RM: P
-          Residential > RH: P
-          Residential > CH M/H: ''
-          Residential > RH-C: ''
-          Nonresidential > NC: P
-          Nonresidential > MC: P
-          Nonresidential > CH MU 1 / 2: ''
-          Nonresidential > TC: ''
-          Nonresidential > SC: ''
-          Nonresidential > P: P
-          Nonresidential > PF: ''
-          Nonresidential > IC: ''
-          Nonresidential > OLD: ''
+          Residential:
+            RD: P
+            RL: P
+            RM: P
+            RH: P
+            CH M/H: ''
+            RH-C: ''
+          Nonresidential:
+            NC: P
+            MC: P
+            CH MU 1 / 2: ''
+            TC: ''
+            SC: ''
+            P: P
+            PF: ''
+            IC: ''
+            OLD: ''
           Use-Specific Regulations: ''
         Use Type > Parks and forest preserves (private, not-for-profit:
-          Residential > RD: ''
-          Residential > RL: ''
-          Residential > RM: ''
-          Residential > RH: ''
-          Residential > CH M/H: ''
-          Residential > RH-C: ''
-          Nonresidential > NC: ''
-          Nonresidential > MC: ''
-          Nonresidential > CH MU 1 / 2: ''
-          Nonresidential > TC: ''
-          Nonresidential > SC: ''
-          Nonresidential > P: P
-          Nonresidential > PF: ''
-          Nonresidential > IC: ''
-          Nonresidential > OLD: P
+          Residential:
+            RD: ''
+            RL: ''
+            RM: ''
+            RH: ''
+            CH M/H: ''
+            RH-C: ''
+          Nonresidential:
+            NC: ''
+            MC: ''
+            CH MU 1 / 2: ''
+            TC: ''
+            SC: ''
+            P: P
+            PF: ''
+            IC: ''
+            OLD: P
           Use-Specific Regulations: ''
         Use Type > Public dog parks:
-          Residential > RD: P
-          Residential > RL: P
-          Residential > RM: P
-          Residential > RH: P
-          Residential > CH M/H: P
-          Residential > RH-C: ''
-          Nonresidential > NC: P
-          Nonresidential > MC: P
-          Nonresidential > CH MU 1 / 2: P
-          Nonresidential > TC: ''
-          Nonresidential > SC: ''
-          Nonresidential > P: P
-          Nonresidential > PF: P
-          Nonresidential > IC: P
-          Nonresidential > OLD: ''
+          Residential:
+            RD: P
+            RL: P
+            RM: P
+            RH: P
+            CH M/H: P
+            RH-C: ''
+          Nonresidential:
+            NC: P
+            MC: P
+            CH MU 1 / 2: P
+            TC: ''
+            SC: ''
+            P: P
+            PF: P
+            IC: P
+            OLD: ''
           Use-Specific Regulations: ''
       Transporta- tion:
         Use Type > Bus terminal:
-          Residential > RD: ''
-          Residential > RL: ''
-          Residential > RM: ''
-          Residential > RH: ''
-          Residential > CH M/H: ''
-          Residential > RH-C: ''
-          Nonresidential > NC: ''
-          Nonresidential > MC: ''
-          Nonresidential > CH MU 1 / 2: ''
-          Nonresidential > TC: S
-          Nonresidential > SC: ''
-          Nonresidential > P: ''
-          Nonresidential > PF: P
-          Nonresidential > IC: ''
-          Nonresidential > OLD: ''
+          Residential:
+            RD: ''
+            RL: ''
+            RM: ''
+            RH: ''
+            CH M/H: ''
+            RH-C: ''
+          Nonresidential:
+            NC: ''
+            MC: ''
+            CH MU 1 / 2: ''
+            TC: S
+            SC: ''
+            P: ''
+            PF: P
+            IC: ''
+            OLD: ''
           Use-Specific Regulations: 7.24.060 (d)
         Use Type > Rail terminal (passenger):
-          Residential > RD: ''
-          Residential > RL: ''
-          Residential > RM: ''
-          Residential > RH: ''
-          Residential > CH M/H: ''
-          Residential > RH-C: ''
-          Nonresidential > NC: ''
-          Nonresidential > MC: ''
-          Nonresidential > CH MU 1 / 2: ''
-          Nonresidential > TC: S
-          Nonresidential > SC: P
-          Nonresidential > P: ''
-          Nonresidential > PF: P
-          Nonresidential > IC: ''
-          Nonresidential > OLD: ''
+          Residential:
+            RD: ''
+            RL: ''
+            RM: ''
+            RH: ''
+            CH M/H: ''
+            RH-C: ''
+          Nonresidential:
+            NC: ''
+            MC: ''
+            CH MU 1 / 2: ''
+            TC: S
+            SC: P
+            P: ''
+            PF: P
+            IC: ''
+            OLD: ''
           Use-Specific Regulations: ''
         Use Type > Commercial parking facilities (surface & structure):
-          Residential > RD: ''
-          Residential > RL: ''
-          Residential > RM: ''
-          Residential > RH: ''
-          Residential > CH M/H: ''
-          Residential > RH-C: ''
-          Nonresidential > NC: ''
-          Nonresidential > MC: ''
-          Nonresidential > CH MU 1 / 2: S
-          Nonresidential > TC: S
-          Nonresidential > SC: ''
-          Nonresidential > P: ''
-          Nonresidential > PF: P
-          Nonresidential > IC: ''
-          Nonresidential > OLD: ''
+          Residential:
+            RD: ''
+            RL: ''
+            RM: ''
+            RH: ''
+            CH M/H: ''
+            RH-C: ''
+          Nonresidential:
+            NC: ''
+            MC: ''
+            CH MU 1 / 2: S
+            TC: S
+            SC: ''
+            P: ''
+            PF: P
+            IC: ''
+            OLD: ''
           Use-Specific Regulations: ''
       Utility:
         Use Type > Major energy facilities:
-          Residential > RD: ''
-          Residential > RL: ''
-          Residential > RM: ''
-          Residential > RH: ''
-          Residential > CH M/H: ''
-          Residential > RH-C: ''
-          Nonresidential > NC: ''
-          Nonresidential > MC: ''
-          Nonresidential > CH MU 1 / 2: ''
-          Nonresidential > TC: ''
-          Nonresidential > SC: ''
-          Nonresidential > P: ''
-          Nonresidential > PF: ''
-          Nonresidential > IC: S
-          Nonresidential > OLD: ''
+          Residential:
+            RD: ''
+            RL: ''
+            RM: ''
+            RH: ''
+            CH M/H: ''
+            RH-C: ''
+          Nonresidential:
+            NC: ''
+            MC: ''
+            CH MU 1 / 2: ''
+            TC: ''
+            SC: ''
+            P: ''
+            PF: ''
+            IC: S
+            OLD: ''
           Use-Specific Regulations: ''
         Use Type > Public utility substations where no public office, repair or storage facilities are maintained:
-          Residential > RD: S
-          Residential > RL: S
-          Residential > RM: S
-          Residential > RH: S
-          Residential > CH M/H: ''
-          Residential > RH-C: S
-          Nonresidential > NC: S
-          Nonresidential > MC: S
-          Nonresidential > CH MU 1 / 2: ''
-          Nonresidential > TC: S
-          Nonresidential > SC: S
-          Nonresidential > P: ''
-          Nonresidential > PF: ''
-          Nonresidential > IC: S
-          Nonresidential > OLD: ''
+          Residential:
+            RD: S
+            RL: S
+            RM: S
+            RH: S
+            CH M/H: ''
+            RH-C: S
+          Nonresidential:
+            NC: S
+            MC: S
+            CH MU 1 / 2: ''
+            TC: S
+            SC: S
+            P: ''
+            PF: ''
+            IC: S
+            OLD: ''
           Use-Specific Regulations: ''
         Use Type > Ground mounted solar devices:
-          Residential > RD: ''
-          Residential > RL: ''
-          Residential > RM: ''
-          Residential > RH: ''
-          Residential > CH M/H: P
-          Residential > RH-C: ''
-          Nonresidential > NC: ''
-          Nonresidential > MC: ''
-          Nonresidential > CH MU 1 / 2: P
-          Nonresidential > TC: ''
-          Nonresidential > SC: ''
-          Nonresidential > P: ''
-          Nonresidential > PF: ''
-          Nonresidential > IC: S
-          Nonresidential > OLD: ''
+          Residential:
+            RD: ''
+            RL: ''
+            RM: ''
+            RH: ''
+            CH M/H: P
+            RH-C: ''
+          Nonresidential:
+            NC: ''
+            MC: ''
+            CH MU 1 / 2: P
+            TC: ''
+            SC: ''
+            P: ''
+            PF: ''
+            IC: S
+            OLD: ''
           Use-Specific Regulations: ''
         Use Type > Small wind energy system:
-          Residential > RD: S
-          Residential > RL: S
-          Residential > RM: S
-          Residential > RH: S
-          Residential > CH M/H: P
-          Residential > RH-C: ''
-          Nonresidential > NC: S
-          Nonresidential > MC: S
-          Nonresidential > CH MU 1 / 2: P
-          Nonresidential > TC: S
-          Nonresidential > SC: ''
-          Nonresidential > P: S
-          Nonresidential > PF: S
-          Nonresidential > IC: S
-          Nonresidential > OLD: S
+          Residential:
+            RD: S
+            RL: S
+            RM: S
+            RH: S
+            CH M/H: P
+            RH-C: ''
+          Nonresidential:
+            NC: S
+            MC: S
+            CH MU 1 / 2: P
+            TC: S
+            SC: ''
+            P: S
+            PF: S
+            IC: S
+            OLD: S
           Use-Specific Regulations: ''
         Use Type > Wireless com- munication tower and/or antenna:
-          Residential > RD: S
-          Residential > RL: S
-          Residential > RM: S
-          Residential > RH: S
-          Residential > CH M/H: S
-          Residential > RH-C: S
-          Nonresidential > NC: S
-          Nonresidential > MC: S
-          Nonresidential > CH MU 1 / 2: S
-          Nonresidential > TC: S
-          Nonresidential > SC: S
-          Nonresidential > P: S
-          Nonresidential > PF: S
-          Nonresidential > IC: S
-          Nonresidential > OLD: ''
+          Residential:
+            RD: S
+            RL: S
+            RM: S
+            RH: S
+            CH M/H: S
+            RH-C: S
+          Nonresidential:
+            NC: S
+            MC: S
+            CH MU 1 / 2: S
+            TC: S
+            SC: S
+            P: S
+            PF: S
+            IC: S
+            OLD: ''
           Use-Specific Regulations: ''
     Commercial Uses:
       Animal sales and services:
         Use Type > Kennel or Animal Boarding:
-          Residential > RD: ''
-          Residential > RL: ''
-          Residential > RM: ''
-          Residential > RH: ''
-          Residential > CH M/H: ''
-          Residential > RH-C: ''
-          Nonresidential > NC: ''
-          Nonresidential > MC: ''
-          Nonresidential > CH MU 1 / 2: ''
-          Nonresidential > TC: ''
-          Nonresidential > SC: ''
-          Nonresidential > P: ''
-          Nonresidential > PF: ''
-          Nonresidential > IC: S
-          Nonresidential > OLD: ''
+          Residential:
+            RD: ''
+            RL: ''
+            RM: ''
+            RH: ''
+            CH M/H: ''
+            RH-C: ''
+          Nonresidential:
+            NC: ''
+            MC: ''
+            CH MU 1 / 2: ''
+            TC: ''
+            SC: ''
+            P: ''
+            PF: ''
+            IC: S
+            OLD: ''
           Use-Specific Regulations: 7.24.060 (e)(3)
         Use Type > Pet shops:
-          Residential > RD: ''
-          Residential > RL: ''
-          Residential > RM: ''
-          Residential > RH: ''
-          Residential > CH M/H: ''
-          Residential > RH-C: P
-          Nonresidential > NC: P
-          Nonresidential > MC: P
-          Nonresidential > CH MU 1 / 2: P
-          Nonresidential > TC: P
-          Nonresidential > SC: P
-          Nonresidential > P: ''
-          Nonresidential > PF: ''
-          Nonresidential > IC: ''
-          Nonresidential > OLD: ''
+          Residential:
+            RD: ''
+            RL: ''
+            RM: ''
+            RH: ''
+            CH M/H: ''
+            RH-C: P
+          Nonresidential:
+            NC: P
+            MC: P
+            CH MU 1 / 2: P
+            TC: P
+            SC: P
+            P: ''
+            PF: ''
+            IC: ''
+            OLD: ''
           Use-Specific Regulations: ''
         Use Type > Veterinary clinic, small (indoor only):
-          Residential > RD: ''
-          Residential > RL: ''
-          Residential > RM: ''
-          Residential > RH: ''
-          Residential > CH M/H: ''
-          Residential > RH-C: ''
-          Nonresidential > NC: P
-          Nonresidential > MC: P
-          Nonresidential > CH MU 1 / 2: P
-          Nonresidential > TC: ''
-          Nonresidential > SC: P
-          Nonresidential > P: ''
-          Nonresidential > PF: ''
-          Nonresidential > IC: ''
-          Nonresidential > OLD: ''
+          Residential:
+            RD: ''
+            RL: ''
+            RM: ''
+            RH: ''
+            CH M/H: ''
+            RH-C: ''
+          Nonresidential:
+            NC: P
+            MC: P
+            CH MU 1 / 2: P
+            TC: ''
+            SC: P
+            P: ''
+            PF: ''
+            IC: ''
+            OLD: ''
           Use-Specific Regulations: ''
         Use Type > Veterinary clinic, large (with outdoor runs):
-          Residential > RD: ''
-          Residential > RL: ''
-          Residential > RM: ''
-          Residential > RH: ''
-          Residential > CH M/H: ''
-          Residential > RH-C: ''
-          Nonresidential > NC: ''
-          Nonresidential > MC: ''
-          Nonresidential > CH MU 1 / 2: ''
-          Nonresidential > TC: ''
-          Nonresidential > SC: ''
-          Nonresidential > P: ''
-          Nonresidential > PF: ''
-          Nonresidential > IC: S
-          Nonresidential > OLD: ''
+          Residential:
+            RD: ''
+            RL: ''
+            RM: ''
+            RH: ''
+            CH M/H: ''
+            RH-C: ''
+          Nonresidential:
+            NC: ''
+            MC: ''
+            CH MU 1 / 2: ''
+            TC: ''
+            SC: ''
+            P: ''
+            PF: ''
+            IC: S
+            OLD: ''
           Use-Specific Regulations: ''
         Use Type > Auction House:
-          Residential > RD: ''
-          Residential > RL: ''
-          Residential > RM: ''
-          Residential > RH: ''
-          Residential > CH M/H: ''
-          Residential > RH-C: ''
-          Nonresidential > NC: P
-          Nonresidential > MC: P
-          Nonresidential > CH MU 1 / 2: ''
-          Nonresidential > TC: P
-          Nonresidential > SC: ''
-          Nonresidential > P: ''
-          Nonresidential > PF: ''
-          Nonresidential > IC: P
-          Nonresidential > OLD: ''
+          Residential:
+            RD: ''
+            RL: ''
+            RM: ''
+            RH: ''
+            CH M/H: ''
+            RH-C: ''
+          Nonresidential:
+            NC: P
+            MC: P
+            CH MU 1 / 2: ''
+            TC: P
+            SC: ''
+            P: ''
+            PF: ''
+            IC: P
+            OLD: ''
           Use-Specific Regulations: ''
       Assembly:
         Use Type > Auction yard:
-          Residential > RD: ''
-          Residential > RL: ''
-          Residential > RM: ''
-          Residential > RH: ''
-          Residential > CH M/H: ''
-          Residential > RH-C: ''
-          Nonresidential > NC: ''
-          Nonresidential > MC: ''
-          Nonresidential > CH MU 1 / 2: ''
-          Nonresidential > TC: ''
-          Nonresidential > SC: ''
-          Nonresidential > P: ''
-          Nonresidential > PF: ''
-          Nonresidential > IC: P
-          Nonresidential > OLD: ''
+          Residential:
+            RD: ''
+            RL: ''
+            RM: ''
+            RH: ''
+            CH M/H: ''
+            RH-C: ''
+          Nonresidential:
+            NC: ''
+            MC: ''
+            CH MU 1 / 2: ''
+            TC: ''
+            SC: ''
+            P: ''
+            PF: ''
+            IC: P
+            OLD: ''
           Use-Specific Regulations: ''
         Use Type > Membership clubs:
-          Residential > RD: ''
-          Residential > RL: ''
-          Residential > RM: ''
-          Residential > RH: ''
-          Residential > CH M/H: ''
-          Residential > RH-C: ''
-          Nonresidential > NC: P
-          Nonresidential > MC: P
-          Nonresidential > CH MU 1 / 2: P
-          Nonresidential > TC: P
-          Nonresidential > SC: ''
-          Nonresidential > P: ''
-          Nonresidential > PF: ''
-          Nonresidential > IC: ''
-          Nonresidential > OLD: ''
+          Residential:
+            RD: ''
+            RL: ''
+            RM: ''
+            RH: ''
+            CH M/H: ''
+            RH-C: ''
+          Nonresidential:
+            NC: P
+            MC: P
+            CH MU 1 / 2: P
+            TC: P
+            SC: ''
+            P: ''
+            PF: ''
+            IC: ''
+            OLD: ''
           Use-Specific Regulations: ''
       Financial Service:
         Use Type > Financial institution, with drive- thru:
-          Residential > RD: ''
-          Residential > RL: ''
-          Residential > RM: ''
-          Residential > RH: ''
-          Residential > CH M/H: ''
-          Residential > RH-C: ''
-          Nonresidential > NC: S
-          Nonresidential > MC: S
-          Nonresidential > CH MU 1 / 2: ''
-          Nonresidential > TC: S
-          Nonresidential > SC: S
-          Nonresidential > P: ''
-          Nonresidential > PF: ''
-          Nonresidential > IC: ''
-          Nonresidential > OLD: ''
+          Residential:
+            RD: ''
+            RL: ''
+            RM: ''
+            RH: ''
+            CH M/H: ''
+            RH-C: ''
+          Nonresidential:
+            NC: S
+            MC: S
+            CH MU 1 / 2: ''
+            TC: S
+            SC: S
+            P: ''
+            PF: ''
+            IC: ''
+            OLD: ''
           Use-Specific Regulations: 7.24.060 (f)
         Use Type > Financial institution, without drive-thru:
-          Residential > RD: ''
-          Residential > RL: ''
-          Residential > RM: ''
-          Residential > RH: ''
-          Residential > CH M/H: ''
-          Residential > RH-C: ''
-          Nonresidential > NC: P
-          Nonresidential > MC: P
-          Nonresidential > CH MU 1 / 2: P
-          Nonresidential > TC: P
-          Nonresidential > SC: P
-          Nonresidential > P: ''
-          Nonresidential > PF: ''
-          Nonresidential > IC: ''
-          Nonresidential > OLD: ''
+          Residential:
+            RD: ''
+            RL: ''
+            RM: ''
+            RH: ''
+            CH M/H: ''
+            RH-C: ''
+          Nonresidential:
+            NC: P
+            MC: P
+            CH MU 1 / 2: P
+            TC: P
+            SC: P
+            P: ''
+            PF: ''
+            IC: ''
+            OLD: ''
           Use-Specific Regulations: ''
       Food and Beverage Services:
         Use Type > Bakeries:
-          Residential > RD: ''
-          Residential > RL: ''
-          Residential > RM: ''
-          Residential > RH: ''
-          Residential > CH M/H: ''
-          Residential > RH-C: ''
-          Nonresidential > NC: P
-          Nonresidential > MC: P
-          Nonresidential > CH MU 1 / 2: P
-          Nonresidential > TC: P
-          Nonresidential > SC: P
-          Nonresidential > P: ''
-          Nonresidential > PF: ''
-          Nonresidential > IC: ''
-          Nonresidential > OLD: ''
+          Residential:
+            RD: ''
+            RL: ''
+            RM: ''
+            RH: ''
+            CH M/H: ''
+            RH-C: ''
+          Nonresidential:
+            NC: P
+            MC: P
+            CH MU 1 / 2: P
+            TC: P
+            SC: P
+            P: ''
+            PF: ''
+            IC: ''
+            OLD: ''
           Use-Specific Regulations: ''
         Use Type > Bars or taverns:
-          Residential > RD: ''
-          Residential > RL: ''
-          Residential > RM: ''
-          Residential > RH: ''
-          Residential > CH M/H: ''
-          Residential > RH-C: P
-          Nonresidential > NC: P
-          Nonresidential > MC: P
-          Nonresidential > CH MU 1 / 2: P
-          Nonresidential > TC: P
-          Nonresidential > SC: P
-          Nonresidential > P: ''
-          Nonresidential > PF: ''
-          Nonresidential > IC: ''
-          Nonresidential > OLD: ''
+          Residential:
+            RD: ''
+            RL: ''
+            RM: ''
+            RH: ''
+            CH M/H: ''
+            RH-C: P
+          Nonresidential:
+            NC: P
+            MC: P
+            CH MU 1 / 2: P
+            TC: P
+            SC: P
+            P: ''
+            PF: ''
+            IC: ''
+            OLD: ''
           Use-Specific Regulations: 7.24.060 (h)(2)
         Use Type > Coffee shops or specialty drink shops:
-          Residential > RD: ''
-          Residential > RL: ''
-          Residential > RM: ''
-          Residential > RH: ''
-          Residential > CH M/H: ''
-          Residential > RH-C: P
-          Nonresidential > NC: P
-          Nonresidential > MC: P
-          Nonresidential > CH MU 1 / 2: P
-          Nonresidential > TC: P
-          Nonresidential > SC: P
-          Nonresidential > P: ''
-          Nonresidential > PF: ''
-          Nonresidential > IC: ''
-          Nonresidential > OLD: ''
+          Residential:
+            RD: ''
+            RL: ''
+            RM: ''
+            RH: ''
+            CH M/H: ''
+            RH-C: P
+          Nonresidential:
+            NC: P
+            MC: P
+            CH MU 1 / 2: P
+            TC: P
+            SC: P
+            P: ''
+            PF: ''
+            IC: ''
+            OLD: ''
           Use-Specific Regulations: ''
         Use Type > Restaurant, with drive-in or drive-thru:
-          Residential > RD: ''
-          Residential > RL: ''
-          Residential > RM: ''
-          Residential > RH: ''
-          Residential > CH M/H: ''
-          Residential > RH-C: S
-          Nonresidential > NC: S
-          Nonresidential > MC: S
-          Nonresidential > CH MU 1 / 2: ''
-          Nonresidential > TC: S
-          Nonresidential > SC: S
-          Nonresidential > P: ''
-          Nonresidential > PF: ''
-          Nonresidential > IC: ''
-          Nonresidential > OLD: ''
+          Residential:
+            RD: ''
+            RL: ''
+            RM: ''
+            RH: ''
+            CH M/H: ''
+            RH-C: S
+          Nonresidential:
+            NC: S
+            MC: S
+            CH MU 1 / 2: ''
+            TC: S
+            SC: S
+            P: ''
+            PF: ''
+            IC: ''
+            OLD: ''
           Use-Specific Regulations: 7.24.060 (g)
         Use Type > Restaurant without drive-in or drive-thru:
-          Residential > RD: ''
-          Residential > RL: ''
-          Residential > RM: ''
-          Residential > RH: ''
-          Residential > CH M/H: ''
-          Residential > RH-C: P
-          Nonresidential > NC: P
-          Nonresidential > MC: P
-          Nonresidential > CH MU 1 / 2: S
-          Nonresidential > TC: P
-          Nonresidential > SC: P
-          Nonresidential > P: ''
-          Nonresidential > PF: ''
-          Nonresidential > IC: ''
-          Nonresidential > OLD: ''
+          Residential:
+            RD: ''
+            RL: ''
+            RM: ''
+            RH: ''
+            CH M/H: ''
+            RH-C: P
+          Nonresidential:
+            NC: P
+            MC: P
+            CH MU 1 / 2: S
+            TC: P
+            SC: P
+            P: ''
+            PF: ''
+            IC: ''
+            OLD: ''
           Use-Specific Regulations: ''
       Health Care Facilities:
         Use Type > Medical center/ hospital:
-          Residential > RD: ''
-          Residential > RL: ''
-          Residential > RM: ''
-          Residential > RH: ''
-          Residential > CH M/H: ''
-          Residential > RH-C: ''
-          Nonresidential > NC: S
-          Nonresidential > MC: P
-          Nonresidential > CH MU 1 / 2: ''
-          Nonresidential > TC: ''
-          Nonresidential > SC: P
-          Nonresidential > P: ''
-          Nonresidential > PF: P
-          Nonresidential > IC: ''
-          Nonresidential > OLD: ''
+          Residential:
+            RD: ''
+            RL: ''
+            RM: ''
+            RH: ''
+            CH M/H: ''
+            RH-C: ''
+          Nonresidential:
+            NC: S
+            MC: P
+            CH MU 1 / 2: ''
+            TC: ''
+            SC: P
+            P: ''
+            PF: P
+            IC: ''
+            OLD: ''
           Use-Specific Regulations: ''
         Use Type > Urgent care facility:
-          Residential > RD: ''
-          Residential > RL: ''
-          Residential > RM: ''
-          Residential > RH: ''
-          Residential > CH M/H: ''
-          Residential > RH-C: ''
-          Nonresidential > NC: P
-          Nonresidential > MC: ''
-          Nonresidential > CH MU 1 / 2: ''
-          Nonresidential > TC: P
-          Nonresidential > SC: P
-          Nonresidential > P: ''
-          Nonresidential > PF: ''
-          Nonresidential > IC: ''
-          Nonresidential > OLD: ''
+          Residential:
+            RD: ''
+            RL: ''
+            RM: ''
+            RH: ''
+            CH M/H: ''
+            RH-C: ''
+          Nonresidential:
+            NC: P
+            MC: ''
+            CH MU 1 / 2: ''
+            TC: P
+            SC: P
+            P: ''
+            PF: ''
+            IC: ''
+            OLD: ''
           Use-Specific Regulations: ''
         Use Type > Medical and dental clinics and offices:
-          Residential > RD: ''
-          Residential > RL: ''
-          Residential > RM: ''
-          Residential > RH: ''
-          Residential > CH M/H: ''
-          Residential > RH-C: ''
-          Nonresidential > NC: P
-          Nonresidential > MC: P
-          Nonresidential > CH MU 1 / 2: P
-          Nonresidential > TC: P
-          Nonresidential > SC: P
-          Nonresidential > P: ''
-          Nonresidential > PF: S
-          Nonresidential > IC: ''
-          Nonresidential > OLD: ''
+          Residential:
+            RD: ''
+            RL: ''
+            RM: ''
+            RH: ''
+            CH M/H: ''
+            RH-C: ''
+          Nonresidential:
+            NC: P
+            MC: P
+            CH MU 1 / 2: P
+            TC: P
+            SC: P
+            P: ''
+            PF: S
+            IC: ''
+            OLD: ''
           Use-Specific Regulations: ''
         Use Type > Long-term Care Facility:
-          Residential > RD: ''
-          Residential > RL: ''
-          Residential > RM: ''
-          Residential > RH: ''
-          Residential > CH M/H: ''
-          Residential > RH-C: ''
-          Nonresidential > NC: P
-          Nonresidential > MC: P
-          Nonresidential > CH MU 1 / 2: P
-          Nonresidential > TC: P
-          Nonresidential > SC: ''
-          Nonresidential > P: ''
-          Nonresidential > PF: ''
-          Nonresidential > IC: ''
-          Nonresidential > OLD: ''
+          Residential:
+            RD: ''
+            RL: ''
+            RM: ''
+            RH: ''
+            CH M/H: ''
+            RH-C: ''
+          Nonresidential:
+            NC: P
+            MC: P
+            CH MU 1 / 2: P
+            TC: P
+            SC: ''
+            P: ''
+            PF: ''
+            IC: ''
+            OLD: ''
           Use-Specific Regulations: ''
       Natural Medicine Healing Centers:
         Row 57:
-          Residential > RD: ''
-          Residential > RL: ''
-          Residential > RM: ''
-          Residential > RH: ''
-          Residential > CH M/H: ''
-          Residential > RH-C: ''
-          Nonresidential > NC: P
-          Nonresidential > MC: P
-          Nonresidential > CH MU 1 / 2: P
-          Nonresidential > TC: P
-          Nonresidential > SC: P
-          Nonresidential > P: ''
-          Nonresidential > PF: ''
-          Nonresidential > IC: ''
-          Nonresidential > OLD: ''
+          Residential:
+            RD: ''
+            RL: ''
+            RM: ''
+            RH: ''
+            CH M/H: ''
+            RH-C: ''
+          Nonresidential:
+            NC: P
+            MC: P
+            CH MU 1 / 2: P
+            TC: P
+            SC: P
+            P: ''
+            PF: ''
+            IC: ''
+            OLD: ''
           Use-Specific Regulations: Chapter 8.27
       Office:
         Use Type > Administrative and professional offices:
-          Residential > RD: ''
-          Residential > RL: ''
-          Residential > RM: ''
-          Residential > RH: ''
-          Residential > CH M/H: ''
-          Residential > RH-C: ''
-          Nonresidential > NC: P
-          Nonresidential > MC: P
-          Nonresidential > CH MU 1 / 2: P
-          Nonresidential > TC: P
-          Nonresidential > SC: P
-          Nonresidential > P: ''
-          Nonresidential > PF: ''
-          Nonresidential > IC: ''
-          Nonresidential > OLD: ''
+          Residential:
+            RD: ''
+            RL: ''
+            RM: ''
+            RH: ''
+            CH M/H: ''
+            RH-C: ''
+          Nonresidential:
+            NC: P
+            MC: P
+            CH MU 1 / 2: P
+            TC: P
+            SC: P
+            P: ''
+            PF: ''
+            IC: ''
+            OLD: ''
           Use-Specific Regulations: ''
         Use Type > Office with showroom and/or warehouse facilities:
-          Residential > RD: ''
-          Residential > RL: ''
-          Residential > RM: ''
-          Residential > RH: ''
-          Residential > CH M/H: ''
-          Residential > RH-C: ''
-          Nonresidential > NC: ''
-          Nonresidential > MC: ''
-          Nonresidential > CH MU 1 / 2: P
-          Nonresidential > TC: ''
-          Nonresidential > SC: ''
-          Nonresidential > P: ''
-          Nonresidential > PF: ''
-          Nonresidential > IC: S
-          Nonresidential > OLD: ''
+          Residential:
+            RD: ''
+            RL: ''
+            RM: ''
+            RH: ''
+            CH M/H: ''
+            RH-C: ''
+          Nonresidential:
+            NC: ''
+            MC: ''
+            CH MU 1 / 2: P
+            TC: ''
+            SC: ''
+            P: ''
+            PF: ''
+            IC: S
+            OLD: ''
           Use-Specific Regulations: ''
       Recreation and Enter- tainment, Outdoor:
         Use Type > Outdoor commercial recreation:
-          Residential > RD: ''
-          Residential > RL: ''
-          Residential > RM: ''
-          Residential > RH: ''
-          Residential > CH M/H: ''
-          Residential > RH-C: ''
-          Nonresidential > NC: ''
-          Nonresidential > MC: P
-          Nonresidential > CH MU 1 / 2: ''
-          Nonresidential > TC: P
-          Nonresidential > SC: ''
-          Nonresidential > P: ''
-          Nonresidential > PF: ''
-          Nonresidential > IC: P
-          Nonresidential > OLD: ''
+          Residential:
+            RD: ''
+            RL: ''
+            RM: ''
+            RH: ''
+            CH M/H: ''
+            RH-C: ''
+          Nonresidential:
+            NC: ''
+            MC: P
+            CH MU 1 / 2: ''
+            TC: P
+            SC: ''
+            P: ''
+            PF: ''
+            IC: P
+            OLD: ''
           Use-Specific Regulations: ''
         Use Type > Riding academies:
-          Residential > RD: ''
-          Residential > RL: ''
-          Residential > RM: ''
-          Residential > RH: ''
-          Residential > CH M/H: ''
-          Residential > RH-C: ''
-          Nonresidential > NC: ''
-          Nonresidential > MC: ''
-          Nonresidential > CH MU 1 / 2: ''
-          Nonresidential > TC: ''
-          Nonresidential > SC: ''
-          Nonresidential > P: S
-          Nonresidential > PF: ''
-          Nonresidential > IC: P
-          Nonresidential > OLD: ''
+          Residential:
+            RD: ''
+            RL: ''
+            RM: ''
+            RH: ''
+            CH M/H: ''
+            RH-C: ''
+          Nonresidential:
+            NC: ''
+            MC: ''
+            CH MU 1 / 2: ''
+            TC: ''
+            SC: ''
+            P: S
+            PF: ''
+            IC: P
+            OLD: ''
           Use-Specific Regulations: ''
       Recreation and Entertainment, Indoor:
         Use Type > Indoor commercial recreation/ entertainment:
-          Residential > RD: ''
-          Residential > RL: ''
-          Residential > RM: ''
-          Residential > RH: ''
-          Residential > CH M/H: ''
-          Residential > RH-C: ''
-          Nonresidential > NC: P
-          Nonresidential > MC: P
-          Nonresidential > CH MU 1 / 2: P
-          Nonresidential > TC: P
-          Nonresidential > SC: P
-          Nonresidential > P: ''
-          Nonresidential > PF: ''
-          Nonresidential > IC: P
-          Nonresidential > OLD: ''
+          Residential:
+            RD: ''
+            RL: ''
+            RM: ''
+            RH: ''
+            CH M/H: ''
+            RH-C: ''
+          Nonresidential:
+            NC: P
+            MC: P
+            CH MU 1 / 2: P
+            TC: P
+            SC: P
+            P: ''
+            PF: ''
+            IC: P
+            OLD: ''
           Use-Specific Regulations: ''
         Use Type > Sexually- oriented business:
-          Residential > RD: ''
-          Residential > RL: ''
-          Residential > RM: ''
-          Residential > RH: ''
-          Residential > CH M/H: ''
-          Residential > RH-C: ''
-          Nonresidential > NC: ''
-          Nonresidential > MC: ''
-          Nonresidential > CH MU 1 / 2: ''
-          Nonresidential > TC: ''
-          Nonresidential > SC: ''
-          Nonresidential > P: ''
-          Nonresidential > PF: ''
-          Nonresidential > IC: S
-          Nonresidential > OLD: ''
+          Residential:
+            RD: ''
+            RL: ''
+            RM: ''
+            RH: ''
+            CH M/H: ''
+            RH-C: ''
+          Nonresidential:
+            NC: ''
+            MC: ''
+            CH MU 1 / 2: ''
+            TC: ''
+            SC: ''
+            P: ''
+            PF: ''
+            IC: S
+            OLD: ''
           Use-Specific Regulations: ''
         Use Type > Theater/ performance hall:
-          Residential > RD: ''
-          Residential > RL: ''
-          Residential > RM: ''
-          Residential > RH: ''
-          Residential > CH M/H: ''
-          Residential > RH-C: ''
-          Nonresidential > NC: S
-          Nonresidential > MC: P
-          Nonresidential > CH MU 1 / 2: S
-          Nonresidential > TC: P
-          Nonresidential > SC: P
-          Nonresidential > P: ''
-          Nonresidential > PF: ''
-          Nonresidential > IC: ''
-          Nonresidential > OLD: ''
+          Residential:
+            RD: ''
+            RL: ''
+            RM: ''
+            RH: ''
+            CH M/H: ''
+            RH-C: ''
+          Nonresidential:
+            NC: S
+            MC: P
+            CH MU 1 / 2: S
+            TC: P
+            SC: P
+            P: ''
+            PF: ''
+            IC: ''
+            OLD: ''
           Use-Specific Regulations: ''
       Personal Services:
         Use Type > Barber shops, beauty salons, day spas:
-          Residential > RD: ''
-          Residential > RL: ''
-          Residential > RM: ''
-          Residential > RH: ''
-          Residential > CH M/H: ''
-          Residential > RH-C: P
-          Nonresidential > NC: P
-          Nonresidential > MC: P
-          Nonresidential > CH MU 1 / 2: P
-          Nonresidential > TC: P
-          Nonresidential > SC: P
-          Nonresidential > P: ''
-          Nonresidential > PF: ''
-          Nonresidential > IC: ''
-          Nonresidential > OLD: ''
+          Residential:
+            RD: ''
+            RL: ''
+            RM: ''
+            RH: ''
+            CH M/H: ''
+            RH-C: P
+          Nonresidential:
+            NC: P
+            MC: P
+            CH MU 1 / 2: P
+            TC: P
+            SC: P
+            P: ''
+            PF: ''
+            IC: ''
+            OLD: ''
           Use-Specific Regulations: ''
         Use Type > Dry cleaning and laundry service:
-          Residential > RD: ''
-          Residential > RL: ''
-          Residential > RM: ''
-          Residential > RH: ''
-          Residential > CH M/H: ''
-          Residential > RH-C: P
-          Nonresidential > NC: P
-          Nonresidential > MC: P
-          Nonresidential > CH MU 1 / 2: S
-          Nonresidential > TC: P
-          Nonresidential > SC: P
-          Nonresidential > P: ''
-          Nonresidential > PF: ''
-          Nonresidential > IC: ''
-          Nonresidential > OLD: ''
+          Residential:
+            RD: ''
+            RL: ''
+            RM: ''
+            RH: ''
+            CH M/H: ''
+            RH-C: P
+          Nonresidential:
+            NC: P
+            MC: P
+            CH MU 1 / 2: S
+            TC: P
+            SC: P
+            P: ''
+            PF: ''
+            IC: ''
+            OLD: ''
           Use-Specific Regulations: ''
         Use Type > General personal services:
-          Residential > RD: ''
-          Residential > RL: ''
-          Residential > RM: ''
-          Residential > RH: ''
-          Residential > CH M/H: ''
-          Residential > RH-C: P
-          Nonresidential > NC: P
-          Nonresidential > MC: ''
-          Nonresidential > CH MU 1 / 2: P
-          Nonresidential > TC: P
-          Nonresidential > SC: P
-          Nonresidential > P: ''
-          Nonresidential > PF: ''
-          Nonresidential > IC: ''
-          Nonresidential > OLD: ''
+          Residential:
+            RD: ''
+            RL: ''
+            RM: ''
+            RH: ''
+            CH M/H: ''
+            RH-C: P
+          Nonresidential:
+            NC: P
+            MC: ''
+            CH MU 1 / 2: P
+            TC: P
+            SC: P
+            P: ''
+            PF: ''
+            IC: ''
+            OLD: ''
           Use-Specific Regulations: ''
         Use Type > Tattoo parlors, body piercing (Private office above ground level uses):
-          Residential > RD: ''
-          Residential > RL: ''
-          Residential > RM: ''
-          Residential > RH: ''
-          Residential > CH M/H: ''
-          Residential > RH-C: ''
-          Nonresidential > NC: ''
-          Nonresidential > MC: ''
-          Nonresidential > CH MU 1 / 2: ''
-          Nonresidential > TC: ''
-          Nonresidential > SC: ''
-          Nonresidential > P: ''
-          Nonresidential > PF: ''
-          Nonresidential > IC: P
-          Nonresidential > OLD: ''
+          Residential:
+            RD: ''
+            RL: ''
+            RM: ''
+            RH: ''
+            CH M/H: ''
+            RH-C: ''
+          Nonresidential:
+            NC: ''
+            MC: ''
+            CH MU 1 / 2: ''
+            TC: ''
+            SC: ''
+            P: ''
+            PF: ''
+            IC: P
+            OLD: ''
           Use-Specific Regulations: ''
         Use Type > Tattoo parlors, body piercing, ground level:
-          Residential > RD: ''
-          Residential > RL: ''
-          Residential > RM: ''
-          Residential > RH: ''
-          Residential > CH M/H: ''
-          Residential > RH-C: ''
-          Nonresidential > NC: ''
-          Nonresidential > MC: S
-          Nonresidential > CH MU 1 / 2: S
-          Nonresidential > TC: S
-          Nonresidential > SC: S
-          Nonresidential > P: ''
-          Nonresidential > PF: ''
-          Nonresidential > IC: ''
-          Nonresidential > OLD: ''
+          Residential:
+            RD: ''
+            RL: ''
+            RM: ''
+            RH: ''
+            CH M/H: ''
+            RH-C: ''
+          Nonresidential:
+            NC: ''
+            MC: S
+            CH MU 1 / 2: S
+            TC: S
+            SC: S
+            P: ''
+            PF: ''
+            IC: ''
+            OLD: ''
           Use-Specific Regulations: ''
       Retail (Sales):
         Use Type > General Retail:
-          Residential > RD: ''
-          Residential > RL: ''
-          Residential > RM: ''
-          Residential > RH: ''
-          Residential > CH M/H: ''
-          Residential > RH-C: P
-          Nonresidential > NC: P
-          Nonresidential > MC: P
-          Nonresidential > CH MU 1 / 2: P
-          Nonresidential > TC: P
-          Nonresidential > SC: P
-          Nonresidential > P: ''
-          Nonresidential > PF: ''
-          Nonresidential > IC: ''
-          Nonresidential > OLD: ''
+          Residential:
+            RD: ''
+            RL: ''
+            RM: ''
+            RH: ''
+            CH M/H: ''
+            RH-C: P
+          Nonresidential:
+            NC: P
+            MC: P
+            CH MU 1 / 2: P
+            TC: P
+            SC: P
+            P: ''
+            PF: ''
+            IC: ''
+            OLD: ''
           Use-Specific Regulations: ''
         Use Type > Convenience store, with fuel:
-          Residential > RD: ''
-          Residential > RL: ''
-          Residential > RM: ''
-          Residential > RH: ''
-          Residential > CH M/H: ''
-          Residential > RH-C: ''
-          Nonresidential > NC: S
-          Nonresidential > MC: S
-          Nonresidential > CH MU 1 / 2: ''
-          Nonresidential > TC: S
-          Nonresidential > SC: P
-          Nonresidential > P: ''
-          Nonresidential > PF: ''
-          Nonresidential > IC: P
-          Nonresidential > OLD: ''
+          Residential:
+            RD: ''
+            RL: ''
+            RM: ''
+            RH: ''
+            CH M/H: ''
+            RH-C: ''
+          Nonresidential:
+            NC: S
+            MC: S
+            CH MU 1 / 2: ''
+            TC: S
+            SC: P
+            P: ''
+            PF: ''
+            IC: P
+            OLD: ''
           Use-Specific Regulations: ''
         Use Type > Convenience store:
-          Residential > RD: ''
-          Residential > RL: ''
-          Residential > RM: ''
-          Residential > RH: ''
-          Residential > CH M/H: ''
-          Residential > RH-C: P
-          Nonresidential > NC: P
-          Nonresidential > MC: P
-          Nonresidential > CH MU 1 / 2: P
-          Nonresidential > TC: P
-          Nonresidential > SC: ''
-          Nonresidential > P: ''
-          Nonresidential > PF: ''
-          Nonresidential > IC: ''
-          Nonresidential > OLD: ''
+          Residential:
+            RD: ''
+            RL: ''
+            RM: ''
+            RH: ''
+            CH M/H: ''
+            RH-C: P
+          Nonresidential:
+            NC: P
+            MC: P
+            CH MU 1 / 2: P
+            TC: P
+            SC: ''
+            P: ''
+            PF: ''
+            IC: ''
+            OLD: ''
           Use-Specific Regulations: ''
         Use Type > Drug stores, Pharmacies:
-          Residential > RD: ''
-          Residential > RL: ''
-          Residential > RM: ''
-          Residential > RH: P
-          Residential > CH M/H: ''
-          Residential > RH-C: P
-          Nonresidential > NC: P
-          Nonresidential > MC: P
-          Nonresidential > CH MU 1 / 2: P
-          Nonresidential > TC: P
-          Nonresidential > SC: ''
-          Nonresidential > P: ''
-          Nonresidential > PF: ''
-          Nonresidential > IC: ''
-          Nonresidential > OLD: ''
+          Residential:
+            RD: ''
+            RL: ''
+            RM: ''
+            RH: P
+            CH M/H: ''
+            RH-C: P
+          Nonresidential:
+            NC: P
+            MC: P
+            CH MU 1 / 2: P
+            TC: P
+            SC: ''
+            P: ''
+            PF: ''
+            IC: ''
+            OLD: ''
           Use-Specific Regulations: ''
         Use Type > Drug stores, Pharmacies with drive thru:
-          Residential > RD: ''
-          Residential > RL: ''
-          Residential > RM: ''
-          Residential > RH: ''
-          Residential > CH M/H: ''
-          Residential > RH-C: ''
-          Nonresidential > NC: ''
-          Nonresidential > MC: ''
-          Nonresidential > CH MU 1 / 2: ''
-          Nonresidential > TC: S
-          Nonresidential > SC: ''
-          Nonresidential > P: ''
-          Nonresidential > PF: ''
-          Nonresidential > IC: ''
-          Nonresidential > OLD: ''
+          Residential:
+            RD: ''
+            RL: ''
+            RM: ''
+            RH: ''
+            CH M/H: ''
+            RH-C: ''
+          Nonresidential:
+            NC: ''
+            MC: ''
+            CH MU 1 / 2: ''
+            TC: S
+            SC: ''
+            P: ''
+            PF: ''
+            IC: ''
+            OLD: ''
           Use-Specific Regulations: ''
         Use Type > Electrical supply stores:
-          Residential > RD: ''
-          Residential > RL: ''
-          Residential > RM: ''
-          Residential > RH: ''
-          Residential > CH M/H: P
-          Residential > RH-C: ''
-          Nonresidential > NC: ''
-          Nonresidential > MC: S
-          Nonresidential > CH MU 1 / 2: ''
-          Nonresidential > TC: ''
-          Nonresidential > SC: P
-          Nonresidential > P: ''
-          Nonresidential > PF: ''
-          Nonresidential > IC: P
-          Nonresidential > OLD: ''
+          Residential:
+            RD: ''
+            RL: ''
+            RM: ''
+            RH: ''
+            CH M/H: P
+            RH-C: ''
+          Nonresidential:
+            NC: ''
+            MC: S
+            CH MU 1 / 2: ''
+            TC: ''
+            SC: P
+            P: ''
+            PF: ''
+            IC: P
+            OLD: ''
           Use-Specific Regulations: ''
         Use Type > Florists:
-          Residential > RD: ''
-          Residential > RL: ''
-          Residential > RM: ''
-          Residential > RH: ''
-          Residential > CH M/H: P
-          Residential > RH-C: ''
-          Nonresidential > NC: P
-          Nonresidential > MC: ''
-          Nonresidential > CH MU 1 / 2: P
-          Nonresidential > TC: P
-          Nonresidential > SC: P
-          Nonresidential > P: ''
-          Nonresidential > PF: ''
-          Nonresidential > IC: ''
-          Nonresidential > OLD: ''
+          Residential:
+            RD: ''
+            RL: ''
+            RM: ''
+            RH: ''
+            CH M/H: P
+            RH-C: ''
+          Nonresidential:
+            NC: P
+            MC: ''
+            CH MU 1 / 2: P
+            TC: P
+            SC: P
+            P: ''
+            PF: ''
+            IC: ''
+            OLD: ''
           Use-Specific Regulations: ''
         Use Type > Furniture shops:
-          Residential > RD: ''
-          Residential > RL: ''
-          Residential > RM: ''
-          Residential > RH: ''
-          Residential > CH M/H: P
-          Residential > RH-C: ''
-          Nonresidential > NC: ''
-          Nonresidential > MC: P
-          Nonresidential > CH MU 1 / 2: P
-          Nonresidential > TC: P
-          Nonresidential > SC: P
-          Nonresidential > P: ''
-          Nonresidential > PF: ''
-          Nonresidential > IC: ''
-          Nonresidential > OLD: ''
+          Residential:
+            RD: ''
+            RL: ''
+            RM: ''
+            RH: ''
+            CH M/H: P
+            RH-C: ''
+          Nonresidential:
+            NC: ''
+            MC: P
+            CH MU 1 / 2: P
+            TC: P
+            SC: P
+            P: ''
+            PF: ''
+            IC: ''
+            OLD: ''
           Use-Specific Regulations: ''
         Use Type > Gift shops:
-          Residential > RD: ''
-          Residential > RL: ''
-          Residential > RM: ''
-          Residential > RH: ''
-          Residential > CH M/H: P
-          Residential > RH-C: ''
-          Nonresidential > NC: P
-          Nonresidential > MC: P
-          Nonresidential > CH MU 1 / 2: P
-          Nonresidential > TC: P
-          Nonresidential > SC: P
-          Nonresidential > P: ''
-          Nonresidential > PF: ''
-          Nonresidential > IC: ''
-          Nonresidential > OLD: ''
+          Residential:
+            RD: ''
+            RL: ''
+            RM: ''
+            RH: ''
+            CH M/H: P
+            RH-C: ''
+          Nonresidential:
+            NC: P
+            MC: P
+            CH MU 1 / 2: P
+            TC: P
+            SC: P
+            P: ''
+            PF: ''
+            IC: ''
+            OLD: ''
           Use-Specific Regulations: ''
         Use Type > Grocery stores:
-          Residential > RD: ''
-          Residential > RL: ''
-          Residential > RM: ''
-          Residential > RH: ''
-          Residential > CH M/H: P
-          Residential > RH-C: ''
-          Nonresidential > NC: P
-          Nonresidential > MC: P
-          Nonresidential > CH MU 1 / 2: P
-          Nonresidential > TC: P
-          Nonresidential > SC: P
-          Nonresidential > P: ''
-          Nonresidential > PF: ''
-          Nonresidential > IC: ''
-          Nonresidential > OLD: ''
+          Residential:
+            RD: ''
+            RL: ''
+            RM: ''
+            RH: ''
+            CH M/H: P
+            RH-C: ''
+          Nonresidential:
+            NC: P
+            MC: P
+            CH MU 1 / 2: P
+            TC: P
+            SC: P
+            P: ''
+            PF: ''
+            IC: ''
+            OLD: ''
           Use-Specific Regulations: ''
         Use Type > Home improvement store, under 25,000 sq. ft.:
-          Residential > RD: ''
-          Residential > RL: ''
-          Residential > RM: ''
-          Residential > RH: ''
-          Residential > CH M/H: P
-          Residential > RH-C: ''
-          Nonresidential > NC: S
-          Nonresidential > MC: P
-          Nonresidential > CH MU 1 / 2: P
-          Nonresidential > TC: P
-          Nonresidential > SC: P
-          Nonresidential > P: ''
-          Nonresidential > PF: ''
-          Nonresidential > IC: ''
-          Nonresidential > OLD: ''
+          Residential:
+            RD: ''
+            RL: ''
+            RM: ''
+            RH: ''
+            CH M/H: P
+            RH-C: ''
+          Nonresidential:
+            NC: S
+            MC: P
+            CH MU 1 / 2: P
+            TC: P
+            SC: P
+            P: ''
+            PF: ''
+            IC: ''
+            OLD: ''
           Use-Specific Regulations: ''
         Use Type > Home improvement store, over 25,000 sq. ft.:
-          Residential > RD: ''
-          Residential > RL: ''
-          Residential > RM: ''
-          Residential > RH: ''
-          Residential > CH M/H: P
-          Residential > RH-C: ''
-          Nonresidential > NC: ''
-          Nonresidential > MC: ''
-          Nonresidential > CH MU 1 / 2: ''
-          Nonresidential > TC: ''
-          Nonresidential > SC: P
-          Nonresidential > P: ''
-          Nonresidential > PF: ''
-          Nonresidential > IC: ''
-          Nonresidential > OLD: ''
+          Residential:
+            RD: ''
+            RL: ''
+            RM: ''
+            RH: ''
+            CH M/H: P
+            RH-C: ''
+          Nonresidential:
+            NC: ''
+            MC: ''
+            CH MU 1 / 2: ''
+            TC: ''
+            SC: P
+            P: ''
+            PF: ''
+            IC: ''
+            OLD: ''
           Use-Specific Regulations: ''
         Use Type > Jewelry, craft and hobby shops:
-          Residential > RD: ''
-          Residential > RL: ''
-          Residential > RM: ''
-          Residential > RH: ''
-          Residential > CH M/H: P
-          Residential > RH-C: ''
-          Nonresidential > NC: P
-          Nonresidential > MC: P
-          Nonresidential > CH MU 1 / 2: P
-          Nonresidential > TC: P
-          Nonresidential > SC: P
-          Nonresidential > P: ''
-          Nonresidential > PF: ''
-          Nonresidential > IC: ''
-          Nonresidential > OLD: ''
+          Residential:
+            RD: ''
+            RL: ''
+            RM: ''
+            RH: ''
+            CH M/H: P
+            RH-C: ''
+          Nonresidential:
+            NC: P
+            MC: P
+            CH MU 1 / 2: P
+            TC: P
+            SC: P
+            P: ''
+            PF: ''
+            IC: ''
+            OLD: ''
           Use-Specific Regulations: ''
         Use Type > Medical marijuana, marijuana establishment and marijuana club:
-          Residential > RD: ''
-          Residential > RL: ''
-          Residential > RM: ''
-          Residential > RH: ''
-          Residential > CH M/H: ''
-          Residential > RH-C: ''
-          Nonresidential > NC: ''
-          Nonresidential > MC: ''
-          Nonresidential > CH MU 1 / 2: ''
-          Nonresidential > TC: ''
-          Nonresidential > SC: ''
-          Nonresidential > P: ''
-          Nonresidential > PF: ''
-          Nonresidential > IC: ''
-          Nonresidential > OLD: ''
+          Residential:
+            RD: ''
+            RL: ''
+            RM: ''
+            RH: ''
+            CH M/H: ''
+            RH-C: ''
+          Nonresidential:
+            NC: ''
+            MC: ''
+            CH MU 1 / 2: ''
+            TC: ''
+            SC: ''
+            P: ''
+            PF: ''
+            IC: ''
+            OLD: ''
           Use-Specific Regulations: ''
       Retail Sales (cont′d):
         Use Type > Music, radio and television stores:
-          Residential > RD: ''
-          Residential > RL: ''
-          Residential > RM: ''
-          Residential > RH: ''
-          Residential > CH M/H: P
-          Residential > RH-C: ''
-          Nonresidential > NC: P
-          Nonresidential > MC: P
-          Nonresidential > CH MU 1 / 2: P
-          Nonresidential > TC: P
-          Nonresidential > SC: P
-          Nonresidential > P: ''
-          Nonresidential > PF: ''
-          Nonresidential > IC: ''
-          Nonresidential > OLD: ''
+          Residential:
+            RD: ''
+            RL: ''
+            RM: ''
+            RH: ''
+            CH M/H: P
+            RH-C: ''
+          Nonresidential:
+            NC: P
+            MC: P
+            CH MU 1 / 2: P
+            TC: P
+            SC: P
+            P: ''
+            PF: ''
+            IC: ''
+            OLD: ''
           Use-Specific Regulations: ''
         Use Type > Nursery, landscaping supply:
-          Residential > RD: ''
-          Residential > RL: ''
-          Residential > RM: ''
-          Residential > RH: ''
-          Residential > CH M/H: P
-          Residential > RH-C: ''
-          Nonresidential > NC: S
-          Nonresidential > MC: ''
-          Nonresidential > CH MU 1 / 2: ''
-          Nonresidential > TC: ''
-          Nonresidential > SC: P
-          Nonresidential > P: ''
-          Nonresidential > PF: ''
-          Nonresidential > IC: P
-          Nonresidential > OLD: ''
+          Residential:
+            RD: ''
+            RL: ''
+            RM: ''
+            RH: ''
+            CH M/H: P
+            RH-C: ''
+          Nonresidential:
+            NC: S
+            MC: ''
+            CH MU 1 / 2: ''
+            TC: ''
+            SC: P
+            P: ''
+            PF: ''
+            IC: P
+            OLD: ''
           Use-Specific Regulations: ''
         Use Type > Office supply store:
-          Residential > RD: ''
-          Residential > RL: ''
-          Residential > RM: ''
-          Residential > RH: ''
-          Residential > CH M/H: P
-          Residential > RH-C: ''
-          Nonresidential > NC: ''
-          Nonresidential > MC: P
-          Nonresidential > CH MU 1 / 2: P
-          Nonresidential > TC: P
-          Nonresidential > SC: P
-          Nonresidential > P: ''
-          Nonresidential > PF: ''
-          Nonresidential > IC: ''
-          Nonresidential > OLD: ''
+          Residential:
+            RD: ''
+            RL: ''
+            RM: ''
+            RH: ''
+            CH M/H: P
+            RH-C: ''
+          Nonresidential:
+            NC: ''
+            MC: P
+            CH MU 1 / 2: P
+            TC: P
+            SC: P
+            P: ''
+            PF: ''
+            IC: ''
+            OLD: ''
           Use-Specific Regulations: ''
         Use Type > Liquor stores:
-          Residential > RD: ''
-          Residential > RL: ''
-          Residential > RM: ''
-          Residential > RH: ''
-          Residential > CH M/H: ''
-          Residential > RH-C: P
-          Nonresidential > NC: P
-          Nonresidential > MC: P
-          Nonresidential > CH MU 1 / 2: P
-          Nonresidential > TC: P
-          Nonresidential > SC: P
-          Nonresidential > P: ''
-          Nonresidential > PF: ''
-          Nonresidential > IC: ''
-          Nonresidential > OLD: ''
+          Residential:
+            RD: ''
+            RL: ''
+            RM: ''
+            RH: ''
+            CH M/H: ''
+            RH-C: P
+          Nonresidential:
+            NC: P
+            MC: P
+            CH MU 1 / 2: P
+            TC: P
+            SC: P
+            P: ''
+            PF: ''
+            IC: ''
+            OLD: ''
           Use-Specific Regulations: ''
         Use Type > Smoke or vape shops:
-          Residential > RD: ''
-          Residential > RL: ''
-          Residential > RM: ''
-          Residential > RH: ''
-          Residential > CH M/H: ''
-          Residential > RH-C: P
-          Nonresidential > NC: P
-          Nonresidential > MC: P
-          Nonresidential > CH MU 1 / 2: P
-          Nonresidential > TC: P
-          Nonresidential > SC: P
-          Nonresidential > P: ''
-          Nonresidential > PF: ''
-          Nonresidential > IC: ''
-          Nonresidential > OLD: ''
+          Residential:
+            RD: ''
+            RL: ''
+            RM: ''
+            RH: ''
+            CH M/H: ''
+            RH-C: P
+          Nonresidential:
+            NC: P
+            MC: P
+            CH MU 1 / 2: P
+            TC: P
+            SC: P
+            P: ''
+            PF: ''
+            IC: ''
+            OLD: ''
           Use-Specific Regulations: ''
         Use Type > Paint stores:
-          Residential > RD: ''
-          Residential > RL: ''
-          Residential > RM: ''
-          Residential > RH: ''
-          Residential > CH M/H: P
-          Residential > RH-C: ''
-          Nonresidential > NC: P
-          Nonresidential > MC: P
-          Nonresidential > CH MU 1 / 2: P
-          Nonresidential > TC: P
-          Nonresidential > SC: P
-          Nonresidential > P: ''
-          Nonresidential > PF: ''
-          Nonresidential > IC: ''
-          Nonresidential > OLD: ''
+          Residential:
+            RD: ''
+            RL: ''
+            RM: ''
+            RH: ''
+            CH M/H: P
+            RH-C: ''
+          Nonresidential:
+            NC: P
+            MC: P
+            CH MU 1 / 2: P
+            TC: P
+            SC: P
+            P: ''
+            PF: ''
+            IC: ''
+            OLD: ''
           Use-Specific Regulations: ''
         Use Type > Photographic studios:
-          Residential > RD: ''
-          Residential > RL: ''
-          Residential > RM: ''
-          Residential > RH: ''
-          Residential > CH M/H: P
-          Residential > RH-C: ''
-          Nonresidential > NC: P
-          Nonresidential > MC: P
-          Nonresidential > CH MU 1 / 2: P
-          Nonresidential > TC: P
-          Nonresidential > SC: P
-          Nonresidential > P: ''
-          Nonresidential > PF: ''
-          Nonresidential > IC: ''
-          Nonresidential > OLD: ''
+          Residential:
+            RD: ''
+            RL: ''
+            RM: ''
+            RH: ''
+            CH M/H: P
+            RH-C: ''
+          Nonresidential:
+            NC: P
+            MC: P
+            CH MU 1 / 2: P
+            TC: P
+            SC: P
+            P: ''
+            PF: ''
+            IC: ''
+            OLD: ''
           Use-Specific Regulations: ''
         Use Type > Retail sign shops:
-          Residential > RD: ''
-          Residential > RL: ''
-          Residential > RM: ''
-          Residential > RH: ''
-          Residential > CH M/H: ''
-          Residential > RH-C: P
-          Nonresidential > NC: ''
-          Nonresidential > MC: ''
-          Nonresidential > CH MU 1 / 2: ''
-          Nonresidential > TC: ''
-          Nonresidential > SC: P
-          Nonresidential > P: ''
-          Nonresidential > PF: ''
-          Nonresidential > IC: ''
-          Nonresidential > OLD: ''
+          Residential:
+            RD: ''
+            RL: ''
+            RM: ''
+            RH: ''
+            CH M/H: ''
+            RH-C: P
+          Nonresidential:
+            NC: ''
+            MC: ''
+            CH MU 1 / 2: ''
+            TC: ''
+            SC: P
+            P: ''
+            PF: ''
+            IC: ''
+            OLD: ''
           Use-Specific Regulations: ''
       Wholesale Business:
         Use Type > Wholesale business:
-          Residential > RD: ''
-          Residential > RL: ''
-          Residential > RM: ''
-          Residential > RH: ''
-          Residential > CH M/H: ''
-          Residential > RH-C: ''
-          Nonresidential > NC: ''
-          Nonresidential > MC: ''
-          Nonresidential > CH MU 1 / 2: ''
-          Nonresidential > TC: ''
-          Nonresidential > SC: ''
-          Nonresidential > P: ''
-          Nonresidential > PF: ''
-          Nonresidential > IC: P
-          Nonresidential > OLD: ''
+          Residential:
+            RD: ''
+            RL: ''
+            RM: ''
+            RH: ''
+            CH M/H: ''
+            RH-C: ''
+          Nonresidential:
+            NC: ''
+            MC: ''
+            CH MU 1 / 2: ''
+            TC: ''
+            SC: ''
+            P: ''
+            PF: ''
+            IC: P
+            OLD: ''
           Use-Specific Regulations: ''
       Vehicles and equipment:
         Use Type > Vehicle repair shop, minor:
-          Residential > RD: ''
-          Residential > RL: ''
-          Residential > RM: ''
-          Residential > RH: ''
-          Residential > CH M/H: ''
-          Residential > RH-C: ''
-          Nonresidential > NC: ''
-          Nonresidential > MC: S
-          Nonresidential > CH MU 1 / 2: ''
-          Nonresidential > TC: ''
-          Nonresidential > SC: S
-          Nonresidential > P: ''
-          Nonresidential > PF: ''
-          Nonresidential > IC: P
-          Nonresidential > OLD: ''
+          Residential:
+            RD: ''
+            RL: ''
+            RM: ''
+            RH: ''
+            CH M/H: ''
+            RH-C: ''
+          Nonresidential:
+            NC: ''
+            MC: S
+            CH MU 1 / 2: ''
+            TC: ''
+            SC: S
+            P: ''
+            PF: ''
+            IC: P
+            OLD: ''
           Use-Specific Regulations: 7.24.060 (h)
         Use Type > Vehicle repair shop, major:
-          Residential > RD: ''
-          Residential > RL: ''
-          Residential > RM: ''
-          Residential > RH: ''
-          Residential > CH M/H: ''
-          Residential > RH-C: ''
-          Nonresidential > NC: ''
-          Nonresidential > MC: ''
-          Nonresidential > CH MU 1 / 2: ''
-          Nonresidential > TC: ''
-          Nonresidential > SC: S
-          Nonresidential > P: ''
-          Nonresidential > PF: ''
-          Nonresidential > IC: P
-          Nonresidential > OLD: ''
+          Residential:
+            RD: ''
+            RL: ''
+            RM: ''
+            RH: ''
+            CH M/H: ''
+            RH-C: ''
+          Nonresidential:
+            NC: ''
+            MC: ''
+            CH MU 1 / 2: ''
+            TC: ''
+            SC: S
+            P: ''
+            PF: ''
+            IC: P
+            OLD: ''
           Use-Specific Regulations: ''
         Use Type > Vehicle sales and rental:
-          Residential > RD: ''
-          Residential > RL: ''
-          Residential > RM: ''
-          Residential > RH: ''
-          Residential > CH M/H: ''
-          Residential > RH-C: ''
-          Nonresidential > NC: ''
-          Nonresidential > MC: ''
-          Nonresidential > CH MU 1 / 2: ''
-          Nonresidential > TC: ''
-          Nonresidential > SC: S
-          Nonresidential > P: ''
-          Nonresidential > PF: ''
-          Nonresidential > IC: S
-          Nonresidential > OLD: ''
+          Residential:
+            RD: ''
+            RL: ''
+            RM: ''
+            RH: ''
+            CH M/H: ''
+            RH-C: ''
+          Nonresidential:
+            NC: ''
+            MC: ''
+            CH MU 1 / 2: ''
+            TC: ''
+            SC: S
+            P: ''
+            PF: ''
+            IC: S
+            OLD: ''
           Use-Specific Regulations: ''
         Use Type > Car wash:
-          Residential > RD: ''
-          Residential > RL: ''
-          Residential > RM: ''
-          Residential > RH: ''
-          Residential > CH M/H: ''
-          Residential > RH-C: ''
-          Nonresidential > NC: S
-          Nonresidential > MC: ''
-          Nonresidential > CH MU 1 / 2: ''
-          Nonresidential > TC: ''
-          Nonresidential > SC: S
-          Nonresidential > P: ''
-          Nonresidential > PF: ''
-          Nonresidential > IC: S
-          Nonresidential > OLD: ''
+          Residential:
+            RD: ''
+            RL: ''
+            RM: ''
+            RH: ''
+            CH M/H: ''
+            RH-C: ''
+          Nonresidential:
+            NC: S
+            MC: ''
+            CH MU 1 / 2: ''
+            TC: ''
+            SC: S
+            P: ''
+            PF: ''
+            IC: S
+            OLD: ''
           Use-Specific Regulations: 7.24.060 (h)
         Use Type > Parking lot (commercial):
-          Residential > RD: ''
-          Residential > RL: ''
-          Residential > RM: ''
-          Residential > RH: ''
-          Residential > CH M/H: ''
-          Residential > RH-C: ''
-          Nonresidential > NC: S
-          Nonresidential > MC: S
-          Nonresidential > CH MU 1 / 2: ''
-          Nonresidential > TC: S
-          Nonresidential > SC: S
-          Nonresidential > P: ''
-          Nonresidential > PF: ''
-          Nonresidential > IC: S
-          Nonresidential > OLD: ''
+          Residential:
+            RD: ''
+            RL: ''
+            RM: ''
+            RH: ''
+            CH M/H: ''
+            RH-C: ''
+          Nonresidential:
+            NC: S
+            MC: S
+            CH MU 1 / 2: ''
+            TC: S
+            SC: S
+            P: ''
+            PF: ''
+            IC: S
+            OLD: ''
           Use-Specific Regulations: ''
         Use Type > Centralized loading dock and goods distribution center:
-          Residential > RD: ''
-          Residential > RL: ''
-          Residential > RM: ''
-          Residential > RH: ''
-          Residential > CH M/H: ''
-          Residential > RH-C: ''
-          Nonresidential > NC: ''
-          Nonresidential > MC: ''
-          Nonresidential > CH MU 1 / 2: ''
-          Nonresidential > TC: S
-          Nonresidential > SC: ''
-          Nonresidential > P: ''
-          Nonresidential > PF: ''
-          Nonresidential > IC: S
-          Nonresidential > OLD: ''
+          Residential:
+            RD: ''
+            RL: ''
+            RM: ''
+            RH: ''
+            CH M/H: ''
+            RH-C: ''
+          Nonresidential:
+            NC: ''
+            MC: ''
+            CH MU 1 / 2: ''
+            TC: S
+            SC: ''
+            P: ''
+            PF: ''
+            IC: S
+            OLD: ''
           Use-Specific Regulations: ''
     Industrial Service:
       Industrial Service:
         Use Type > Research facilities (commercial):
-          Residential > RD: ''
-          Residential > RL: ''
-          Residential > RM: ''
-          Residential > RH: ''
-          Residential > CH M/H: ''
-          Residential > RH-C: ''
-          Nonresidential > NC: ''
-          Nonresidential > MC: ''
-          Nonresidential > CH MU 1 / 2: ''
-          Nonresidential > TC: ''
-          Nonresidential > SC: ''
-          Nonresidential > P: ''
-          Nonresidential > PF: ''
-          Nonresidential > IC: P
-          Nonresidential > OLD: ''
+          Residential:
+            RD: ''
+            RL: ''
+            RM: ''
+            RH: ''
+            CH M/H: ''
+            RH-C: ''
+          Nonresidential:
+            NC: ''
+            MC: ''
+            CH MU 1 / 2: ''
+            TC: ''
+            SC: ''
+            P: ''
+            PF: ''
+            IC: P
+            OLD: ''
           Use-Specific Regulations: ''
         Use Type > Construction industry related businesses:
-          Residential > RD: ''
-          Residential > RL: ''
-          Residential > RM: ''
-          Residential > RH: ''
-          Residential > CH M/H: ''
-          Residential > RH-C: ''
-          Nonresidential > NC: ''
-          Nonresidential > MC: ''
-          Nonresidential > CH MU 1 / 2: ''
-          Nonresidential > TC: ''
-          Nonresidential > SC: ''
-          Nonresidential > P: ''
-          Nonresidential > PF: ''
-          Nonresidential > IC: P
-          Nonresidential > OLD: ''
+          Residential:
+            RD: ''
+            RL: ''
+            RM: ''
+            RH: ''
+            CH M/H: ''
+            RH-C: ''
+          Nonresidential:
+            NC: ''
+            MC: ''
+            CH MU 1 / 2: ''
+            TC: ''
+            SC: ''
+            P: ''
+            PF: ''
+            IC: P
+            OLD: ''
           Use-Specific Regulations: ''
         Use Type > Heavy industrial uses:
-          Residential > RD: ''
-          Residential > RL: ''
-          Residential > RM: ''
-          Residential > RH: ''
-          Residential > CH M/H: ''
-          Residential > RH-C: ''
-          Nonresidential > NC: ''
-          Nonresidential > MC: ''
-          Nonresidential > CH MU 1 / 2: ''
-          Nonresidential > TC: ''
-          Nonresidential > SC: ''
-          Nonresidential > P: ''
-          Nonresidential > PF: ''
-          Nonresidential > IC: S
-          Nonresidential > OLD: ''
+          Residential:
+            RD: ''
+            RL: ''
+            RM: ''
+            RH: ''
+            CH M/H: ''
+            RH-C: ''
+          Nonresidential:
+            NC: ''
+            MC: ''
+            CH MU 1 / 2: ''
+            TC: ''
+            SC: ''
+            P: ''
+            PF: ''
+            IC: S
+            OLD: ''
           Use-Specific Regulations: ''
         Use Type > Junkyards:
-          Residential > RD: ''
-          Residential > RL: ''
-          Residential > RM: ''
-          Residential > RH: ''
-          Residential > CH M/H: ''
-          Residential > RH-C: ''
-          Nonresidential > NC: ''
-          Nonresidential > MC: ''
-          Nonresidential > CH MU 1 / 2: ''
-          Nonresidential > TC: ''
-          Nonresidential > SC: ''
-          Nonresidential > P: ''
-          Nonresidential > PF: ''
-          Nonresidential > IC: S
-          Nonresidential > OLD: ''
+          Residential:
+            RD: ''
+            RL: ''
+            RM: ''
+            RH: ''
+            CH M/H: ''
+            RH-C: ''
+          Nonresidential:
+            NC: ''
+            MC: ''
+            CH MU 1 / 2: ''
+            TC: ''
+            SC: ''
+            P: ''
+            PF: ''
+            IC: S
+            OLD: ''
           Use-Specific Regulations: ''
         Use Type > Light industrial uses:
-          Residential > RD: ''
-          Residential > RL: ''
-          Residential > RM: ''
-          Residential > RH: ''
-          Residential > CH M/H: ''
-          Residential > RH-C: ''
-          Nonresidential > NC: ''
-          Nonresidential > MC: ''
-          Nonresidential > CH MU 1 / 2: ''
-          Nonresidential > TC: ''
-          Nonresidential > SC: ''
-          Nonresidential > P: ''
-          Nonresidential > PF: ''
-          Nonresidential > IC: P
-          Nonresidential > OLD: ''
+          Residential:
+            RD: ''
+            RL: ''
+            RM: ''
+            RH: ''
+            CH M/H: ''
+            RH-C: ''
+          Nonresidential:
+            NC: ''
+            MC: ''
+            CH MU 1 / 2: ''
+            TC: ''
+            SC: ''
+            P: ''
+            PF: ''
+            IC: P
+            OLD: ''
           Use-Specific Regulations: ''
         Use Type > Lumberyards except when indoors as part of a hardware store:
-          Residential > RD: ''
-          Residential > RL: ''
-          Residential > RM: ''
-          Residential > RH: ''
-          Residential > CH M/H: ''
-          Residential > RH-C: ''
-          Nonresidential > NC: ''
-          Nonresidential > MC: ''
-          Nonresidential > CH MU 1 / 2: ''
-          Nonresidential > TC: ''
-          Nonresidential > SC: ''
-          Nonresidential > P: ''
-          Nonresidential > PF: ''
-          Nonresidential > IC: S
-          Nonresidential > OLD: ''
+          Residential:
+            RD: ''
+            RL: ''
+            RM: ''
+            RH: ''
+            CH M/H: ''
+            RH-C: ''
+          Nonresidential:
+            NC: ''
+            MC: ''
+            CH MU 1 / 2: ''
+            TC: ''
+            SC: ''
+            P: ''
+            PF: ''
+            IC: S
+            OLD: ''
           Use-Specific Regulations: ''
         Use Type > Mining and mineral extraction:
-          Residential > RD: S
-          Residential > RL: S
-          Residential > RM: S
-          Residential > RH: S
-          Residential > CH M/H: ''
-          Residential > RH-C: S
-          Nonresidential > NC: S
-          Nonresidential > MC: S
-          Nonresidential > CH MU 1 / 2: ''
-          Nonresidential > TC: S
-          Nonresidential > SC: S
-          Nonresidential > P: S
-          Nonresidential > PF: S
-          Nonresidential > IC: S
-          Nonresidential > OLD: S
+          Residential:
+            RD: S
+            RL: S
+            RM: S
+            RH: S
+            CH M/H: ''
+            RH-C: S
+          Nonresidential:
+            NC: S
+            MC: S
+            CH MU 1 / 2: ''
+            TC: S
+            SC: S
+            P: S
+            PF: S
+            IC: S
+            OLD: S
           Use-Specific Regulations: ''
       Manufacturing and Production:
         Use Type > Machine and welding shops:
-          Residential > RD: ''
-          Residential > RL: ''
-          Residential > RM: ''
-          Residential > RH: ''
-          Residential > CH M/H: ''
-          Residential > RH-C: ''
-          Nonresidential > NC: ''
-          Nonresidential > MC: ''
-          Nonresidential > CH MU 1 / 2: ''
-          Nonresidential > TC: ''
-          Nonresidential > SC: ''
-          Nonresidential > P: ''
-          Nonresidential > PF: ''
-          Nonresidential > IC: P
-          Nonresidential > OLD: ''
+          Residential:
+            RD: ''
+            RL: ''
+            RM: ''
+            RH: ''
+            CH M/H: ''
+            RH-C: ''
+          Nonresidential:
+            NC: ''
+            MC: ''
+            CH MU 1 / 2: ''
+            TC: ''
+            SC: ''
+            P: ''
+            PF: ''
+            IC: P
+            OLD: ''
           Use-Specific Regulations: ''
         Use Type > Manufacturing, heavy:
-          Residential > RD: ''
-          Residential > RL: ''
-          Residential > RM: ''
-          Residential > RH: ''
-          Residential > CH M/H: ''
-          Residential > RH-C: ''
-          Nonresidential > NC: ''
-          Nonresidential > MC: ''
-          Nonresidential > CH MU 1 / 2: ''
-          Nonresidential > TC: ''
-          Nonresidential > SC: ''
-          Nonresidential > P: ''
-          Nonresidential > PF: ''
-          Nonresidential > IC: S
-          Nonresidential > OLD: ''
+          Residential:
+            RD: ''
+            RL: ''
+            RM: ''
+            RH: ''
+            CH M/H: ''
+            RH-C: ''
+          Nonresidential:
+            NC: ''
+            MC: ''
+            CH MU 1 / 2: ''
+            TC: ''
+            SC: ''
+            P: ''
+            PF: ''
+            IC: S
+            OLD: ''
           Use-Specific Regulations: ''
         Use Type > Manufacturing, light:
-          Residential > RD: ''
-          Residential > RL: ''
-          Residential > RM: ''
-          Residential > RH: ''
-          Residential > CH M/H: ''
-          Residential > RH-C: ''
-          Nonresidential > NC: ''
-          Nonresidential > MC: ''
-          Nonresidential > CH MU 1 / 2: ''
-          Nonresidential > TC: ''
-          Nonresidential > SC: ''
-          Nonresidential > P: ''
-          Nonresidential > PF: ''
-          Nonresidential > IC: P
-          Nonresidential > OLD: ''
+          Residential:
+            RD: ''
+            RL: ''
+            RM: ''
+            RH: ''
+            CH M/H: ''
+            RH-C: ''
+          Nonresidential:
+            NC: ''
+            MC: ''
+            CH MU 1 / 2: ''
+            TC: ''
+            SC: ''
+            P: ''
+            PF: ''
+            IC: P
+            OLD: ''
           Use-Specific Regulations: ''
       Natural Medicine Businesses Other Than Healing Centers:
         Row 109:
-          Residential > RD: ''
-          Residential > RL: ''
-          Residential > RM: ''
-          Residential > RH: ''
-          Residential > CH M/H: ''
-          Residential > RH-C: ''
-          Nonresidential > NC: ''
-          Nonresidential > MC: ''
-          Nonresidential > CH MU 1 / 2: ''
-          Nonresidential > TC: ''
-          Nonresidential > SC: ''
-          Nonresidential > P: ''
-          Nonresidential > PF: ''
-          Nonresidential > IC: P
-          Nonresidential > OLD: ''
+          Residential:
+            RD: ''
+            RL: ''
+            RM: ''
+            RH: ''
+            CH M/H: ''
+            RH-C: ''
+          Nonresidential:
+            NC: ''
+            MC: ''
+            CH MU 1 / 2: ''
+            TC: ''
+            SC: ''
+            P: ''
+            PF: ''
+            IC: P
+            OLD: ''
           Use-Specific Regulations: Chapter 8.27
       Warehouse and Freight Movement:
         Use Type > Mini Self storage:
-          Residential > RD: ''
-          Residential > RL: ''
-          Residential > RM: ''
-          Residential > RH: ''
-          Residential > CH M/H: ''
-          Residential > RH-C: ''
-          Nonresidential > NC: ''
-          Nonresidential > MC: ''
-          Nonresidential > CH MU 1 / 2: ''
-          Nonresidential > TC: ''
-          Nonresidential > SC: ''
-          Nonresidential > P: ''
-          Nonresidential > PF: ''
-          Nonresidential > IC: P
-          Nonresidential > OLD: ''
+          Residential:
+            RD: ''
+            RL: ''
+            RM: ''
+            RH: ''
+            CH M/H: ''
+            RH-C: ''
+          Nonresidential:
+            NC: ''
+            MC: ''
+            CH MU 1 / 2: ''
+            TC: ''
+            SC: ''
+            P: ''
+            PF: ''
+            IC: P
+            OLD: ''
           Use-Specific Regulations: ''
         Use Type > Storage warehouses:
-          Residential > RD: ''
-          Residential > RL: ''
-          Residential > RM: ''
-          Residential > RH: ''
-          Residential > CH M/H: ''
-          Residential > RH-C: ''
-          Nonresidential > NC: ''
-          Nonresidential > MC: ''
-          Nonresidential > CH MU 1 / 2: ''
-          Nonresidential > TC: ''
-          Nonresidential > SC: ''
-          Nonresidential > P: ''
-          Nonresidential > PF: ''
-          Nonresidential > IC: S
-          Nonresidential > OLD: ''
+          Residential:
+            RD: ''
+            RL: ''
+            RM: ''
+            RH: ''
+            CH M/H: ''
+            RH-C: ''
+          Nonresidential:
+            NC: ''
+            MC: ''
+            CH MU 1 / 2: ''
+            TC: ''
+            SC: ''
+            P: ''
+            PF: ''
+            IC: S
+            OLD: ''
           Use-Specific Regulations: ''
       Waste and Salvage:
         Use Type > Recycling center / facility, indoor:
-          Residential > RD: ''
-          Residential > RL: ''
-          Residential > RM: ''
-          Residential > RH: ''
-          Residential > CH M/H: ''
-          Residential > RH-C: ''
-          Nonresidential > NC: ''
-          Nonresidential > MC: ''
-          Nonresidential > CH MU 1 / 2: ''
-          Nonresidential > TC: ''
-          Nonresidential > SC: ''
-          Nonresidential > P: ''
-          Nonresidential > PF: ''
-          Nonresidential > IC: S
-          Nonresidential > OLD: ''
+          Residential:
+            RD: ''
+            RL: ''
+            RM: ''
+            RH: ''
+            CH M/H: ''
+            RH-C: ''
+          Nonresidential:
+            NC: ''
+            MC: ''
+            CH MU 1 / 2: ''
+            TC: ''
+            SC: ''
+            P: ''
+            PF: ''
+            IC: S
+            OLD: ''
           Use-Specific Regulations: ''
         Use Type > Recycling facilities, drop-off:
-          Residential > RD: P
-          Residential > RL: P
-          Residential > RM: P
-          Residential > RH: P
-          Residential > CH M/H: ''
-          Residential > RH-C: ''
-          Nonresidential > NC: P
-          Nonresidential > MC: P
-          Nonresidential > CH MU 1 / 2: ''
-          Nonresidential > TC: P
-          Nonresidential > SC: ''
-          Nonresidential > P: P
-          Nonresidential > PF: P
-          Nonresidential > IC: P
-          Nonresidential > OLD: ''
+          Residential:
+            RD: P
+            RL: P
+            RM: P
+            RH: P
+            CH M/H: ''
+            RH-C: ''
+          Nonresidential:
+            NC: P
+            MC: P
+            CH MU 1 / 2: ''
+            TC: P
+            SC: ''
+            P: P
+            PF: P
+            IC: P
+            OLD: ''
           Use-Specific Regulations: ''

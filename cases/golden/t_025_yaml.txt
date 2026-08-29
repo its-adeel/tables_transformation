@@ -1,10 +1,11 @@
 MRD-P YARD & HEIGHT REQUIREMENTS:
   LAND USE:
     Single and duplex dwellings, patio homes, quadruplex, townhomes and zero lot line developments:
-      SETBACK FROM PROPERTY LINE > FRONT: 40'
-      SETBACK FROM PROPERTY LINE > SIDE: 5'
-      SETBACK FROM PROPERTY LINE > REAR: 10'
-      SETBACK FROM PROPERTY LINE > CORNER: 7.5'
+      SETBACK FROM PROPERTY LINE:
+        FRONT: 40'
+        SIDE: 5'
+        REAR: 10'
+        CORNER: 7.5'
       MAX HEIGHT: 40'
     Tiny Homes:
       SETBACK FROM PROPERTY LINE: NA

@@ -1,0 +1,734 @@
+<table class="thead2 table left makeExpandableTable makeFixedTable" cellpadding="3" cellspacing="0" border="1" rules="all">
+                        <colgroup class="std">
+                           <col width="12.5%">
+                           <col width="6.25%">
+                           <col width="6.25%">
+                           <col width="6.25%">
+                           <col width="6.25%">
+                           <col width="6.25%">
+                           <col width="6.25%">
+                           <col width="6.25%">
+                           <col width="6.25%">
+                           <col width="6.25%">
+                           <col width="6.25%">
+                           <col width="6.25%">
+                           <col width="6.25%">
+                           <col width="6.25%">
+                           <col width="6.25%">
+                        </colgroup>
+                        <thead><tr>
+                              <th style="background-color: LightGray; " rowspan="2" colspan="1" class="hasbg top ">
+                                 Zoning of Proposed New Development or Redevelopment
+                                 </th>
+                              <th style="background-color: LightGray; " colspan="14" class="hasbgcenter  top ">
+                                 Zoning of Existing Development
+                                 </th>
+                           </tr><tr>
+                              <th style="background-color: LightGray; " class="hasbg top ">
+                                 RC, RU, RS-1 thru RS-4
+                                 </th>
+                              <th style="background-color: LightGray; " class="hasbg top ">
+                                 RD
+                                 </th>
+                              <th style="background-color: LightGray; " class="hasbg top ">
+                                 RA-1
+                                 </th>
+                              <th style="background-color: LightGray; " class="hasbg top ">
+                                 RA-2
+                                 </th>
+                              <th style="background-color: LightGray; " class="hasbg top ">
+                                 N-O
+                                 </th>
+                              <th style="background-color: LightGray; " class="hasbg top ">
+                                 MU-1
+                                 </th>
+                              <th style="background-color: LightGray; " class="hasbg top ">
+                                 C-O
+                                 </th>
+                              <th style="background-color: LightGray; " class="hasbg top ">
+                                 C-1
+                                 </th>
+                              <th style="background-color: LightGray; " class="hasbg top ">
+                                 C-2
+                                 </th>
+                              <th style="background-color: LightGray; " class="hasbg top ">
+                                 C-3
+                                 </th>
+                              <th style="background-color: LightGray; " class="hasbg top ">
+                                 M-1
+                                 </th>
+                              <th style="background-color: LightGray; " class="hasbg top ">
+                                 M-2
+                                 </th>
+                              <th style="background-color: LightGray; " class="hasbg top ">
+                                 PUD Res
+                                 </th>
+                              <th style="background-color: LightGray; " class="hasbg top ">
+                                 PUD Non Res
+                                 </th>
+                           </tr></thead><tbody>
+                           
+                           
+                           <tr>
+                              <td class=" top ">
+                                 RC, RU, RS-1 thru RS-4
+                                 <sup>
+                                    2
+                                    </sup>
+                                 </td>
+                              <td class=" top ">
+                                 -
+                                 </td>
+                              <td class=" top ">
+                                 -
+                                 </td>
+                              <td class=" top ">
+                                 -
+                                 </td>
+                              <td class=" top ">
+                                 -
+                                 </td>
+                              <td class=" top ">
+                                 -
+                                 </td>
+                              <td class=" top ">
+                                 -
+                                 </td>
+                              <td class=" top ">
+                                 -
+                                 </td>
+                              <td class=" top ">
+                                 -
+                                 </td>
+                              <td class=" top ">
+                                 -
+                                 </td>
+                              <td class=" top ">
+                                 -
+                                 </td>
+                              <td class=" top ">
+                                 -
+                                 </td>
+                              <td class=" top ">
+                                 -
+                                 </td>
+                              <td class=" top ">
+                                 -
+                                 </td>
+                              <td class=" top ">
+                                 -
+                                 </td>
+                           </tr>
+                           <tr>
+                              <td class=" top ">
+                                 RD
+                                 </td>
+                              <td class=" top ">
+                                 -
+                                 </td>
+                              <td class=" top ">
+                                 -
+                                 </td>
+                              <td class=" top ">
+                                 -
+                                 </td>
+                              <td class=" top ">
+                                 -
+                                 </td>
+                              <td class=" top ">
+                                 -
+                                 </td>
+                              <td class=" top ">
+                                 -
+                                 </td>
+                              <td class=" top ">
+                                 -
+                                 </td>
+                              <td class=" top ">
+                                 -
+                                 </td>
+                              <td class=" top ">
+                                 -
+                                 </td>
+                              <td class=" top ">
+                                 -
+                                 </td>
+                              <td class=" top ">
+                                 -
+                                 </td>
+                              <td class=" top ">
+                                 -
+                                 </td>
+                              <td class=" top ">
+                                 -
+                                 </td>
+                              <td class=" top ">
+                                 -
+                                 </td>
+                           </tr>
+                           <tr>
+                              <td class=" top ">
+                                 RA-1
+                                 </td>
+                              <td class=" top ">
+                                 B
+                                 </td>
+                              <td class=" top ">
+                                 A
+                                 </td>
+                              <td class=" top ">
+                                 -
+                                 </td>
+                              <td class=" top ">
+                                 -
+                                 </td>
+                              <td class=" top ">
+                                 -
+                                 </td>
+                              <td class=" top ">
+                                 -
+                                 </td>
+                              <td class=" top ">
+                                 -
+                                 </td>
+                              <td class=" top ">
+                                 -
+                                 </td>
+                              <td class=" top ">
+                                 -
+                                 </td>
+                              <td class=" top ">
+                                 -
+                                 </td>
+                              <td class=" top ">
+                                 -
+                                 </td>
+                              <td class=" top ">
+                                 -
+                                 </td>
+                              <td class=" top ">
+                                 -
+                                 </td>
+                              <td class=" top ">
+                                 -
+                                 </td>
+                           </tr>
+                           <tr>
+                              <td class=" top ">
+                                 RA-2
+                                 </td>
+                              <td class=" top ">
+                                 B
+                                 </td>
+                              <td class=" top ">
+                                 A
+                                 </td>
+                              <td class=" top ">
+                                 -
+                                 </td>
+                              <td class=" top ">
+                                 -
+                                 </td>
+                              <td class=" top ">
+                                 -
+                                 </td>
+                              <td class=" top ">
+                                 -
+                                 </td>
+                              <td class=" top ">
+                                 -
+                                 </td>
+                              <td class=" top ">
+                                 -
+                                 </td>
+                              <td class=" top ">
+                                 -
+                                 </td>
+                              <td class=" top ">
+                                 -
+                                 </td>
+                              <td class=" top ">
+                                 -
+                                 </td>
+                              <td class=" top ">
+                                 -
+                                 </td>
+                              <td class=" top ">
+                                 -
+                                 </td>
+                              <td class=" top ">
+                                 -
+                                 </td>
+                           </tr>
+                           <tr>
+                              <td class=" top ">
+                                 N-O
+                                 </td>
+                              <td class=" top ">
+                                 B
+                                 </td>
+                              <td class=" top ">
+                                 B
+                                 </td>
+                              <td class=" top ">
+                                 B
+                                 </td>
+                              <td class=" top ">
+                                 B
+                                 </td>
+                              <td class=" top ">
+                                 -
+                                 </td>
+                              <td class=" top ">
+                                 -
+                                 </td>
+                              <td class=" top ">
+                                 -
+                                 </td>
+                              <td class=" top ">
+                                 -
+                                 </td>
+                              <td class=" top ">
+                                 -
+                                 </td>
+                              <td class=" top ">
+                                 -
+                                 </td>
+                              <td class=" top ">
+                                 -
+                                 </td>
+                              <td class=" top ">
+                                 -
+                                 </td>
+                              <td class=" top ">
+                                 -
+                                 </td>
+                              <td class=" top ">
+                                 -
+                                 </td>
+                           </tr>
+                           <tr>
+                              <td class=" top ">
+                                 MU-1
+                                 </td>
+                              <td class=" top ">
+                                 B
+                                 </td>
+                              <td class=" top ">
+                                 B
+                                 </td>
+                              <td class=" top ">
+                                 -
+                                 </td>
+                              <td class=" top ">
+                                 -
+                                 </td>
+                              <td class=" top ">
+                                 -
+                                 </td>
+                              <td class=" top ">
+                                 -
+                                 </td>
+                              <td class=" top ">
+                                 -
+                                 </td>
+                              <td class=" top ">
+                                 -
+                                 </td>
+                              <td class=" top ">
+                                 -
+                                 </td>
+                              <td class=" top ">
+                                 -
+                                 </td>
+                              <td class=" top ">
+                                 -
+                                 </td>
+                              <td class=" top ">
+                                 -
+                                 </td>
+                              <td class=" top ">
+                                 -
+                                 </td>
+                              <td class=" top ">
+                                 -
+                                 </td>
+                           </tr>
+                           <tr>
+                              <td class=" top ">
+                                 C-O
+                                 </td>
+                              <td class=" top ">
+                                 B
+                                 </td>
+                              <td class=" top ">
+                                 B
+                                 </td>
+                              <td class=" top ">
+                                 B
+                                 </td>
+                              <td class=" top ">
+                                 B
+                                 </td>
+                              <td class=" top ">
+                                 B
+                                 </td>
+                              <td class=" top ">
+                                 -
+                                 </td>
+                              <td class=" top ">
+                                 -
+                                 </td>
+                              <td class=" top ">
+                                 -
+                                 </td>
+                              <td class=" top ">
+                                 -
+                                 </td>
+                              <td class=" top ">
+                                 -
+                                 </td>
+                              <td class=" top ">
+                                 -
+                                 </td>
+                              <td class=" top ">
+                                 -
+                                 </td>
+                              <td class=" top ">
+                                 -
+                                 </td>
+                              <td class=" top ">
+                                 -
+                                 </td>
+                           </tr>
+                           <tr>
+                              <td class=" top ">
+                                 C-1
+                                 </td>
+                              <td class=" top ">
+                                 B
+                                 </td>
+                              <td class=" top ">
+                                 B
+                                 </td>
+                              <td class=" top ">
+                                 B
+                                 </td>
+                              <td class=" top ">
+                                 B
+                                 </td>
+                              <td class=" top ">
+                                 B
+                                 </td>
+                              <td class=" top ">
+                                 -
+                                 </td>
+                              <td class=" top ">
+                                 -
+                                 </td>
+                              <td class=" top ">
+                                 -
+                                 </td>
+                              <td class=" top ">
+                                 -
+                                 </td>
+                              <td class=" top ">
+                                 -
+                                 </td>
+                              <td class=" top ">
+                                 -
+                                 </td>
+                              <td class=" top ">
+                                 -
+                                 </td>
+                              <td class=" top ">
+                                 -
+                                 </td>
+                              <td class=" top ">
+                                 -
+                                 </td>
+                           </tr>
+                           <tr>
+                              <td class=" top ">
+                                 C-2
+                                 </td>
+                              <td class=" top ">
+                                 C
+                                 </td>
+                              <td class=" top ">
+                                 C
+                                 </td>
+                              <td class=" top ">
+                                 B
+                                 </td>
+                              <td class=" top ">
+                                 B
+                                 </td>
+                              <td class=" top ">
+                                 B
+                                 </td>
+                              <td class=" top ">
+                                 -
+                                 </td>
+                              <td class=" top ">
+                                 -
+                                 </td>
+                              <td class=" top ">
+                                 -
+                                 </td>
+                              <td class=" top ">
+                                 -
+                                 </td>
+                              <td class=" top ">
+                                 -
+                                 </td>
+                              <td class=" top ">
+                                 -
+                                 </td>
+                              <td class=" top ">
+                                 -
+                                 </td>
+                              <td class=" top ">
+                                 -
+                                 </td>
+                              <td class=" top ">
+                                 -
+                                 </td>
+                           </tr>
+                           <tr>
+                              <td class=" top ">
+                                 C-3
+                                 </td>
+                              <td class=" top ">
+                                 C
+                                 </td>
+                              <td class=" top ">
+                                 C
+                                 </td>
+                              <td class=" top ">
+                                 B
+                                 </td>
+                              <td class=" top ">
+                                 B
+                                 </td>
+                              <td class=" top ">
+                                 B
+                                 </td>
+                              <td class=" top ">
+                                 -
+                                 </td>
+                              <td class=" top ">
+                                 -
+                                 </td>
+                              <td class=" top ">
+                                 -
+                                 </td>
+                              <td class=" top ">
+                                 -
+                                 </td>
+                              <td class=" top ">
+                                 -
+                                 </td>
+                              <td class=" top ">
+                                 -
+                                 </td>
+                              <td class=" top ">
+                                 -
+                                 </td>
+                              <td class=" top ">
+                                 -
+                                 </td>
+                              <td class=" top ">
+                                 -
+                                 </td>
+                           </tr>
+                           <tr>
+                              <td class=" top ">
+                                 M-1
+                                 </td>
+                              <td class=" top ">
+                                 C
+                                 </td>
+                              <td class=" top ">
+                                 C
+                                 </td>
+                              <td class=" top ">
+                                 C
+                                 </td>
+                              <td class=" top ">
+                                 C
+                                 </td>
+                              <td class=" top ">
+                                 C
+                                 </td>
+                              <td class=" top ">
+                                 -
+                                 </td>
+                              <td class=" top ">
+                                 A
+                                 </td>
+                              <td class=" top ">
+                                 A
+                                 </td>
+                              <td class=" top ">
+                                 A
+                                 </td>
+                              <td class=" top ">
+                                 A
+                                 </td>
+                              <td class=" top ">
+                                 -
+                                 </td>
+                              <td class=" top ">
+                                 -
+                                 </td>
+                              <td class=" top ">
+                                 -
+                                 </td>
+                              <td class=" top ">
+                                 -
+                                 </td>
+                           </tr>
+                           <tr>
+                              <td class=" top ">
+                                 M-2
+                                 </td>
+                              <td class=" top ">
+                                 C
+                                 </td>
+                              <td class=" top ">
+                                 C
+                                 </td>
+                              <td class=" top ">
+                                 C
+                                 </td>
+                              <td class=" top ">
+                                 C
+                                 </td>
+                              <td class=" top ">
+                                 C
+                                 </td>
+                              <td class=" top ">
+                                 -
+                                 </td>
+                              <td class=" top ">
+                                 A
+                                 </td>
+                              <td class=" top ">
+                                 A
+                                 </td>
+                              <td class=" top ">
+                                 A
+                                 </td>
+                              <td class=" top ">
+                                 A
+                                 </td>
+                              <td class=" top ">
+                                 -
+                                 </td>
+                              <td class=" top ">
+                                 -
+                                 </td>
+                              <td class=" top ">
+                                 -
+                                 </td>
+                              <td class=" top ">
+                                 -
+                                 </td>
+                           </tr>
+                           <tr>
+                              <td class=" top ">
+                                 PUD Res
+                                 </td>
+                              <td class=" top ">
+                                 -
+                                 </td>
+                              <td class=" top ">
+                                 -
+                                 </td>
+                              <td class=" top ">
+                                 -
+                                 </td>
+                              <td class=" top ">
+                                 -
+                                 </td>
+                              <td class=" top ">
+                                 B
+                                 </td>
+                              <td class=" top ">
+                                 -
+                                 </td>
+                              <td class=" top ">
+                                 B
+                                 </td>
+                              <td class=" top ">
+                                 B
+                                 </td>
+                              <td class=" top ">
+                                 B
+                                 </td>
+                              <td class=" top ">
+                                 B
+                                 </td>
+                              <td class=" top ">
+                                 B
+                                 </td>
+                              <td class=" top ">
+                                 B
+                                 </td>
+                              <td class=" top ">
+                                 -
+                                 </td>
+                              <td class=" top ">
+                                 -
+                                 </td>
+                           </tr>
+                           <tr>
+                              <td class=" top ">
+                                 PUD Non-Res
+                                 </td>
+                              <td class=" top ">
+                                 B
+                                 </td>
+                              <td class=" top ">
+                                 B
+                                 </td>
+                              <td class=" top ">
+                                 B
+                                 </td>
+                              <td class=" top ">
+                                 B
+                                 </td>
+                              <td class=" top ">
+                                 B
+                                 </td>
+                              <td class=" top ">
+                                 -
+                                 </td>
+                              <td class=" top ">
+                                 -
+                                 </td>
+                              <td class=" top ">
+                                 -
+                                 </td>
+                              <td class=" top ">
+                                 -
+                                 </td>
+                              <td class=" top ">
+                                 -
+                                 </td>
+                              <td class=" top ">
+                                 -
+                                 </td>
+                              <td class=" top ">
+                                 -
+                                 </td>
+                              <td class=" top ">
+                                 B
+                                 </td>
+                              <td class=" top ">
+                                 -
+                                 </td>
+                           </tr>
+                        </tbody>
+                     </table>

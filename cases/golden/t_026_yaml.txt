@@ -2,132 +2,154 @@ District:
   RU-1:
     Lot Width in Feet: '150'
     Lot Area in Sq. Feet: 43,560
-    Lot Area Per Family in Square Feet > Single- Family Dwelling: 43,560
-    Lot Area Per Family in Square Feet > Two-Family Dwelling: NA*
-    Lot Area Per Family in Square Feet > Multiple Dwelling: NA*
+    Lot Area Per Family in Square Feet:
+      Single- Family Dwelling: 43,560
+      Two-Family Dwelling: NA*
+      Multiple Dwelling: NA*
   RU-2:
     Lot Width in Feet: '0'
     Lot Area in Sq. Feet: '0'
-    Lot Area Per Family in Square Feet > Single- Family Dwelling: '0'
-    Lot Area Per Family in Square Feet > Two-Family Dwelling: '0'
-    Lot Area Per Family in Square Feet > Multiple Dwelling: '0'
+    Lot Area Per Family in Square Feet:
+      Single- Family Dwelling: '0'
+      Two-Family Dwelling: '0'
+      Multiple Dwelling: '0'
   RS-1:
     Lot Width in Feet: '90'
     Lot Area in Sq. Feet: 12,000
-    Lot Area Per Family in Square Feet > Single- Family Dwelling: 12,000
-    Lot Area Per Family in Square Feet > Two-Family Dwelling: NA
-    Lot Area Per Family in Square Feet > Multiple Dwelling: NA
+    Lot Area Per Family in Square Feet:
+      Single- Family Dwelling: 12,000
+      Two-Family Dwelling: NA
+      Multiple Dwelling: NA
   RS-2:
     Lot Width in Feet: '75'
     Lot Area in Sq. Feet: 7,500
-    Lot Area Per Family in Square Feet > Single- Family Dwelling: 7,500
-    Lot Area Per Family in Square Feet > Two-Family Dwelling: 3,750
-    Lot Area Per Family in Square Feet > Multiple Dwelling: 1,500
+    Lot Area Per Family in Square Feet:
+      Single- Family Dwelling: 7,500
+      Two-Family Dwelling: 3,750
+      Multiple Dwelling: 1,500
   RS-3, Single Family on corner lot:
     Lot Width in Feet: '65'
     Lot Area in Sq. Feet: 6,500
-    Lot Area Per Family in Square Feet > Single- Family Dwelling: 6,500
-    Lot Area Per Family in Square Feet > Two-Family Dwelling: NA
-    Lot Area Per Family in Square Feet > Multiple Dwelling: NA
+    Lot Area Per Family in Square Feet:
+      Single- Family Dwelling: 6,500
+      Two-Family Dwelling: NA
+      Multiple Dwelling: NA
   RS-3, Single Family on center lot:
     Lot Width in Feet: '50'
     Lot Area in Sq. Feet: 5,000
-    Lot Area Per Family in Square Feet > Single- Family Dwelling: 5,000
-    Lot Area Per Family in Square Feet > Two-Family Dwelling: NA
-    Lot Area Per Family in Square Feet > Multiple Dwelling: NA
+    Lot Area Per Family in Square Feet:
+      Single- Family Dwelling: 5,000
+      Two-Family Dwelling: NA
+      Multiple Dwelling: NA
   RS-3, Duplex on corner lot:
     Lot Width in Feet: '90'
     Lot Area in Sq. Feet: 9,000
-    Lot Area Per Family in Square Feet > Single- Family Dwelling: 9,000
-    Lot Area Per Family in Square Feet > Two-Family Dwelling: 5,250/3,750
-    Lot Area Per Family in Square Feet > Multiple Dwelling: NA
+    Lot Area Per Family in Square Feet:
+      Single- Family Dwelling: 9,000
+      Two-Family Dwelling: 5,250/3,750
+      Multiple Dwelling: NA
   RS-3 Duplex on center lot:
     Lot Width in Feet: '75'
     Lot Area in Sq. Feet: 7,500
-    Lot Area Per Family in Square Feet > Single- Family Dwelling: 7,500
-    Lot Area Per Family in Square Feet > Two-Family Dwelling: 3,750/3,750
-    Lot Area Per Family in Square Feet > Multiple Dwelling: NA
+    Lot Area Per Family in Square Feet:
+      Single- Family Dwelling: 7,500
+      Two-Family Dwelling: 3,750/3,750
+      Multiple Dwelling: NA
   RS-3, Split duplex on corner lot:
     Lot Width in Feet: '52.5'
     Lot Area in Sq. Feet: 5,250
-    Lot Area Per Family in Square Feet > Single- Family Dwelling: 5,250
-    Lot Area Per Family in Square Feet > Two-Family Dwelling: NA
-    Lot Area Per Family in Square Feet > Multiple Dwelling: NA
+    Lot Area Per Family in Square Feet:
+      Single- Family Dwelling: 5,250
+      Two-Family Dwelling: NA
+      Multiple Dwelling: NA
   RS-3, Split duplex on center lot:
     Lot Width in Feet: '37.5'
     Lot Area in Sq. Feet: 3,750
-    Lot Area Per Family in Square Feet > Single- Family Dwelling: 3,750
-    Lot Area Per Family in Square Feet > Two-Family Dwelling: NA
-    Lot Area Per Family in Square Feet > Multiple Dwelling: NA
+    Lot Area Per Family in Square Feet:
+      Single- Family Dwelling: 3,750
+      Two-Family Dwelling: NA
+      Multiple Dwelling: NA
   RS-3, Townhouse/Condo on corner lot:
     Lot Width in Feet: '115'
     Lot Area in Sq. Feet: 11,500
-    Lot Area Per Family in Square Feet > Single- Family Dwelling: NA
-    Lot Area Per Family in Square Feet > Two-Family Dwelling: NA
-    Lot Area Per Family in Square Feet > Multiple Dwelling: See zoning district
+    Lot Area Per Family in Square Feet:
+      Single- Family Dwelling: NA
+      Two-Family Dwelling: NA
+      Multiple Dwelling: See zoning district
   RS-3, Townhouse/Condo on center lot:
     Lot Width in Feet: '100'
     Lot Area in Sq. Feet: 10,000
-    Lot Area Per Family in Square Feet > Single- Family Dwelling: NA
-    Lot Area Per Family in Square Feet > Two-Family Dwelling: NA
-    Lot Area Per Family in Square Feet > Multiple Dwelling: See zoning district
+    Lot Area Per Family in Square Feet:
+      Single- Family Dwelling: NA
+      Two-Family Dwelling: NA
+      Multiple Dwelling: See zoning district
   RS-3, Split Townhouse/Condo on corner lot:
     Lot Width in Feet: '45'
     Lot Area in Sq. Feet: 4,500
-    Lot Area Per Family in Square Feet > Single- Family Dwelling: NA
-    Lot Area Per Family in Square Feet > Two-Family Dwelling: NA
-    Lot Area Per Family in Square Feet > Multiple Dwelling: See zoning district
+    Lot Area Per Family in Square Feet:
+      Single- Family Dwelling: NA
+      Two-Family Dwelling: NA
+      Multiple Dwelling: See zoning district
   RS-3, Split Townhouse/Condo on center lot:
     Lot Width in Feet: '20'
     Lot Area in Sq. Feet: 2,000
-    Lot Area Per Family in Square Feet > Single- Family Dwelling: NA
-    Lot Area Per Family in Square Feet > Two-Family Dwelling: NA
-    Lot Area Per Family in Square Feet > Multiple Dwelling: See zoning district
+    Lot Area Per Family in Square Feet:
+      Single- Family Dwelling: NA
+      Two-Family Dwelling: NA
+      Multiple Dwelling: See zoning district
   RS-3, Split Townhouse/Condo with side setback:
     Lot Width in Feet: '30'
     Lot Area in Sq. Feet: 3,000
-    Lot Area Per Family in Square Feet > Single- Family Dwelling: NA
-    Lot Area Per Family in Square Feet > Two-Family Dwelling: NA
-    Lot Area Per Family in Square Feet > Multiple Dwelling: See zoning district
+    Lot Area Per Family in Square Feet:
+      Single- Family Dwelling: NA
+      Two-Family Dwelling: NA
+      Multiple Dwelling: See zoning district
   NC:
     Lot Width in Feet: None
     Lot Area in Sq. Feet: None
-    Lot Area Per Family in Square Feet > Single- Family Dwelling: NA
-    Lot Area Per Family in Square Feet > Two-Family Dwelling: NA
-    Lot Area Per Family in Square Feet > Multiple Dwelling: See zoning district
+    Lot Area Per Family in Square Feet:
+      Single- Family Dwelling: NA
+      Two-Family Dwelling: NA
+      Multiple Dwelling: See zoning district
   CL:
     Lot Width in Feet: None
     Lot Area in Sq. Feet: None
-    Lot Area Per Family in Square Feet > Single- Family Dwelling: NA
-    Lot Area Per Family in Square Feet > Two-Family Dwelling: NA
-    Lot Area Per Family in Square Feet > Multiple Dwelling: See zoning district
+    Lot Area Per Family in Square Feet:
+      Single- Family Dwelling: NA
+      Two-Family Dwelling: NA
+      Multiple Dwelling: See zoning district
   C-1:
     Lot Width in Feet: None
     Lot Area in Sq. Feet: None
-    Lot Area Per Family in Square Feet > Single- Family Dwelling: NA
-    Lot Area Per Family in Square Feet > Two-Family Dwelling: NA
-    Lot Area Per Family in Square Feet > Multiple Dwelling: See zoning district
+    Lot Area Per Family in Square Feet:
+      Single- Family Dwelling: NA
+      Two-Family Dwelling: NA
+      Multiple Dwelling: See zoning district
   C-2:
     Lot Width in Feet: None
     Lot Area in Sq. Feet: None
-    Lot Area Per Family in Square Feet > Single- Family Dwelling: NA
-    Lot Area Per Family in Square Feet > Two-Family Dwelling: NA
-    Lot Area Per Family in Square Feet > Multiple Dwelling: See zoning district
+    Lot Area Per Family in Square Feet:
+      Single- Family Dwelling: NA
+      Two-Family Dwelling: NA
+      Multiple Dwelling: See zoning district
   DTBD:
     Lot Width in Feet: None
     Lot Area in Sq. Feet: None
-    Lot Area Per Family in Square Feet > Single- Family Dwelling: NA
-    Lot Area Per Family in Square Feet > Two-Family Dwelling: NA
-    Lot Area Per Family in Square Feet > Multiple Dwelling: See zoning district
+    Lot Area Per Family in Square Feet:
+      Single- Family Dwelling: NA
+      Two-Family Dwelling: NA
+      Multiple Dwelling: See zoning district
   M-1:
     Lot Width in Feet: None
     Lot Area in Sq. Feet: None
-    Lot Area Per Family in Square Feet > Single- Family Dwelling: ''
-    Lot Area Per Family in Square Feet > Two-Family Dwelling: Dwellings Prohibited
-    Lot Area Per Family in Square Feet > Multiple Dwelling: ''
+    Lot Area Per Family in Square Feet:
+      Single- Family Dwelling: ''
+      Two-Family Dwelling: Dwellings Prohibited
+      Multiple Dwelling: ''
   M-2:
     Lot Width in Feet: None
     Lot Area in Sq. Feet: None
-    Lot Area Per Family in Square Feet > Single- Family Dwelling: ''
-    Lot Area Per Family in Square Feet > Two-Family Dwelling: Dwellings Prohibited
-    Lot Area Per Family in Square Feet > Multiple Dwelling: ''
+    Lot Area Per Family in Square Feet:
+      Single- Family Dwelling: ''
+      Two-Family Dwelling: Dwellings Prohibited
+      Multiple Dwelling: ''

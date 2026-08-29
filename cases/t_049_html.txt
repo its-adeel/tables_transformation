@@ -1,0 +1,1877 @@
+<table class="thead3 table left makeExpandableTable makeFixedTable" cellpadding="3" cellspacing="0" border="1" rules="all">
+                     <colgroup class="std">
+                        <col width="25%">
+                        <col width="25%">
+                        <col width="25%">
+                        <col width="25%">
+                     </colgroup>
+                     <thead><tr>
+                           <th style="vertical-align:middle; background-color: MediumTurquoise; " colspan="4" class="hasbg top ">
+                              <span class="ital">EXHIBIT VIII.1.4-1 - MINIMUM PARKING REQUIREMENT</span>
+                              </th>
+                        </tr><tr>
+                           <th style="vertical-align:middle; background-color: MediumTurquoise; " rowspan="2" colspan="1" class="hasbgcenter  top ">
+                              USES
+                              </th>
+                           <th style="vertical-align:middle; background-color: MediumTurquoise; " colspan="3" class="hasbgcenter  top ">
+                              MINIMUM PARKING REQUIREMENT
+                              <br>
+                              (On-site parking is based on square footage unless otherwise noted)
+                              </th>
+                        </tr><tr>
+                           <th style="vertical-align:middle; " class=" top ">
+                              Residential Zoning Districts
+                              </th>
+                           <th style="vertical-align:middle; background-color: LightGray; " class="hasbg top ">
+                              Mixed Use Zoning Districts
+                              </th>
+                           <th style="vertical-align:middle; " class=" top ">
+                              Non-Residential Zoning Districts
+                              </th>
+                        </tr></thead><tbody>
+                        
+                        
+                        
+                        <tr>
+                           <td style="vertical-align:middle; background-color: MediumTurquoise; " colspan="4" class="hasbgcenter  top ">
+                              <span class="bold">ACCESSORY USES</span>
+                              </td>
+                        </tr>
+                        <tr>
+                           <td style="vertical-align:middle; background-color: MediumTurquoise; " class="hasbg top ">
+                              Accessory Building
+                              </td>
+                           <td style="vertical-align:middle; " class=" top ">
+                              NA
+                              </td>
+                           <td style="vertical-align:middle; background-color: LightGray; " class="hasbg top ">
+                              NA
+                              </td>
+                           <td style="vertical-align:middle; " class=" top ">
+                              NA
+                              </td>
+                        </tr>
+                        <tr>
+                           <td style="vertical-align:middle; background-color: MediumTurquoise; " class="hasbg top ">
+                              Accessory Dwelling Unit (Commercial)
+                              </td>
+                           <td style="vertical-align:middle; " class=" top ">
+                              —
+                              </td>
+                           <td style="vertical-align:middle; background-color: LightGray; " class="hasbg top ">
+                              1 space per every dwelling unit
+                              </td>
+                           <td style="vertical-align:middle; " class=" top ">
+                              1 space per every dwelling unit
+                              </td>
+                        </tr>
+                        <tr>
+                           <td style="vertical-align:middle; background-color: MediumTurquoise; " class="hasbg top ">
+                              Accessory Structure
+                              </td>
+                           <td style="vertical-align:middle; " class=" top ">
+                              NA
+                              </td>
+                           <td style="vertical-align:middle; background-color: LightGray; " class="hasbg top ">
+                              NA
+                              </td>
+                           <td style="vertical-align:middle; " class=" top ">
+                              NA
+                              </td>
+                        </tr>
+                        <tr>
+                           <td style="vertical-align:middle; background-color: MediumTurquoise; " class="hasbg top ">
+                              Accessory Use
+                              </td>
+                           <td style="vertical-align:middle; " class=" top ">
+                              NA
+                              </td>
+                           <td style="vertical-align:middle; background-color: LightGray; " class="hasbg top ">
+                              NA
+                              </td>
+                           <td style="vertical-align:middle; " class=" top ">
+                              Same as principal use
+                              </td>
+                        </tr>
+                        <tr>
+                           <td style="vertical-align:middle; background-color: MediumTurquoise; " class="hasbg top ">
+                              Backyard Cottage
+                              </td>
+                           <td style="vertical-align:middle; " class=" top ">
+                              1 parking space for every dwelling unit
+                              </td>
+                           <td style="vertical-align:middle; background-color: LightGray; " class="hasbg top ">
+                              1 parking space for every dwelling unit
+                              </td>
+                           <td style="vertical-align:middle; " class=" top ">
+                              —
+                              </td>
+                        </tr>
+                        <tr>
+                           <td style="vertical-align:middle; background-color: MediumTurquoise; " class="hasbg top ">
+                              Carport
+                              </td>
+                           <td style="vertical-align:middle; " class=" top ">
+                              NA
+                              </td>
+                           <td style="vertical-align:middle; background-color: LightGray; " class="hasbg top ">
+                              NA
+                              </td>
+                           <td style="vertical-align:middle; " class=" top ">
+                              NA
+                              </td>
+                        </tr>
+                        <tr>
+                           <td style="vertical-align:middle; background-color: MediumTurquoise; " class="hasbg top ">
+                              Cemetery or Columbarium when Accessory to a Religious Facility
+                              </td>
+                           <td style="vertical-align:middle; " class=" top ">
+                              NA
+                              </td>
+                           <td style="vertical-align:middle; background-color: LightGray; " class="hasbg top ">
+                              NA
+                              </td>
+                           <td style="vertical-align:middle; " class=" top ">
+                              NA
+                              </td>
+                        </tr>
+                        <tr>
+                           <td style="vertical-align:middle; background-color: MediumTurquoise; " class="hasbg top ">
+                              Day Care, In-Home
+                              </td>
+                           <td style="vertical-align:middle; " class=" top ">
+                              NA
+                              </td>
+                           <td style="vertical-align:middle; background-color: LightGray; " class="hasbg top ">
+                              NA
+                              </td>
+                           <td style="vertical-align:middle; " class=" top ">
+                              —
+                              </td>
+                        </tr>
+                        <tr>
+                           <td style="vertical-align:middle; background-color: MediumTurquoise; " class="hasbg top ">
+                              Home Occupation
+                              </td>
+                           <td style="vertical-align:middle; " class=" top ">
+                              NA
+                              </td>
+                           <td style="vertical-align:middle; background-color: LightGray; " class="hasbg top ">
+                              NA
+                              </td>
+                           <td style="vertical-align:middle; " class=" top ">
+                              —
+                              </td>
+                        </tr>
+                        <tr>
+                           <td style="vertical-align:middle; background-color: MediumTurquoise; " class="hasbg top ">
+                              Outside Storage (Accessory)
+                              </td>
+                           <td style="vertical-align:middle; " class=" top ">
+                              —
+                              </td>
+                           <td style="vertical-align:middle; background-color: LightGray; " class="hasbg top ">
+                              —
+                              </td>
+                           <td style="vertical-align:middle; " class=" top ">
+                              NA
+                              </td>
+                        </tr>
+                        <tr>
+                           <td style="vertical-align:middle; background-color: MediumTurquoise; " class="hasbg top ">
+                              Solar Energy System
+                              </td>
+                           <td style="vertical-align:middle; " class=" top ">
+                              NA
+                              </td>
+                           <td style="vertical-align:middle; background-color: LightGray; " class="hasbg top ">
+                              NA
+                              </td>
+                           <td style="vertical-align:middle; " class=" top ">
+                              NA
+                              </td>
+                        </tr>
+                        <tr>
+                           <td style="vertical-align:middle; background-color: MediumTurquoise; " class="hasbg top ">
+                              Wind Energy Conversion System
+                              </td>
+                           <td style="vertical-align:middle; " class=" top ">
+                              NA
+                              </td>
+                           <td style="vertical-align:middle; background-color: LightGray; " class="hasbg top ">
+                              NA
+                              </td>
+                           <td style="vertical-align:middle; " class=" top ">
+                              NA
+                              </td>
+                        </tr>
+                        <tr>
+                           <td style="vertical-align:middle; background-color: MediumTurquoise; " colspan="4" class="hasbgcenter  top ">
+                              <span class="bold">AGRICULTURAL AND ANIMAL USES</span>
+                              </td>
+                        </tr>
+                        <tr>
+                           <td style="vertical-align:middle; background-color: MediumTurquoise; " class="hasbg top ">
+                              Agricultural, Farming, Ranching
+                              </td>
+                           <td style="vertical-align:middle; " class=" top ">
+                              NA
+                              </td>
+                           <td style="vertical-align:middle; background-color: LightGray; " class="hasbg top ">
+                              —
+                              </td>
+                           <td style="vertical-align:middle; " class=" top ">
+                              —
+                              </td>
+                        </tr>
+                        <tr>
+                           <td style="vertical-align:middle; background-color: MediumTurquoise; " class="hasbg top ">
+                              Animal Care (Indoor)
+                              </td>
+                           <td style="vertical-align:middle; " class=" top ">
+                              —
+                              </td>
+                           <td style="vertical-align:middle; background-color: LightGray; " class="hasbg top ">
+                              1:300
+                              </td>
+                           <td style="vertical-align:middle; " class=" top ">
+                              1:300
+                              </td>
+                        </tr>
+                        <tr>
+                           <td style="vertical-align:middle; background-color: MediumTurquoise; " class="hasbg top ">
+                              Animal Care (Outdoor Pens or Runs)
+                              </td>
+                           <td style="vertical-align:middle; " class=" top ">
+                              —
+                              </td>
+                           <td style="vertical-align:middle; background-color: LightGray; " class="hasbg top ">
+                              1:300
+                              </td>
+                           <td style="vertical-align:middle; " class=" top ">
+                              1:300
+                              </td>
+                        </tr>
+                        <tr>
+                           <td style="vertical-align:middle; background-color: MediumTurquoise; " class="hasbg top ">
+                              Veterinarian (Indoor Pens)
+                              </td>
+                           <td style="vertical-align:middle; " class=" top ">
+                              —
+                              </td>
+                           <td style="vertical-align:middle; background-color: LightGray; " class="hasbg top ">
+                              1:300
+                              </td>
+                           <td style="vertical-align:middle; " class=" top ">
+                              1:300
+                              </td>
+                        </tr>
+                        <tr>
+                           <td style="vertical-align:middle; background-color: MediumTurquoise; " class="hasbg top ">
+                              Veterinarian (Outdoor Pens or Runs)
+                              </td>
+                           <td style="vertical-align:middle; " class=" top ">
+                              —
+                              </td>
+                           <td style="vertical-align:middle; background-color: LightGray; " class="hasbg top ">
+                              1:300
+                              </td>
+                           <td style="vertical-align:middle; " class=" top ">
+                              1:300
+                              </td>
+                        </tr>
+                        <tr>
+                           <td style="vertical-align:middle; background-color: MediumTurquoise; " colspan="4" class="hasbgcenter  top ">
+                              <span class="bold">EDUCATIONAL, INSTITUTIONAL, PUBLIC AND SPECIAL USES</span>
+                              </td>
+                        </tr>
+                        <tr>
+                           <td style="vertical-align:middle; background-color: MediumTurquoise; " class="hasbg top ">
+                              Assisted Living Facility
+                              </td>
+                           <td style="vertical-align:middle; " class=" top ">
+                              1 parking space for every 2 beds or dwelling units
+                              </td>
+                           <td style="vertical-align:middle; background-color: LightGray; " class="hasbg top ">
+                              —
+                              </td>
+                           <td style="vertical-align:middle; " class=" top ">
+                              1 parking space for every 2 beds or dwelling units
+                              </td>
+                        </tr>
+                        <tr>
+                           <td style="vertical-align:middle; background-color: MediumTurquoise; " class="hasbg top ">
+                              Business or Commercial School or other Institution of Education
+                              </td>
+                           <td style="vertical-align:middle; " class=" top ">
+                              —
+                              </td>
+                           <td style="vertical-align:middle; background-color: LightGray; " class="hasbg top ">
+                              1 parking space for every 3 students, teachers, and staff
+                              </td>
+                           <td style="vertical-align:middle; " class=" top ">
+                              1 parking space for every 3 students, teachers, and staff
+                              </td>
+                        </tr>
+                        <tr>
+                           <td style="vertical-align:middle; background-color: MediumTurquoise; " class="hasbg top ">
+                              Cemetery, Columbarium, Mausoleum
+                              </td>
+                           <td style="vertical-align:middle; " colspan="3" class=" top ">
+                              1:300 of space used for funeral or other gathering space.
+                              </td>
+                        </tr>
+                        <tr>
+                           <td style="vertical-align:middle; background-color: MediumTurquoise; " class="hasbg top ">
+                              Chapter 748 Operation
+                              </td>
+                           <td style="vertical-align:middle; " class=" top ">
+                              —
+                              </td>
+                           <td style="vertical-align:middle; background-color: LightGray; " class="hasbg top ">
+                              —
+                              </td>
+                           <td style="vertical-align:middle; " class=" top ">
+                              NA
+                              </td>
+                        </tr>
+                        <tr>
+                           <td style="vertical-align:middle; background-color: MediumTurquoise; " class="hasbg top ">
+                              Community Center
+                              </td>
+                           <td style="vertical-align:middle; " class=" top ">
+                              —
+                              </td>
+                           <td style="vertical-align:middle; background-color: LightGray; " class="hasbg top ">
+                              —
+                              </td>
+                           <td style="vertical-align:middle; " class=" top ">
+                              1:300 of office area and 1 parking space for every 4 seats in assembly areas
+                              </td>
+                        </tr>
+                        <tr>
+                           <td style="vertical-align:middle; background-color: MediumTurquoise; " class="hasbg top ">
+                              Continuing Care Facility
+                              </td>
+                           <td style="vertical-align:middle; " class=" top ">
+                              1 parking space for every 2 beds dedicated for long-term care; 1 parking space for
+                              every 2 or dwelling units dedicated to assisted-living; 1.2 parking spaces for every
+                              dwelling unit dedicated to independent-living
+                              </td>
+                           <td style="vertical-align:middle; background-color: LightGray; " class="hasbg top ">
+                              —
+                              </td>
+                           <td style="vertical-align:middle; " class=" top ">
+                              1 parking space for every 2 beds dedicated for long-term care; 1 parking space for
+                              every 2 or dwelling units dedicated to assisted-living; 1.2 parking spaces for every
+                              dwelling unit dedicated to independent-living
+                              </td>
+                        </tr>
+                        <tr>
+                           <td style="vertical-align:middle; background-color: MediumTurquoise; " class="hasbg top ">
+                              Country Club or Golf Course
+                              </td>
+                           <td style="vertical-align:middle; " class=" top ">
+                              8 parking spaces for every golf course hole
+                              </td>
+                           <td style="vertical-align:middle; background-color: LightGray; " class="hasbg top ">
+                              —
+                              </td>
+                           <td style="vertical-align:middle; " class=" top ">
+                              —
+                              </td>
+                        </tr>
+                        <tr>
+                           <td style="vertical-align:middle; background-color: MediumTurquoise; " class="hasbg top ">
+                              Criminal or Penal Institution
+                              </td>
+                           <td style="vertical-align:middle; " class=" top ">
+                              —
+                              </td>
+                           <td style="vertical-align:middle; background-color: LightGray; " class="hasbg top ">
+                              —
+                              </td>
+                           <td style="vertical-align:middle; " class=" top ">
+                              1:300 of office area
+                              </td>
+                        </tr>
+                        <tr>
+                           <td style="vertical-align:middle; background-color: MediumTurquoise; " class="hasbg top ">
+                              Governmental Office and Service
+                              </td>
+                           <td style="vertical-align:middle; " class=" top ">
+                              1:300
+                              </td>
+                           <td style="vertical-align:middle; background-color: LightGray; " class="hasbg top ">
+                              1:300
+                              </td>
+                           <td style="vertical-align:middle; " class=" top ">
+                              1:300
+                              </td>
+                        </tr>
+                        <tr>
+                           <td style="vertical-align:middle; background-color: MediumTurquoise; " class="hasbg top ">
+                              Hospital
+                              </td>
+                           <td style="vertical-align:middle; " class=" top ">
+                              —
+                              </td>
+                           <td style="vertical-align:middle; background-color: LightGray; " class="hasbg top ">
+                              —
+                              </td>
+                           <td style="vertical-align:middle; " class=" top ">
+                              Office Area 1:300 and 1 parking space for every bed and
+                              </td>
+                        </tr>
+                        <tr>
+                           <td style="vertical-align:middle; background-color: MediumTurquoise; " class="hasbg top ">
+                              Landfill Operation and Accessory Use
+                              </td>
+                           <td style="vertical-align:middle; " class=" top ">
+                              —
+                              </td>
+                           <td style="vertical-align:middle; background-color: LightGray; " class="hasbg top ">
+                              —
+                              </td>
+                           <td style="vertical-align:middle; " class=" top ">
+                              1:300 of office area
+                              </td>
+                        </tr>
+                        <tr>
+                           <td style="vertical-align:middle; background-color: MediumTurquoise; " class="hasbg top ">
+                              Long Term Care Facility
+                              </td>
+                           <td style="vertical-align:middle; " class=" top ">
+                              1 parking space for every 2 beds
+                              </td>
+                           <td style="vertical-align:middle; background-color: LightGray; " class="hasbg top ">
+                              —
+                              </td>
+                           <td style="vertical-align:middle; " class=" top ">
+                              1 parking space for every 2 beds
+                              </td>
+                        </tr>
+                        <tr>
+                           <td style="vertical-align:middle; background-color: MediumTurquoise; " class="hasbg top ">
+                              Private Recreation Area/Facility
+                              </td>
+                           <td style="vertical-align:middle; " class=" top ">
+                              1:300
+                              </td>
+                           <td style="vertical-align:middle; background-color: LightGray; " class="hasbg top ">
+                              —
+                              </td>
+                           <td style="vertical-align:middle; " class=" top ">
+                              1 parking space for every 4 seats
+                              </td>
+                        </tr>
+                        <tr>
+                           <td style="vertical-align:middle; background-color: MediumTurquoise; " class="hasbg top ">
+                              Public Park and Playground
+                              </td>
+                           <td style="vertical-align:middle; " class=" top ">
+                              NA
+                              </td>
+                           <td style="vertical-align:middle; background-color: LightGray; " class="hasbg top ">
+                              NA
+                              </td>
+                           <td style="vertical-align:middle; " class=" top ">
+                              NA
+                              </td>
+                        </tr>
+                        <tr>
+                           <td style="vertical-align:middle; background-color: MediumTurquoise; " class="hasbg top ">
+                              Public Utility Plant or Substation
+                              </td>
+                           <td style="vertical-align:middle; " class=" top ">
+                              1:300 of office area; minimum 1 parking space
+                              </td>
+                           <td style="vertical-align:middle; background-color: LightGray; " class="hasbg top ">
+                              1:300 of office area; minimum 1 parking space
+                              </td>
+                           <td style="vertical-align:middle; " class=" top ">
+                              1 parking space for every employee; minimum 1 parking space
+                              </td>
+                        </tr>
+                        <tr>
+                           <td style="vertical-align:middle; background-color: MediumTurquoise; " class="hasbg top ">
+                              Religious Facility
+                              </td>
+                           <td style="vertical-align:middle; " colspan="3" class=" top ">
+                              1 parking space for every 3 seats or worship spaces in main assembly area
+                              </td>
+                        </tr>
+                        <tr>
+                           <td style="vertical-align:middle; background-color: MediumTurquoise; " class="hasbg top ">
+                              School, Private
+                              </td>
+                           <td style="vertical-align:middle; " colspan="3" class=" top ">
+                              Elementary and Middle School - 1 parking space for each classroom and 1 parking space
+                              for every 15 students, based on design capacity;
+                              <br>
+                               
+                              <br>
+                              High School - 1 parking space for every 3 students, faculty and staff, based on design
+                              capacity
+                              </td>
+                        </tr>
+                        <tr>
+                           <td style="vertical-align:middle; background-color: MediumTurquoise; " class="hasbg top ">
+                              School, Public or Parochial
+                              </td>
+                           <td style="vertical-align:middle; " colspan="3" class=" top ">
+                              Elementary and Middle School - 1 parking space for each classroom and 1 parking space
+                              for every 15 students, based on design capacity;
+                              <br>
+                               
+                              <br>
+                              High School - 1 parking space for every 3 students, faculty and staff, based on design
+                              capacity
+                              </td>
+                        </tr>
+                        <tr>
+                           <td style="vertical-align:middle; background-color: MediumTurquoise; " colspan="4" class="hasbgcenter  top ">
+                              <span class="bold">MANUFACTURING AND INDUSTRIAL USES</span>
+                              </td>
+                        </tr>
+                        <tr>
+                           <td style="vertical-align:middle; background-color: MediumTurquoise; " class="hasbg top ">
+                              Asphalt/Concrete Batch Plant (Permanent)
+                              </td>
+                           <td style="vertical-align:middle; " class=" top ">
+                              —
+                              </td>
+                           <td style="vertical-align:middle; background-color: LightGray; " class="hasbg top ">
+                              —
+                              </td>
+                           <td style="vertical-align:middle; " class=" top ">
+                              1:1,000
+                              </td>
+                        </tr>
+                        <tr>
+                           <td style="vertical-align:middle; background-color: MediumTurquoise; " class="hasbg top ">
+                              Brewery, Distillery, or Winery
+                              </td>
+                           <td style="vertical-align:middle; " class=" top ">
+                              —
+                              </td>
+                           <td style="vertical-align:middle; background-color: LightGray; " class="hasbg top ">
+                              1:1000 of manufacturing space; 1:300 of tasting rooms
+                              </td>
+                           <td style="vertical-align:middle; " class=" top ">
+                              1:1000 of manufacturing space; 1:300 of tasting rooms
+                              </td>
+                        </tr>
+                        <tr>
+                           <td style="vertical-align:middle; background-color: MediumTurquoise; " class="hasbg top ">
+                              Cleaning, Laundry and Textile Processing Plant
+                              </td>
+                           <td style="vertical-align:middle; " class=" top ">
+                              —
+                              </td>
+                           <td style="vertical-align:middle; background-color: LightGray; " class="hasbg top ">
+                              —
+                              </td>
+                           <td style="vertical-align:middle; " class=" top ">
+                              1:1,000
+                              </td>
+                        </tr>
+                        <tr>
+                           <td style="vertical-align:middle; background-color: MediumTurquoise; " class="hasbg top ">
+                              Laboratory-Scientific Research and Testing
+                              </td>
+                           <td style="vertical-align:middle; " class=" top ">
+                              —
+                              </td>
+                           <td style="vertical-align:middle; background-color: LightGray; " class="hasbg top ">
+                              —
+                              </td>
+                           <td style="vertical-align:middle; " class=" top ">
+                              1:300
+                              </td>
+                        </tr>
+                        <tr>
+                           <td style="vertical-align:middle; background-color: MediumTurquoise; " class="hasbg top ">
+                              Manufacturing, Light Intensity
+                              </td>
+                           <td style="vertical-align:middle; " class=" top ">
+                              —
+                              </td>
+                           <td style="vertical-align:middle; background-color: LightGray; " class="hasbg top ">
+                              —
+                              </td>
+                           <td style="vertical-align:middle; " class=" top ">
+                              1:1,000
+                              </td>
+                        </tr>
+                        <tr>
+                           <td style="vertical-align:middle; background-color: MediumTurquoise; " class="hasbg top ">
+                              Manufacturing, Medium Intensity
+                              </td>
+                           <td style="vertical-align:middle; " class=" top ">
+                              —
+                              </td>
+                           <td style="vertical-align:middle; background-color: LightGray; " class="hasbg top ">
+                              —
+                              </td>
+                           <td style="vertical-align:middle; " class=" top ">
+                              1:1,000
+                              </td>
+                        </tr>
+                        <tr>
+                           <td style="vertical-align:middle; background-color: MediumTurquoise; " class="hasbg top ">
+                              Manufacturing, Heavy Intensity
+                              </td>
+                           <td style="vertical-align:middle; " class=" top ">
+                              —
+                              </td>
+                           <td style="vertical-align:middle; background-color: LightGray; " class="hasbg top ">
+                              —
+                              </td>
+                           <td style="vertical-align:middle; " class=" top ">
+                              1:1,000
+                              </td>
+                        </tr>
+                        <tr>
+                           <td style="vertical-align:middle; background-color: MediumTurquoise; " class="hasbg top ">
+                              Mining Activity
+                              </td>
+                           <td style="vertical-align:middle; " class=" top ">
+                              —
+                              </td>
+                           <td style="vertical-align:middle; background-color: LightGray; " class="hasbg top ">
+                              —
+                              </td>
+                           <td style="vertical-align:middle; " class=" top ">
+                              1:300 of office area
+                              </td>
+                        </tr>
+                        <tr>
+                           <td style="vertical-align:middle; background-color: MediumTurquoise; " class="hasbg top ">
+                              Recycling Facility
+                              </td>
+                           <td style="vertical-align:middle; " class=" top ">
+                              —
+                              </td>
+                           <td style="vertical-align:middle; background-color: LightGray; " class="hasbg top ">
+                              —
+                              </td>
+                           <td style="vertical-align:middle; " class=" top ">
+                              1:300 of office area
+                              </td>
+                        </tr>
+                        <tr>
+                           <td style="vertical-align:middle; background-color: MediumTurquoise; " colspan="4" class="hasbgcenter  top ">
+                              <span class="bold">OFFICE AND PROFESSIONAL USES</span>
+                              </td>
+                        </tr>
+                        <tr>
+                           <td style="vertical-align:middle; background-color: MediumTurquoise; " class="hasbg top ">
+                              Medical Office and Clinic
+                              </td>
+                           <td style="vertical-align:middle; " class=" top ">
+                              —
+                              </td>
+                           <td style="vertical-align:middle; background-color: LightGray; " class="hasbg top ">
+                              1:300
+                              </td>
+                           <td style="vertical-align:middle; " class=" top ">
+                              1:300
+                              </td>
+                        </tr>
+                        <tr>
+                           <td style="vertical-align:middle; background-color: MediumTurquoise; " class="hasbg top ">
+                              Professional and Administrative Office
+                              </td>
+                           <td style="vertical-align:middle; " class=" top ">
+                              —
+                              </td>
+                           <td style="vertical-align:middle; background-color: LightGray; " class="hasbg top ">
+                              1:300
+                              </td>
+                           <td style="vertical-align:middle; " class=" top ">
+                              1:300
+                              </td>
+                        </tr>
+                        <tr>
+                           <td style="vertical-align:middle; background-color: MediumTurquoise; " colspan="4" class="hasbgcenter  top ">
+                              <span class="bold">RESIDENTIAL USES</span>
+                              </td>
+                        </tr>
+                        <tr>
+                           <td style="vertical-align:middle; background-color: MediumTurquoise; " class="hasbg top ">
+                              Dormitory for Students
+                              </td>
+                           <td style="vertical-align:middle; " class=" top ">
+                              1 parking space for every 2 beds
+                              </td>
+                           <td style="vertical-align:middle; background-color: LightGray; " class="hasbg top ">
+                              —
+                              </td>
+                           <td style="vertical-align:middle; " class=" top ">
+                              —
+                              </td>
+                        </tr>
+                        <tr>
+                           <td style="vertical-align:middle; background-color: MediumTurquoise; " class="hasbg top ">
+                              Dwelling, Two-Family (Duplex)
+                              </td>
+                           <td style="vertical-align:middle; " class=" top ">
+                              1 parking space in a residential garage and 2 parking spaces in a residential driveway;
+                              visitor
+                              </td>
+                           <td style="vertical-align:middle; background-color: LightGray; " class="hasbg top ">
+                              1 parking space in a residential garage and 2 parking spaces in a residential driveway
+                              parking per Article VIII.1.3.D
+                              </td>
+                           <td style="vertical-align:middle; " class=" top ">
+                              —
+                              </td>
+                        </tr>
+                        <tr>
+                           <td style="vertical-align:middle; background-color: MediumTurquoise; " class="hasbg top ">
+                              Household Care Facility
+                              </td>
+                           <td style="vertical-align:middle; " class=" top ">
+                              1 parking space in a residential garage and 2 parking spaces in a residential driveway
+                              </td>
+                           <td style="vertical-align:middle; background-color: LightGray; " class="hasbg top ">
+                              1 parking space in a residential garage and 2 parking spaces in a residential driveway
+                              </td>
+                           <td style="vertical-align:middle; " class=" top ">
+                              —
+                              </td>
+                        </tr>
+                        <tr>
+                           <td style="vertical-align:middle; background-color: MediumTurquoise; " class="hasbg top ">
+                              Independent Living Facility
+                              </td>
+                           <td style="vertical-align:middle; " class=" top ">
+                              1.2 parking spaces for every dwelling unit
+                              </td>
+                           <td style="vertical-align:middle; background-color: LightGray; " class="hasbg top ">
+                              —
+                              </td>
+                           <td style="vertical-align:middle; " class=" top ">
+                              1.2 parking spaces for every dwelling unit
+                              </td>
+                        </tr>
+                        <tr>
+                           <td style="vertical-align:middle; background-color: MediumTurquoise; " class="hasbg top ">
+                              Manufactured Home
+                              </td>
+                           <td style="vertical-align:middle; " class=" top ">
+                              2 parking spaces for every dwelling unit
+                              </td>
+                           <td style="vertical-align:middle; background-color: LightGray; " class="hasbg top ">
+                              —
+                              </td>
+                           <td style="vertical-align:middle; " class=" top ">
+                              —
+                              </td>
+                        </tr>
+                        <tr>
+                           <td style="vertical-align:middle; background-color: MediumTurquoise; " class="hasbg top ">
+                              Manufactured Home Community
+                              </td>
+                           <td style="vertical-align:middle; " class=" top ">
+                              2 parking spaces for every dwelling unit
+                              </td>
+                           <td style="vertical-align:middle; background-color: LightGray; " class="hasbg top ">
+                              —
+                              </td>
+                           <td style="vertical-align:middle; " class=" top ">
+                              —
+                              </td>
+                        </tr>
+                        <tr>
+                           <td style="vertical-align:middle; background-color: MediumTurquoise; " class="hasbg top ">
+                              Multi-Family Dwelling
+                              </td>
+                           <td style="vertical-align:middle; " class=" top ">
+                              2 parking spaces for every dwelling unit
+                              </td>
+                           <td style="vertical-align:middle; background-color: LightGray; " class="hasbg top ">
+                              1.6 parking spaces for every dwelling unit
+                              </td>
+                           <td style="vertical-align:middle; " class=" top ">
+                              2 parking spaces for every dwelling unit
+                              </td>
+                        </tr>
+                        <tr>
+                           <td style="vertical-align:middle; background-color: MediumTurquoise; " class="hasbg top ">
+                              Single-Family Attached Dwelling
+                              </td>
+                           <td style="vertical-align:middle; " class=" top ">
+                              1 parking space in a residential garage and 2 parking spaces in a residential driveway;
+                              visitor parking per Article VIII.1.4A
+                              </td>
+                           <td style="vertical-align:middle; background-color: LightGray; " class="hasbg top ">
+                              1 parking space in a residential garage and 2 parking spaces in a residential driveway;
+                              visitor parking per Article VIII.1.4A
+                              </td>
+                           <td style="vertical-align:middle; " class=" top ">
+                              —
+                              </td>
+                        </tr>
+                        <tr>
+                           <td style="vertical-align:middle; background-color: MediumTurquoise; " class="hasbg top ">
+                              Single-Family Detached Dwelling
+                              </td>
+                           <td style="vertical-align:middle; " class=" top ">
+                              1 parking space in a residential garage space and 2 parking spaces in a residential
+                              driveway; visitor parking per Article VIII.1.4.A
+                              </td>
+                           <td style="vertical-align:middle; background-color: LightGray; " class="hasbg top ">
+                              1 parking space in a residential garage space and 2 parking spaces in a residential
+                              driveway; visitor parking per Article VIII.1.4.A
+                              </td>
+                           <td style="vertical-align:middle; " class=" top ">
+                              —
+                              </td>
+                        </tr>
+                        <tr>
+                           <td style="vertical-align:middle; background-color: MediumTurquoise; " colspan="4" class="hasbgcenter  top ">
+                              <span class="bold">RETAIL USES</span>
+                              </td>
+                        </tr>
+                        <tr>
+                           <td style="vertical-align:middle; background-color: MediumTurquoise; " class="hasbg top ">
+                              Automobile Parts Sales
+                              </td>
+                           <td style="vertical-align:middle; " class=" top ">
+                              —
+                              </td>
+                           <td style="vertical-align:middle; background-color: LightGray; " class="hasbg top ">
+                              —
+                              </td>
+                           <td style="vertical-align:middle; " class=" top ">
+                              1:300
+                              </td>
+                        </tr>
+                        <tr>
+                           <td style="vertical-align:middle; background-color: MediumTurquoise; " class="hasbg top ">
+                              Bakery/Food Production with Retail Sales
+                              </td>
+                           <td style="vertical-align:middle; " class=" top ">
+                              —
+                              </td>
+                           <td style="vertical-align:middle; background-color: LightGray; " class="hasbg top ">
+                              1:300
+                              </td>
+                           <td style="vertical-align:middle; " class=" top ">
+                              1:300
+                              </td>
+                        </tr>
+                        <tr>
+                           <td style="vertical-align:middle; background-color: MediumTurquoise; " class="hasbg top ">
+                              Bar
+                              </td>
+                           <td style="vertical-align:middle; " class=" top ">
+                              —
+                              </td>
+                           <td style="vertical-align:middle; background-color: LightGray; " class="hasbg top ">
+                              1:100
+                              </td>
+                           <td style="vertical-align:middle; " class=" top ">
+                              1:100
+                              </td>
+                        </tr>
+                        <tr>
+                           <td style="vertical-align:middle; background-color: MediumTurquoise; " class="hasbg top ">
+                              Building Material Sales, Including Lumber Yard
+                              </td>
+                           <td style="vertical-align:middle; " class=" top ">
+                              —
+                              </td>
+                           <td style="vertical-align:middle; background-color: LightGray; " class="hasbg top ">
+                              1:300 of retail sales area; 1:1000 of outside storage area
+                              </td>
+                           <td style="vertical-align:middle; " class=" top ">
+                              1:300 of retail sales area; 1:1000 of outside storage area
+                              </td>
+                        </tr>
+                        <tr>
+                           <td style="vertical-align:middle; background-color: MediumTurquoise; " class="hasbg top ">
+                              Food Truck Park
+                              </td>
+                           <td style="vertical-align:middle; " class=" top ">
+                              —
+                              </td>
+                           <td style="vertical-align:middle; background-color: LightGray; " class="hasbg top ">
+                              NA
+                              </td>
+                           <td style="vertical-align:middle; " class=" top ">
+                              NA
+                              </td>
+                        </tr>
+                        <tr>
+                           <td style="vertical-align:middle; background-color: MediumTurquoise; " class="hasbg top ">
+                              Kiosk
+                              </td>
+                           <td style="vertical-align:middle; " class=" top ">
+                              —
+                              </td>
+                           <td style="vertical-align:middle; background-color: LightGray; " class="hasbg top ">
+                              1:100
+                              </td>
+                           <td style="vertical-align:middle; " class=" top ">
+                              1:100
+                              </td>
+                        </tr>
+                        <tr>
+                           <td style="vertical-align:middle; background-color: MediumTurquoise; " class="hasbg top ">
+                              Pawn Shop
+                              </td>
+                           <td style="vertical-align:middle; " class=" top ">
+                              —
+                              </td>
+                           <td style="vertical-align:middle; background-color: LightGray; " class="hasbg top ">
+                              1:100
+                              </td>
+                           <td style="vertical-align:middle; " class=" top ">
+                              1:100
+                              </td>
+                        </tr>
+                        <tr>
+                           <td style="vertical-align:middle; background-color: MediumTurquoise; " class="hasbg top ">
+                              Plant Nursery Retail (indoor)
+                              </td>
+                           <td style="vertical-align:middle; " class=" top ">
+                              —
+                              </td>
+                           <td style="vertical-align:middle; background-color: LightGray; " class="hasbg top ">
+                              1:100
+                              </td>
+                           <td style="vertical-align:middle; " class=" top ">
+                              1:100
+                              </td>
+                        </tr>
+                        <tr>
+                           <td style="vertical-align:middle; background-color: MediumTurquoise; " class="hasbg top ">
+                              Plant Nursery Retail (outdoor)
+                              </td>
+                           <td style="vertical-align:middle; " class=" top ">
+                              —
+                              </td>
+                           <td style="vertical-align:middle; background-color: LightGray; " class="hasbg top ">
+                              1:100
+                              </td>
+                           <td style="vertical-align:middle; " class=" top ">
+                              1:100
+                              </td>
+                        </tr>
+                        <tr>
+                           <td style="vertical-align:middle; background-color: MediumTurquoise; " class="hasbg top ">
+                              Grocery Store
+                              </td>
+                           <td style="vertical-align:middle; " class=" top ">
+                              —
+                              </td>
+                           <td style="vertical-align:middle; background-color: LightGray; " class="hasbg top ">
+                              1:300
+                              </td>
+                           <td style="vertical-align:middle; " class=" top ">
+                              1:300
+                              </td>
+                        </tr>
+                        <tr>
+                           <td style="vertical-align:middle; background-color: MediumTurquoise; " class="hasbg top ">
+                              Restaurant*
+                              </td>
+                           <td style="vertical-align:middle; " class=" top ">
+                              —
+                              </td>
+                           <td style="vertical-align:middle; background-color: LightGray; " class="hasbg top ">
+                              1:100
+                              </td>
+                           <td style="vertical-align:middle; " class=" top ">
+                              1:100
+                              </td>
+                        </tr>
+                        <tr>
+                           <td style="vertical-align:middle; background-color: MediumTurquoise; " class="hasbg top ">
+                              Restaurant, Stand Alone*
+                              </td>
+                           <td style="vertical-align:middle; " class=" top ">
+                              —
+                              </td>
+                           <td style="vertical-align:middle; background-color: LightGray; " class="hasbg top ">
+                              1:100
+                              </td>
+                           <td style="vertical-align:middle; " class=" top ">
+                              1:100
+                              </td>
+                        </tr>
+                        <tr>
+                           <td style="vertical-align:middle; background-color: MediumTurquoise; " class="hasbg top ">
+                              Retail Store or Shop
+                              </td>
+                           <td style="vertical-align:middle; " class=" top ">
+                              —
+                              </td>
+                           <td style="vertical-align:middle; background-color: LightGray; " class="hasbg top ">
+                              1:300
+                              </td>
+                           <td style="vertical-align:middle; " class=" top ">
+                              1:300
+                              </td>
+                        </tr>
+                        <tr>
+                           <td style="vertical-align:middle; background-color: MediumTurquoise; " colspan="4" class="hasbgcenter  top ">
+                              <span class="bold">SERVICE USES</span>
+                              </td>
+                        </tr>
+                        <tr>
+                           <td style="vertical-align:middle; background-color: MediumTurquoise; " class="hasbg top ">
+                              Bank or Financial Institution
+                              </td>
+                           <td style="vertical-align:middle; " class=" top ">
+                              —
+                              </td>
+                           <td style="vertical-align:middle; background-color: LightGray; " class="hasbg top ">
+                              1:300
+                              </td>
+                           <td style="vertical-align:middle; " class=" top ">
+                              1:300
+                              </td>
+                        </tr>
+                        <tr>
+                           <td style="vertical-align:middle; background-color: MediumTurquoise; " class="hasbg top ">
+                              Bed and Breakfast
+                              </td>
+                           <td style="vertical-align:middle; " class=" top ">
+                              —
+                              </td>
+                           <td style="vertical-align:middle; background-color: LightGray; " class="hasbg top ">
+                              1 parking space for every guest room and 1 parking space for the operator
+                              </td>
+                           <td style="vertical-align:middle; " class=" top ">
+                              —
+                              </td>
+                        </tr>
+                        <tr>
+                           <td style="vertical-align:middle; background-color: MediumTurquoise; " class="hasbg top ">
+                              Beverage Container Recycling Collection Unit
+                              </td>
+                           <td style="vertical-align:middle; " class=" top ">
+                              —
+                              </td>
+                           <td style="vertical-align:middle; background-color: LightGray; " class="hasbg top ">
+                              —
+                              </td>
+                           <td style="vertical-align:middle; " class=" top ">
+                              2 parking spaces
+                              </td>
+                        </tr>
+                        <tr>
+                           <td style="vertical-align:middle; background-color: MediumTurquoise; " class="hasbg top ">
+                              Commercial Amusement (Indoor)
+                              </td>
+                           <td style="vertical-align:middle; " class=" top ">
+                              —
+                              </td>
+                           <td style="vertical-align:middle; background-color: LightGray; " class="hasbg top ">
+                              1 parking space per every 3 people of design capacity
+                              </td>
+                           <td style="vertical-align:middle; " class=" top ">
+                              1 parking space per every 3 people of design capacity
+                              </td>
+                        </tr>
+                        <tr>
+                           <td style="vertical-align:middle; background-color: MediumTurquoise; " class="hasbg top ">
+                              Commercial Amusement (Outdoor)
+                              </td>
+                           <td style="vertical-align:middle; " class=" top ">
+                              —
+                              </td>
+                           <td style="vertical-align:middle; background-color: LightGray; " class="hasbg top ">
+                              1 parking space per every 3 people of design capacity
+                              </td>
+                           <td style="vertical-align:middle; " class=" top ">
+                              1 parking space per every 3 people of design capacity
+                              </td>
+                        </tr>
+                        <tr>
+                           <td style="vertical-align:middle; background-color: MediumTurquoise; " class="hasbg top ">
+                              Credit Access Building
+                              </td>
+                           <td style="vertical-align:middle; " class=" top ">
+                              —
+                              </td>
+                           <td style="vertical-align:middle; background-color: LightGray; " class="hasbg top ">
+                              1 parking space per every 3 people of design capacity
+                              </td>
+                           <td style="vertical-align:middle; " class=" top ">
+                              1 parking space per every 3 people of design capacity
+                              </td>
+                        </tr>
+                        <tr>
+                           <td style="vertical-align:middle; background-color: MediumTurquoise; " class="hasbg top ">
+                              Day Care Center
+                              </td>
+                           <td style="vertical-align:middle; " colspan="3" class=" top ">
+                              1:300
+                              </td>
+                        </tr>
+                        <tr>
+                           <td style="vertical-align:middle; background-color: MediumTurquoise; " class="hasbg top ">
+                              Dry Cleaning/Laundry Service
+                              </td>
+                           <td style="vertical-align:middle; " class=" top ">
+                              —
+                              </td>
+                           <td style="vertical-align:middle; background-color: LightGray; " class="hasbg top ">
+                              1:300
+                              </td>
+                           <td style="vertical-align:middle; " class=" top ">
+                              1:300
+                              </td>
+                        </tr>
+                        <tr>
+                           <td style="vertical-align:middle; background-color: MediumTurquoise; " class="hasbg top ">
+                              Extended Stay Hotel
+                              </td>
+                           <td style="vertical-align:middle; " class=" top ">
+                              —
+                              </td>
+                           <td style="vertical-align:middle; background-color: LightGray; " class="hasbg top ">
+                              1 parking space for every guest room
+                              </td>
+                           <td style="vertical-align:middle; " class=" top ">
+                              1 parking space for every guest room
+                              </td>
+                        </tr>
+                        <tr>
+                           <td style="vertical-align:middle; background-color: MediumTurquoise; " class="hasbg top ">
+                              Flea Market Outdoor
+                              </td>
+                           <td style="vertical-align:middle; " class=" top ">
+                              —
+                              </td>
+                           <td style="vertical-align:middle; background-color: LightGray; " class="hasbg top ">
+                              —
+                              </td>
+                           <td style="vertical-align:middle; " class=" top ">
+                              1:1000 of booth and display area
+                              </td>
+                        </tr>
+                        <tr>
+                           <td style="vertical-align:middle; background-color: MediumTurquoise; " class="hasbg top ">
+                              Fraternal Organization or Lodge
+                              </td>
+                           <td style="vertical-align:middle; " class=" top ">
+                              —
+                              </td>
+                           <td style="vertical-align:middle; background-color: LightGray; " class="hasbg top ">
+                              1:300
+                              </td>
+                           <td style="vertical-align:middle; " class=" top ">
+                              1:300
+                              </td>
+                        </tr>
+                        <tr>
+                           <td style="vertical-align:middle; background-color: MediumTurquoise; " class="hasbg top ">
+                              Funeral Home or Mortuary
+                              </td>
+                           <td style="vertical-align:middle; " class=" top ">
+                              —
+                              </td>
+                           <td style="vertical-align:middle; background-color: LightGray; " class="hasbg top ">
+                              1:300
+                              </td>
+                           <td style="vertical-align:middle; " class=" top ">
+                              x1:300
+                              </td>
+                        </tr>
+                        <tr>
+                           <td style="vertical-align:middle; background-color: MediumTurquoise; " class="hasbg top ">
+                              Hotel, Motel or Inn
+                              </td>
+                           <td style="vertical-align:middle; " class=" top ">
+                              —
+                              </td>
+                           <td style="vertical-align:middle; background-color: LightGray; " class="hasbg top ">
+                              1 parking space for every guest room
+                              </td>
+                           <td style="vertical-align:middle; " class=" top ">
+                              1 parking space for every guest room
+                              </td>
+                        </tr>
+                        <tr>
+                           <td style="vertical-align:middle; background-color: MediumTurquoise; " class="hasbg top ">
+                              Licensed Massage Therapy
+                              </td>
+                           <td style="vertical-align:middle; " class=" top ">
+                              —
+                              </td>
+                           <td style="vertical-align:middle; background-color: LightGray; " class="hasbg top ">
+                              1:300
+                              </td>
+                           <td style="vertical-align:middle; " class=" top ">
+                              1:300
+                              </td>
+                        </tr>
+                        <tr>
+                           <td style="vertical-align:middle; background-color: MediumTurquoise; " class="hasbg top ">
+                              Nightclub
+                              </td>
+                           <td style="vertical-align:middle; " class=" top ">
+                              —
+                              </td>
+                           <td style="vertical-align:middle; background-color: LightGray; " class="hasbg top ">
+                              —
+                              </td>
+                           <td style="vertical-align:middle; " class=" top ">
+                              1:150
+                              </td>
+                        </tr>
+                        <tr>
+                           <td style="vertical-align:middle; background-color: MediumTurquoise; " class="hasbg top ">
+                              Personal Service
+                              </td>
+                           <td style="vertical-align:middle; " class=" top ">
+                              —
+                              </td>
+                           <td style="vertical-align:middle; background-color: LightGray; " class="hasbg top ">
+                              1:300
+                              </td>
+                           <td style="vertical-align:middle; " class=" top ">
+                              1:300
+                              </td>
+                        </tr>
+                        <tr>
+                           <td style="vertical-align:middle; background-color: MediumTurquoise; " class="hasbg top ">
+                              Recreational Vehicle Park
+                              </td>
+                           <td style="vertical-align:middle; " class=" top ">
+                              —
+                              </td>
+                           <td style="vertical-align:middle; background-color: LightGray; " class="hasbg top ">
+                              —
+                              </td>
+                           <td style="vertical-align:middle; " class=" top ">
+                              1 parking space for every lease space
+                              </td>
+                        </tr>
+                        <tr>
+                           <td style="vertical-align:middle; background-color: MediumTurquoise; " class="hasbg top ">
+                              Service Contractor
+                              </td>
+                           <td style="vertical-align:middle; " class=" top ">
+                              —
+                              </td>
+                           <td style="vertical-align:middle; background-color: LightGray; " class="hasbg top ">
+                              —
+                              </td>
+                           <td style="vertical-align:middle; " class=" top ">
+                              1:300
+                              </td>
+                        </tr>
+                        <tr>
+                           <td style="vertical-align:middle; background-color: MediumTurquoise; " class="hasbg top ">
+                              Shooting Range, Indoor/Outdoor
+                              </td>
+                           <td style="vertical-align:middle; " class=" top ">
+                              —
+                              </td>
+                           <td style="vertical-align:middle; background-color: LightGray; " class="hasbg top ">
+                              —
+                              </td>
+                           <td style="vertical-align:middle; " class=" top ">
+                              Indoor: 1:300
+                              <br>
+                               
+                              <br>
+                              Outdoor: 1:1000
+                              </td>
+                        </tr>
+                        <tr>
+                           <td style="vertical-align:middle; background-color: MediumTurquoise; " class="hasbg top ">
+                              Smoking Establishment
+                              </td>
+                           <td style="vertical-align:middle; " class=" top ">
+                              —
+                              </td>
+                           <td style="vertical-align:middle; background-color: LightGray; " class="hasbg top ">
+                              1:100
+                              </td>
+                           <td style="vertical-align:middle; " class=" top ">
+                              1:100
+                              </td>
+                        </tr>
+                        <tr>
+                           <td style="vertical-align:middle; background-color: MediumTurquoise; " class="hasbg top ">
+                              Theater
+                              </td>
+                           <td style="vertical-align:middle; " class=" top ">
+                              —
+                              </td>
+                           <td style="vertical-align:middle; background-color: LightGray; " class="hasbg top ">
+                              1 parking space for every 3 seats
+                              </td>
+                           <td style="vertical-align:middle; " class=" top ">
+                              1 parking space for every 3 seats
+                              </td>
+                        </tr>
+                        <tr>
+                           <td style="vertical-align:middle; background-color: MediumTurquoise; " colspan="4" class="hasbgcenter  top ">
+                              <span class="bold">TEMPORARY USES</span>
+                              </td>
+                        </tr>
+                        <tr>
+                           <td style="vertical-align:middle; background-color: MediumTurquoise; " class="hasbg top ">
+                              Asphalt/Concrete Batch Plant (Temporary)
+                              </td>
+                           <td style="vertical-align:middle; " class=" top ">
+                              NA
+                              </td>
+                           <td style="vertical-align:middle; background-color: LightGray; " class="hasbg top ">
+                              NA
+                              </td>
+                           <td style="vertical-align:middle; " class=" top ">
+                              NA
+                              </td>
+                        </tr>
+                        <tr>
+                           <td style="vertical-align:middle; background-color: MediumTurquoise; " class="hasbg top ">
+                              Outside Display
+                              </td>
+                           <td style="vertical-align:middle; " class=" top ">
+                              —
+                              </td>
+                           <td style="vertical-align:middle; background-color: LightGray; " class="hasbg top ">
+                              NA
+                              </td>
+                           <td style="vertical-align:middle; " class=" top ">
+                              NA
+                              </td>
+                        </tr>
+                        <tr>
+                           <td style="vertical-align:middle; background-color: MediumTurquoise; " class="hasbg top ">
+                              Real Estate Sales Office (Temporary)
+                              </td>
+                           <td style="vertical-align:middle; " class=" top ">
+                              NA
+                              </td>
+                           <td style="vertical-align:middle; background-color: LightGray; " class="hasbg top ">
+                              NA
+                              </td>
+                           <td style="vertical-align:middle; " class=" top ">
+                              NA
+                              </td>
+                        </tr>
+                        <tr>
+                           <td style="vertical-align:middle; background-color: MediumTurquoise; " class="hasbg top ">
+                              Temporary Construction Building
+                              </td>
+                           <td style="vertical-align:middle; " class=" top ">
+                              NA
+                              </td>
+                           <td style="vertical-align:middle; background-color: LightGray; " class="hasbg top ">
+                              NA
+                              </td>
+                           <td style="vertical-align:middle; " class=" top ">
+                              NA
+                              </td>
+                        </tr>
+                        <tr>
+                           <td style="vertical-align:middle; background-color: MediumTurquoise; " colspan="4" class="hasbgcenter  top ">
+                              <span class="bold">TRANSPORTATION, UTILITY AND COMMUNICATIONS USES</span>
+                              </td>
+                        </tr>
+                        <tr>
+                           <td style="vertical-align:middle; background-color: MediumTurquoise; " class="hasbg top ">
+                              Airport of Heliport
+                              </td>
+                           <td style="vertical-align:middle; " class=" top ">
+                              —
+                              </td>
+                           <td style="vertical-align:middle; background-color: LightGray; " class="hasbg top ">
+                              —
+                              </td>
+                           <td style="vertical-align:middle; " class=" top ">
+                              1:300 of office/terminal space
+                              </td>
+                        </tr>
+                        <tr>
+                           <td style="vertical-align:middle; background-color: MediumTurquoise; " class="hasbg top ">
+                              Amateur Radio Communication Antenna/Support Structure
+                              </td>
+                           <td style="vertical-align:middle; " class=" top ">
+                              NA
+                              </td>
+                           <td style="vertical-align:middle; background-color: LightGray; " class="hasbg top ">
+                              NA
+                              </td>
+                           <td style="vertical-align:middle; " class=" top ">
+                              —
+                              </td>
+                        </tr>
+                        <tr>
+                           <td style="vertical-align:middle; background-color: MediumTurquoise; " class="hasbg top ">
+                              Broadcasting Station or Studio with Towers (Radio or Television)
+                              </td>
+                           <td style="vertical-align:middle; " class=" top ">
+                              —
+                              </td>
+                           <td style="vertical-align:middle; background-color: LightGray; " class="hasbg top ">
+                              —
+                              </td>
+                           <td style="vertical-align:middle; " class=" top ">
+                              1:300 of studio space
+                              </td>
+                        </tr>
+                        <tr>
+                           <td style="vertical-align:middle; background-color: MediumTurquoise; " class="hasbg top ">
+                              Communication Antenna (Over 25 feet in height)
+                              </td>
+                           <td style="vertical-align:middle; " class=" top ">
+                              NA
+                              </td>
+                           <td style="vertical-align:middle; background-color: LightGray; " class="hasbg top ">
+                              NA
+                              </td>
+                           <td style="vertical-align:middle; " class=" top ">
+                              NA
+                              </td>
+                        </tr>
+                        <tr>
+                           <td style="vertical-align:middle; background-color: MediumTurquoise; " class="hasbg top ">
+                              Communication Antenna (Up to 25 feet in height)
+                              </td>
+                           <td style="vertical-align:middle; " class=" top ">
+                              NA
+                              </td>
+                           <td style="vertical-align:middle; background-color: LightGray; " class="hasbg top ">
+                              NA
+                              </td>
+                           <td style="vertical-align:middle; " class=" top ">
+                              NA
+                              </td>
+                        </tr>
+                        <tr>
+                           <td style="vertical-align:middle; background-color: MediumTurquoise; " class="hasbg top ">
+                              Communication Support Structure
+                              </td>
+                           <td style="vertical-align:middle; " class=" top ">
+                              NA
+                              </td>
+                           <td style="vertical-align:middle; background-color: LightGray; " class="hasbg top ">
+                              NA
+                              </td>
+                           <td style="vertical-align:middle; " class=" top ">
+                              NA
+                              </td>
+                        </tr>
+                        <tr>
+                           <td style="vertical-align:middle; background-color: MediumTurquoise; " class="hasbg top ">
+                              Contractor's Yard
+                              </td>
+                           <td style="vertical-align:middle; " class=" top ">
+                              —
+                              </td>
+                           <td style="vertical-align:middle; background-color: LightGray; " class="hasbg top ">
+                              —
+                              </td>
+                           <td style="vertical-align:middle; " class=" top ">
+                              1:300 of office area; minimum 1 parking space
+                              </td>
+                        </tr>
+                        <tr>
+                           <td style="vertical-align:middle; background-color: MediumTurquoise; " class="hasbg top ">
+                              Helipad or Helistop
+                              </td>
+                           <td style="vertical-align:middle; " class=" top ">
+                              —
+                              </td>
+                           <td style="vertical-align:middle; background-color: LightGray; " class="hasbg top ">
+                              —
+                              </td>
+                           <td style="vertical-align:middle; " class=" top ">
+                              NA
+                              </td>
+                        </tr>
+                        <tr>
+                           <td style="vertical-align:middle; background-color: MediumTurquoise; " class="hasbg top ">
+                              Gas and Oil Drilling Related Use
+                              </td>
+                           <td style="vertical-align:middle; " class=" top ">
+                              NA
+                              </td>
+                           <td style="vertical-align:middle; background-color: LightGray; " class="hasbg top ">
+                              —
+                              </td>
+                           <td style="vertical-align:middle; " class=" top ">
+                              NA
+                              </td>
+                        </tr>
+                        <tr>
+                           <td style="vertical-align:middle; background-color: MediumTurquoise; " class="hasbg top ">
+                              Private Utility Plant or Substation
+                              </td>
+                           <td style="vertical-align:middle; " colspan="3" class=" top ">
+                              1:300 of office area; minimum 1 parking space
+                              </td>
+                        </tr>
+                        <tr>
+                           <td style="vertical-align:middle; background-color: MediumTurquoise; " colspan="4" class="hasbgcenter  top ">
+                              <span class="bold">VEHICLE AND RELATED USES</span>
+                              </td>
+                        </tr>
+                        <tr>
+                           <td style="vertical-align:middle; background-color: MediumTurquoise; " class="hasbg top ">
+                              Auction yard
+                              </td>
+                           <td style="vertical-align:middle; " class=" top ">
+                              —
+                              </td>
+                           <td style="vertical-align:middle; background-color: LightGray; " class="hasbg top ">
+                              —
+                              </td>
+                           <td style="vertical-align:middle; " class=" top ">
+                              1:300 of office/sales area and 1 parking space for every tow truck
+                              </td>
+                        </tr>
+                        <tr>
+                           <td style="vertical-align:middle; background-color: MediumTurquoise; " class="hasbg top ">
+                              Automobile Repair (Major)
+                              </td>
+                           <td style="vertical-align:middle; " class=" top ">
+                              —
+                              </td>
+                           <td style="vertical-align:middle; background-color: LightGray; " class="hasbg top ">
+                              —
+                              </td>
+                           <td style="vertical-align:middle; " class=" top ">
+                              1:300 of office area and 1 parking space for every service bay
+                              </td>
+                        </tr>
+                        <tr>
+                           <td style="vertical-align:middle; background-color: MediumTurquoise; " class="hasbg top ">
+                              Automobile Repair (Minor)
+                              </td>
+                           <td style="vertical-align:middle; " class=" top ">
+                              —
+                              </td>
+                           <td style="vertical-align:middle; background-color: LightGray; " class="hasbg top ">
+                              —
+                              </td>
+                           <td style="vertical-align:middle; " class=" top ">
+                              1:300 of office area and 1 parking space for every service bay
+                              </td>
+                        </tr>
+                        <tr>
+                           <td style="vertical-align:middle; background-color: MediumTurquoise; " class="hasbg top ">
+                              Automobile Sales and Leasing
+                              </td>
+                           <td style="vertical-align:middle; " class=" top ">
+                              —
+                              </td>
+                           <td style="vertical-align:middle; background-color: LightGray; " class="hasbg top ">
+                              —
+                              </td>
+                           <td style="vertical-align:middle; " class=" top ">
+                              1:500 of office/sales area and 1 parking space for every service bay
+                              </td>
+                        </tr>
+                        <tr>
+                           <td style="vertical-align:middle; background-color: MediumTurquoise; " class="hasbg top ">
+                              Automobile Salvage
+                              </td>
+                           <td style="vertical-align:middle; " class=" top ">
+                              —
+                              </td>
+                           <td style="vertical-align:middle; background-color: LightGray; " class="hasbg top ">
+                              —
+                              </td>
+                           <td style="vertical-align:middle; " class=" top ">
+                              1:300 of office area and 1 parking space for every tow truck
+                              </td>
+                        </tr>
+                        <tr>
+                           <td style="vertical-align:middle; background-color: MediumTurquoise; " class="hasbg top ">
+                              Boat Sales and Service
+                              </td>
+                           <td style="vertical-align:middle; " class=" top ">
+                              —
+                              </td>
+                           <td style="vertical-align:middle; background-color: LightGray; " class="hasbg top ">
+                              —
+                              </td>
+                           <td style="vertical-align:middle; " class=" top ">
+                              1:500 of office/sales area and 1 parking space for every service bay
+                              </td>
+                        </tr>
+                        <tr>
+                           <td style="vertical-align:middle; background-color: MediumTurquoise; " class="hasbg top ">
+                              Car Wash
+                              </td>
+                           <td style="vertical-align:middle; " class=" top ">
+                              —
+                              </td>
+                           <td style="vertical-align:middle; background-color: LightGray; " class="hasbg top ">
+                              —
+                              </td>
+                           <td style="vertical-align:middle; " class=" top ">
+                              1 parking space for every self-service bay and 1 parking space for every detailing
+                              bay
+                              </td>
+                        </tr>
+                        <tr>
+                           <td style="vertical-align:middle; background-color: MediumTurquoise; " class="hasbg top ">
+                              Farm Implement Sales and Service
+                              </td>
+                           <td style="vertical-align:middle; " class=" top ">
+                              —
+                              </td>
+                           <td style="vertical-align:middle; background-color: LightGray; " class="hasbg top ">
+                              —
+                              </td>
+                           <td style="vertical-align:middle; " class=" top ">
+                              Indoor sales and display: 1:500
+                              </td>
+                        </tr>
+                        <tr>
+                           <td style="vertical-align:middle; background-color: MediumTurquoise; " class="hasbg top ">
+                              Outdoor sales and display: 1:1000
+                              </td>
+                           <td style="vertical-align:middle; " class=" top "></td>
+                           <td style="vertical-align:middle; background-color: LightGray; " class="hasbg top "></td>
+                           <td style="vertical-align:middle; " class=" top ">
+                              1:100
+                              </td>
+                        </tr>
+                        <tr>
+                           <td style="vertical-align:middle; background-color: MediumTurquoise; " class="hasbg top ">
+                              Gasoline Service Station
+                              </td>
+                           <td style="vertical-align:middle; " class=" top ">
+                              —
+                              </td>
+                           <td style="vertical-align:middle; background-color: LightGray; " class="hasbg top ">
+                              1:300
+                              </td>
+                           <td style="vertical-align:middle; " class=" top ">
+                              1:300
+                              </td>
+                        </tr>
+                        <tr>
+                           <td style="vertical-align:middle; background-color: MediumTurquoise; " class="hasbg top ">
+                              Heavy Equipment Sales/Rental and Service
+                              </td>
+                           <td style="vertical-align:middle; " class=" top ">
+                              —
+                              </td>
+                           <td style="vertical-align:middle; background-color: LightGray; " class="hasbg top ">
+                              —
+                              </td>
+                           <td style="vertical-align:middle; " class=" top ">
+                              Indoor sales and display: 1:500
+                              </td>
+                        </tr>
+                        <tr>
+                           <td style="vertical-align:middle; background-color: MediumTurquoise; " class="hasbg top ">
+                              Junk Yard
+                              </td>
+                           <td style="vertical-align:middle; " class=" top ">
+                              —
+                              </td>
+                           <td style="vertical-align:middle; background-color: LightGray; " class="hasbg top ">
+                              —
+                              </td>
+                           <td style="vertical-align:middle; " class=" top ">
+                              1:300 of office area and 1 parking space for every tow truck
+                              </td>
+                        </tr>
+                        <tr>
+                           <td style="vertical-align:middle; background-color: MediumTurquoise; " class="hasbg top ">
+                              Manufactured Home Display and Sale
+                              </td>
+                           <td style="vertical-align:middle; " class=" top ">
+                              —
+                              </td>
+                           <td style="vertical-align:middle; background-color: LightGray; " class="hasbg top ">
+                              —
+                              </td>
+                           <td style="vertical-align:middle; " class=" top ">
+                              1:300 of office/sales area
+                              </td>
+                        </tr>
+                        <tr>
+                           <td style="vertical-align:middle; background-color: MediumTurquoise; " class="hasbg top ">
+                              Motor Freight Terminal
+                              </td>
+                           <td style="vertical-align:middle; " class=" top ">
+                              —
+                              </td>
+                           <td style="vertical-align:middle; background-color: LightGray; " class="hasbg top ">
+                              —
+                              </td>
+                           <td style="vertical-align:middle; " class=" top ">
+                              1:300 of office area
+                              </td>
+                        </tr>
+                        <tr>
+                           <td style="vertical-align:middle; background-color: MediumTurquoise; " class="hasbg top ">
+                              Motorcycle Sales and Service
+                              </td>
+                           <td style="vertical-align:middle; " class=" top "></td>
+                           <td style="vertical-align:middle; background-color: LightGray; " class="hasbg top "></td>
+                           <td style="vertical-align:middle; " class=" top ">
+                              1:500 of indoor sales and display 1:500 of office/sales area and 1 parking space for
+                              every service bay
+                              </td>
+                        </tr>
+                        <tr>
+                           <td style="vertical-align:middle; background-color: MediumTurquoise; " class="hasbg top ">
+                              Parking Garage or Structure
+                              </td>
+                           <td style="vertical-align:middle; " class=" top ">
+                              —
+                              </td>
+                           <td style="vertical-align:middle; background-color: LightGray; " class="hasbg top ">
+                              NA
+                              </td>
+                           <td style="vertical-align:middle; " class=" top ">
+                              —
+                              </td>
+                        </tr>
+                        <tr>
+                           <td style="vertical-align:middle; background-color: MediumTurquoise; " class="hasbg top ">
+                              Recreational Vehicle Sales and Service
+                              </td>
+                           <td style="vertical-align:middle; " class=" top ">
+                              —
+                              </td>
+                           <td style="vertical-align:middle; background-color: LightGray; " class="hasbg top ">
+                              —
+                              </td>
+                           <td style="vertical-align:middle; " class=" top ">
+                              1:300 of office area
+                              </td>
+                        </tr>
+                        <tr>
+                           <td style="vertical-align:middle; background-color: MediumTurquoise; " class="hasbg top ">
+                              Recreational Vehicle Storage
+                              </td>
+                           <td style="vertical-align:middle; " class=" top ">
+                              —
+                              </td>
+                           <td style="vertical-align:middle; background-color: LightGray; " class="hasbg top ">
+                              —
+                              </td>
+                           <td style="vertical-align:middle; " class=" top ">
+                              NA
+                              </td>
+                        </tr>
+                        <tr>
+                           <td style="vertical-align:middle; background-color: MediumTurquoise; " class="hasbg top ">
+                              Truck Parking Lot
+                              </td>
+                           <td style="vertical-align:middle; " class=" top ">
+                              —
+                              </td>
+                           <td style="vertical-align:middle; background-color: LightGray; " class="hasbg top ">
+                              —
+                              </td>
+                           <td style="vertical-align:middle; " class=" top ">
+                              1:300 of office area and 1 parking space for every tow truck
+                              </td>
+                        </tr>
+                        <tr>
+                           <td style="vertical-align:middle; background-color: MediumTurquoise; " class="hasbg top ">
+                              Wrecker Service
+                              </td>
+                           <td style="vertical-align:middle; " class=" top ">
+                              —
+                              </td>
+                           <td style="vertical-align:middle; background-color: LightGray; " class="hasbg top ">
+                              —
+                              </td>
+                           <td style="vertical-align:middle; " class=" top ">
+                              1:500 of office/sales area and 1 parking space for every service bay
+                              </td>
+                        </tr>
+                        <tr>
+                           <td style="vertical-align:middle; background-color: MediumTurquoise; " colspan="4" class="hasbgcenter  top ">
+                              <span class="bold">WAREHOUSE AND STORAGE USES</span>
+                              </td>
+                        </tr>
+                        <tr>
+                           <td style="vertical-align:middle; background-color: MediumTurquoise; " class="hasbg top ">
+                              Outside Storage (Principal Use)
+                              </td>
+                           <td style="vertical-align:middle; " class=" top ">
+                              —
+                              </td>
+                           <td style="vertical-align:middle; background-color: LightGray; " class="hasbg top ">
+                              —
+                              </td>
+                           <td style="vertical-align:middle; " class=" top ">
+                              1:300 of office area; minimum 1 parking space
+                              </td>
+                        </tr>
+                        <tr>
+                           <td style="vertical-align:middle; background-color: MediumTurquoise; " class="hasbg top ">
+                              Self-Service Storage Facility
+                              </td>
+                           <td style="vertical-align:middle; " class=" top ">
+                              —
+                              </td>
+                           <td style="vertical-align:middle; background-color: LightGray; " class="hasbg top ">
+                              —
+                              </td>
+                           <td style="vertical-align:middle; " class=" top ">
+                              1 parking space for every 30 storage units
+                              </td>
+                        </tr>
+                        <tr>
+                           <td style="vertical-align:middle; background-color: MediumTurquoise; " class="hasbg top ">
+                              Storage Warehouse with Outside Storage Yards
+                              </td>
+                           <td style="vertical-align:middle; " class=" top ">
+                              —
+                              </td>
+                           <td style="vertical-align:middle; background-color: LightGray; " class="hasbg top ">
+                              —
+                              </td>
+                           <td style="vertical-align:middle; " class=" top ">
+                              1:300 of office space and 1:1000 of warehouse and storage area
+                              </td>
+                        </tr>
+                        <tr>
+                           <td style="vertical-align:middle; background-color: MediumTurquoise; " class="hasbg top ">
+                              Warehouse Distribution Facility
+                              </td>
+                           <td style="vertical-align:middle; " class=" top ">
+                              —
+                              </td>
+                           <td style="vertical-align:middle; background-color: LightGray; " class="hasbg top ">
+                              —
+                              </td>
+                           <td style="vertical-align:middle; " class=" top ">
+                              1:300 of office space and 1:1000 of warehouse area
+                              </td>
+                        </tr>
+                        <tr>
+                           <td style="vertical-align:middle; background-color: MediumTurquoise; " class="hasbg top ">
+                              Wholesale Establishment
+                              </td>
+                           <td style="vertical-align:middle; " class=" top ">
+                              —
+                              </td>
+                           <td style="vertical-align:middle; background-color: LightGray; " class="hasbg top ">
+                              —
+                              </td>
+                           <td style="vertical-align:middle; " class=" top ">
+                              1:300 pf office space and 1:1000 of warehouse area
+                              </td>
+                        </tr>
+                        <tr>
+                           <td style="vertical-align:middle; font-size:8pt; " colspan="4" class=" top ">
+                              <span class="ital">*See Article 7, Section 3.B.3</span>
+                              </td>
+                        </tr>
+                     </tbody>
+                  </table>

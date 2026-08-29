@@ -1,0 +1,225 @@
+Zoning of Proposed New Development or Redevelopment:
+  RC, RU, RS-1 thru RS-4 2:
+    Zoning of Existing Development:
+      RC, RU, RS-1 thru RS-4: '-'
+      RD: '-'
+      RA-1: '-'
+      RA-2: '-'
+      N-O: '-'
+      MU-1: '-'
+      C-O: '-'
+      C-1: '-'
+      C-2: '-'
+      C-3: '-'
+      M-1: '-'
+      M-2: '-'
+      PUD Res: '-'
+      PUD Non Res: '-'
+  RD:
+    Zoning of Existing Development:
+      RC, RU, RS-1 thru RS-4: '-'
+      RD: '-'
+      RA-1: '-'
+      RA-2: '-'
+      N-O: '-'
+      MU-1: '-'
+      C-O: '-'
+      C-1: '-'
+      C-2: '-'
+      C-3: '-'
+      M-1: '-'
+      M-2: '-'
+      PUD Res: '-'
+      PUD Non Res: '-'
+  RA-1:
+    Zoning of Existing Development:
+      RC, RU, RS-1 thru RS-4: B
+      RD: A
+      RA-1: '-'
+      RA-2: '-'
+      N-O: '-'
+      MU-1: '-'
+      C-O: '-'
+      C-1: '-'
+      C-2: '-'
+      C-3: '-'
+      M-1: '-'
+      M-2: '-'
+      PUD Res: '-'
+      PUD Non Res: '-'
+  RA-2:
+    Zoning of Existing Development:
+      RC, RU, RS-1 thru RS-4: B
+      RD: A
+      RA-1: '-'
+      RA-2: '-'
+      N-O: '-'
+      MU-1: '-'
+      C-O: '-'
+      C-1: '-'
+      C-2: '-'
+      C-3: '-'
+      M-1: '-'
+      M-2: '-'
+      PUD Res: '-'
+      PUD Non Res: '-'
+  N-O:
+    Zoning of Existing Development:
+      RC, RU, RS-1 thru RS-4: B
+      RD: B
+      RA-1: B
+      RA-2: B
+      N-O: '-'
+      MU-1: '-'
+      C-O: '-'
+      C-1: '-'
+      C-2: '-'
+      C-3: '-'
+      M-1: '-'
+      M-2: '-'
+      PUD Res: '-'
+      PUD Non Res: '-'
+  MU-1:
+    Zoning of Existing Development:
+      RC, RU, RS-1 thru RS-4: B
+      RD: B
+      RA-1: '-'
+      RA-2: '-'
+      N-O: '-'
+      MU-1: '-'
+      C-O: '-'
+      C-1: '-'
+      C-2: '-'
+      C-3: '-'
+      M-1: '-'
+      M-2: '-'
+      PUD Res: '-'
+      PUD Non Res: '-'
+  C-O:
+    Zoning of Existing Development:
+      RC, RU, RS-1 thru RS-4: B
+      RD: B
+      RA-1: B
+      RA-2: B
+      N-O: B
+      MU-1: '-'
+      C-O: '-'
+      C-1: '-'
+      C-2: '-'
+      C-3: '-'
+      M-1: '-'
+      M-2: '-'
+      PUD Res: '-'
+      PUD Non Res: '-'
+  C-1:
+    Zoning of Existing Development:
+      RC, RU, RS-1 thru RS-4: B
+      RD: B
+      RA-1: B
+      RA-2: B
+      N-O: B
+      MU-1: '-'
+      C-O: '-'
+      C-1: '-'
+      C-2: '-'
+      C-3: '-'
+      M-1: '-'
+      M-2: '-'
+      PUD Res: '-'
+      PUD Non Res: '-'
+  C-2:
+    Zoning of Existing Development:
+      RC, RU, RS-1 thru RS-4: C
+      RD: C
+      RA-1: B
+      RA-2: B
+      N-O: B
+      MU-1: '-'
+      C-O: '-'
+      C-1: '-'
+      C-2: '-'
+      C-3: '-'
+      M-1: '-'
+      M-2: '-'
+      PUD Res: '-'
+      PUD Non Res: '-'
+  C-3:
+    Zoning of Existing Development:
+      RC, RU, RS-1 thru RS-4: C
+      RD: C
+      RA-1: B
+      RA-2: B
+      N-O: B
+      MU-1: '-'
+      C-O: '-'
+      C-1: '-'
+      C-2: '-'
+      C-3: '-'
+      M-1: '-'
+      M-2: '-'
+      PUD Res: '-'
+      PUD Non Res: '-'
+  M-1:
+    Zoning of Existing Development:
+      RC, RU, RS-1 thru RS-4: C
+      RD: C
+      RA-1: C
+      RA-2: C
+      N-O: C
+      MU-1: '-'
+      C-O: A
+      C-1: A
+      C-2: A
+      C-3: A
+      M-1: '-'
+      M-2: '-'
+      PUD Res: '-'
+      PUD Non Res: '-'
+  M-2:
+    Zoning of Existing Development:
+      RC, RU, RS-1 thru RS-4: C
+      RD: C
+      RA-1: C
+      RA-2: C
+      N-O: C
+      MU-1: '-'
+      C-O: A
+      C-1: A
+      C-2: A
+      C-3: A
+      M-1: '-'
+      M-2: '-'
+      PUD Res: '-'
+      PUD Non Res: '-'
+  PUD Res:
+    Zoning of Existing Development:
+      RC, RU, RS-1 thru RS-4: '-'
+      RD: '-'
+      RA-1: '-'
+      RA-2: '-'
+      N-O: B
+      MU-1: '-'
+      C-O: B
+      C-1: B
+      C-2: B
+      C-3: B
+      M-1: B
+      M-2: B
+      PUD Res: '-'
+      PUD Non Res: '-'
+  PUD Non-Res:
+    Zoning of Existing Development:
+      RC, RU, RS-1 thru RS-4: B
+      RD: B
+      RA-1: B
+      RA-2: B
+      N-O: B
+      MU-1: '-'
+      C-O: '-'
+      C-1: '-'
+      C-2: '-'
+      C-3: '-'
+      M-1: '-'
+      M-2: '-'
+      PUD Res: B
+      PUD Non Res: '-'

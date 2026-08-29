@@ -1,0 +1,527 @@
+EXHIBIT VIII.1.4-1 - MINIMUM PARKING REQUIREMENT | MINIMUM PARKING REQUIREMENT (On-site parking is based on square footage unless otherwise noted):
+  USES:
+    ACCESSORY USES:
+      Accessory Building:
+        Residential Zoning Districts: NA
+        Mixed Use Zoning Districts: NA
+        Non-Residential Zoning Districts: NA
+      Accessory Dwelling Unit (Commercial):
+        Residential Zoning Districts: —
+        Mixed Use Zoning Districts: 1 space per every dwelling unit
+        Non-Residential Zoning Districts: 1 space per every dwelling unit
+      Accessory Structure:
+        Residential Zoning Districts: NA
+        Mixed Use Zoning Districts: NA
+        Non-Residential Zoning Districts: NA
+      Accessory Use:
+        Residential Zoning Districts: NA
+        Mixed Use Zoning Districts: NA
+        Non-Residential Zoning Districts: Same as principal use
+      Backyard Cottage:
+        Residential Zoning Districts: 1 parking space for every dwelling unit
+        Mixed Use Zoning Districts: 1 parking space for every dwelling unit
+        Non-Residential Zoning Districts: —
+      Carport:
+        Residential Zoning Districts: NA
+        Mixed Use Zoning Districts: NA
+        Non-Residential Zoning Districts: NA
+      Cemetery or Columbarium when Accessory to a Religious Facility:
+        Residential Zoning Districts: NA
+        Mixed Use Zoning Districts: NA
+        Non-Residential Zoning Districts: NA
+      Day Care, In-Home:
+        Residential Zoning Districts: NA
+        Mixed Use Zoning Districts: NA
+        Non-Residential Zoning Districts: —
+      Home Occupation:
+        Residential Zoning Districts: NA
+        Mixed Use Zoning Districts: NA
+        Non-Residential Zoning Districts: —
+      Outside Storage (Accessory):
+        Residential Zoning Districts: —
+        Mixed Use Zoning Districts: —
+        Non-Residential Zoning Districts: NA
+      Solar Energy System:
+        Residential Zoning Districts: NA
+        Mixed Use Zoning Districts: NA
+        Non-Residential Zoning Districts: NA
+      Wind Energy Conversion System:
+        Residential Zoning Districts: NA
+        Mixed Use Zoning Districts: NA
+        Non-Residential Zoning Districts: NA
+    AGRICULTURAL AND ANIMAL USES:
+      Agricultural, Farming, Ranching:
+        Residential Zoning Districts: NA
+        Mixed Use Zoning Districts: —
+        Non-Residential Zoning Districts: —
+      Animal Care (Indoor):
+        Residential Zoning Districts: —
+        Mixed Use Zoning Districts: 1:300
+        Non-Residential Zoning Districts: 1:300
+      Animal Care (Outdoor Pens or Runs):
+        Residential Zoning Districts: —
+        Mixed Use Zoning Districts: 1:300
+        Non-Residential Zoning Districts: 1:300
+      Veterinarian (Indoor Pens):
+        Residential Zoning Districts: —
+        Mixed Use Zoning Districts: 1:300
+        Non-Residential Zoning Districts: 1:300
+      Veterinarian (Outdoor Pens or Runs):
+        Residential Zoning Districts: —
+        Mixed Use Zoning Districts: 1:300
+        Non-Residential Zoning Districts: 1:300
+    EDUCATIONAL, INSTITUTIONAL, PUBLIC AND SPECIAL USES:
+      Assisted Living Facility:
+        Residential Zoning Districts: 1 parking space for every 2 beds or dwelling units
+        Mixed Use Zoning Districts: —
+        Non-Residential Zoning Districts: 1 parking space for every 2 beds or dwelling units
+      Business or Commercial School or other Institution of Education:
+        Residential Zoning Districts: —
+        Mixed Use Zoning Districts: 1 parking space for every 3 students, teachers, and staff
+        Non-Residential Zoning Districts: 1 parking space for every 3 students, teachers, and staff
+      Cemetery, Columbarium, Mausoleum:
+        Residential Zoning Districts: 1:300 of space used for funeral or other gathering space.
+        Mixed Use Zoning Districts: 1:300 of space used for funeral or other gathering space.
+        Non-Residential Zoning Districts: 1:300 of space used for funeral or other gathering space.
+      Chapter 748 Operation:
+        Residential Zoning Districts: —
+        Mixed Use Zoning Districts: —
+        Non-Residential Zoning Districts: NA
+      Community Center:
+        Residential Zoning Districts: —
+        Mixed Use Zoning Districts: —
+        Non-Residential Zoning Districts: 1:300 of office area and 1 parking space for every 4 seats in assembly areas
+      Continuing Care Facility:
+        Residential Zoning Districts: 1 parking space for every 2 beds dedicated for long-term care; 1 parking space for every 2 or dwelling units dedicated to assisted-living; 1.2 parking spaces for every dwelling unit dedicated to independent-living
+        Mixed Use Zoning Districts: —
+        Non-Residential Zoning Districts: 1 parking space for every 2 beds dedicated for long-term care; 1 parking space for every 2 or dwelling units dedicated to assisted-living; 1.2 parking spaces for every dwelling unit dedicated to independent-living
+      Country Club or Golf Course:
+        Residential Zoning Districts: 8 parking spaces for every golf course hole
+        Mixed Use Zoning Districts: —
+        Non-Residential Zoning Districts: —
+      Criminal or Penal Institution:
+        Residential Zoning Districts: —
+        Mixed Use Zoning Districts: —
+        Non-Residential Zoning Districts: 1:300 of office area
+      Governmental Office and Service:
+        Residential Zoning Districts: 1:300
+        Mixed Use Zoning Districts: 1:300
+        Non-Residential Zoning Districts: 1:300
+      Hospital:
+        Residential Zoning Districts: —
+        Mixed Use Zoning Districts: —
+        Non-Residential Zoning Districts: Office Area 1:300 and 1 parking space for every bed and
+      Landfill Operation and Accessory Use:
+        Residential Zoning Districts: —
+        Mixed Use Zoning Districts: —
+        Non-Residential Zoning Districts: 1:300 of office area
+      Long Term Care Facility:
+        Residential Zoning Districts: 1 parking space for every 2 beds
+        Mixed Use Zoning Districts: —
+        Non-Residential Zoning Districts: 1 parking space for every 2 beds
+      Private Recreation Area/Facility:
+        Residential Zoning Districts: 1:300
+        Mixed Use Zoning Districts: —
+        Non-Residential Zoning Districts: 1 parking space for every 4 seats
+      Public Park and Playground:
+        Residential Zoning Districts: NA
+        Mixed Use Zoning Districts: NA
+        Non-Residential Zoning Districts: NA
+      Public Utility Plant or Substation:
+        Residential Zoning Districts: 1:300 of office area; minimum 1 parking space
+        Mixed Use Zoning Districts: 1:300 of office area; minimum 1 parking space
+        Non-Residential Zoning Districts: 1 parking space for every employee; minimum 1 parking space
+      Religious Facility:
+        Residential Zoning Districts: 1 parking space for every 3 seats or worship spaces in main assembly area
+        Mixed Use Zoning Districts: 1 parking space for every 3 seats or worship spaces in main assembly area
+        Non-Residential Zoning Districts: 1 parking space for every 3 seats or worship spaces in main assembly area
+      School, Private:
+        Residential Zoning Districts: Elementary and Middle School - 1 parking space for each classroom and 1 parking space for every 15 students, based on design capacity; High School - 1 parking space for every 3 students, faculty and staff, based on design capacity
+        Mixed Use Zoning Districts: Elementary and Middle School - 1 parking space for each classroom and 1 parking space for every 15 students, based on design capacity; High School - 1 parking space for every 3 students, faculty and staff, based on design capacity
+        Non-Residential Zoning Districts: Elementary and Middle School - 1 parking space for each classroom and 1 parking space for every 15 students, based on design capacity; High School - 1 parking space for every 3 students, faculty and staff, based on design capacity
+      School, Public or Parochial:
+        Residential Zoning Districts: Elementary and Middle School - 1 parking space for each classroom and 1 parking space for every 15 students, based on design capacity; High School - 1 parking space for every 3 students, faculty and staff, based on design capacity
+        Mixed Use Zoning Districts: Elementary and Middle School - 1 parking space for each classroom and 1 parking space for every 15 students, based on design capacity; High School - 1 parking space for every 3 students, faculty and staff, based on design capacity
+        Non-Residential Zoning Districts: Elementary and Middle School - 1 parking space for each classroom and 1 parking space for every 15 students, based on design capacity; High School - 1 parking space for every 3 students, faculty and staff, based on design capacity
+    MANUFACTURING AND INDUSTRIAL USES:
+      Asphalt/Concrete Batch Plant (Permanent):
+        Residential Zoning Districts: —
+        Mixed Use Zoning Districts: —
+        Non-Residential Zoning Districts: 1:1,000
+      Brewery, Distillery, or Winery:
+        Residential Zoning Districts: —
+        Mixed Use Zoning Districts: 1:1000 of manufacturing space; 1:300 of tasting rooms
+        Non-Residential Zoning Districts: 1:1000 of manufacturing space; 1:300 of tasting rooms
+      Cleaning, Laundry and Textile Processing Plant:
+        Residential Zoning Districts: —
+        Mixed Use Zoning Districts: —
+        Non-Residential Zoning Districts: 1:1,000
+      Laboratory-Scientific Research and Testing:
+        Residential Zoning Districts: —
+        Mixed Use Zoning Districts: —
+        Non-Residential Zoning Districts: 1:300
+      Manufacturing, Light Intensity:
+        Residential Zoning Districts: —
+        Mixed Use Zoning Districts: —
+        Non-Residential Zoning Districts: 1:1,000
+      Manufacturing, Medium Intensity:
+        Residential Zoning Districts: —
+        Mixed Use Zoning Districts: —
+        Non-Residential Zoning Districts: 1:1,000
+      Manufacturing, Heavy Intensity:
+        Residential Zoning Districts: —
+        Mixed Use Zoning Districts: —
+        Non-Residential Zoning Districts: 1:1,000
+      Mining Activity:
+        Residential Zoning Districts: —
+        Mixed Use Zoning Districts: —
+        Non-Residential Zoning Districts: 1:300 of office area
+      Recycling Facility:
+        Residential Zoning Districts: —
+        Mixed Use Zoning Districts: —
+        Non-Residential Zoning Districts: 1:300 of office area
+    OFFICE AND PROFESSIONAL USES:
+      Medical Office and Clinic:
+        Residential Zoning Districts: —
+        Mixed Use Zoning Districts: 1:300
+        Non-Residential Zoning Districts: 1:300
+      Professional and Administrative Office:
+        Residential Zoning Districts: —
+        Mixed Use Zoning Districts: 1:300
+        Non-Residential Zoning Districts: 1:300
+    RESIDENTIAL USES:
+      Dormitory for Students:
+        Residential Zoning Districts: 1 parking space for every 2 beds
+        Mixed Use Zoning Districts: —
+        Non-Residential Zoning Districts: —
+      Dwelling, Two-Family (Duplex):
+        Residential Zoning Districts: 1 parking space in a residential garage and 2 parking spaces in a residential driveway; visitor
+        Mixed Use Zoning Districts: 1 parking space in a residential garage and 2 parking spaces in a residential driveway parking per Article VIII.1.3.D
+        Non-Residential Zoning Districts: —
+      Household Care Facility:
+        Residential Zoning Districts: 1 parking space in a residential garage and 2 parking spaces in a residential driveway
+        Mixed Use Zoning Districts: 1 parking space in a residential garage and 2 parking spaces in a residential driveway
+        Non-Residential Zoning Districts: —
+      Independent Living Facility:
+        Residential Zoning Districts: 1.2 parking spaces for every dwelling unit
+        Mixed Use Zoning Districts: —
+        Non-Residential Zoning Districts: 1.2 parking spaces for every dwelling unit
+      Manufactured Home:
+        Residential Zoning Districts: 2 parking spaces for every dwelling unit
+        Mixed Use Zoning Districts: —
+        Non-Residential Zoning Districts: —
+      Manufactured Home Community:
+        Residential Zoning Districts: 2 parking spaces for every dwelling unit
+        Mixed Use Zoning Districts: —
+        Non-Residential Zoning Districts: —
+      Multi-Family Dwelling:
+        Residential Zoning Districts: 2 parking spaces for every dwelling unit
+        Mixed Use Zoning Districts: 1.6 parking spaces for every dwelling unit
+        Non-Residential Zoning Districts: 2 parking spaces for every dwelling unit
+      Single-Family Attached Dwelling:
+        Residential Zoning Districts: 1 parking space in a residential garage and 2 parking spaces in a residential driveway; visitor parking per Article VIII.1.4A
+        Mixed Use Zoning Districts: 1 parking space in a residential garage and 2 parking spaces in a residential driveway; visitor parking per Article VIII.1.4A
+        Non-Residential Zoning Districts: —
+      Single-Family Detached Dwelling:
+        Residential Zoning Districts: 1 parking space in a residential garage space and 2 parking spaces in a residential driveway; visitor parking per Article VIII.1.4.A
+        Mixed Use Zoning Districts: 1 parking space in a residential garage space and 2 parking spaces in a residential driveway; visitor parking per Article VIII.1.4.A
+        Non-Residential Zoning Districts: —
+    RETAIL USES:
+      Automobile Parts Sales:
+        Residential Zoning Districts: —
+        Mixed Use Zoning Districts: —
+        Non-Residential Zoning Districts: 1:300
+      Bakery/Food Production with Retail Sales:
+        Residential Zoning Districts: —
+        Mixed Use Zoning Districts: 1:300
+        Non-Residential Zoning Districts: 1:300
+      Bar:
+        Residential Zoning Districts: —
+        Mixed Use Zoning Districts: 1:100
+        Non-Residential Zoning Districts: 1:100
+      Building Material Sales, Including Lumber Yard:
+        Residential Zoning Districts: —
+        Mixed Use Zoning Districts: 1:300 of retail sales area; 1:1000 of outside storage area
+        Non-Residential Zoning Districts: 1:300 of retail sales area; 1:1000 of outside storage area
+      Food Truck Park:
+        Residential Zoning Districts: —
+        Mixed Use Zoning Districts: NA
+        Non-Residential Zoning Districts: NA
+      Kiosk:
+        Residential Zoning Districts: —
+        Mixed Use Zoning Districts: 1:100
+        Non-Residential Zoning Districts: 1:100
+      Pawn Shop:
+        Residential Zoning Districts: —
+        Mixed Use Zoning Districts: 1:100
+        Non-Residential Zoning Districts: 1:100
+      Plant Nursery Retail (indoor):
+        Residential Zoning Districts: —
+        Mixed Use Zoning Districts: 1:100
+        Non-Residential Zoning Districts: 1:100
+      Plant Nursery Retail (outdoor):
+        Residential Zoning Districts: —
+        Mixed Use Zoning Districts: 1:100
+        Non-Residential Zoning Districts: 1:100
+      Grocery Store:
+        Residential Zoning Districts: —
+        Mixed Use Zoning Districts: 1:300
+        Non-Residential Zoning Districts: 1:300
+      Restaurant*:
+        Residential Zoning Districts: —
+        Mixed Use Zoning Districts: 1:100
+        Non-Residential Zoning Districts: 1:100
+      Restaurant, Stand Alone*:
+        Residential Zoning Districts: —
+        Mixed Use Zoning Districts: 1:100
+        Non-Residential Zoning Districts: 1:100
+      Retail Store or Shop:
+        Residential Zoning Districts: —
+        Mixed Use Zoning Districts: 1:300
+        Non-Residential Zoning Districts: 1:300
+    SERVICE USES:
+      Bank or Financial Institution:
+        Residential Zoning Districts: —
+        Mixed Use Zoning Districts: 1:300
+        Non-Residential Zoning Districts: 1:300
+      Bed and Breakfast:
+        Residential Zoning Districts: —
+        Mixed Use Zoning Districts: 1 parking space for every guest room and 1 parking space for the operator
+        Non-Residential Zoning Districts: —
+      Beverage Container Recycling Collection Unit:
+        Residential Zoning Districts: —
+        Mixed Use Zoning Districts: —
+        Non-Residential Zoning Districts: 2 parking spaces
+      Commercial Amusement (Indoor):
+        Residential Zoning Districts: —
+        Mixed Use Zoning Districts: 1 parking space per every 3 people of design capacity
+        Non-Residential Zoning Districts: 1 parking space per every 3 people of design capacity
+      Commercial Amusement (Outdoor):
+        Residential Zoning Districts: —
+        Mixed Use Zoning Districts: 1 parking space per every 3 people of design capacity
+        Non-Residential Zoning Districts: 1 parking space per every 3 people of design capacity
+      Credit Access Building:
+        Residential Zoning Districts: —
+        Mixed Use Zoning Districts: 1 parking space per every 3 people of design capacity
+        Non-Residential Zoning Districts: 1 parking space per every 3 people of design capacity
+      Day Care Center:
+        Residential Zoning Districts: 1:300
+        Mixed Use Zoning Districts: 1:300
+        Non-Residential Zoning Districts: 1:300
+      Dry Cleaning/Laundry Service:
+        Residential Zoning Districts: —
+        Mixed Use Zoning Districts: 1:300
+        Non-Residential Zoning Districts: 1:300
+      Extended Stay Hotel:
+        Residential Zoning Districts: —
+        Mixed Use Zoning Districts: 1 parking space for every guest room
+        Non-Residential Zoning Districts: 1 parking space for every guest room
+      Flea Market Outdoor:
+        Residential Zoning Districts: —
+        Mixed Use Zoning Districts: —
+        Non-Residential Zoning Districts: 1:1000 of booth and display area
+      Fraternal Organization or Lodge:
+        Residential Zoning Districts: —
+        Mixed Use Zoning Districts: 1:300
+        Non-Residential Zoning Districts: 1:300
+      Funeral Home or Mortuary:
+        Residential Zoning Districts: —
+        Mixed Use Zoning Districts: 1:300
+        Non-Residential Zoning Districts: x1:300
+      Hotel, Motel or Inn:
+        Residential Zoning Districts: —
+        Mixed Use Zoning Districts: 1 parking space for every guest room
+        Non-Residential Zoning Districts: 1 parking space for every guest room
+      Licensed Massage Therapy:
+        Residential Zoning Districts: —
+        Mixed Use Zoning Districts: 1:300
+        Non-Residential Zoning Districts: 1:300
+      Nightclub:
+        Residential Zoning Districts: —
+        Mixed Use Zoning Districts: —
+        Non-Residential Zoning Districts: 1:150
+      Personal Service:
+        Residential Zoning Districts: —
+        Mixed Use Zoning Districts: 1:300
+        Non-Residential Zoning Districts: 1:300
+      Recreational Vehicle Park:
+        Residential Zoning Districts: —
+        Mixed Use Zoning Districts: —
+        Non-Residential Zoning Districts: 1 parking space for every lease space
+      Service Contractor:
+        Residential Zoning Districts: —
+        Mixed Use Zoning Districts: —
+        Non-Residential Zoning Districts: 1:300
+      Shooting Range, Indoor/Outdoor:
+        Residential Zoning Districts: —
+        Mixed Use Zoning Districts: —
+        Non-Residential Zoning Districts: 'Indoor: 1:300 Outdoor: 1:1000'
+      Smoking Establishment:
+        Residential Zoning Districts: —
+        Mixed Use Zoning Districts: 1:100
+        Non-Residential Zoning Districts: 1:100
+      Theater:
+        Residential Zoning Districts: —
+        Mixed Use Zoning Districts: 1 parking space for every 3 seats
+        Non-Residential Zoning Districts: 1 parking space for every 3 seats
+    TEMPORARY USES:
+      Asphalt/Concrete Batch Plant (Temporary):
+        Residential Zoning Districts: NA
+        Mixed Use Zoning Districts: NA
+        Non-Residential Zoning Districts: NA
+      Outside Display:
+        Residential Zoning Districts: —
+        Mixed Use Zoning Districts: NA
+        Non-Residential Zoning Districts: NA
+      Real Estate Sales Office (Temporary):
+        Residential Zoning Districts: NA
+        Mixed Use Zoning Districts: NA
+        Non-Residential Zoning Districts: NA
+      Temporary Construction Building:
+        Residential Zoning Districts: NA
+        Mixed Use Zoning Districts: NA
+        Non-Residential Zoning Districts: NA
+    TRANSPORTATION, UTILITY AND COMMUNICATIONS USES:
+      Airport of Heliport:
+        Residential Zoning Districts: —
+        Mixed Use Zoning Districts: —
+        Non-Residential Zoning Districts: 1:300 of office/terminal space
+      Amateur Radio Communication Antenna/Support Structure:
+        Residential Zoning Districts: NA
+        Mixed Use Zoning Districts: NA
+        Non-Residential Zoning Districts: —
+      Broadcasting Station or Studio with Towers (Radio or Television):
+        Residential Zoning Districts: —
+        Mixed Use Zoning Districts: —
+        Non-Residential Zoning Districts: 1:300 of studio space
+      Communication Antenna (Over 25 feet in height):
+        Residential Zoning Districts: NA
+        Mixed Use Zoning Districts: NA
+        Non-Residential Zoning Districts: NA
+      Communication Antenna (Up to 25 feet in height):
+        Residential Zoning Districts: NA
+        Mixed Use Zoning Districts: NA
+        Non-Residential Zoning Districts: NA
+      Communication Support Structure:
+        Residential Zoning Districts: NA
+        Mixed Use Zoning Districts: NA
+        Non-Residential Zoning Districts: NA
+      Contractor's Yard:
+        Residential Zoning Districts: —
+        Mixed Use Zoning Districts: —
+        Non-Residential Zoning Districts: 1:300 of office area; minimum 1 parking space
+      Helipad or Helistop:
+        Residential Zoning Districts: —
+        Mixed Use Zoning Districts: —
+        Non-Residential Zoning Districts: NA
+      Gas and Oil Drilling Related Use:
+        Residential Zoning Districts: NA
+        Mixed Use Zoning Districts: —
+        Non-Residential Zoning Districts: NA
+      Private Utility Plant or Substation:
+        Residential Zoning Districts: 1:300 of office area; minimum 1 parking space
+        Mixed Use Zoning Districts: 1:300 of office area; minimum 1 parking space
+        Non-Residential Zoning Districts: 1:300 of office area; minimum 1 parking space
+    VEHICLE AND RELATED USES:
+      Auction yard:
+        Residential Zoning Districts: —
+        Mixed Use Zoning Districts: —
+        Non-Residential Zoning Districts: 1:300 of office/sales area and 1 parking space for every tow truck
+      Automobile Repair (Major):
+        Residential Zoning Districts: —
+        Mixed Use Zoning Districts: —
+        Non-Residential Zoning Districts: 1:300 of office area and 1 parking space for every service bay
+      Automobile Repair (Minor):
+        Residential Zoning Districts: —
+        Mixed Use Zoning Districts: —
+        Non-Residential Zoning Districts: 1:300 of office area and 1 parking space for every service bay
+      Automobile Sales and Leasing:
+        Residential Zoning Districts: —
+        Mixed Use Zoning Districts: —
+        Non-Residential Zoning Districts: 1:500 of office/sales area and 1 parking space for every service bay
+      Automobile Salvage:
+        Residential Zoning Districts: —
+        Mixed Use Zoning Districts: —
+        Non-Residential Zoning Districts: 1:300 of office area and 1 parking space for every tow truck
+      Boat Sales and Service:
+        Residential Zoning Districts: —
+        Mixed Use Zoning Districts: —
+        Non-Residential Zoning Districts: 1:500 of office/sales area and 1 parking space for every service bay
+      Car Wash:
+        Residential Zoning Districts: —
+        Mixed Use Zoning Districts: —
+        Non-Residential Zoning Districts: 1 parking space for every self-service bay and 1 parking space for every detailing bay
+      Farm Implement Sales and Service:
+        Residential Zoning Districts: —
+        Mixed Use Zoning Districts: —
+        Non-Residential Zoning Districts: 'Indoor sales and display: 1:500'
+      'Outdoor sales and display: 1:1000':
+        Residential Zoning Districts: ''
+        Mixed Use Zoning Districts: ''
+        Non-Residential Zoning Districts: 1:100
+      Gasoline Service Station:
+        Residential Zoning Districts: —
+        Mixed Use Zoning Districts: 1:300
+        Non-Residential Zoning Districts: 1:300
+      Heavy Equipment Sales/Rental and Service:
+        Residential Zoning Districts: —
+        Mixed Use Zoning Districts: —
+        Non-Residential Zoning Districts: 'Indoor sales and display: 1:500'
+      Junk Yard:
+        Residential Zoning Districts: —
+        Mixed Use Zoning Districts: —
+        Non-Residential Zoning Districts: 1:300 of office area and 1 parking space for every tow truck
+      Manufactured Home Display and Sale:
+        Residential Zoning Districts: —
+        Mixed Use Zoning Districts: —
+        Non-Residential Zoning Districts: 1:300 of office/sales area
+      Motor Freight Terminal:
+        Residential Zoning Districts: —
+        Mixed Use Zoning Districts: —
+        Non-Residential Zoning Districts: 1:300 of office area
+      Motorcycle Sales and Service:
+        Residential Zoning Districts: ''
+        Mixed Use Zoning Districts: ''
+        Non-Residential Zoning Districts: 1:500 of indoor sales and display 1:500 of office/sales area and 1 parking space for every service bay
+      Parking Garage or Structure:
+        Residential Zoning Districts: —
+        Mixed Use Zoning Districts: NA
+        Non-Residential Zoning Districts: —
+      Recreational Vehicle Sales and Service:
+        Residential Zoning Districts: —
+        Mixed Use Zoning Districts: —
+        Non-Residential Zoning Districts: 1:300 of office area
+      Recreational Vehicle Storage:
+        Residential Zoning Districts: —
+        Mixed Use Zoning Districts: —
+        Non-Residential Zoning Districts: NA
+      Truck Parking Lot:
+        Residential Zoning Districts: —
+        Mixed Use Zoning Districts: —
+        Non-Residential Zoning Districts: 1:300 of office area and 1 parking space for every tow truck
+      Wrecker Service:
+        Residential Zoning Districts: —
+        Mixed Use Zoning Districts: —
+        Non-Residential Zoning Districts: 1:500 of office/sales area and 1 parking space for every service bay
+    WAREHOUSE AND STORAGE USES:
+      Outside Storage (Principal Use):
+        Residential Zoning Districts: —
+        Mixed Use Zoning Districts: —
+        Non-Residential Zoning Districts: 1:300 of office area; minimum 1 parking space
+      Self-Service Storage Facility:
+        Residential Zoning Districts: —
+        Mixed Use Zoning Districts: —
+        Non-Residential Zoning Districts: 1 parking space for every 30 storage units
+      Storage Warehouse with Outside Storage Yards:
+        Residential Zoning Districts: —
+        Mixed Use Zoning Districts: —
+        Non-Residential Zoning Districts: 1:300 of office space and 1:1000 of warehouse and storage area
+      Warehouse Distribution Facility:
+        Residential Zoning Districts: —
+        Mixed Use Zoning Districts: —
+        Non-Residential Zoning Districts: 1:300 of office space and 1:1000 of warehouse area
+      Wholesale Establishment:
+        Residential Zoning Districts: —
+        Mixed Use Zoning Districts: —
+        Non-Residential Zoning Districts: 1:300 pf office space and 1:1000 of warehouse area
+    '*See Article 7, Section 3.B.3': {}

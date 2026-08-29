@@ -2,269 +2,306 @@ Table 20-3 | Residential Lot, Area, and Setback Requirements:
   Land Use:
     Minimum lot size (with public water and sewer) (1):
       Single-family detached (square feet):
-        Zoning District > UMF: 4,000
-        Zoning District > SMF: 7,000
-        Zoning District > USF: 4,000
-        Zoning District > SSF: 9,000
-        Zoning District > UTF: 4,000
-        Zoning District > RR: 15,000
+        Zoning District:
+          UMF: 4,000
+          SMF: 7,000
+          USF: 4,000
+          SSF: 9,000
+          UTF: 4,000
+          RR: 15,000
       Single-family attached (square feet per dwelling unit):
-        Zoning District > UMF: 2,500
-        Zoning District > SMF: 3,000
-        Zoning District > USF: 3,000
-        Zoning District > SSF: NA
-        Zoning District > UTF: 2,500
-        Zoning District > RR: 4,000
+        Zoning District:
+          UMF: 2,500
+          SMF: 3,000
+          USF: 3,000
+          SSF: NA
+          UTF: 2,500
+          RR: 4,000
       Two-family (square feet per dwelling unit):
-        Zoning District > UMF: 2,500
-        Zoning District > SMF: 3,000
-        Zoning District > USF: 3,000
-        Zoning District > SSF: NA
-        Zoning District > UTF: 3,000
-        Zoning District > RR: 10,000
+        Zoning District:
+          UMF: 2,500
+          SMF: 3,000
+          USF: 3,000
+          SSF: NA
+          UTF: 3,000
+          RR: 10,000
       Multifamily (square feet per dwelling unit):
-        Zoning District > UMF: 2,500
-        Zoning District > SMF: 3,000
-        Zoning District > USF: NA
-        Zoning District > SSF: NA
-        Zoning District > UTF: NA
-        Zoning District > RR: NA
+        Zoning District:
+          UMF: 2,500
+          SMF: 3,000
+          USF: NA
+          SSF: NA
+          UTF: NA
+          RR: NA
       Nonresidential uses (square feet):
-        Zoning District > UMF: 4,000
-        Zoning District > SMF: 7,000
-        Zoning District > USF: 10,000
-        Zoning District > SSF: 10,000
-        Zoning District > UTF: 7,000
-        Zoning District > RR: 15,000
+        Zoning District:
+          UMF: 4,000
+          SMF: 7,000
+          USF: 10,000
+          SSF: 10,000
+          UTF: 7,000
+          RR: 15,000
     Minimum lot size (no public water and/or sewer) (1):
       Single-family detached (square feet):
-        Zoning District > UMF: NA
-        Zoning District > SMF: 40,000
-        Zoning District > USF: NA
-        Zoning District > SSF: 40,000
-        Zoning District > UTF: NA
-        Zoning District > RR: 40,000
+        Zoning District:
+          UMF: NA
+          SMF: 40,000
+          USF: NA
+          SSF: 40,000
+          UTF: NA
+          RR: 40,000
       Single-family attached (square feet):
-        Zoning District > UMF: NA
-        Zoning District > SMF: 40,000
-        Zoning District > USF: NA
-        Zoning District > SSF: 40,000
-        Zoning District > UTF: NA
-        Zoning District > RR: NA
+        Zoning District:
+          UMF: NA
+          SMF: 40,000
+          USF: NA
+          SSF: 40,000
+          UTF: NA
+          RR: NA
       Two-family (square feet):
-        Zoning District > UMF: NA
-        Zoning District > SMF: 40,000
-        Zoning District > USF: NA
-        Zoning District > SSF: NA
-        Zoning District > UTF: NA
-        Zoning District > RR: 40,000
+        Zoning District:
+          UMF: NA
+          SMF: 40,000
+          USF: NA
+          SSF: NA
+          UTF: NA
+          RR: 40,000
       Multifamily (square feet):
-        Zoning District > UMF: NA
-        Zoning District > SMF: 40,000
-        Zoning District > USF: NA
-        Zoning District > SSF: NA
-        Zoning District > UTF: NA
-        Zoning District > RR: NA
+        Zoning District:
+          UMF: NA
+          SMF: 40,000
+          USF: NA
+          SSF: NA
+          UTF: NA
+          RR: NA
       Nonresidential uses (square feet):
-        Zoning District > UMF: NA
-        Zoning District > SMF: 40,000
-        Zoning District > USF: NA
-        Zoning District > SSF: 40,000
-        Zoning District > UTF: NA
-        Zoning District > RR: 40,000
+        Zoning District:
+          UMF: NA
+          SMF: 40,000
+          USF: NA
+          SSF: 40,000
+          UTF: NA
+          RR: 40,000
     Minimum lot width (with public water and sewer):
       Single-family detached (feet):
-        Zoning District > UMF: '40'
-        Zoning District > SMF: '60'
-        Zoning District > USF: '40'
-        Zoning District > SSF: '60'
-        Zoning District > UTF: '40'
-        Zoning District > RR: '100'
+        Zoning District:
+          UMF: '40'
+          SMF: '60'
+          USF: '40'
+          SSF: '60'
+          UTF: '40'
+          RR: '100'
       Single-family attached (feet per dwelling unit):
-        Zoning District > UMF: '25'
-        Zoning District > SMF: '35'
-        Zoning District > USF: '25'
-        Zoning District > SSF: '35'
-        Zoning District > UTF: '25'
-        Zoning District > RR: NA
+        Zoning District:
+          UMF: '25'
+          SMF: '35'
+          USF: '25'
+          SSF: '35'
+          UTF: '25'
+          RR: NA
       Two-family (feet per dwelling unit):
-        Zoning District > UMF: '25'
-        Zoning District > SMF: '35'
-        Zoning District > USF: '50'
-        Zoning District > SSF: NA
-        Zoning District > UTF: '25'
-        Zoning District > RR: '60'
+        Zoning District:
+          UMF: '25'
+          SMF: '35'
+          USF: '50'
+          SSF: NA
+          UTF: '25'
+          RR: '60'
       Multifamily (feet per dwelling unit):
-        Zoning District > UMF: '25'
-        Zoning District > SMF: '40'
-        Zoning District > USF: NA
-        Zoning District > SSF: NA
-        Zoning District > UTF: NA
-        Zoning District > RR: NA
+        Zoning District:
+          UMF: '25'
+          SMF: '40'
+          USF: NA
+          SSF: NA
+          UTF: NA
+          RR: NA
       Nonresidential uses (feet):
-        Zoning District > UMF: '40'
-        Zoning District > SMF: '60'
-        Zoning District > USF: '60'
-        Zoning District > SSF: '80'
-        Zoning District > UTF: '40'
-        Zoning District > RR: '100'
+        Zoning District:
+          UMF: '40'
+          SMF: '60'
+          USF: '60'
+          SSF: '80'
+          UTF: '40'
+          RR: '100'
     Minimum lot width (no public water and/or sewer):
       Single-family detached (feet):
-        Zoning District > UMF: NA
-        Zoning District > SMF: '100'
-        Zoning District > USF: NA
-        Zoning District > SSF: '100'
-        Zoning District > UTF: NA
-        Zoning District > RR: '100'
+        Zoning District:
+          UMF: NA
+          SMF: '100'
+          USF: NA
+          SSF: '100'
+          UTF: NA
+          RR: '100'
       Single-family attached (feet per dwelling unit):
-        Zoning District > UMF: NA
-        Zoning District > SMF: '60'
-        Zoning District > USF: NA
-        Zoning District > SSF: '60'
-        Zoning District > UTF: NA
-        Zoning District > RR: NA
+        Zoning District:
+          UMF: NA
+          SMF: '60'
+          USF: NA
+          SSF: '60'
+          UTF: NA
+          RR: NA
       Two-family (feet per dwelling unit):
-        Zoning District > UMF: NA
-        Zoning District > SMF: '60'
-        Zoning District > USF: NA
-        Zoning District > SSF: NA
-        Zoning District > UTF: NA
-        Zoning District > RR: '60'
+        Zoning District:
+          UMF: NA
+          SMF: '60'
+          USF: NA
+          SSF: NA
+          UTF: NA
+          RR: '60'
       Multifamily (feet per dwelling unit):
-        Zoning District > UMF: NA
-        Zoning District > SMF: '60'
-        Zoning District > USF: NA
-        Zoning District > SSF: NA
-        Zoning District > UTF: NA
-        Zoning District > RR: NA
+        Zoning District:
+          UMF: NA
+          SMF: '60'
+          USF: NA
+          SSF: NA
+          UTF: NA
+          RR: NA
       Nonresidential uses (feet):
-        Zoning District > UMF: NA
-        Zoning District > SMF: '100'
-        Zoning District > USF: NA
-        Zoning District > SSF: '100'
-        Zoning District > UTF: NA
-        Zoning District > RR: '100'
+        Zoning District:
+          UMF: NA
+          SMF: '100'
+          USF: NA
+          SSF: '100'
+          UTF: NA
+          RR: '100'
     Minimum front setback:
       Single-family detached (feet):
-        Zoning District > UMF: '20'
-        Zoning District > SMF: '25'
-        Zoning District > USF: '25'
-        Zoning District > SSF: '30'
-        Zoning District > UTF: '25'
-        Zoning District > RR: '35'
+        Zoning District:
+          UMF: '20'
+          SMF: '25'
+          USF: '25'
+          SSF: '30'
+          UTF: '25'
+          RR: '35'
       Single-family attached (feet):
-        Zoning District > UMF: '20'
-        Zoning District > SMF: '25'
-        Zoning District > USF: '25'
-        Zoning District > SSF: '30'
-        Zoning District > UTF: '25'
-        Zoning District > RR: NA
+        Zoning District:
+          UMF: '20'
+          SMF: '25'
+          USF: '25'
+          SSF: '30'
+          UTF: '25'
+          RR: NA
       Two-family (feet):
-        Zoning District > UMF: '20'
-        Zoning District > SMF: '25'
-        Zoning District > USF: '25'
-        Zoning District > SSF: NA
-        Zoning District > UTF: '25'
-        Zoning District > RR: '35'
+        Zoning District:
+          UMF: '20'
+          SMF: '25'
+          USF: '25'
+          SSF: NA
+          UTF: '25'
+          RR: '35'
       Multifamily (feet):
-        Zoning District > UMF: '20'
-        Zoning District > SMF: '25'
-        Zoning District > USF: NA
-        Zoning District > SSF: NA
-        Zoning District > UTF: NA
-        Zoning District > RR: NA
+        Zoning District:
+          UMF: '20'
+          SMF: '25'
+          USF: NA
+          SSF: NA
+          UTF: NA
+          RR: NA
       Nonresidential uses (feet):
-        Zoning District > UMF: '20'
-        Zoning District > SMF: '25'
-        Zoning District > USF: '25'
-        Zoning District > SSF: '30'
-        Zoning District > UTF: '25'
-        Zoning District > RR: '35'
+        Zoning District:
+          UMF: '20'
+          SMF: '25'
+          USF: '25'
+          SSF: '30'
+          UTF: '25'
+          RR: '35'
     Minimum side setback:
       Single-family detached (feet):
-        Zoning District > UMF: '5'
-        Zoning District > SMF: '5'
-        Zoning District > USF: '5'
-        Zoning District > SSF: '6'
-        Zoning District > UTF: '5'
-        Zoning District > RR: '20'
+        Zoning District:
+          UMF: '5'
+          SMF: '5'
+          USF: '5'
+          SSF: '6'
+          UTF: '5'
+          RR: '20'
       Single-family attached (feet):
-        Zoning District > UMF: '5'
-        Zoning District > SMF: '5'
-        Zoning District > USF: '5'
-        Zoning District > SSF: '5'
-        Zoning District > UTF: '5'
-        Zoning District > RR: NA
+        Zoning District:
+          UMF: '5'
+          SMF: '5'
+          USF: '5'
+          SSF: '5'
+          UTF: '5'
+          RR: NA
       Two-family (feet):
-        Zoning District > UMF: '5'
-        Zoning District > SMF: '10'
-        Zoning District > USF: '5'
-        Zoning District > SSF: NA
-        Zoning District > UTF: '5'
-        Zoning District > RR: '20'
+        Zoning District:
+          UMF: '5'
+          SMF: '10'
+          USF: '5'
+          SSF: NA
+          UTF: '5'
+          RR: '20'
       Multifamily (feet):
-        Zoning District > UMF: '10'
-        Zoning District > SMF: '10'
-        Zoning District > USF: NA
-        Zoning District > SSF: NA
-        Zoning District > UTF: NA
-        Zoning District > RR: NA
+        Zoning District:
+          UMF: '10'
+          SMF: '10'
+          USF: NA
+          SSF: NA
+          UTF: NA
+          RR: NA
       Nonresidential uses (feet):
-        Zoning District > UMF: '10'
-        Zoning District > SMF: '10'
-        Zoning District > USF: '20'
-        Zoning District > SSF: '20'
-        Zoning District > UTF: '20'
-        Zoning District > RR: '20'
+        Zoning District:
+          UMF: '10'
+          SMF: '10'
+          USF: '20'
+          SSF: '20'
+          UTF: '20'
+          RR: '20'
       All accessory uses (feet):
-        Zoning District > UMF: '5'
-        Zoning District > SMF: '5'
-        Zoning District > USF: '5'
-        Zoning District > SSF: '5'
-        Zoning District > UTF: '5'
-        Zoning District > RR: '10'
+        Zoning District:
+          UMF: '5'
+          SMF: '5'
+          USF: '5'
+          SSF: '5'
+          UTF: '5'
+          RR: '10'
     Minimum rear setback:
       Single-family detached (feet):
-        Zoning District > UMF: '25'
-        Zoning District > SMF: '25'
-        Zoning District > USF: '25'
-        Zoning District > SSF: '25'
-        Zoning District > UTF: '25'
-        Zoning District > RR: '60'
+        Zoning District:
+          UMF: '25'
+          SMF: '25'
+          USF: '25'
+          SSF: '25'
+          UTF: '25'
+          RR: '60'
       Single-family attached (feet):
-        Zoning District > UMF: '25'
-        Zoning District > SMF: '25'
-        Zoning District > USF: '25'
-        Zoning District > SSF: '25'
-        Zoning District > UTF: '25'
-        Zoning District > RR: NA
+        Zoning District:
+          UMF: '25'
+          SMF: '25'
+          USF: '25'
+          SSF: '25'
+          UTF: '25'
+          RR: NA
       Two-family attached (feet):
-        Zoning District > UMF: '30'
-        Zoning District > SMF: '30'
-        Zoning District > USF: '25'
-        Zoning District > SSF: NA
-        Zoning District > UTF: '30'
-        Zoning District > RR: '60'
+        Zoning District:
+          UMF: '30'
+          SMF: '30'
+          USF: '25'
+          SSF: NA
+          UTF: '30'
+          RR: '60'
       Multifamily (feet):
-        Zoning District > UMF: '30'
-        Zoning District > SMF: '30'
-        Zoning District > USF: NA
-        Zoning District > SSF: NA
-        Zoning District > UTF: NA
-        Zoning District > RR: NA
+        Zoning District:
+          UMF: '30'
+          SMF: '30'
+          USF: NA
+          SSF: NA
+          UTF: NA
+          RR: NA
       Nonresidential uses (feet):
-        Zoning District > UMF: '30'
-        Zoning District > SMF: '30'
-        Zoning District > USF: '40'
-        Zoning District > SSF: '40'
-        Zoning District > UTF: '40'
-        Zoning District > RR: '60'
+        Zoning District:
+          UMF: '30'
+          SMF: '30'
+          USF: '40'
+          SSF: '40'
+          UTF: '40'
+          RR: '60'
       All accessory uses (feet):
-        Zoning District > UMF: '5'
-        Zoning District > SMF: '5'
-        Zoning District > USF: '5'
-        Zoning District > SSF: '5'
-        Zoning District > UTF: '5'
-        Zoning District > RR: '10'
+        Zoning District:
+          UMF: '5'
+          SMF: '5'
+          USF: '5'
+          SSF: '5'
+          UTF: '5'
+          RR: '10'
 'NOTES:':
   (1): Or the most common lot size on the block in which the lot is located.

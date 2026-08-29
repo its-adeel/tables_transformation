@@ -2,15 +2,17 @@ Table 2-5 (CC) COMMUNITY COMMERCIAL DISTRICT DIMENSIONAL STANDARDS TABLE:
   Interior to the Zoning District:
     Minimum Required Area: 7000 sq. ft.
     Maximum Lot Coverage: 80% of Gross Area
-    Setback from Property Line > Front: 10'
-    Setback from Property Line > Side: 0'
-    Setback from Property Line > Rear: 0'
+    Setback from Property Line:
+      Front: 10'
+      Side: 0'
+      Rear: 0'
     Maximum Height: 75'
   Exterior to the Zoning District:
     Minimum Required Area: 7000 sq. ft.
     Maximum Lot Coverage: 80% of Gross Area
-    Setback from Property Line: Side and Rear yards require a planting screen, fence or wall six (6) feet in height adjacent to any other zoning district.
+    Setback from Property Line:
+    - Side and Rear yards require a planting screen, fence or wall six (6) feet in height adjacent to any other zoning district.
+    - Front: 25'
+      Side: 30'
+      Rear: 30'
     Maximum Height: 75'
-    Setback from Property Line > Front: 25'
-    Setback from Property Line > Side: 30'
-    Setback from Property Line > Rear: 30'

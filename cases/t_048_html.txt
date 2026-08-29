@@ -1,0 +1,698 @@
+<table class="left makeExpandableTable" cellpadding="3" cellspacing="0" border="1" rules="all">
+                        <colgroup class="std">
+                           <col width="37.735849056603776%">
+                           <col width="28.30188679245283%">
+                           <col width="16.9811320754717%">
+                           <col width="16.9811320754717%">
+                        </colgroup>
+                        <tbody>
+                           <tr>
+                              <td class=" top ">
+                                 Use Type
+                                 </td>
+                              <td class=" top ">
+                                 Per Square Foot or Unit
+                                 </td>
+                              <td class=" top ">
+                                 Per Employee
+                                 <br>
+                                 or Student
+                                 </td>
+                              <td class=" top ">
+                                 Other Criteria
+                                 </td>
+                           </tr>
+                           <tr>
+                              <td colspan="4" class=" top ">
+                                 General commercial/retail uses
+                                 </td>
+                           </tr>
+                           <tr>
+                              <td class=" top ">
+                                 Auditoriums, exhibition halls, theaters, movie theaters and similar places with fixed
+                                 seats
+                                 </td>
+                              <td class=" top ">
+                                 1 space per 3 seats
+                                 </td>
+                              <td class=" top "></td>
+                              <td class=" top "></td>
+                           </tr>
+                           <tr>
+                              <td class=" top ">
+                                 Auditoriums, exhibition halls, theaters, movie theaters, and similar places without
+                                 fixed seats
+                                 </td>
+                              <td class=" top ">
+                                 1 space per 30 sq. ft. of net assembly area
+                                 </td>
+                              <td class=" top "></td>
+                              <td class=" top "></td>
+                           </tr>
+                           <tr>
+                              <td class=" top ">
+                                 Automobile repair and service shops
+                                 </td>
+                              <td class=" top ">
+                                 1 space per 150 sq. ft. gross floor area
+                                 </td>
+                              <td class=" top "></td>
+                              <td class=" top "></td>
+                           </tr>
+                           <tr>
+                              <td class=" top ">
+                                 Automobile service stations
+                                 </td>
+                              <td class=" top ">
+                                 4 spaces
+                                 </td>
+                              <td class=" top "></td>
+                              <td class=" top ">
+                                 4 spaces per service bay
+                                 </td>
+                           </tr>
+                           <tr>
+                              <td class=" top ">
+                                 Automobile washing and cleaning establishments, except self-serve
+                                 </td>
+                              <td class=" top "></td>
+                              <td class=" top ">
+                                 1 space per 3 employees of largest shift
+                                 </td>
+                              <td class=" top ">
+                                 2 spaces per stall
+                                 </td>
+                           </tr>
+                           <tr>
+                              <td class=" top ">
+                                 Automobile washing and cleaning establishments, self-serve
+                                 </td>
+                              <td class=" top "></td>
+                              <td class=" top "></td>
+                              <td class=" top ">
+                                 2 spaces per stall
+                                 </td>
+                           </tr>
+                           <tr>
+                              <td class=" top ">
+                                 Banks, savings and loans and other financial institutions*
+                                 </td>
+                              <td class=" top ">
+                                 1 space per 250 sq. ft. gross floor area
+                                 </td>
+                              <td class=" top "></td>
+                              <td class=" top ">
+                                 Vehicle stacking for 6 vehicles prior to the drive-up window or as required by the
+                                 queueing analysis.
+                                 </td>
+                           </tr>
+                           <tr>
+                              <td class=" top ">
+                                 Barbershops and beauty shops and similar uses
+                                 </td>
+                              <td class=" top ">
+                                 1 space per 150 sq. ft. gross floor area
+                                 </td>
+                              <td class=" top "></td>
+                              <td class=" top "></td>
+                           </tr>
+                           <tr>
+                              <td class=" top ">
+                                 Clubs, discos, ballrooms, cabarets, cocktail lounges, dance halls, lodges and incidental
+                                 dancing areas, and similar facilities where dancing is the principal use
+                                 </td>
+                              <td class=" top ">
+                                 1 space per 30 sq. ft. of dance floor area
+                                 </td>
+                              <td class=" top "></td>
+                              <td class=" top "></td>
+                           </tr>
+                           <tr>
+                              <td class=" top ">
+                                 General retail including but not limited to freestanding convenience markets, liquor
+                                 stores and supermarkets
+                                 </td>
+                              <td class=" top ">
+                                 1 space per 200 sq. ft. of gross floor area
+                                 </td>
+                              <td class=" top "></td>
+                              <td class=" top "></td>
+                           </tr>
+                           <tr>
+                              <td class=" top ">
+                                 General retail including but not limited to neighborhood, community and regional shopping
+                                 centers, including those with restaurants
+                                 </td>
+                              <td class=" top ">
+                                 5½ spaces per 1,000 sq ft. of net leasable floor area
+                                 </td>
+                              <td class=" top "></td>
+                              <td class=" top "></td>
+                           </tr>
+                           <tr>
+                              <td class=" top ">
+                                 Furniture, drapery, plumbing, floor covering and appliance stores
+                                 </td>
+                              <td class=" top ">
+                                 1 space per 750 sq. ft. of sale or display area
+                                 </td>
+                              <td class=" top "></td>
+                              <td class=" top "></td>
+                           </tr>
+                           <tr>
+                              <td class=" top ">
+                                 Laundries, self-serve
+                                 </td>
+                              <td class=" top ">
+                                 1 space per 250 sq. ft. of gross floor area
+                                 </td>
+                              <td class=" top "></td>
+                              <td class=" top "></td>
+                           </tr>
+                           <tr>
+                              <td class=" top ">
+                                 Mini-warehouses, self-storage
+                                 </td>
+                              <td class=" top "></td>
+                              <td class=" top ">
+                                 2 spaces per 3 employees
+                                 </td>
+                              <td class=" top "></td>
+                           </tr>
+                           <tr>
+                              <td class=" top ">
+                                 Professional business office
+                                 </td>
+                              <td class=" top ">
+                                 1 space per 200 sq. ft. of net leasable floor area
+                                 </td>
+                              <td class=" top "></td>
+                              <td class=" top "></td>
+                           </tr>
+                           <tr>
+                              <td class=" top ">
+                                 Restaurants, drive-throughs, walk-ups, cafes, lounges, bars and other establishments
+                                 for the sale and consumption on the premises of food and beverages
+                                 </td>
+                              <td class=" top ">
+                                 1 space per 45 sq. ft. of serving area
+                                 </td>
+                              <td class=" top ">
+                                 1 space per 2 employees
+                                 </td>
+                              <td class=" top ">
+                                 Stacking for 6 vehicles prior to the menu board or as required by the queueing analysis.
+                                 </td>
+                           </tr>
+                           <tr>
+                              <td class=" top ">
+                                 Uncovered sales area, including areas for new or used automobiles, boat or trailer
+                                 sales, lumber or building materials yards, plant nurseries or similar uses
+                                 </td>
+                              <td class=" top ">
+                                 1 space per 1,000 sq. ft. of uncovered sales area to a maximum of 20 spaces
+                                 </td>
+                              <td class=" top ">
+                                 1 space per employee
+                                 </td>
+                              <td class=" top "></td>
+                           </tr>
+                           <tr>
+                              <td class=" top ">
+                                 Video arcades
+                                 </td>
+                              <td class=" top ">
+                                 1 space per 250 sq. ft. of gross floor area
+                                 </td>
+                              <td class=" top "></td>
+                              <td class=" top "></td>
+                           </tr>
+                           <tr>
+                              <td colspan="4" class=" top ">
+                                 Recreational uses
+                                 </td>
+                           </tr>
+                           <tr>
+                              <td class=" top ">
+                                 Billiard and pool rooms
+                                 </td>
+                              <td class=" top "></td>
+                              <td class=" top "></td>
+                              <td class=" top ">
+                                 1 space per 250 sq. ft. of gross floor area
+                                 </td>
+                           </tr>
+                           <tr>
+                              <td class=" top ">
+                                 Bowling alleys
+                                 </td>
+                              <td class=" top "></td>
+                              <td class=" top "></td>
+                              <td class=" top ">
+                                 4 spaces per lane
+                                 </td>
+                           </tr>
+                           <tr>
+                              <td class=" top ">
+                                 Driving ranges
+                                 </td>
+                              <td class=" top "></td>
+                              <td class=" top "></td>
+                              <td class=" top ">
+                                 1 space per tee
+                                 </td>
+                           </tr>
+                           <tr>
+                              <td class=" top ">
+                                 Game courts, tennis courts, racquetball clubs
+                                 </td>
+                              <td class=" top "></td>
+                              <td class=" top "></td>
+                              <td class=" top ">
+                                 1 space per court
+                                 </td>
+                           </tr>
+                           <tr>
+                              <td class=" top ">
+                                 Golf courses
+                                 </td>
+                              <td class=" top "></td>
+                              <td class=" top "></td>
+                              <td class=" top ">
+                                 6 spaces per hole
+                                 </td>
+                           </tr>
+                           <tr>
+                              <td class=" top ">
+                                 Golf course, miniature
+                                 </td>
+                              <td class=" top "></td>
+                              <td class=" top "></td>
+                              <td class=" top ">
+                                 3 spaces per hole
+                                 </td>
+                           </tr>
+                           <tr>
+                              <td class=" top ">
+                                 Gymnasiums, spas and health studios
+                                 </td>
+                              <td class=" top ">
+                                 1 space per 200 sq. ft. of gross floor area
+                                 </td>
+                              <td class=" top "></td>
+                              <td class=" top "></td>
+                           </tr>
+                           <tr>
+                              <td class=" top ">
+                                 Parks and recreational uses
+                                 </td>
+                              <td class=" top ">
+                                 1 space per 8,000 sq. ft. of active recreational area within a park
+                                 </td>
+                              <td class=" top "></td>
+                              <td class=" top ">
+                                 1 space per acre of passive recreational area within a park
+                                 </td>
+                           </tr>
+                           <tr>
+                              <td class=" top ">
+                                 Skating rinks, ice and roller
+                                 </td>
+                              <td class=" top ">
+                                 1 space per 20 sq. ft. of seating area, and 1 space per 250 sq. ft. of skating area
+                                 </td>
+                              <td class=" top "></td>
+                              <td class=" top "></td>
+                           </tr>
+                           <tr>
+                              <td class=" top ">
+                                 Stadiums and sports arenas
+                                 </td>
+                              <td class=" top ">
+                                 1 space per 30 sq. ft. of net assembly area
+                                 </td>
+                              <td class=" top "></td>
+                              <td class=" top "></td>
+                           </tr>
+                           <tr>
+                              <td class=" top ">
+                                 Swimming pools, commercial
+                                 </td>
+                              <td class=" top ">
+                                 1 space per 250 sq. ft. of pool area
+                                 </td>
+                              <td class=" top "></td>
+                              <td class=" top "></td>
+                           </tr>
+                           <tr>
+                              <td colspan="4" class=" top ">
+                                 Industrial uses
+                                 </td>
+                           </tr>
+                           <tr>
+                              <td class=" top ">
+                                 Industrial uses
+                                 </td>
+                              <td class=" top ">
+                                 If number of workers cannot be determined: 1 space per 250 sq. ft. of office area,
+                                 plus 1 space per 500 sq. ft. of fabrication area, plus 1 space per 1,000 sq. ft. of
+                                 storage area, and 1 space per 500 sq. ft. of floor plan which is uncommitted to any
+                                 type of use
+                                 </td>
+                              <td class=" top ">
+                                 If number of workers can be determined: 1 space per 2 employees of largest shift,
+                                 and 1 space per vehicle kept in connection with the use
+                                 </td>
+                              <td class=" top "></td>
+                           </tr>
+                           <tr>
+                              <td class=" top ">
+                                 Manufacturing or repair plants maintaining more than one shift of workers
+                                 </td>
+                              <td class=" top "></td>
+                              <td class=" top ">
+                                 2 spaces per 3 employees on each of the two largest shifts
+                                 </td>
+                              <td class=" top ">
+                                 1 space per company operated vehicle
+                                 </td>
+                           </tr>
+                           <tr>
+                              <td class=" top ">
+                                 Salvage yards and junkyards, including but not limited to automobile dismantling,
+                                 auto-wrecking yards, storage yards, scrap metal processing and similar uses
+                                 </td>
+                              <td class=" top ">
+                                 1 space per 5,000 sq. ft. of lot area
+                                 </td>
+                              <td class=" top "></td>
+                              <td class=" top "></td>
+                           </tr>
+                           <tr>
+                              <td class=" top ">
+                                 Warehouses and wholesaling
+                                 </td>
+                              <td class=" top ">
+                                 1 space per 2,000 sq. ft. of gross floor area
+                                 </td>
+                              <td class=" top "></td>
+                              <td class=" top "></td>
+                           </tr>
+                           <tr>
+                              <td colspan="4" class=" top ">
+                                 Residential uses
+                                 </td>
+                           </tr>
+                           <tr>
+                              <td class=" top ">
+                                 Single-family
+                                 </td>
+                              <td class=" top ">
+                                 2 spaces per dwelling unit
+                                 </td>
+                              <td class=" top "></td>
+                              <td class=" top "></td>
+                           </tr>
+                           <tr>
+                              <td class=" top ">
+                                 Multiple-family:
+                                 </td>
+                              <td class=" top "></td>
+                              <td class=" top "></td>
+                              <td class=" top "></td>
+                           </tr>
+                           <tr>
+                              <td class=" top ">
+                                  Single-bedroom or studio dwelling unit
+                                 </td>
+                              <td class=" top ">
+                                 1.25 spaces per unit
+                                 </td>
+                              <td class=" top "></td>
+                              <td class=" top "></td>
+                           </tr>
+                           <tr>
+                              <td class=" top "></td>
+                              <td class=" top ">
+                                 Two bedrooms per dwelling unit
+                                 </td>
+                              <td class=" top ">
+                                 2.25 spaces per unit
+                                 </td>
+                              <td class=" top ">
+                                 1 space per employee
+                                 </td>
+                           </tr>
+                           <tr>
+                              <td class=" top ">
+                                  Three or more bedrooms per dwelling unit
+                                 </td>
+                              <td class=" top ">
+                                 2.75 spaces per unit
+                                 </td>
+                              <td class=" top "></td>
+                              <td class=" top "></td>
+                           </tr>
+                           <tr>
+                              <td class=" top ">
+                                 Planned residential development (see <a href="https://library.municode.com/ca/eastvale/codes/code_of_ordinances?nodeId=PTBLADECO_TIT120PLZO_CH120.04STRESPUS_S120.04.050PLREDE" data-chunk-id="PTBLADECO_TIT120PLZO_CH120.04STRESPUS_S120.04.050PLREDE" class="section-link" data-product-id="15015"><span class="popoverPositioner"></span>section 120.04.050</a>):
+                                 </td>
+                              <td class=" top "></td>
+                              <td class=" top "></td>
+                              <td class=" top "></td>
+                           </tr>
+                           <tr>
+                              <td class=" top ">
+                                  Single-bedroom dwelling unit
+                                 </td>
+                              <td class=" top ">
+                                 1.5 spaces per unit
+                                 </td>
+                              <td class=" top "></td>
+                              <td class=" top "></td>
+                           </tr>
+                           <tr>
+                              <td class=" top ">
+                                  Two or more bedroom dwelling unit
+                                 </td>
+                              <td class=" top ">
+                                 2.5 spaces per unit
+                                 </td>
+                              <td class=" top "></td>
+                              <td class=" top "></td>
+                           </tr>
+                           <tr>
+                              <td class=" top ">
+                                 Senior citizen (parking spaces shall be located no more than 150 feet from the unit
+                                 they serve)
+                                 </td>
+                              <td class=" top ">
+                                 Refer to single-family and multiple-family residential requirements stated under residential
+                                 uses
+                                 </td>
+                              <td class=" top "></td>
+                              <td class=" top "></td>
+                           </tr>
+                           <tr>
+                              <td class=" top ">
+                                 Mobilehome parks
+                                 </td>
+                              <td class=" top ">
+                                 2 spaces per travel trailer or mobilehome space, spaces may be tandem
+                                 </td>
+                              <td class=" top "></td>
+                              <td class=" top ">
+                                 1 guest space per 8 mobilehome spaces
+                                 </td>
+                           </tr>
+                           <tr>
+                              <td class=" top ">
+                                 Lodging uses (all parking must be within 150 feet of the use served)
+                                 </td>
+                              <td class=" top "></td>
+                              <td class=" top "></td>
+                              <td class=" top "></td>
+                           </tr>
+                           <tr>
+                              <td class=" top ">
+                                 Boardinghouses, lodginghouses or roominghouses, dormitories, fraternity and sorority
+                                 houses
+                                 </td>
+                              <td class=" top "></td>
+                              <td class=" top "></td>
+                              <td class=" top ">
+                                 1 space per 2 beds
+                                 </td>
+                           </tr>
+                           <tr>
+                              <td class=" top ">
+                                 Hotels and motels
+                                 </td>
+                              <td class=" top "></td>
+                              <td class=" top "></td>
+                              <td class=" top ">
+                                 1 space per room, and 2 spaces per resident manager
+                                 </td>
+                           </tr>
+                           <tr>
+                              <td class=" top ">
+                                 Recreational vehicle parks
+                                 </td>
+                              <td class=" top ">
+                                 1 space per recreation vehicle site
+                                 </td>
+                              <td class=" top "></td>
+                              <td class=" top ">
+                                 1 visitor space per 5 recreational vehicle sites
+                                 </td>
+                           </tr>
+                           <tr>
+                              <td colspan="4" class=" top ">
+                                 Medical uses
+                                 </td>
+                           </tr>
+                           <tr>
+                              <td class=" top ">
+                                 Sanitariums, convalescent homes, children's homes, asylums, and nursing homes or similar
+                                 institutions
+                                 </td>
+                              <td class=" top "></td>
+                              <td class=" top ">
+                                 1 space per 3 employees
+                                 </td>
+                              <td class=" top ">
+                                 1 space per 3 beds, and 1 space per vehicle owned and operated by the institution
+                                 </td>
+                           </tr>
+                           <tr>
+                              <td class=" top ">
+                                 Hospitals and clinics (a hospital may have a parking area more than 150 feet from
+                                 the building to be served as long as an automatic parking gate or similar method of
+                                 vehicular control is installed)
+                                 </td>
+                              <td class=" top "></td>
+                              <td class=" top ">
+                                 1 space per staff member of largest shift
+                                 </td>
+                              <td class=" top ">
+                                 1 space per 2 patient's beds, and 1 space per vehicle owned and operated by hospital
+                                 or clinic
+                                 </td>
+                           </tr>
+                           <tr>
+                              <td class=" top ">
+                                 Medical and dental offices, clinics, and medical business offices
+                                 </td>
+                              <td class=" top ">
+                                 1 space per 200 sq. ft. of net leasable floor area
+                                 </td>
+                              <td class=" top "></td>
+                              <td class=" top "></td>
+                           </tr>
+                           <tr>
+                              <td class=" top ">
+                                 Veterinary hospitals and clinics
+                                 </td>
+                              <td class=" top ">
+                                 1 space per 300 sq. ft. of gross floor area
+                                 </td>
+                              <td class=" top "></td>
+                              <td class=" top "></td>
+                           </tr>
+                           <tr>
+                              <td colspan="4" class=" top ">
+                                 Civic/religious institutions
+                                 </td>
+                           </tr>
+                           <tr>
+                              <td class=" top ">
+                                 Auditoriums with fixed seats
+                                 </td>
+                              <td class=" top ">
+                                 1 space per 3 seats
+                                 </td>
+                              <td class=" top "></td>
+                              <td class=" top "></td>
+                           </tr>
+                           <tr>
+                              <td class=" top ">
+                                 Auditoriums without fixed seats
+                                 </td>
+                              <td class=" top ">
+                                 1 space per 30 sq. ft. of net assembly area in the assembly hall
+                                 </td>
+                              <td class=" top "></td>
+                              <td class=" top "></td>
+                           </tr>
+                           <tr>
+                              <td class=" top ">
+                                 Cemeteries and crematories, mausoleums, columbariums and funeral establishments when
+                                 incidental to a cemetery
+                                 </td>
+                              <td class=" top ">
+                                 1 space per 30 sq. ft of net assembly room area
+                                 </td>
+                              <td class=" top ">
+                                 1 space per employee
+                                 </td>
+                              <td class=" top ">
+                                 1 space per vehicle operated on the grounds by the proprietary institution
+                                 </td>
+                           </tr>
+                           <tr>
+                              <td class=" top ">
+                                 Churches, chapels and other places of worship
+                                 </td>
+                              <td class=" top ">
+                                 1 space per 35 sq. ft. of net assembly area used simultaneously for assembly purposes
+                                 </td>
+                              <td class=" top "></td>
+                              <td class=" top ">
+                                 When a school bus is kept, there can be a reduction of 2 spaces for bus
+                                 </td>
+                           </tr>
+                           <tr>
+                              <td class=" top ">
+                                 Libraries, museums, art galleries or similar uses
+                                 </td>
+                              <td class=" top ">
+                                 1 space per 300 sq. ft. of gross floor area
+                                 </td>
+                              <td class=" top ">
+                                 1 space per 2 employees
+                                 </td>
+                              <td class=" top "></td>
+                           </tr>
+                           <tr>
+                              <td class=" top ">
+                                 Mortuary and funeral homes
+                                 </td>
+                              <td class=" top ">
+                                 1 space per 35 sq. ft. of net assembly area
+                                 </td>
+                              <td class=" top ">
+                                 1 space per employee
+                                 </td>
+                              <td class=" top "></td>
+                           </tr>
+                           <tr>
+                              <td colspan="4" class=" top ">
+                                 Public utilities/telecommunications
+                                 </td>
+                           </tr>
+                           <tr>
+                              <td class=" top ">
+                                 Public utility facilities, including but not limited to electric, gas, telephone,
+                                 and telecommunication facilities not having business offices on the premises; includes
+                                 cell towers and well sites.
+                                 </td>
+                              <td class=" top "></td>
+                              <td class=" top ">
+                                 1 space per 2 employees
+                                 </td>
+                              <td class=" top ">
+                                 1 space per vehicle kept in connection with the use
+                                 </td>
+                           </tr>
+                        </tbody>
+                     </table>

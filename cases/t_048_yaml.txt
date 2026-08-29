@@ -1,0 +1,234 @@
+Use Type:
+  General commercial/retail uses:
+    Auditoriums, exhibition halls, theaters, movie theaters and similar places with fixed seats:
+      Per Square Foot or Unit: 1 space per 3 seats
+      Per Employee or Student: ''
+      Other Criteria: ''
+    Auditoriums, exhibition halls, theaters, movie theaters, and similar places without fixed seats:
+      Per Square Foot or Unit: 1 space per 30 sq. ft. of net assembly area
+      Per Employee or Student: ''
+      Other Criteria: ''
+    Automobile repair and service shops:
+      Per Square Foot or Unit: 1 space per 150 sq. ft. gross floor area
+      Per Employee or Student: ''
+      Other Criteria: ''
+    Automobile service stations:
+      Per Square Foot or Unit: 4 spaces
+      Per Employee or Student: ''
+      Other Criteria: 4 spaces per service bay
+    Automobile washing and cleaning establishments, except self-serve:
+      Per Square Foot or Unit: ''
+      Per Employee or Student: 1 space per 3 employees of largest shift
+      Other Criteria: 2 spaces per stall
+    Automobile washing and cleaning establishments, self-serve:
+      Per Square Foot or Unit: ''
+      Per Employee or Student: ''
+      Other Criteria: 2 spaces per stall
+    Banks, savings and loans and other financial institutions*:
+      Per Square Foot or Unit: 1 space per 250 sq. ft. gross floor area
+      Per Employee or Student: ''
+      Other Criteria: Vehicle stacking for 6 vehicles prior to the drive-up window or as required by the queueing analysis.
+    Barbershops and beauty shops and similar uses:
+      Per Square Foot or Unit: 1 space per 150 sq. ft. gross floor area
+      Per Employee or Student: ''
+      Other Criteria: ''
+    Clubs, discos, ballrooms, cabarets, cocktail lounges, dance halls, lodges and incidental dancing areas, and similar facilities where dancing is the principal use:
+      Per Square Foot or Unit: 1 space per 30 sq. ft. of dance floor area
+      Per Employee or Student: ''
+      Other Criteria: ''
+    General retail including but not limited to freestanding convenience markets, liquor stores and supermarkets:
+      Per Square Foot or Unit: 1 space per 200 sq. ft. of gross floor area
+      Per Employee or Student: ''
+      Other Criteria: ''
+    General retail including but not limited to neighborhood, community and regional shopping centers, including those with restaurants:
+      Per Square Foot or Unit: 5½ spaces per 1,000 sq ft. of net leasable floor area
+      Per Employee or Student: ''
+      Other Criteria: ''
+    Furniture, drapery, plumbing, floor covering and appliance stores:
+      Per Square Foot or Unit: 1 space per 750 sq. ft. of sale or display area
+      Per Employee or Student: ''
+      Other Criteria: ''
+    Laundries, self-serve:
+      Per Square Foot or Unit: 1 space per 250 sq. ft. of gross floor area
+      Per Employee or Student: ''
+      Other Criteria: ''
+    Mini-warehouses, self-storage:
+      Per Square Foot or Unit: ''
+      Per Employee or Student: 2 spaces per 3 employees
+      Other Criteria: ''
+    Professional business office:
+      Per Square Foot or Unit: 1 space per 200 sq. ft. of net leasable floor area
+      Per Employee or Student: ''
+      Other Criteria: ''
+    Restaurants, drive-throughs, walk-ups, cafes, lounges, bars and other establishments for the sale and consumption on the premises of food and beverages:
+      Per Square Foot or Unit: 1 space per 45 sq. ft. of serving area
+      Per Employee or Student: 1 space per 2 employees
+      Other Criteria: Stacking for 6 vehicles prior to the menu board or as required by the queueing analysis.
+    Uncovered sales area, including areas for new or used automobiles, boat or trailer sales, lumber or building materials yards, plant nurseries or similar uses:
+      Per Square Foot or Unit: 1 space per 1,000 sq. ft. of uncovered sales area to a maximum of 20 spaces
+      Per Employee or Student: 1 space per employee
+      Other Criteria: ''
+    Video arcades:
+      Per Square Foot or Unit: 1 space per 250 sq. ft. of gross floor area
+      Per Employee or Student: ''
+      Other Criteria: ''
+  Recreational uses:
+    Billiard and pool rooms:
+      Per Square Foot or Unit: ''
+      Per Employee or Student: ''
+      Other Criteria: 1 space per 250 sq. ft. of gross floor area
+    Bowling alleys:
+      Per Square Foot or Unit: ''
+      Per Employee or Student: ''
+      Other Criteria: 4 spaces per lane
+    Driving ranges:
+      Per Square Foot or Unit: ''
+      Per Employee or Student: ''
+      Other Criteria: 1 space per tee
+    Game courts, tennis courts, racquetball clubs:
+      Per Square Foot or Unit: ''
+      Per Employee or Student: ''
+      Other Criteria: 1 space per court
+    Golf courses:
+      Per Square Foot or Unit: ''
+      Per Employee or Student: ''
+      Other Criteria: 6 spaces per hole
+    Golf course, miniature:
+      Per Square Foot or Unit: ''
+      Per Employee or Student: ''
+      Other Criteria: 3 spaces per hole
+    Gymnasiums, spas and health studios:
+      Per Square Foot or Unit: 1 space per 200 sq. ft. of gross floor area
+      Per Employee or Student: ''
+      Other Criteria: ''
+    Parks and recreational uses:
+      Per Square Foot or Unit: 1 space per 8,000 sq. ft. of active recreational area within a park
+      Per Employee or Student: ''
+      Other Criteria: 1 space per acre of passive recreational area within a park
+    Skating rinks, ice and roller:
+      Per Square Foot or Unit: 1 space per 20 sq. ft. of seating area, and 1 space per 250 sq. ft. of skating area
+      Per Employee or Student: ''
+      Other Criteria: ''
+    Stadiums and sports arenas:
+      Per Square Foot or Unit: 1 space per 30 sq. ft. of net assembly area
+      Per Employee or Student: ''
+      Other Criteria: ''
+    Swimming pools, commercial:
+      Per Square Foot or Unit: 1 space per 250 sq. ft. of pool area
+      Per Employee or Student: ''
+      Other Criteria: ''
+  Industrial uses:
+    Industrial uses:
+      Per Square Foot or Unit: 'If number of workers cannot be determined: 1 space per 250 sq. ft. of office area, plus 1 space per 500 sq. ft. of fabrication area, plus 1 space per 1,000 sq. ft. of storage area, and 1 space per 500 sq. ft. of floor plan which is uncommitted to any type of use'
+      Per Employee or Student: 'If number of workers can be determined: 1 space per 2 employees of largest shift, and 1 space per vehicle kept in connection with the use'
+      Other Criteria: ''
+    Manufacturing or repair plants maintaining more than one shift of workers:
+      Per Square Foot or Unit: ''
+      Per Employee or Student: 2 spaces per 3 employees on each of the two largest shifts
+      Other Criteria: 1 space per company operated vehicle
+    Salvage yards and junkyards, including but not limited to automobile dismantling, auto-wrecking yards, storage yards, scrap metal processing and similar uses:
+      Per Square Foot or Unit: 1 space per 5,000 sq. ft. of lot area
+      Per Employee or Student: ''
+      Other Criteria: ''
+    Warehouses and wholesaling:
+      Per Square Foot or Unit: 1 space per 2,000 sq. ft. of gross floor area
+      Per Employee or Student: ''
+      Other Criteria: ''
+  Residential uses:
+    Single-family:
+      Per Square Foot or Unit: 2 spaces per dwelling unit
+      Per Employee or Student: ''
+      Other Criteria: ''
+  Multiple-family:
+    Single-bedroom or studio dwelling unit:
+      Per Square Foot or Unit: 1.25 spaces per unit
+      Per Employee or Student: ''
+      Other Criteria: ''
+    Row 36:
+      Per Square Foot or Unit: Two bedrooms per dwelling unit
+      Per Employee or Student: 2.25 spaces per unit
+      Other Criteria: 1 space per employee
+    Three or more bedrooms per dwelling unit:
+      Per Square Foot or Unit: 2.75 spaces per unit
+      Per Employee or Student: ''
+      Other Criteria: ''
+  Planned residential development (see section 120.04.050 ):
+    Single-bedroom dwelling unit:
+      Per Square Foot or Unit: 1.5 spaces per unit
+      Per Employee or Student: ''
+      Other Criteria: ''
+    Two or more bedroom dwelling unit:
+      Per Square Foot or Unit: 2.5 spaces per unit
+      Per Employee or Student: ''
+      Other Criteria: ''
+    Senior citizen (parking spaces shall be located no more than 150 feet from the unit they serve):
+      Per Square Foot or Unit: Refer to single-family and multiple-family residential requirements stated under residential uses
+      Per Employee or Student: ''
+      Other Criteria: ''
+    Mobilehome parks:
+      Per Square Foot or Unit: 2 spaces per travel trailer or mobilehome space, spaces may be tandem
+      Per Employee or Student: ''
+      Other Criteria: 1 guest space per 8 mobilehome spaces
+    Lodging uses (all parking must be within 150 feet of the use served):
+      Per Square Foot or Unit: ''
+      Per Employee or Student: ''
+      Other Criteria: ''
+    Boardinghouses, lodginghouses or roominghouses, dormitories, fraternity and sorority houses:
+      Per Square Foot or Unit: ''
+      Per Employee or Student: ''
+      Other Criteria: 1 space per 2 beds
+    Hotels and motels:
+      Per Square Foot or Unit: ''
+      Per Employee or Student: ''
+      Other Criteria: 1 space per room, and 2 spaces per resident manager
+    Recreational vehicle parks:
+      Per Square Foot or Unit: 1 space per recreation vehicle site
+      Per Employee or Student: ''
+      Other Criteria: 1 visitor space per 5 recreational vehicle sites
+  Medical uses:
+    Sanitariums, convalescent homes, children's homes, asylums, and nursing homes or similar institutions:
+      Per Square Foot or Unit: ''
+      Per Employee or Student: 1 space per 3 employees
+      Other Criteria: 1 space per 3 beds, and 1 space per vehicle owned and operated by the institution
+    Hospitals and clinics (a hospital may have a parking area more than 150 feet from the building to be served as long as an automatic parking gate or similar method of vehicular control is installed):
+      Per Square Foot or Unit: ''
+      Per Employee or Student: 1 space per staff member of largest shift
+      Other Criteria: 1 space per 2 patient's beds, and 1 space per vehicle owned and operated by hospital or clinic
+    Medical and dental offices, clinics, and medical business offices:
+      Per Square Foot or Unit: 1 space per 200 sq. ft. of net leasable floor area
+      Per Employee or Student: ''
+      Other Criteria: ''
+    Veterinary hospitals and clinics:
+      Per Square Foot or Unit: 1 space per 300 sq. ft. of gross floor area
+      Per Employee or Student: ''
+      Other Criteria: ''
+  Civic/religious institutions:
+    Auditoriums with fixed seats:
+      Per Square Foot or Unit: 1 space per 3 seats
+      Per Employee or Student: ''
+      Other Criteria: ''
+    Auditoriums without fixed seats:
+      Per Square Foot or Unit: 1 space per 30 sq. ft. of net assembly area in the assembly hall
+      Per Employee or Student: ''
+      Other Criteria: ''
+    Cemeteries and crematories, mausoleums, columbariums and funeral establishments when incidental to a cemetery:
+      Per Square Foot or Unit: 1 space per 30 sq. ft of net assembly room area
+      Per Employee or Student: 1 space per employee
+      Other Criteria: 1 space per vehicle operated on the grounds by the proprietary institution
+    Churches, chapels and other places of worship:
+      Per Square Foot or Unit: 1 space per 35 sq. ft. of net assembly area used simultaneously for assembly purposes
+      Per Employee or Student: ''
+      Other Criteria: When a school bus is kept, there can be a reduction of 2 spaces for bus
+    Libraries, museums, art galleries or similar uses:
+      Per Square Foot or Unit: 1 space per 300 sq. ft. of gross floor area
+      Per Employee or Student: 1 space per 2 employees
+      Other Criteria: ''
+    Mortuary and funeral homes:
+      Per Square Foot or Unit: 1 space per 35 sq. ft. of net assembly area
+      Per Employee or Student: 1 space per employee
+      Other Criteria: ''
+  Public utilities/telecommunications:
+    Public utility facilities, including but not limited to electric, gas, telephone, and telecommunication facilities not having business offices on the premises; includes cell towers and well sites.:
+      Per Square Foot or Unit: ''
+      Per Employee or Student: 1 space per 2 employees
+      Other Criteria: 1 space per vehicle kept in connection with the use

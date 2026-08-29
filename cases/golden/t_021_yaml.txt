@@ -3,9 +3,10 @@
     'External buffer: 1, 2, 6 Front: 200'' min. Side: 100'' min. Rear: 100'' min.':
       OPTION 1:
         Row 1:
-          MINIMUM PERFORMANCE STANDARD PER 100 FEET > CANOPY TREES: '6'
-          MINIMUM PERFORMANCE STANDARD PER 100 FEET > UNDERSTORY TREES: '6'
-          MINIMUM PERFORMANCE STANDARD PER 100 FEET > SHRUBS/ PERENNIALS/ ORNAMENTAL GRASSES: '30'
+          MINIMUM PERFORMANCE STANDARD PER 100 FEET:
+            CANOPY TREES: '6'
+            UNDERSTORY TREES: '6'
+            SHRUBS/ PERENNIALS/ ORNAMENTAL GRASSES: '30'
       OPTION 2:
         A naturally forested area. Supplemental plantings shall be used to fill in existing gaps in the vegetation, meeting the requirements of Option 1.: {}
         Fifty (50) percent of each planting type shall be evergreen.: {}

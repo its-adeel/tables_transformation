@@ -4,81 +4,97 @@ TABLE 24-20-1 PARCEL SIZE AND DENSITY FOR RESIDENTIAL ZONES:
       FR-1:
         Parcel Area (min.) [4] [5]: 1 acre
         Parcel Width (min.) [1] [4]: 65 ft.
-        Residential Density [2] > Min.: '-'
-        Residential Density [2] > Max. [3]: 1 unit per parcel
+        Residential Density [2]:
+          Min.: '-'
+          Max. [3]: 1 unit per parcel
       FR-2:
         Parcel Area (min.) [4] [5]: 2 acres
         Parcel Width (min.) [1] [4]: 65 ft.
-        Residential Density [2] > Min.: '-'
-        Residential Density [2] > Max. [3]: 1 unit per parcel
+        Residential Density [2]:
+          Min.: '-'
+          Max. [3]: 1 unit per parcel
       FR-5:
         Parcel Area (min.) [4] [5]: 5 acres
         Parcel Width (min.) [1] [4]: 65 ft.
-        Residential Density [2] > Min.: '-'
-        Residential Density [2] > Max. [3]: 1 unit per parcel
+        Residential Density [2]:
+          Min.: '-'
+          Max. [3]: 1 unit per parcel
       FR-10:
         Parcel Area (min.) [4] [5]: 10 acres
         Parcel Width (min.) [1] [4]: 65 ft.
-        Residential Density [2] > Min.: '-'
-        Residential Density [2] > Max. [3]: 1 unit per parcel
+        Residential Density [2]:
+          Min.: '-'
+          Max. [3]: 1 unit per parcel
       FR-20/FCR-20:
         Parcel Area (min.) [4] [5]: 20 acres
         Parcel Width (min.) [1] [4]: 65 ft.
-        Residential Density [2] > Min.: '-'
-        Residential Density [2] > Max. [3]: 1 unit per parcel
+        Residential Density [2]:
+          Min.: '-'
+          Max. [3]: 1 unit per parcel
       FR-40:
         Parcel Area (min.) [4] [5]: 40 acres
         Parcel Width (min.) [1] [4]: 65 ft.
-        Residential Density [2] > Min.: '-'
-        Residential Density [2] > Max. [3]: 1 unit per parcel
+        Residential Density [2]:
+          Min.: '-'
+          Max. [3]: 1 unit per parcel
       RR-5:
         Parcel Area (min.) [4] [5]: 5 acres
         Parcel Width (min.) [1] [4]: 65 ft.
-        Residential Density [2] > Min.: '-'
-        Residential Density [2] > Max. [3]: 1 unit per parcel
+        Residential Density [2]:
+          Min.: '-'
+          Max. [3]: 1 unit per parcel
       RR-10/RCR-10:
         Parcel Area (min.) [4] [5]: 10 acres
         Parcel Width (min.) [1] [4]: 65 ft.
-        Residential Density [2] > Min.: '-'
-        Residential Density [2] > Max. [3]: 1 unit per parcel
+        Residential Density [2]:
+          Min.: '-'
+          Max. [3]: 1 unit per parcel
       VLDR:
         Parcel Area (min.) [4] [5]: 1 acre
         Parcel Width (min.) [1] [4]: 65 ft.
-        Residential Density [2] > Min.: '-'
-        Residential Density [2] > Max. [3]: 1 unit per parcel
+        Residential Density [2]:
+          Min.: '-'
+          Max. [3]: 1 unit per parcel
       VLDR-2.5:
         Parcel Area (min.) [4] [5]: 2.5 acres
         Parcel Width (min.) [1] [4]: 65 ft.
-        Residential Density [2] > Min.: '-'
-        Residential Density [2] > Max. [3]: 1 unit per parcel
+        Residential Density [2]:
+          Min.: '-'
+          Max. [3]: 1 unit per parcel
       VLDCR:
         Parcel Area (min.) [4] [5]: 1 acre
         Parcel Width (min.) [1] [4]: 65 ft.
-        Residential Density [2] > Min.: '-'
-        Residential Density [2] > Max. [3]: 1 unit per parcel
+        Residential Density [2]:
+          Min.: '-'
+          Max. [3]: 1 unit per parcel
       LDR:
         Parcel Area (min.) [4] [5]: 13,500 sq. ft.
         Parcel Width (min.) [1] [4]: 50 ft.
-        Residential Density [2] > Min.: '-'
-        Residential Density [2] > Max. [3]: 1 unit per parcel
+        Residential Density [2]:
+          Min.: '-'
+          Max. [3]: 1 unit per parcel
       MDR:
         Parcel Area (min.) [4] [5]: 6,000 sq. ft.
         Parcel Width (min.) [1] [4]: 50 ft.
-        Residential Density [2] > Min.: '-'
-        Residential Density [2] > Max. [3]: 1 unit per parcel
+        Residential Density [2]:
+          Min.: '-'
+          Max. [3]: 1 unit per parcel
     Multi-Family Residential Zones:
       MHDR:
         Parcel Area (min.) [4] [5]: 3,500 sq. ft.
         Parcel Width (min.) [1] [4]: 35 ft.
-        Residential Density [2] > Min.: '-'
-        Residential Density [2] > Max. [3]: 14 units per acre
+        Residential Density [2]:
+          Min.: '-'
+          Max. [3]: 14 units per acre
       HDR:
         Parcel Area (min.) [4] [5]: 3,500 sq. ft.
         Parcel Width (min.) [1] [4]: 35 ft.
-        Residential Density [2] > Min.: 14 units per acre
-        Residential Density [2] > Max. [3]: 20 units per acre
+        Residential Density [2]:
+          Min.: 14 units per acre
+          Max. [3]: 20 units per acre
       VHDR:
         Parcel Area (min.) [4] [5]: 3,500 sq. ft.
         Parcel Width (min.) [1] [4]: 35 ft.
-        Residential Density [2] > Min.: 20 units per acre
-        Residential Density [2] > Max. [3]: 30 units per acre
+        Residential Density [2]:
+          Min.: 20 units per acre
+          Max. [3]: 30 units per acre

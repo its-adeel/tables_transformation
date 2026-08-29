@@ -1,1326 +1,1686 @@
 Use Regulations:
   Accessory Uses:
-    Zoning Districts > Residential > N-1: P
-    Zoning Districts > Residential > R-1: P
-    Zoning Districts > Residential > R-2: P
-    Zoning Districts > Residential > R-3: P
-    Zoning Districts > Residential > M-P: P
-    Zoning Districts > Non-Residential > B-1: P
-    Zoning Districts > Non-Residential > B-2: P
-    Zoning Districts > Non-Residential > B-3: P
-    Zoning Districts > Non-Residential > M-1: P
+    Zoning Districts:
+      Residential:
+        N-1: P
+        R-1: P
+        R-2: P
+        R-3: P
+        M-P: P
+      Non-Residential:
+        B-1: P
+        B-2: P
+        B-3: P
+        M-1: P
     Use Standards Sec. No.: 46-119
   Home Occupations:
-    Zoning Districts > Residential > N-1: P
-    Zoning Districts > Residential > R-1: P
-    Zoning Districts > Residential > R-2: P
-    Zoning Districts > Residential > R-3: P
-    Zoning Districts > Residential > M-P: P
-    Zoning Districts > Non-Residential > B-1: P
-    Zoning Districts > Non-Residential > B-2: P
-    Zoning Districts > Non-Residential > B-3: P
-    Zoning Districts > Non-Residential > M-1: P
+    Zoning Districts:
+      Residential:
+        N-1: P
+        R-1: P
+        R-2: P
+        R-3: P
+        M-P: P
+      Non-Residential:
+        B-1: P
+        B-2: P
+        B-3: P
+        M-1: P
     Use Standards Sec. No.: 46-134
   Temporary Uses:
-    Zoning Districts > Residential > N-1: P
-    Zoning Districts > Residential > R-1: P
-    Zoning Districts > Residential > R-2: P
-    Zoning Districts > Residential > R-3: P
-    Zoning Districts > Residential > M-P: P
-    Zoning Districts > Non-Residential > B-1: P
-    Zoning Districts > Non-Residential > B-2: P
-    Zoning Districts > Non-Residential > B-3: P
-    Zoning Districts > Non-Residential > M-1: P
+    Zoning Districts:
+      Residential:
+        N-1: P
+        R-1: P
+        R-2: P
+        R-3: P
+        M-P: P
+      Non-Residential:
+        B-1: P
+        B-2: P
+        B-3: P
+        M-1: P
     Use Standards Sec. No.: 46-120
   Agricultural Uses:
     Agricultural Processing:
-      Zoning Districts > Residential > N-1: ''
-      Zoning Districts > Residential > R-1: ''
-      Zoning Districts > Residential > R-2: ''
-      Zoning Districts > Residential > R-3: ''
-      Zoning Districts > Residential > M-P: ''
-      Zoning Districts > Non-Residential > B-1: ''
-      Zoning Districts > Non-Residential > B-2: ''
-      Zoning Districts > Non-Residential > B-3: ''
-      Zoning Districts > Non-Residential > M-1: C
+      Zoning Districts:
+        Residential:
+          N-1: ''
+          R-1: ''
+          R-2: ''
+          R-3: ''
+          M-P: ''
+        Non-Residential:
+          B-1: ''
+          B-2: ''
+          B-3: ''
+          M-1: C
       Use Standards Sec. No.: ''
     Agriculture, General:
-      Zoning Districts > Residential > N-1: P
-      Zoning Districts > Residential > R-1: ''
-      Zoning Districts > Residential > R-2: ''
-      Zoning Districts > Residential > R-3: ''
-      Zoning Districts > Residential > M-P: ''
-      Zoning Districts > Non-Residential > B-1: ''
-      Zoning Districts > Non-Residential > B-2: ''
-      Zoning Districts > Non-Residential > B-3: ''
-      Zoning Districts > Non-Residential > M-1: ''
+      Zoning Districts:
+        Residential:
+          N-1: P
+          R-1: ''
+          R-2: ''
+          R-3: ''
+          M-P: ''
+        Non-Residential:
+          B-1: ''
+          B-2: ''
+          B-3: ''
+          M-1: ''
       Use Standards Sec. No.: 46-128
     Agriculture, Limited:
-      Zoning Districts > Residential > N-1: P
-      Zoning Districts > Residential > R-1: ''
-      Zoning Districts > Residential > R-2: ''
-      Zoning Districts > Residential > R-3: ''
-      Zoning Districts > Residential > M-P: ''
-      Zoning Districts > Non-Residential > B-1: ''
-      Zoning Districts > Non-Residential > B-2: ''
-      Zoning Districts > Non-Residential > B-3: ''
-      Zoning Districts > Non-Residential > M-1: C
+      Zoning Districts:
+        Residential:
+          N-1: P
+          R-1: ''
+          R-2: ''
+          R-3: ''
+          M-P: ''
+        Non-Residential:
+          B-1: ''
+          B-2: ''
+          B-3: ''
+          M-1: C
       Use Standards Sec. No.: ''
     Stable, Private:
-      Zoning Districts > Residential > N-1: P
-      Zoning Districts > Residential > R-1: C
-      Zoning Districts > Residential > R-2: ''
-      Zoning Districts > Residential > R-3: ''
-      Zoning Districts > Residential > M-P: ''
-      Zoning Districts > Non-Residential > B-1: ''
-      Zoning Districts > Non-Residential > B-2: ''
-      Zoning Districts > Non-Residential > B-3: ''
-      Zoning Districts > Non-Residential > M-1: ''
+      Zoning Districts:
+        Residential:
+          N-1: P
+          R-1: C
+          R-2: ''
+          R-3: ''
+          M-P: ''
+        Non-Residential:
+          B-1: ''
+          B-2: ''
+          B-3: ''
+          M-1: ''
       Use Standards Sec. No.: ''
   Residential Uses:
     Apartment:
-      Zoning Districts > Residential > N-1: ''
-      Zoning Districts > Residential > R-1: ''
-      Zoning Districts > Residential > R-2: ''
-      Zoning Districts > Residential > R-3: P
-      Zoning Districts > Residential > M-P: ''
-      Zoning Districts > Non-Residential > B-1: ''
-      Zoning Districts > Non-Residential > B-2: P
-      Zoning Districts > Non-Residential > B-3: ''
-      Zoning Districts > Non-Residential > M-1: ''
+      Zoning Districts:
+        Residential:
+          N-1: ''
+          R-1: ''
+          R-2: ''
+          R-3: P
+          M-P: ''
+        Non-Residential:
+          B-1: ''
+          B-2: P
+          B-3: ''
+          M-1: ''
       Use Standards Sec. No.: 46-121
     Assisted Living:
-      Zoning Districts > Residential > N-1: P
-      Zoning Districts > Residential > R-1: ''
-      Zoning Districts > Residential > R-2: ''
-      Zoning Districts > Residential > R-3: P
-      Zoning Districts > Residential > M-P: ''
-      Zoning Districts > Non-Residential > B-1: ''
-      Zoning Districts > Non-Residential > B-2: P
-      Zoning Districts > Non-Residential > B-3: C
-      Zoning Districts > Non-Residential > M-1: ''
+      Zoning Districts:
+        Residential:
+          N-1: P
+          R-1: ''
+          R-2: ''
+          R-3: P
+          M-P: ''
+        Non-Residential:
+          B-1: ''
+          B-2: P
+          B-3: C
+          M-1: ''
       Use Standards Sec. No.: ''
     Boardinghouse:
-      Zoning Districts > Residential > N-1: ''
-      Zoning Districts > Residential > R-1: ''
-      Zoning Districts > Residential > R-2: P
-      Zoning Districts > Residential > R-3: P
-      Zoning Districts > Residential > M-P: ''
-      Zoning Districts > Non-Residential > B-1: ''
-      Zoning Districts > Non-Residential > B-2: ''
-      Zoning Districts > Non-Residential > B-3: ''
-      Zoning Districts > Non-Residential > M-1: ''
+      Zoning Districts:
+        Residential:
+          N-1: ''
+          R-1: ''
+          R-2: P
+          R-3: P
+          M-P: ''
+        Non-Residential:
+          B-1: ''
+          B-2: ''
+          B-3: ''
+          M-1: ''
       Use Standards Sec. No.: ''
     Duplex:
-      Zoning Districts > Residential > N-1: ''
-      Zoning Districts > Residential > R-1: ''
-      Zoning Districts > Residential > R-2: P
-      Zoning Districts > Residential > R-3: P
-      Zoning Districts > Residential > M-P: ''
-      Zoning Districts > Non-Residential > B-1: ''
-      Zoning Districts > Non-Residential > B-2: ''
-      Zoning Districts > Non-Residential > B-3: ''
-      Zoning Districts > Non-Residential > M-1: ''
+      Zoning Districts:
+        Residential:
+          N-1: ''
+          R-1: ''
+          R-2: P
+          R-3: P
+          M-P: ''
+        Non-Residential:
+          B-1: ''
+          B-2: ''
+          B-3: ''
+          M-1: ''
       Use Standards Sec. No.: ''
     Ground Floor Dwelling Units:
-      Zoning Districts > Residential > N-1: ''
-      Zoning Districts > Residential > R-1: ''
-      Zoning Districts > Residential > R-2: ''
-      Zoning Districts > Residential > R-3: ''
-      Zoning Districts > Residential > M-P: ''
-      Zoning Districts > Non-Residential > B-1: ''
-      Zoning Districts > Non-Residential > B-2: P
-      Zoning Districts > Non-Residential > B-3: ''
-      Zoning Districts > Non-Residential > M-1: ''
+      Zoning Districts:
+        Residential:
+          N-1: ''
+          R-1: ''
+          R-2: ''
+          R-3: ''
+          M-P: ''
+        Non-Residential:
+          B-1: ''
+          B-2: P
+          B-3: ''
+          M-1: ''
       Use Standards Sec. No.: 46-148
     Group Home, Limited:
-      Zoning Districts > Residential > N-1: P
-      Zoning Districts > Residential > R-1: P
-      Zoning Districts > Residential > R-2: P
-      Zoning Districts > Residential > R-3: P
-      Zoning Districts > Residential > M-P: P
-      Zoning Districts > Non-Residential > B-1: ''
-      Zoning Districts > Non-Residential > B-2: ''
-      Zoning Districts > Non-Residential > B-3: ''
-      Zoning Districts > Non-Residential > M-1: ''
+      Zoning Districts:
+        Residential:
+          N-1: P
+          R-1: P
+          R-2: P
+          R-3: P
+          M-P: P
+        Non-Residential:
+          B-1: ''
+          B-2: ''
+          B-3: ''
+          M-1: ''
       Use Standards Sec. No.: 46-133
     Group Home, General:
-      Zoning Districts > Residential > N-1: ''
-      Zoning Districts > Residential > R-1: ''
-      Zoning Districts > Residential > R-2: ''
-      Zoning Districts > Residential > R-3: C
-      Zoning Districts > Residential > M-P: ''
-      Zoning Districts > Non-Residential > B-1: ''
-      Zoning Districts > Non-Residential > B-2: C
-      Zoning Districts > Non-Residential > B-3: ''
-      Zoning Districts > Non-Residential > M-1: ''
+      Zoning Districts:
+        Residential:
+          N-1: ''
+          R-1: ''
+          R-2: ''
+          R-3: C
+          M-P: ''
+        Non-Residential:
+          B-1: ''
+          B-2: C
+          B-3: ''
+          M-1: ''
       Use Standards Sec. No.: 46-133
     Group Residential:
-      Zoning Districts > Residential > N-1: ''
-      Zoning Districts > Residential > R-1: ''
-      Zoning Districts > Residential > R-2: ''
-      Zoning Districts > Residential > R-3: C
-      Zoning Districts > Residential > M-P: ''
-      Zoning Districts > Non-Residential > B-1: ''
-      Zoning Districts > Non-Residential > B-2: C
-      Zoning Districts > Non-Residential > B-3: ''
-      Zoning Districts > Non-Residential > M-1: ''
+      Zoning Districts:
+        Residential:
+          N-1: ''
+          R-1: ''
+          R-2: ''
+          R-3: C
+          M-P: ''
+        Non-Residential:
+          B-1: ''
+          B-2: C
+          B-3: ''
+          M-1: ''
       Use Standards Sec. No.: ''
     Homeless Shelter (See Temporary Living Shelter):
-      Zoning Districts > Residential > N-1: ''
-      Zoning Districts > Residential > R-1: ''
-      Zoning Districts > Residential > R-2: ''
-      Zoning Districts > Residential > R-3: ''
-      Zoning Districts > Residential > M-P: ''
-      Zoning Districts > Non-Residential > B-1: ''
-      Zoning Districts > Non-Residential > B-2: ''
-      Zoning Districts > Non-Residential > B-3: ''
-      Zoning Districts > Non-Residential > M-1: ''
+      Zoning Districts:
+        Residential:
+          N-1: ''
+          R-1: ''
+          R-2: ''
+          R-3: ''
+          M-P: ''
+        Non-Residential:
+          B-1: ''
+          B-2: ''
+          B-3: ''
+          M-1: ''
       Use Standards Sec. No.: ''
     Manufactured Home Residential-Design:
-      Zoning Districts > Residential > N-1: ''
-      Zoning Districts > Residential > R-1: ''
-      Zoning Districts > Residential > R-2: ''
-      Zoning Districts > Residential > R-3: ''
-      Zoning Districts > Residential > M-P: P
-      Zoning Districts > Non-Residential > B-1: ''
-      Zoning Districts > Non-Residential > B-2: ''
-      Zoning Districts > Non-Residential > B-3: ''
-      Zoning Districts > Non-Residential > M-1: ''
+      Zoning Districts:
+        Residential:
+          N-1: ''
+          R-1: ''
+          R-2: ''
+          R-3: ''
+          M-P: P
+        Non-Residential:
+          B-1: ''
+          B-2: ''
+          B-3: ''
+          M-1: ''
       Use Standards Sec. No.: 46-138
     Manufactured Home:
-      Zoning Districts > Residential > N-1: ''
-      Zoning Districts > Residential > R-1: ''
-      Zoning Districts > Residential > R-2: ''
-      Zoning Districts > Residential > R-3: ''
-      Zoning Districts > Residential > M-P: P
-      Zoning Districts > Non-Residential > B-1: ''
-      Zoning Districts > Non-Residential > B-2: ''
-      Zoning Districts > Non-Residential > B-3: ''
-      Zoning Districts > Non-Residential > M-1: ''
+      Zoning Districts:
+        Residential:
+          N-1: ''
+          R-1: ''
+          R-2: ''
+          R-3: ''
+          M-P: P
+        Non-Residential:
+          B-1: ''
+          B-2: ''
+          B-3: ''
+          M-1: ''
       Use Standards Sec. No.: 46-138
     Mobile Home:
-      Zoning Districts > Residential > N-1: ''
-      Zoning Districts > Residential > R-1: ''
-      Zoning Districts > Residential > R-2: ''
-      Zoning Districts > Residential > R-3: ''
-      Zoning Districts > Residential > M-P: ''
-      Zoning Districts > Non-Residential > B-1: ''
-      Zoning Districts > Non-Residential > B-2: ''
-      Zoning Districts > Non-Residential > B-3: ''
-      Zoning Districts > Non-Residential > M-1: ''
+      Zoning Districts:
+        Residential:
+          N-1: ''
+          R-1: ''
+          R-2: ''
+          R-3: ''
+          M-P: ''
+        Non-Residential:
+          B-1: ''
+          B-2: ''
+          B-3: ''
+          M-1: ''
       Use Standards Sec. No.: ''
     Modular Home:
-      Zoning Districts > Residential > N-1: P
-      Zoning Districts > Residential > R-1: P
-      Zoning Districts > Residential > R-2: P
-      Zoning Districts > Residential > R-3: P
-      Zoning Districts > Residential > M-P: P
-      Zoning Districts > Non-Residential > B-1: ''
-      Zoning Districts > Non-Residential > B-2: ''
-      Zoning Districts > Non-Residential > B-3: ''
-      Zoning Districts > Non-Residential > M-1: ''
+      Zoning Districts:
+        Residential:
+          N-1: P
+          R-1: P
+          R-2: P
+          R-3: P
+          M-P: P
+        Non-Residential:
+          B-1: ''
+          B-2: ''
+          B-3: ''
+          M-1: ''
       Use Standards Sec. No.: ''
     Manufactured Home Park:
-      Zoning Districts > Residential > N-1: ''
-      Zoning Districts > Residential > R-1: ''
-      Zoning Districts > Residential > R-2: ''
-      Zoning Districts > Residential > R-3: ''
-      Zoning Districts > Residential > M-P: P
-      Zoning Districts > Non-Residential > B-1: ''
-      Zoning Districts > Non-Residential > B-2: ''
-      Zoning Districts > Non-Residential > B-3: ''
-      Zoning Districts > Non-Residential > M-1: ''
+      Zoning Districts:
+        Residential:
+          N-1: ''
+          R-1: ''
+          R-2: ''
+          R-3: ''
+          M-P: P
+        Non-Residential:
+          B-1: ''
+          B-2: ''
+          B-3: ''
+          M-1: ''
       Use Standards Sec. No.: ''
     Multifamily:
-      Zoning Districts > Residential > N-1: ''
-      Zoning Districts > Residential > R-1: ''
-      Zoning Districts > Residential > R-2: ''
-      Zoning Districts > Residential > R-3: P
-      Zoning Districts > Residential > M-P: ''
-      Zoning Districts > Non-Residential > B-1: ''
-      Zoning Districts > Non-Residential > B-2: P
-      Zoning Districts > Non-Residential > B-3: ''
-      Zoning Districts > Non-Residential > M-1: ''
+      Zoning Districts:
+        Residential:
+          N-1: ''
+          R-1: ''
+          R-2: ''
+          R-3: P
+          M-P: ''
+        Non-Residential:
+          B-1: ''
+          B-2: P
+          B-3: ''
+          M-1: ''
       Use Standards Sec. No.: 46-121
     Non-Ground Floor Dwelling Units:
-      Zoning Districts > Residential > N-1: ''
-      Zoning Districts > Residential > R-1: ''
-      Zoning Districts > Residential > R-2: ''
-      Zoning Districts > Residential > R-3: ''
-      Zoning Districts > Residential > M-P: ''
-      Zoning Districts > Non-Residential > B-1: ''
-      Zoning Districts > Non-Residential > B-2: C
-      Zoning Districts > Non-Residential > B-3: C
-      Zoning Districts > Non-Residential > M-1: ''
+      Zoning Districts:
+        Residential:
+          N-1: ''
+          R-1: ''
+          R-2: ''
+          R-3: ''
+          M-P: ''
+        Non-Residential:
+          B-1: ''
+          B-2: C
+          B-3: C
+          M-1: ''
       Use Standards Sec. No.: 46-149
     Private Storage Buildings:
-      Zoning Districts > Residential > N-1: ''
-      Zoning Districts > Residential > R-1: ''
-      Zoning Districts > Residential > R-2: ''
-      Zoning Districts > Residential > R-3: ''
-      Zoning Districts > Residential > M-P: ''
-      Zoning Districts > Non-Residential > B-1: ''
-      Zoning Districts > Non-Residential > B-2: ''
-      Zoning Districts > Non-Residential > B-3: ''
-      Zoning Districts > Non-Residential > M-1: ''
+      Zoning Districts:
+        Residential:
+          N-1: ''
+          R-1: ''
+          R-2: ''
+          R-3: ''
+          M-P: ''
+        Non-Residential:
+          B-1: ''
+          B-2: ''
+          B-3: ''
+          M-1: ''
       Use Standards Sec. No.: 46-140
     Short Term Rental Housing Facilities:
-      Zoning Districts > Residential > N-1: P
-      Zoning Districts > Residential > R-1: P
-      Zoning Districts > Residential > R-2: P
-      Zoning Districts > Residential > R-3: P
-      Zoning Districts > Residential > M-P: P
-      Zoning Districts > Non-Residential > B-1: ''
-      Zoning Districts > Non-Residential > B-2: P
-      Zoning Districts > Non-Residential > B-3: ''
-      Zoning Districts > Non-Residential > M-1: ''
+      Zoning Districts:
+        Residential:
+          N-1: P
+          R-1: P
+          R-2: P
+          R-3: P
+          M-P: P
+        Non-Residential:
+          B-1: ''
+          B-2: P
+          B-3: ''
+          M-1: ''
       Use Standards Sec. No.: ''
     Single-Family, Detached:
-      Zoning Districts > Residential > N-1: P
-      Zoning Districts > Residential > R-1: P
-      Zoning Districts > Residential > R-2: P
-      Zoning Districts > Residential > R-3: P
-      Zoning Districts > Residential > M-P: P
-      Zoning Districts > Non-Residential > B-1: ''
-      Zoning Districts > Non-Residential > B-2: ''
-      Zoning Districts > Non-Residential > B-3: ''
-      Zoning Districts > Non-Residential > M-1: ''
+      Zoning Districts:
+        Residential:
+          N-1: P
+          R-1: P
+          R-2: P
+          R-3: P
+          M-P: P
+        Non-Residential:
+          B-1: ''
+          B-2: ''
+          B-3: ''
+          M-1: ''
       Use Standards Sec. No.: ''
     Temporary Living Shelter Facility:
-      Zoning Districts > Residential > N-1: ''
-      Zoning Districts > Residential > R-1: ''
-      Zoning Districts > Residential > R-2: ''
-      Zoning Districts > Residential > R-3: ''
-      Zoning Districts > Residential > M-P: ''
-      Zoning Districts > Non-Residential > B-1: ''
-      Zoning Districts > Non-Residential > B-2: ''
-      Zoning Districts > Non-Residential > B-3: C
-      Zoning Districts > Non-Residential > M-1: C
+      Zoning Districts:
+        Residential:
+          N-1: ''
+          R-1: ''
+          R-2: ''
+          R-3: ''
+          M-P: ''
+        Non-Residential:
+          B-1: ''
+          B-2: ''
+          B-3: C
+          M-1: C
       Use Standards Sec. No.: 46-152
     Transitional Living Facility:
-      Zoning Districts > Residential > N-1: ''
-      Zoning Districts > Residential > R-1: ''
-      Zoning Districts > Residential > R-2: ''
-      Zoning Districts > Residential > R-3: ''
-      Zoning Districts > Residential > M-P: ''
-      Zoning Districts > Non-Residential > B-1: ''
-      Zoning Districts > Non-Residential > B-2: ''
-      Zoning Districts > Non-Residential > B-3: C
-      Zoning Districts > Non-Residential > M-1: ''
+      Zoning Districts:
+        Residential:
+          N-1: ''
+          R-1: ''
+          R-2: ''
+          R-3: ''
+          M-P: ''
+        Non-Residential:
+          B-1: ''
+          B-2: ''
+          B-3: C
+          M-1: ''
       Use Standards Sec. No.: 46-144
     Warming Shelter (See Temporary Living Shelter):
-      Zoning Districts > Residential > N-1: ''
-      Zoning Districts > Residential > R-1: ''
-      Zoning Districts > Residential > R-2: ''
-      Zoning Districts > Residential > R-3: ''
-      Zoning Districts > Residential > M-P: ''
-      Zoning Districts > Non-Residential > B-1: ''
-      Zoning Districts > Non-Residential > B-2: ''
-      Zoning Districts > Non-Residential > B-3: ''
-      Zoning Districts > Non-Residential > M-1: ''
+      Zoning Districts:
+        Residential:
+          N-1: ''
+          R-1: ''
+          R-2: ''
+          R-3: ''
+          M-P: ''
+        Non-Residential:
+          B-1: ''
+          B-2: ''
+          B-3: ''
+          M-1: ''
       Use Standards Sec. No.: ''
     Work/Live Residential Units:
-      Zoning Districts > Residential > N-1: ''
-      Zoning Districts > Residential > R-1: ''
-      Zoning Districts > Residential > R-2: ''
-      Zoning Districts > Residential > R-3: ''
-      Zoning Districts > Residential > M-P: ''
-      Zoning Districts > Non-Residential > B-1: ''
-      Zoning Districts > Non-Residential > B-2: P
-      Zoning Districts > Non-Residential > B-3: ''
-      Zoning Districts > Non-Residential > M-1: ''
+      Zoning Districts:
+        Residential:
+          N-1: ''
+          R-1: ''
+          R-2: ''
+          R-3: ''
+          M-P: ''
+        Non-Residential:
+          B-1: ''
+          B-2: P
+          B-3: ''
+          M-1: ''
       Use Standards Sec. No.: 46-151
   Commercial Uses:
     Adult Entertainment Establishment:
-      Zoning Districts > Residential > N-1: ''
-      Zoning Districts > Residential > R-1: ''
-      Zoning Districts > Residential > R-2: ''
-      Zoning Districts > Residential > R-3: ''
-      Zoning Districts > Residential > M-P: ''
-      Zoning Districts > Non-Residential > B-1: ''
-      Zoning Districts > Non-Residential > B-2: ''
-      Zoning Districts > Non-Residential > B-3: ''
-      Zoning Districts > Non-Residential > M-1: ''
+      Zoning Districts:
+        Residential:
+          N-1: ''
+          R-1: ''
+          R-2: ''
+          R-3: ''
+          M-P: ''
+        Non-Residential:
+          B-1: ''
+          B-2: ''
+          B-3: ''
+          M-1: ''
       Use Standards Sec. No.: 46-122
     Agricultural Sales and Service:
-      Zoning Districts > Residential > N-1: ''
-      Zoning Districts > Residential > R-1: ''
-      Zoning Districts > Residential > R-2: ''
-      Zoning Districts > Residential > R-3: ''
-      Zoning Districts > Residential > M-P: ''
-      Zoning Districts > Non-Residential > B-1: ''
-      Zoning Districts > Non-Residential > B-2: P
-      Zoning Districts > Non-Residential > B-3: ''
-      Zoning Districts > Non-Residential > M-1: P
+      Zoning Districts:
+        Residential:
+          N-1: ''
+          R-1: ''
+          R-2: ''
+          R-3: ''
+          M-P: ''
+        Non-Residential:
+          B-1: ''
+          B-2: P
+          B-3: ''
+          M-1: P
       Use Standards Sec. No.: ''
     Animal Care, General:
-      Zoning Districts > Residential > N-1: ''
-      Zoning Districts > Residential > R-1: ''
-      Zoning Districts > Residential > R-2: ''
-      Zoning Districts > Residential > R-3: ''
-      Zoning Districts > Residential > M-P: ''
-      Zoning Districts > Non-Residential > B-1: ''
-      Zoning Districts > Non-Residential > B-2: C
-      Zoning Districts > Non-Residential > B-3: C
-      Zoning Districts > Non-Residential > M-1: P
+      Zoning Districts:
+        Residential:
+          N-1: ''
+          R-1: ''
+          R-2: ''
+          R-3: ''
+          M-P: ''
+        Non-Residential:
+          B-1: ''
+          B-2: C
+          B-3: C
+          M-1: P
       Use Standards Sec. No.: 46-136
     Animal Care, Limited:
-      Zoning Districts > Residential > N-1: ''
-      Zoning Districts > Residential > R-1: ''
-      Zoning Districts > Residential > R-2: ''
-      Zoning Districts > Residential > R-3: ''
-      Zoning Districts > Residential > M-P: ''
-      Zoning Districts > Non-Residential > B-1: ''
-      Zoning Districts > Non-Residential > B-2: P
-      Zoning Districts > Non-Residential > B-3: P
-      Zoning Districts > Non-Residential > M-1: P
+      Zoning Districts:
+        Residential:
+          N-1: ''
+          R-1: ''
+          R-2: ''
+          R-3: ''
+          M-P: ''
+        Non-Residential:
+          B-1: ''
+          B-2: P
+          B-3: P
+          M-1: P
       Use Standards Sec. No.: ''
     Bank or Financial Institution:
-      Zoning Districts > Residential > N-1: ''
-      Zoning Districts > Residential > R-1: ''
-      Zoning Districts > Residential > R-2: ''
-      Zoning Districts > Residential > R-3: ''
-      Zoning Districts > Residential > M-P: ''
-      Zoning Districts > Non-Residential > B-1: C
-      Zoning Districts > Non-Residential > B-2: P
-      Zoning Districts > Non-Residential > B-3: P
-      Zoning Districts > Non-Residential > M-1: ''
+      Zoning Districts:
+        Residential:
+          N-1: ''
+          R-1: ''
+          R-2: ''
+          R-3: ''
+          M-P: ''
+        Non-Residential:
+          B-1: C
+          B-2: P
+          B-3: P
+          M-1: ''
       Use Standards Sec. No.: ''
     Bar or Tavern:
-      Zoning Districts > Residential > N-1: ''
-      Zoning Districts > Residential > R-1: ''
-      Zoning Districts > Residential > R-2: ''
-      Zoning Districts > Residential > R-3: ''
-      Zoning Districts > Residential > M-P: ''
-      Zoning Districts > Non-Residential > B-1: ''
-      Zoning Districts > Non-Residential > B-2: P
-      Zoning Districts > Non-Residential > B-3: P
-      Zoning Districts > Non-Residential > M-1: ''
+      Zoning Districts:
+        Residential:
+          N-1: ''
+          R-1: ''
+          R-2: ''
+          R-3: ''
+          M-P: ''
+        Non-Residential:
+          B-1: ''
+          B-2: P
+          B-3: P
+          M-1: ''
       Use Standards Sec. No.: ''
     Bed and Breakfast:
-      Zoning Districts > Residential > N-1: C
-      Zoning Districts > Residential > R-1: C
-      Zoning Districts > Residential > R-2: C
-      Zoning Districts > Residential > R-3: C
-      Zoning Districts > Residential > M-P: C
-      Zoning Districts > Non-Residential > B-1: ''
-      Zoning Districts > Non-Residential > B-2: C
-      Zoning Districts > Non-Residential > B-3: C
-      Zoning Districts > Non-Residential > M-1: ''
+      Zoning Districts:
+        Residential:
+          N-1: C
+          R-1: C
+          R-2: C
+          R-3: C
+          M-P: C
+        Non-Residential:
+          B-1: ''
+          B-2: C
+          B-3: C
+          M-1: ''
       Use Standards Sec. No.: 46-124
     Car Wash:
-      Zoning Districts > Residential > N-1: ''
-      Zoning Districts > Residential > R-1: ''
-      Zoning Districts > Residential > R-2: ''
-      Zoning Districts > Residential > R-3: ''
-      Zoning Districts > Residential > M-P: ''
-      Zoning Districts > Non-Residential > B-1: ''
-      Zoning Districts > Non-Residential > B-2: P
-      Zoning Districts > Non-Residential > B-3: C
-      Zoning Districts > Non-Residential > M-1: P
+      Zoning Districts:
+        Residential:
+          N-1: ''
+          R-1: ''
+          R-2: ''
+          R-3: ''
+          M-P: ''
+        Non-Residential:
+          B-1: ''
+          B-2: P
+          B-3: C
+          M-1: P
       Use Standards Sec. No.: ''
     Construction Sales and Service:
-      Zoning Districts > Residential > N-1: ''
-      Zoning Districts > Residential > R-1: ''
-      Zoning Districts > Residential > R-2: ''
-      Zoning Districts > Residential > R-3: ''
-      Zoning Districts > Residential > M-P: ''
-      Zoning Districts > Non-Residential > B-1: ''
-      Zoning Districts > Non-Residential > B-2: P
-      Zoning Districts > Non-Residential > B-3: P
-      Zoning Districts > Non-Residential > M-1: P
+      Zoning Districts:
+        Residential:
+          N-1: ''
+          R-1: ''
+          R-2: ''
+          R-3: ''
+          M-P: ''
+        Non-Residential:
+          B-1: ''
+          B-2: P
+          B-3: P
+          M-1: P
       Use Standards Sec. No.: ''
     Day Care, Limited (5—10 individuals):
-      Zoning Districts > Residential > N-1: C
-      Zoning Districts > Residential > R-1: C
-      Zoning Districts > Residential > R-2: C
-      Zoning Districts > Residential > R-3: C
-      Zoning Districts > Residential > M-P: C
-      Zoning Districts > Non-Residential > B-1: ''
-      Zoning Districts > Non-Residential > B-2: ''
-      Zoning Districts > Non-Residential > B-3: ''
-      Zoning Districts > Non-Residential > M-1: ''
+      Zoning Districts:
+        Residential:
+          N-1: C
+          R-1: C
+          R-2: C
+          R-3: C
+          M-P: C
+        Non-Residential:
+          B-1: ''
+          B-2: ''
+          B-3: ''
+          M-1: ''
       Use Standards Sec. No.: 46-130
     Day Care, Commercial (11 or more):
-      Zoning Districts > Residential > N-1: ''
-      Zoning Districts > Residential > R-1: ''
-      Zoning Districts > Residential > R-2: ''
-      Zoning Districts > Residential > R-3: ''
-      Zoning Districts > Residential > M-P: ''
-      Zoning Districts > Non-Residential > B-1: ''
-      Zoning Districts > Non-Residential > B-2: P
-      Zoning Districts > Non-Residential > B-3: P
-      Zoning Districts > Non-Residential > M-1: C
+      Zoning Districts:
+        Residential:
+          N-1: ''
+          R-1: ''
+          R-2: ''
+          R-3: ''
+          M-P: ''
+        Non-Residential:
+          B-1: ''
+          B-2: P
+          B-3: P
+          M-1: C
       Use Standards Sec. No.: 46-130
     Catering:
-      Zoning Districts > Residential > N-1: ''
-      Zoning Districts > Residential > R-1: ''
-      Zoning Districts > Residential > R-2: ''
-      Zoning Districts > Residential > R-3: ''
-      Zoning Districts > Residential > M-P: ''
-      Zoning Districts > Non-Residential > B-1: ''
-      Zoning Districts > Non-Residential > B-2: ''
-      Zoning Districts > Non-Residential > B-3: P
-      Zoning Districts > Non-Residential > M-1: ''
+      Zoning Districts:
+        Residential:
+          N-1: ''
+          R-1: ''
+          R-2: ''
+          R-3: ''
+          M-P: ''
+        Non-Residential:
+          B-1: ''
+          B-2: ''
+          B-3: P
+          M-1: ''
       Use Standards Sec. No.: ''
     Food Store:
-      Zoning Districts > Residential > N-1: ''
-      Zoning Districts > Residential > R-1: ''
-      Zoning Districts > Residential > R-2: ''
-      Zoning Districts > Residential > R-3: ''
-      Zoning Districts > Residential > M-P: ''
-      Zoning Districts > Non-Residential > B-1: ''
-      Zoning Districts > Non-Residential > B-2: P
-      Zoning Districts > Non-Residential > B-3: P
-      Zoning Districts > Non-Residential > M-1: ''
+      Zoning Districts:
+        Residential:
+          N-1: ''
+          R-1: ''
+          R-2: ''
+          R-3: ''
+          M-P: ''
+        Non-Residential:
+          B-1: ''
+          B-2: P
+          B-3: P
+          M-1: ''
       Use Standards Sec. No.: ''
     Greenhouse, Nurseries:
-      Zoning Districts > Residential > N-1: P
-      Zoning Districts > Residential > R-1: ''
-      Zoning Districts > Residential > R-2: ''
-      Zoning Districts > Residential > R-3: ''
-      Zoning Districts > Residential > M-P: ''
-      Zoning Districts > Non-Residential > B-1: ''
-      Zoning Districts > Non-Residential > B-2: ''
-      Zoning Districts > Non-Residential > B-3: P
-      Zoning Districts > Non-Residential > M-1: P
+      Zoning Districts:
+        Residential:
+          N-1: P
+          R-1: ''
+          R-2: ''
+          R-3: ''
+          M-P: ''
+        Non-Residential:
+          B-1: ''
+          B-2: ''
+          B-3: P
+          M-1: P
       Use Standards Sec. No.: 46-132
     Health Club:
-      Zoning Districts > Residential > N-1: ''
-      Zoning Districts > Residential > R-1: ''
-      Zoning Districts > Residential > R-2: ''
-      Zoning Districts > Residential > R-3: ''
-      Zoning Districts > Residential > M-P: ''
-      Zoning Districts > Non-Residential > B-1: C
-      Zoning Districts > Non-Residential > B-2: P
-      Zoning Districts > Non-Residential > B-3: P
-      Zoning Districts > Non-Residential > M-1: ''
+      Zoning Districts:
+        Residential:
+          N-1: ''
+          R-1: ''
+          R-2: ''
+          R-3: ''
+          M-P: ''
+        Non-Residential:
+          B-1: C
+          B-2: P
+          B-3: P
+          M-1: ''
       Use Standards Sec. No.: ''
     Hotel, Motel or Tourist Court:
-      Zoning Districts > Residential > N-1: ''
-      Zoning Districts > Residential > R-1: ''
-      Zoning Districts > Residential > R-2: ''
-      Zoning Districts > Residential > R-3: ''
-      Zoning Districts > Residential > M-P: ''
-      Zoning Districts > Non-Residential > B-1: ''
-      Zoning Districts > Non-Residential > B-2: P
-      Zoning Districts > Non-Residential > B-3: P
-      Zoning Districts > Non-Residential > M-1: ''
+      Zoning Districts:
+        Residential:
+          N-1: ''
+          R-1: ''
+          R-2: ''
+          R-3: ''
+          M-P: ''
+        Non-Residential:
+          B-1: ''
+          B-2: P
+          B-3: P
+          M-1: ''
       Use Standards Sec. No.: ''
     Manufactured Home Sales:
-      Zoning Districts > Residential > N-1: ''
-      Zoning Districts > Residential > R-1: ''
-      Zoning Districts > Residential > R-2: ''
-      Zoning Districts > Residential > R-3: ''
-      Zoning Districts > Residential > M-P: ''
-      Zoning Districts > Non-Residential > B-1: ''
-      Zoning Districts > Non-Residential > B-2: ''
-      Zoning Districts > Non-Residential > B-3: ''
-      Zoning Districts > Non-Residential > M-1: C
+      Zoning Districts:
+        Residential:
+          N-1: ''
+          R-1: ''
+          R-2: ''
+          R-3: ''
+          M-P: ''
+        Non-Residential:
+          B-1: ''
+          B-2: ''
+          B-3: ''
+          M-1: C
       Use Standards Sec. No.: ''
     Marijuana Dispensary:
-      Zoning Districts > Residential > N-1: ''
-      Zoning Districts > Residential > R-1: ''
-      Zoning Districts > Residential > R-2: ''
-      Zoning Districts > Residential > R-3: ''
-      Zoning Districts > Residential > M-P: ''
-      Zoning Districts > Non-Residential > B-1: ''
-      Zoning Districts > Non-Residential > B-2: P
-      Zoning Districts > Non-Residential > B-3: ''
-      Zoning Districts > Non-Residential > M-1: ''
+      Zoning Districts:
+        Residential:
+          N-1: ''
+          R-1: ''
+          R-2: ''
+          R-3: ''
+          M-P: ''
+        Non-Residential:
+          B-1: ''
+          B-2: P
+          B-3: ''
+          M-1: ''
       Use Standards Sec. No.: 46-146
     Mobile Food Truck:
-      Zoning Districts > Residential > N-1: ''
-      Zoning Districts > Residential > R-1: ''
-      Zoning Districts > Residential > R-2: ''
-      Zoning Districts > Residential > R-3: ''
-      Zoning Districts > Residential > M-P: ''
-      Zoning Districts > Non-Residential > B-1: P
-      Zoning Districts > Non-Residential > B-2: P
-      Zoning Districts > Non-Residential > B-3: P
-      Zoning Districts > Non-Residential > M-1: P
+      Zoning Districts:
+        Residential:
+          N-1: ''
+          R-1: ''
+          R-2: ''
+          R-3: ''
+          M-P: ''
+        Non-Residential:
+          B-1: P
+          B-2: P
+          B-3: P
+          M-1: P
       Use Standards Sec. No.: ''
     Mobile Food Vending:
-      Zoning Districts > Residential > N-1: ''
-      Zoning Districts > Residential > R-1: ''
-      Zoning Districts > Residential > R-2: ''
-      Zoning Districts > Residential > R-3: ''
-      Zoning Districts > Residential > M-P: ''
-      Zoning Districts > Non-Residential > B-1: P
-      Zoning Districts > Non-Residential > B-2: P
-      Zoning Districts > Non-Residential > B-3: P
-      Zoning Districts > Non-Residential > M-1: P
+      Zoning Districts:
+        Residential:
+          N-1: ''
+          R-1: ''
+          R-2: ''
+          R-3: ''
+          M-P: ''
+        Non-Residential:
+          B-1: P
+          B-2: P
+          B-3: P
+          M-1: P
       Use Standards Sec. No.: ''
     Office, General:
-      Zoning Districts > Residential > N-1: ''
-      Zoning Districts > Residential > R-1: ''
-      Zoning Districts > Residential > R-2: ''
-      Zoning Districts > Residential > R-3: ''
-      Zoning Districts > Residential > M-P: ''
-      Zoning Districts > Non-Residential > B-1: P
-      Zoning Districts > Non-Residential > B-2: P
-      Zoning Districts > Non-Residential > B-3: P
-      Zoning Districts > Non-Residential > M-1: ''
+      Zoning Districts:
+        Residential:
+          N-1: ''
+          R-1: ''
+          R-2: ''
+          R-3: ''
+          M-P: ''
+        Non-Residential:
+          B-1: P
+          B-2: P
+          B-3: P
+          M-1: ''
       Use Standards Sec. No.: ''
     Parking Lot, Commercial:
-      Zoning Districts > Residential > N-1: ''
-      Zoning Districts > Residential > R-1: ''
-      Zoning Districts > Residential > R-2: ''
-      Zoning Districts > Residential > R-3: ''
-      Zoning Districts > Residential > M-P: ''
-      Zoning Districts > Non-Residential > B-1: P
-      Zoning Districts > Non-Residential > B-2: P
-      Zoning Districts > Non-Residential > B-3: P
-      Zoning Districts > Non-Residential > M-1: ''
+      Zoning Districts:
+        Residential:
+          N-1: ''
+          R-1: ''
+          R-2: ''
+          R-3: ''
+          M-P: ''
+        Non-Residential:
+          B-1: P
+          B-2: P
+          B-3: P
+          M-1: ''
       Use Standards Sec. No.: ''
     Print Shop:
-      Zoning Districts > Residential > N-1: ''
-      Zoning Districts > Residential > R-1: ''
-      Zoning Districts > Residential > R-2: ''
-      Zoning Districts > Residential > R-3: ''
-      Zoning Districts > Residential > M-P: ''
-      Zoning Districts > Non-Residential > B-1: C
-      Zoning Districts > Non-Residential > B-2: P
-      Zoning Districts > Non-Residential > B-3: P
-      Zoning Districts > Non-Residential > M-1: P
+      Zoning Districts:
+        Residential:
+          N-1: ''
+          R-1: ''
+          R-2: ''
+          R-3: ''
+          M-P: ''
+        Non-Residential:
+          B-1: C
+          B-2: P
+          B-3: P
+          M-1: P
       Use Standards Sec. No.: ''
     Recreation and Entertainment, Indoor:
-      Zoning Districts > Residential > N-1: ''
-      Zoning Districts > Residential > R-1: ''
-      Zoning Districts > Residential > R-2: ''
-      Zoning Districts > Residential > R-3: ''
-      Zoning Districts > Residential > M-P: ''
-      Zoning Districts > Non-Residential > B-1: C
-      Zoning Districts > Non-Residential > B-2: C
-      Zoning Districts > Non-Residential > B-3: P
-      Zoning Districts > Non-Residential > M-1: ''
+      Zoning Districts:
+        Residential:
+          N-1: ''
+          R-1: ''
+          R-2: ''
+          R-3: ''
+          M-P: ''
+        Non-Residential:
+          B-1: C
+          B-2: C
+          B-3: P
+          M-1: ''
       Use Standards Sec. No.: ''
     Recreation and Entertainment, Outdoor:
-      Zoning Districts > Residential > N-1: ''
-      Zoning Districts > Residential > R-1: ''
-      Zoning Districts > Residential > R-2: ''
-      Zoning Districts > Residential > R-3: ''
-      Zoning Districts > Residential > M-P: ''
-      Zoning Districts > Non-Residential > B-1: C
-      Zoning Districts > Non-Residential > B-2: C
-      Zoning Districts > Non-Residential > B-3: C
-      Zoning Districts > Non-Residential > M-1: ''
+      Zoning Districts:
+        Residential:
+          N-1: ''
+          R-1: ''
+          R-2: ''
+          R-3: ''
+          M-P: ''
+        Non-Residential:
+          B-1: C
+          B-2: C
+          B-3: C
+          M-1: ''
       Use Standards Sec. No.: 46-139
     Repair Service:
-      Zoning Districts > Residential > N-1: ''
-      Zoning Districts > Residential > R-1: ''
-      Zoning Districts > Residential > R-2: ''
-      Zoning Districts > Residential > R-3: ''
-      Zoning Districts > Residential > M-P: ''
-      Zoning Districts > Non-Residential > B-1: ''
-      Zoning Districts > Non-Residential > B-2: P
-      Zoning Districts > Non-Residential > B-3: P
-      Zoning Districts > Non-Residential > M-1: P
+      Zoning Districts:
+        Residential:
+          N-1: ''
+          R-1: ''
+          R-2: ''
+          R-3: ''
+          M-P: ''
+        Non-Residential:
+          B-1: ''
+          B-2: P
+          B-3: P
+          M-1: P
       Use Standards Sec. No.: ''
     Research Service:
-      Zoning Districts > Residential > N-1: ''
-      Zoning Districts > Residential > R-1: ''
-      Zoning Districts > Residential > R-2: ''
-      Zoning Districts > Residential > R-3: ''
-      Zoning Districts > Residential > M-P: ''
-      Zoning Districts > Non-Residential > B-1: P
-      Zoning Districts > Non-Residential > B-2: C
-      Zoning Districts > Non-Residential > B-3: C
-      Zoning Districts > Non-Residential > M-1: P
+      Zoning Districts:
+        Residential:
+          N-1: ''
+          R-1: ''
+          R-2: ''
+          R-3: ''
+          M-P: ''
+        Non-Residential:
+          B-1: P
+          B-2: C
+          B-3: C
+          M-1: P
       Use Standards Sec. No.: ''
     Restaurant, Fast Food:
-      Zoning Districts > Residential > N-1: ''
-      Zoning Districts > Residential > R-1: ''
-      Zoning Districts > Residential > R-2: ''
-      Zoning Districts > Residential > R-3: ''
-      Zoning Districts > Residential > M-P: ''
-      Zoning Districts > Non-Residential > B-1: ''
-      Zoning Districts > Non-Residential > B-2: P
-      Zoning Districts > Non-Residential > B-3: P
-      Zoning Districts > Non-Residential > M-1: ''
+      Zoning Districts:
+        Residential:
+          N-1: ''
+          R-1: ''
+          R-2: ''
+          R-3: ''
+          M-P: ''
+        Non-Residential:
+          B-1: ''
+          B-2: P
+          B-3: P
+          M-1: ''
       Use Standards Sec. No.: ''
     Restaurant, General:
-      Zoning Districts > Residential > N-1: ''
-      Zoning Districts > Residential > R-1: ''
-      Zoning Districts > Residential > R-2: ''
-      Zoning Districts > Residential > R-3: ''
-      Zoning Districts > Residential > M-P: ''
-      Zoning Districts > Non-Residential > B-1: C
-      Zoning Districts > Non-Residential > B-2: P
-      Zoning Districts > Non-Residential > B-3: P
-      Zoning Districts > Non-Residential > M-1: ''
+      Zoning Districts:
+        Residential:
+          N-1: ''
+          R-1: ''
+          R-2: ''
+          R-3: ''
+          M-P: ''
+        Non-Residential:
+          B-1: C
+          B-2: P
+          B-3: P
+          M-1: ''
       Use Standards Sec. No.: ''
     Retail Sales and Service:
-      Zoning Districts > Residential > N-1: ''
-      Zoning Districts > Residential > R-1: ''
-      Zoning Districts > Residential > R-2: ''
-      Zoning Districts > Residential > R-3: ''
-      Zoning Districts > Residential > M-P: ''
-      Zoning Districts > Non-Residential > B-1: C
-      Zoning Districts > Non-Residential > B-2: P
-      Zoning Districts > Non-Residential > B-3: P
-      Zoning Districts > Non-Residential > M-1: C
+      Zoning Districts:
+        Residential:
+          N-1: ''
+          R-1: ''
+          R-2: ''
+          R-3: ''
+          M-P: ''
+        Non-Residential:
+          B-1: C
+          B-2: P
+          B-3: P
+          M-1: C
       Use Standards Sec. No.: ''
     Safety Service:
-      Zoning Districts > Residential > N-1: C
-      Zoning Districts > Residential > R-1: C
-      Zoning Districts > Residential > R-2: C
-      Zoning Districts > Residential > R-3: C
-      Zoning Districts > Residential > M-P: C
-      Zoning Districts > Non-Residential > B-1: C
-      Zoning Districts > Non-Residential > B-2: C
-      Zoning Districts > Non-Residential > B-3: C
-      Zoning Districts > Non-Residential > M-1: C
+      Zoning Districts:
+        Residential:
+          N-1: C
+          R-1: C
+          R-2: C
+          R-3: C
+          M-P: C
+        Non-Residential:
+          B-1: C
+          B-2: C
+          B-3: C
+          M-1: C
       Use Standards Sec. No.: ''
     Service Station, Automotive:
-      Zoning Districts > Residential > N-1: ''
-      Zoning Districts > Residential > R-1: ''
-      Zoning Districts > Residential > R-2: ''
-      Zoning Districts > Residential > R-3: ''
-      Zoning Districts > Residential > M-P: ''
-      Zoning Districts > Non-Residential > B-1: ''
-      Zoning Districts > Non-Residential > B-2: P
-      Zoning Districts > Non-Residential > B-3: P
-      Zoning Districts > Non-Residential > M-1: C
+      Zoning Districts:
+        Residential:
+          N-1: ''
+          R-1: ''
+          R-2: ''
+          R-3: ''
+          M-P: ''
+        Non-Residential:
+          B-1: ''
+          B-2: P
+          B-3: P
+          M-1: C
       Use Standards Sec. No.: ''
     Service Station, Truck Stop:
-      Zoning Districts > Residential > N-1: ''
-      Zoning Districts > Residential > R-1: ''
-      Zoning Districts > Residential > R-2: ''
-      Zoning Districts > Residential > R-3: ''
-      Zoning Districts > Residential > M-P: ''
-      Zoning Districts > Non-Residential > B-1: ''
-      Zoning Districts > Non-Residential > B-2: C
-      Zoning Districts > Non-Residential > B-3: C
-      Zoning Districts > Non-Residential > M-1: C
+      Zoning Districts:
+        Residential:
+          N-1: ''
+          R-1: ''
+          R-2: ''
+          R-3: ''
+          M-P: ''
+        Non-Residential:
+          B-1: ''
+          B-2: C
+          B-3: C
+          M-1: C
       Use Standards Sec. No.: ''
     Stable, Private:
-      Zoning Districts > Residential > N-1: C
-      Zoning Districts > Residential > R-1: ''
-      Zoning Districts > Residential > R-2: ''
-      Zoning Districts > Residential > R-3: ''
-      Zoning Districts > Residential > M-P: ''
-      Zoning Districts > Non-Residential > B-1: ''
-      Zoning Districts > Non-Residential > B-2: ''
-      Zoning Districts > Non-Residential > B-3: ''
-      Zoning Districts > Non-Residential > M-1: ''
+      Zoning Districts:
+        Residential:
+          N-1: C
+          R-1: ''
+          R-2: ''
+          R-3: ''
+          M-P: ''
+        Non-Residential:
+          B-1: ''
+          B-2: ''
+          B-3: ''
+          M-1: ''
       Use Standards Sec. No.: ''
     Studio, Television, Film, Radio, Music:
-      Zoning Districts > Residential > N-1: ''
-      Zoning Districts > Residential > R-1: ''
-      Zoning Districts > Residential > R-2: ''
-      Zoning Districts > Residential > R-3: ''
-      Zoning Districts > Residential > M-P: ''
-      Zoning Districts > Non-Residential > B-1: ''
-      Zoning Districts > Non-Residential > B-2: P
-      Zoning Districts > Non-Residential > B-3: P
-      Zoning Districts > Non-Residential > M-1: C
+      Zoning Districts:
+        Residential:
+          N-1: ''
+          R-1: ''
+          R-2: ''
+          R-3: ''
+          M-P: ''
+        Non-Residential:
+          B-1: ''
+          B-2: P
+          B-3: P
+          M-1: C
       Use Standards Sec. No.: ''
     Vehicle and Equipment Sales:
-      Zoning Districts > Residential > N-1: ''
-      Zoning Districts > Residential > R-1: ''
-      Zoning Districts > Residential > R-2: ''
-      Zoning Districts > Residential > R-3: ''
-      Zoning Districts > Residential > M-P: ''
-      Zoning Districts > Non-Residential > B-1: ''
-      Zoning Districts > Non-Residential > B-2: P
-      Zoning Districts > Non-Residential > B-3: P
-      Zoning Districts > Non-Residential > M-1: C
+      Zoning Districts:
+        Residential:
+          N-1: ''
+          R-1: ''
+          R-2: ''
+          R-3: ''
+          M-P: ''
+        Non-Residential:
+          B-1: ''
+          B-2: P
+          B-3: P
+          M-1: C
       Use Standards Sec. No.: 46-145
     Vehicle/Equipment Storage Yard:
-      Zoning Districts > Residential > N-1: ''
-      Zoning Districts > Residential > R-1: ''
-      Zoning Districts > Residential > R-2: ''
-      Zoning Districts > Residential > R-3: ''
-      Zoning Districts > Residential > M-P: ''
-      Zoning Districts > Non-Residential > B-1: ''
-      Zoning Districts > Non-Residential > B-2: ''
-      Zoning Districts > Non-Residential > B-3: C
-      Zoning Districts > Non-Residential > M-1: P
+      Zoning Districts:
+        Residential:
+          N-1: ''
+          R-1: ''
+          R-2: ''
+          R-3: ''
+          M-P: ''
+        Non-Residential:
+          B-1: ''
+          B-2: ''
+          B-3: C
+          M-1: P
       Use Standards Sec. No.: 46-145
     Vehicle Repair, General:
-      Zoning Districts > Residential > N-1: ''
-      Zoning Districts > Residential > R-1: ''
-      Zoning Districts > Residential > R-2: ''
-      Zoning Districts > Residential > R-3: ''
-      Zoning Districts > Residential > M-P: ''
-      Zoning Districts > Non-Residential > B-1: ''
-      Zoning Districts > Non-Residential > B-2: C
-      Zoning Districts > Non-Residential > B-3: C
-      Zoning Districts > Non-Residential > M-1: P
+      Zoning Districts:
+        Residential:
+          N-1: ''
+          R-1: ''
+          R-2: ''
+          R-3: ''
+          M-P: ''
+        Non-Residential:
+          B-1: ''
+          B-2: C
+          B-3: C
+          M-1: P
       Use Standards Sec. No.: 46-145
     Vehicle Repair, Limited:
-      Zoning Districts > Residential > N-1: ''
-      Zoning Districts > Residential > R-1: ''
-      Zoning Districts > Residential > R-2: ''
-      Zoning Districts > Residential > R-3: ''
-      Zoning Districts > Residential > M-P: ''
-      Zoning Districts > Non-Residential > B-1: ''
-      Zoning Districts > Non-Residential > B-2: C
-      Zoning Districts > Non-Residential > B-3: P
-      Zoning Districts > Non-Residential > M-1: P
+      Zoning Districts:
+        Residential:
+          N-1: ''
+          R-1: ''
+          R-2: ''
+          R-3: ''
+          M-P: ''
+        Non-Residential:
+          B-1: ''
+          B-2: C
+          B-3: P
+          M-1: P
       Use Standards Sec. No.: 46-145
     Warehouse, Residential Storage:
-      Zoning Districts > Residential > N-1: ''
-      Zoning Districts > Residential > R-1: ''
-      Zoning Districts > Residential > R-2: ''
-      Zoning Districts > Residential > R-3: ''
-      Zoning Districts > Residential > M-P: ''
-      Zoning Districts > Non-Residential > B-1: ''
-      Zoning Districts > Non-Residential > B-2: ''
-      Zoning Districts > Non-Residential > B-3: P
-      Zoning Districts > Non-Residential > M-1: P
+      Zoning Districts:
+        Residential:
+          N-1: ''
+          R-1: ''
+          R-2: ''
+          R-3: ''
+          M-P: ''
+        Non-Residential:
+          B-1: ''
+          B-2: ''
+          B-3: P
+          M-1: P
       Use Standards Sec. No.: ''
   Public, Quasi-Public, and Recreational Uses:
     Airport or Airstrip:
-      Zoning Districts > Residential > N-1: C
-      Zoning Districts > Residential > R-1: ''
-      Zoning Districts > Residential > R-2: ''
-      Zoning Districts > Residential > R-3: ''
-      Zoning Districts > Residential > M-P: ''
-      Zoning Districts > Non-Residential > B-1: ''
-      Zoning Districts > Non-Residential > B-2: ''
-      Zoning Districts > Non-Residential > B-3: ''
-      Zoning Districts > Non-Residential > M-1: C
+      Zoning Districts:
+        Residential:
+          N-1: C
+          R-1: ''
+          R-2: ''
+          R-3: ''
+          M-P: ''
+        Non-Residential:
+          B-1: ''
+          B-2: ''
+          B-3: ''
+          M-1: C
       Use Standards Sec. No.: ''
     Auditorium or Stadium:
-      Zoning Districts > Residential > N-1: ''
-      Zoning Districts > Residential > R-1: ''
-      Zoning Districts > Residential > R-2: ''
-      Zoning Districts > Residential > R-3: ''
-      Zoning Districts > Residential > M-P: ''
-      Zoning Districts > Non-Residential > B-1: ''
-      Zoning Districts > Non-Residential > B-2: C
-      Zoning Districts > Non-Residential > B-3: P
-      Zoning Districts > Non-Residential > M-1: C
+      Zoning Districts:
+        Residential:
+          N-1: ''
+          R-1: ''
+          R-2: ''
+          R-3: ''
+          M-P: ''
+        Non-Residential:
+          B-1: ''
+          B-2: C
+          B-3: P
+          M-1: C
       Use Standards Sec. No.: 46-123
     Cemetery, Crematory, Mausoleum:
-      Zoning Districts > Residential > N-1: C
-      Zoning Districts > Residential > R-1: C
-      Zoning Districts > Residential > R-2: C
-      Zoning Districts > Residential > R-3: C
-      Zoning Districts > Residential > M-P: C
-      Zoning Districts > Non-Residential > B-1: C
-      Zoning Districts > Non-Residential > B-2: C
-      Zoning Districts > Non-Residential > B-3: C
-      Zoning Districts > Non-Residential > M-1: C
+      Zoning Districts:
+        Residential:
+          N-1: C
+          R-1: C
+          R-2: C
+          R-3: C
+          M-P: C
+        Non-Residential:
+          B-1: C
+          B-2: C
+          B-3: C
+          M-1: C
       Use Standards Sec. No.: 46-125
     Churches, Chapels, Temples, Synagogues:
-      Zoning Districts > Residential > N-1: C
-      Zoning Districts > Residential > R-1: C
-      Zoning Districts > Residential > R-2: C
-      Zoning Districts > Residential > R-3: C
-      Zoning Districts > Residential > M-P: C
-      Zoning Districts > Non-Residential > B-1: C
-      Zoning Districts > Non-Residential > B-2: C
-      Zoning Districts > Non-Residential > B-3: C
-      Zoning Districts > Non-Residential > M-1: C
+      Zoning Districts:
+        Residential:
+          N-1: C
+          R-1: C
+          R-2: C
+          R-3: C
+          M-P: C
+        Non-Residential:
+          B-1: C
+          B-2: C
+          B-3: C
+          M-1: C
       Use Standards Sec. No.: ''
     College or University:
-      Zoning Districts > Residential > N-1: C
-      Zoning Districts > Residential > R-1: ''
-      Zoning Districts > Residential > R-2: ''
-      Zoning Districts > Residential > R-3: ''
-      Zoning Districts > Residential > M-P: ''
-      Zoning Districts > Non-Residential > B-1: C
-      Zoning Districts > Non-Residential > B-2: C
-      Zoning Districts > Non-Residential > B-3: P
-      Zoning Districts > Non-Residential > M-1: ''
+      Zoning Districts:
+        Residential:
+          N-1: C
+          R-1: ''
+          R-2: ''
+          R-3: ''
+          M-P: ''
+        Non-Residential:
+          B-1: C
+          B-2: C
+          B-3: P
+          M-1: ''
       Use Standards Sec. No.: ''
     Communication Tower:
-      Zoning Districts > Residential > N-1: C
-      Zoning Districts > Residential > R-1: ''
-      Zoning Districts > Residential > R-2: ''
-      Zoning Districts > Residential > R-3: ''
-      Zoning Districts > Residential > M-P: ''
-      Zoning Districts > Non-Residential > B-1: P
-      Zoning Districts > Non-Residential > B-2: P
-      Zoning Districts > Non-Residential > B-3: P
-      Zoning Districts > Non-Residential > M-1: P
+      Zoning Districts:
+        Residential:
+          N-1: C
+          R-1: ''
+          R-2: ''
+          R-3: ''
+          M-P: ''
+        Non-Residential:
+          B-1: P
+          B-2: P
+          B-3: P
+          M-1: P
       Use Standards Sec. No.: 46-497
     Convalescent Care:
-      Zoning Districts > Residential > N-1: ''
-      Zoning Districts > Residential > R-1: ''
-      Zoning Districts > Residential > R-2: ''
-      Zoning Districts > Residential > R-3: C
-      Zoning Districts > Residential > M-P: ''
-      Zoning Districts > Non-Residential > B-1: ''
-      Zoning Districts > Non-Residential > B-2: C
-      Zoning Districts > Non-Residential > B-3: C
-      Zoning Districts > Non-Residential > M-1: ''
+      Zoning Districts:
+        Residential:
+          N-1: ''
+          R-1: ''
+          R-2: ''
+          R-3: C
+          M-P: ''
+        Non-Residential:
+          B-1: ''
+          B-2: C
+          B-3: C
+          M-1: ''
       Use Standards Sec. No.: 46-129
     Correctional Facility:
-      Zoning Districts > Residential > N-1: ''
-      Zoning Districts > Residential > R-1: ''
-      Zoning Districts > Residential > R-2: ''
-      Zoning Districts > Residential > R-3: ''
-      Zoning Districts > Residential > M-P: ''
-      Zoning Districts > Non-Residential > B-1: ''
-      Zoning Districts > Non-Residential > B-2: ''
-      Zoning Districts > Non-Residential > B-3: ''
-      Zoning Districts > Non-Residential > M-1: C
+      Zoning Districts:
+        Residential:
+          N-1: ''
+          R-1: ''
+          R-2: ''
+          R-3: ''
+          M-P: ''
+        Non-Residential:
+          B-1: ''
+          B-2: ''
+          B-3: ''
+          M-1: C
       Use Standards Sec. No.: ''
     Cultural Service:
-      Zoning Districts > Residential > N-1: ''
-      Zoning Districts > Residential > R-1: ''
-      Zoning Districts > Residential > R-2: ''
-      Zoning Districts > Residential > R-3: ''
-      Zoning Districts > Residential > M-P: ''
-      Zoning Districts > Non-Residential > B-1: ''
-      Zoning Districts > Non-Residential > B-2: P
-      Zoning Districts > Non-Residential > B-3: P
-      Zoning Districts > Non-Residential > M-1: C
+      Zoning Districts:
+        Residential:
+          N-1: ''
+          R-1: ''
+          R-2: ''
+          R-3: ''
+          M-P: ''
+        Non-Residential:
+          B-1: ''
+          B-2: P
+          B-3: P
+          M-1: C
       Use Standards Sec. No.: ''
     Funeral Home:
-      Zoning Districts > Residential > N-1: ''
-      Zoning Districts > Residential > R-1: ''
-      Zoning Districts > Residential > R-2: ''
-      Zoning Districts > Residential > R-3: ''
-      Zoning Districts > Residential > M-P: ''
-      Zoning Districts > Non-Residential > B-1: ''
-      Zoning Districts > Non-Residential > B-2: C
-      Zoning Districts > Non-Residential > B-3: C
-      Zoning Districts > Non-Residential > M-1: ''
+      Zoning Districts:
+        Residential:
+          N-1: ''
+          R-1: ''
+          R-2: ''
+          R-3: ''
+          M-P: ''
+        Non-Residential:
+          B-1: ''
+          B-2: C
+          B-3: C
+          M-1: ''
       Use Standards Sec. No.: ''
     Golf Course:
-      Zoning Districts > Residential > N-1: C
-      Zoning Districts > Residential > R-1: C
-      Zoning Districts > Residential > R-2: C
-      Zoning Districts > Residential > R-3: C
-      Zoning Districts > Residential > M-P: C
-      Zoning Districts > Non-Residential > B-1: ''
-      Zoning Districts > Non-Residential > B-2: ''
-      Zoning Districts > Non-Residential > B-3: ''
-      Zoning Districts > Non-Residential > M-1: ''
+      Zoning Districts:
+        Residential:
+          N-1: C
+          R-1: C
+          R-2: C
+          R-3: C
+          M-P: C
+        Non-Residential:
+          B-1: ''
+          B-2: ''
+          B-3: ''
+          M-1: ''
       Use Standards Sec. No.: 46-130
     Government Service:
-      Zoning Districts > Residential > N-1: ''
-      Zoning Districts > Residential > R-1: ''
-      Zoning Districts > Residential > R-2: ''
-      Zoning Districts > Residential > R-3: ''
-      Zoning Districts > Residential > M-P: ''
-      Zoning Districts > Non-Residential > B-1: P
-      Zoning Districts > Non-Residential > B-2: P
-      Zoning Districts > Non-Residential > B-3: P
-      Zoning Districts > Non-Residential > M-1: P
+      Zoning Districts:
+        Residential:
+          N-1: ''
+          R-1: ''
+          R-2: ''
+          R-3: ''
+          M-P: ''
+        Non-Residential:
+          B-1: P
+          B-2: P
+          B-3: P
+          M-1: P
       Use Standards Sec. No.: ''
     Heliport or Helipad:
-      Zoning Districts > Residential > N-1: ''
-      Zoning Districts > Residential > R-1: ''
-      Zoning Districts > Residential > R-2: ''
-      Zoning Districts > Residential > R-3: ''
-      Zoning Districts > Residential > M-P: ''
-      Zoning Districts > Non-Residential > B-1: C
-      Zoning Districts > Non-Residential > B-2: ''
-      Zoning Districts > Non-Residential > B-3: P
-      Zoning Districts > Non-Residential > M-1: P
+      Zoning Districts:
+        Residential:
+          N-1: ''
+          R-1: ''
+          R-2: ''
+          R-3: ''
+          M-P: ''
+        Non-Residential:
+          B-1: C
+          B-2: ''
+          B-3: P
+          M-1: P
       Use Standards Sec. No.: ''
     Hospital:
-      Zoning Districts > Residential > N-1: ''
-      Zoning Districts > Residential > R-1: ''
-      Zoning Districts > Residential > R-2: ''
-      Zoning Districts > Residential > R-3: ''
-      Zoning Districts > Residential > M-P: ''
-      Zoning Districts > Non-Residential > B-1: ''
-      Zoning Districts > Non-Residential > B-2: P
-      Zoning Districts > Non-Residential > B-3: P
-      Zoning Districts > Non-Residential > M-1: ''
+      Zoning Districts:
+        Residential:
+          N-1: ''
+          R-1: ''
+          R-2: ''
+          R-3: ''
+          M-P: ''
+        Non-Residential:
+          B-1: ''
+          B-2: P
+          B-3: P
+          M-1: ''
       Use Standards Sec. No.: 46-135
     Library:
-      Zoning Districts > Residential > N-1: ''
-      Zoning Districts > Residential > R-1: C
-      Zoning Districts > Residential > R-2: C
-      Zoning Districts > Residential > R-3: C
-      Zoning Districts > Residential > M-P: C
-      Zoning Districts > Non-Residential > B-1: ''
-      Zoning Districts > Non-Residential > B-2: P
-      Zoning Districts > Non-Residential > B-3: P
-      Zoning Districts > Non-Residential > M-1: ''
+      Zoning Districts:
+        Residential:
+          N-1: ''
+          R-1: C
+          R-2: C
+          R-3: C
+          M-P: C
+        Non-Residential:
+          B-1: ''
+          B-2: P
+          B-3: P
+          M-1: ''
       Use Standards Sec. No.: ''
     Medical Service:
-      Zoning Districts > Residential > N-1: ''
-      Zoning Districts > Residential > R-1: ''
-      Zoning Districts > Residential > R-2: ''
-      Zoning Districts > Residential > R-3: ''
-      Zoning Districts > Residential > M-P: ''
-      Zoning Districts > Non-Residential > B-1: ''
-      Zoning Districts > Non-Residential > B-2: P
-      Zoning Districts > Non-Residential > B-3: P
-      Zoning Districts > Non-Residential > M-1: P
+      Zoning Districts:
+        Residential:
+          N-1: ''
+          R-1: ''
+          R-2: ''
+          R-3: ''
+          M-P: ''
+        Non-Residential:
+          B-1: ''
+          B-2: P
+          B-3: P
+          M-1: P
       Use Standards Sec. No.: ''
     Military Service:
-      Zoning Districts > Residential > N-1: ''
-      Zoning Districts > Residential > R-1: ''
-      Zoning Districts > Residential > R-2: ''
-      Zoning Districts > Residential > R-3: ''
-      Zoning Districts > Residential > M-P: ''
-      Zoning Districts > Non-Residential > B-1: ''
-      Zoning Districts > Non-Residential > B-2: C
-      Zoning Districts > Non-Residential > B-3: C
-      Zoning Districts > Non-Residential > M-1: C
+      Zoning Districts:
+        Residential:
+          N-1: ''
+          R-1: ''
+          R-2: ''
+          R-3: ''
+          M-P: ''
+        Non-Residential:
+          B-1: ''
+          B-2: C
+          B-3: C
+          M-1: C
       Use Standards Sec. No.: ''
     Parks and Recreation:
-      Zoning Districts > Residential > N-1: C
-      Zoning Districts > Residential > R-1: C
-      Zoning Districts > Residential > R-2: C
-      Zoning Districts > Residential > R-3: C
-      Zoning Districts > Residential > M-P: C
-      Zoning Districts > Non-Residential > B-1: C
-      Zoning Districts > Non-Residential > B-2: C
-      Zoning Districts > Non-Residential > B-3: C
-      Zoning Districts > Non-Residential > M-1: C
+      Zoning Districts:
+        Residential:
+          N-1: C
+          R-1: C
+          R-2: C
+          R-3: C
+          M-P: C
+        Non-Residential:
+          B-1: C
+          B-2: C
+          B-3: C
+          M-1: C
       Use Standards Sec. No.: ''
     Post Office:
-      Zoning Districts > Residential > N-1: ''
-      Zoning Districts > Residential > R-1: ''
-      Zoning Districts > Residential > R-2: ''
-      Zoning Districts > Residential > R-3: ''
-      Zoning Districts > Residential > M-P: ''
-      Zoning Districts > Non-Residential > B-1: ''
-      Zoning Districts > Non-Residential > B-2: P
-      Zoning Districts > Non-Residential > B-3: P
-      Zoning Districts > Non-Residential > M-1: ''
+      Zoning Districts:
+        Residential:
+          N-1: ''
+          R-1: ''
+          R-2: ''
+          R-3: ''
+          M-P: ''
+        Non-Residential:
+          B-1: ''
+          B-2: P
+          B-3: P
+          M-1: ''
       Use Standards Sec. No.: ''
     Recreational Vehicle Park:
-      Zoning Districts > Residential > N-1: C
-      Zoning Districts > Residential > R-1: ''
-      Zoning Districts > Residential > R-2: ''
-      Zoning Districts > Residential > R-3: ''
-      Zoning Districts > Residential > M-P: ''
-      Zoning Districts > Non-Residential > B-1: ''
-      Zoning Districts > Non-Residential > B-2: ''
-      Zoning Districts > Non-Residential > B-3: ''
-      Zoning Districts > Non-Residential > M-1: ''
+      Zoning Districts:
+        Residential:
+          N-1: C
+          R-1: ''
+          R-2: ''
+          R-3: ''
+          M-P: ''
+        Non-Residential:
+          B-1: ''
+          B-2: ''
+          B-3: ''
+          M-1: ''
       Use Standards Sec. No.: 46-141
     Religious Assembly:
-      Zoning Districts > Residential > N-1: C
-      Zoning Districts > Residential > R-1: C
-      Zoning Districts > Residential > R-2: C
-      Zoning Districts > Residential > R-3: C
-      Zoning Districts > Residential > M-P: C
-      Zoning Districts > Non-Residential > B-1: C
-      Zoning Districts > Non-Residential > B-2: C
-      Zoning Districts > Non-Residential > B-3: C
-      Zoning Districts > Non-Residential > M-1: C
+      Zoning Districts:
+        Residential:
+          N-1: C
+          R-1: C
+          R-2: C
+          R-3: C
+          M-P: C
+        Non-Residential:
+          B-1: C
+          B-2: C
+          B-3: C
+          M-1: C
       Use Standards Sec. No.: 46-123
     School, Elementary, Middle or High:
-      Zoning Districts > Residential > N-1: C
-      Zoning Districts > Residential > R-1: C
-      Zoning Districts > Residential > R-2: C
-      Zoning Districts > Residential > R-3: C
-      Zoning Districts > Residential > M-P: C
-      Zoning Districts > Non-Residential > B-1: C
-      Zoning Districts > Non-Residential > B-2: C
-      Zoning Districts > Non-Residential > B-3: C
-      Zoning Districts > Non-Residential > M-1: C
+      Zoning Districts:
+        Residential:
+          N-1: C
+          R-1: C
+          R-2: C
+          R-3: C
+          M-P: C
+        Non-Residential:
+          B-1: C
+          B-2: C
+          B-3: C
+          M-1: C
       Use Standards Sec. No.: ''
     Shooting Range—Indoor:
-      Zoning Districts > Residential > N-1: ''
-      Zoning Districts > Residential > R-1: ''
-      Zoning Districts > Residential > R-2: ''
-      Zoning Districts > Residential > R-3: ''
-      Zoning Districts > Residential > M-P: ''
-      Zoning Districts > Non-Residential > B-1: ''
-      Zoning Districts > Non-Residential > B-2: ''
-      Zoning Districts > Non-Residential > B-3: C
-      Zoning Districts > Non-Residential > M-1: C
+      Zoning Districts:
+        Residential:
+          N-1: ''
+          R-1: ''
+          R-2: ''
+          R-3: ''
+          M-P: ''
+        Non-Residential:
+          B-1: ''
+          B-2: ''
+          B-3: C
+          M-1: C
       Use Standards Sec. No.: ''
     Small Wireless Facility:
-      Zoning Districts > Residential > N-1: P
-      Zoning Districts > Residential > R-1: P
-      Zoning Districts > Residential > R-2: P
-      Zoning Districts > Residential > R-3: P
-      Zoning Districts > Residential > M-P: P
-      Zoning Districts > Non-Residential > B-1: P
-      Zoning Districts > Non-Residential > B-2: P
-      Zoning Districts > Non-Residential > B-3: P
-      Zoning Districts > Non-Residential > M-1: P
+      Zoning Districts:
+        Residential:
+          N-1: P
+          R-1: P
+          R-2: P
+          R-3: P
+          M-P: P
+        Non-Residential:
+          B-1: P
+          B-2: P
+          B-3: P
+          M-1: P
       Use Standards Sec. No.: 46-497
     Vocational School:
-      Zoning Districts > Residential > N-1: ''
-      Zoning Districts > Residential > R-1: ''
-      Zoning Districts > Residential > R-2: ''
-      Zoning Districts > Residential > R-3: ''
-      Zoning Districts > Residential > M-P: ''
-      Zoning Districts > Non-Residential > B-1: ''
-      Zoning Districts > Non-Residential > B-2: C
-      Zoning Districts > Non-Residential > B-3: P
-      Zoning Districts > Non-Residential > M-1: P
+      Zoning Districts:
+        Residential:
+          N-1: ''
+          R-1: ''
+          R-2: ''
+          R-3: ''
+          M-P: ''
+        Non-Residential:
+          B-1: ''
+          B-2: C
+          B-3: P
+          M-1: P
       Use Standards Sec. No.: ''
   Manufacturing, Industrial and Extractive Uses:
     Asphalt or Concrete Plant:
-      Zoning Districts > Residential > N-1: ''
-      Zoning Districts > Residential > R-1: ''
-      Zoning Districts > Residential > R-2: ''
-      Zoning Districts > Residential > R-3: ''
-      Zoning Districts > Residential > M-P: ''
-      Zoning Districts > Non-Residential > B-1: ''
-      Zoning Districts > Non-Residential > B-2: ''
-      Zoning Districts > Non-Residential > B-3: ''
-      Zoning Districts > Non-Residential > M-1: C
+      Zoning Districts:
+        Residential:
+          N-1: ''
+          R-1: ''
+          R-2: ''
+          R-3: ''
+          M-P: ''
+        Non-Residential:
+          B-1: ''
+          B-2: ''
+          B-3: ''
+          M-1: C
       Use Standards Sec. No.: ''
     Basic Industry:
-      Zoning Districts > Residential > N-1: ''
-      Zoning Districts > Residential > R-1: ''
-      Zoning Districts > Residential > R-2: ''
-      Zoning Districts > Residential > R-3: ''
-      Zoning Districts > Residential > M-P: ''
-      Zoning Districts > Non-Residential > B-1: ''
-      Zoning Districts > Non-Residential > B-2: ''
-      Zoning Districts > Non-Residential > B-3: ''
-      Zoning Districts > Non-Residential > M-1: C
+      Zoning Districts:
+        Residential:
+          N-1: ''
+          R-1: ''
+          R-2: ''
+          R-3: ''
+          M-P: ''
+        Non-Residential:
+          B-1: ''
+          B-2: ''
+          B-3: ''
+          M-1: C
       Use Standards Sec. No.: ''
     Cannabis Facility:
-      Zoning Districts > Residential > N-1: ''
-      Zoning Districts > Residential > R-1: ''
-      Zoning Districts > Residential > R-2: ''
-      Zoning Districts > Residential > R-3: ''
-      Zoning Districts > Residential > M-P: ''
-      Zoning Districts > Non-Residential > B-1: P
-      Zoning Districts > Non-Residential > B-2: ''
-      Zoning Districts > Non-Residential > B-3: ''
-      Zoning Districts > Non-Residential > M-1: P
+      Zoning Districts:
+        Residential:
+          N-1: ''
+          R-1: ''
+          R-2: ''
+          R-3: ''
+          M-P: ''
+        Non-Residential:
+          B-1: P
+          B-2: ''
+          B-3: ''
+          M-1: P
       Use Standards Sec. No.: 46-147
     Composting Facility:
-      Zoning Districts > Residential > N-1: ''
-      Zoning Districts > Residential > R-1: ''
-      Zoning Districts > Residential > R-2: ''
-      Zoning Districts > Residential > R-3: ''
-      Zoning Districts > Residential > M-P: ''
-      Zoning Districts > Non-Residential > B-1: ''
-      Zoning Districts > Non-Residential > B-2: ''
-      Zoning Districts > Non-Residential > B-3: ''
-      Zoning Districts > Non-Residential > M-1: C
+      Zoning Districts:
+        Residential:
+          N-1: ''
+          R-1: ''
+          R-2: ''
+          R-3: ''
+          M-P: ''
+        Non-Residential:
+          B-1: ''
+          B-2: ''
+          B-3: ''
+          M-1: C
       Use Standards Sec. No.: 46-127
     Food/Bakery Product Manufacturing:
-      Zoning Districts > Residential > N-1: ''
-      Zoning Districts > Residential > R-1: ''
-      Zoning Districts > Residential > R-2: ''
-      Zoning Districts > Residential > R-3: ''
-      Zoning Districts > Residential > M-P: ''
-      Zoning Districts > Non-Residential > B-1: ''
-      Zoning Districts > Non-Residential > B-2: ''
-      Zoning Districts > Non-Residential > B-3: C
-      Zoning Districts > Non-Residential > M-1: P
+      Zoning Districts:
+        Residential:
+          N-1: ''
+          R-1: ''
+          R-2: ''
+          R-3: ''
+          M-P: ''
+        Non-Residential:
+          B-1: ''
+          B-2: ''
+          B-3: C
+          M-1: P
       Use Standards Sec. No.: ''
     Freight Terminal:
-      Zoning Districts > Residential > N-1: ''
-      Zoning Districts > Residential > R-1: ''
-      Zoning Districts > Residential > R-2: ''
-      Zoning Districts > Residential > R-3: ''
-      Zoning Districts > Residential > M-P: ''
-      Zoning Districts > Non-Residential > B-1: ''
-      Zoning Districts > Non-Residential > B-2: C
-      Zoning Districts > Non-Residential > B-3: ''
-      Zoning Districts > Non-Residential > M-1: P
+      Zoning Districts:
+        Residential:
+          N-1: ''
+          R-1: ''
+          R-2: ''
+          R-3: ''
+          M-P: ''
+        Non-Residential:
+          B-1: ''
+          B-2: C
+          B-3: ''
+          M-1: P
       Use Standards Sec. No.: ''
     Gas and Fuel Sales/Storage:
-      Zoning Districts > Residential > N-1: ''
-      Zoning Districts > Residential > R-1: ''
-      Zoning Districts > Residential > R-2: ''
-      Zoning Districts > Residential > R-3: ''
-      Zoning Districts > Residential > M-P: ''
-      Zoning Districts > Non-Residential > B-1: ''
-      Zoning Districts > Non-Residential > B-2: ''
-      Zoning Districts > Non-Residential > B-3: C
-      Zoning Districts > Non-Residential > M-1: P
+      Zoning Districts:
+        Residential:
+          N-1: ''
+          R-1: ''
+          R-2: ''
+          R-3: ''
+          M-P: ''
+        Non-Residential:
+          B-1: ''
+          B-2: ''
+          B-3: C
+          M-1: P
       Use Standards Sec. No.: ''
     Grain Elevator:
-      Zoning Districts > Residential > N-1: ''
-      Zoning Districts > Residential > R-1: ''
-      Zoning Districts > Residential > R-2: ''
-      Zoning Districts > Residential > R-3: ''
-      Zoning Districts > Residential > M-P: ''
-      Zoning Districts > Non-Residential > B-1: ''
-      Zoning Districts > Non-Residential > B-2: ''
-      Zoning Districts > Non-Residential > B-3: ''
-      Zoning Districts > Non-Residential > M-1: P
+      Zoning Districts:
+        Residential:
+          N-1: ''
+          R-1: ''
+          R-2: ''
+          R-3: ''
+          M-P: ''
+        Non-Residential:
+          B-1: ''
+          B-2: ''
+          B-3: ''
+          M-1: P
       Use Standards Sec. No.: ''
     Hazardous Operation:
-      Zoning Districts > Residential > N-1: ''
-      Zoning Districts > Residential > R-1: ''
-      Zoning Districts > Residential > R-2: ''
-      Zoning Districts > Residential > R-3: ''
-      Zoning Districts > Residential > M-P: ''
-      Zoning Districts > Non-Residential > B-1: ''
-      Zoning Districts > Non-Residential > B-2: ''
-      Zoning Districts > Non-Residential > B-3: ''
-      Zoning Districts > Non-Residential > M-1: C
+      Zoning Districts:
+        Residential:
+          N-1: ''
+          R-1: ''
+          R-2: ''
+          R-3: ''
+          M-P: ''
+        Non-Residential:
+          B-1: ''
+          B-2: ''
+          B-3: ''
+          M-1: C
       Use Standards Sec. No.: ''
     Landfill:
-      Zoning Districts > Residential > N-1: ''
-      Zoning Districts > Residential > R-1: ''
-      Zoning Districts > Residential > R-2: ''
-      Zoning Districts > Residential > R-3: ''
-      Zoning Districts > Residential > M-P: ''
-      Zoning Districts > Non-Residential > B-1: ''
-      Zoning Districts > Non-Residential > B-2: ''
-      Zoning Districts > Non-Residential > B-3: ''
-      Zoning Districts > Non-Residential > M-1: C
+      Zoning Districts:
+        Residential:
+          N-1: ''
+          R-1: ''
+          R-2: ''
+          R-3: ''
+          M-P: ''
+        Non-Residential:
+          B-1: ''
+          B-2: ''
+          B-3: ''
+          M-1: C
       Use Standards Sec. No.: 46-137
     Laundry Plant:
-      Zoning Districts > Residential > N-1: ''
-      Zoning Districts > Residential > R-1: ''
-      Zoning Districts > Residential > R-2: ''
-      Zoning Districts > Residential > R-3: ''
-      Zoning Districts > Residential > M-P: ''
-      Zoning Districts > Non-Residential > B-1: ''
-      Zoning Districts > Non-Residential > B-2: ''
-      Zoning Districts > Non-Residential > B-3: ''
-      Zoning Districts > Non-Residential > M-1: P
+      Zoning Districts:
+        Residential:
+          N-1: ''
+          R-1: ''
+          R-2: ''
+          R-3: ''
+          M-P: ''
+        Non-Residential:
+          B-1: ''
+          B-2: ''
+          B-3: ''
+          M-1: P
       Use Standards Sec. No.: ''
     Manufacturing and Assembly:
-      Zoning Districts > Residential > N-1: ''
-      Zoning Districts > Residential > R-1: ''
-      Zoning Districts > Residential > R-2: ''
-      Zoning Districts > Residential > R-3: ''
-      Zoning Districts > Residential > M-P: ''
-      Zoning Districts > Non-Residential > B-1: ''
-      Zoning Districts > Non-Residential > B-2: ''
-      Zoning Districts > Non-Residential > B-3: ''
-      Zoning Districts > Non-Residential > M-1: P
+      Zoning Districts:
+        Residential:
+          N-1: ''
+          R-1: ''
+          R-2: ''
+          R-3: ''
+          M-P: ''
+        Non-Residential:
+          B-1: ''
+          B-2: ''
+          B-3: ''
+          M-1: P
       Use Standards Sec. No.: ''
     Mining or Quarrying:
-      Zoning Districts > Residential > N-1: ''
-      Zoning Districts > Residential > R-1: ''
-      Zoning Districts > Residential > R-2: ''
-      Zoning Districts > Residential > R-3: ''
-      Zoning Districts > Residential > M-P: ''
-      Zoning Districts > Non-Residential > B-1: ''
-      Zoning Districts > Non-Residential > B-2: ''
-      Zoning Districts > Non-Residential > B-3: ''
-      Zoning Districts > Non-Residential > M-1: C
+      Zoning Districts:
+        Residential:
+          N-1: ''
+          R-1: ''
+          R-2: ''
+          R-3: ''
+          M-P: ''
+        Non-Residential:
+          B-1: ''
+          B-2: ''
+          B-3: ''
+          M-1: C
       Use Standards Sec. No.: 46-137
     Oil or Gas Drilling/Refining:
-      Zoning Districts > Residential > N-1: ''
-      Zoning Districts > Residential > R-1: ''
-      Zoning Districts > Residential > R-2: ''
-      Zoning Districts > Residential > R-3: ''
-      Zoning Districts > Residential > M-P: ''
-      Zoning Districts > Non-Residential > B-1: ''
-      Zoning Districts > Non-Residential > B-2: ''
-      Zoning Districts > Non-Residential > B-3: ''
-      Zoning Districts > Non-Residential > M-1: C
+      Zoning Districts:
+        Residential:
+          N-1: ''
+          R-1: ''
+          R-2: ''
+          R-3: ''
+          M-P: ''
+        Non-Residential:
+          B-1: ''
+          B-2: ''
+          B-3: ''
+          M-1: C
       Use Standards Sec. No.: ''
     Printing and Publishing:
-      Zoning Districts > Residential > N-1: ''
-      Zoning Districts > Residential > R-1: ''
-      Zoning Districts > Residential > R-2: ''
-      Zoning Districts > Residential > R-3: ''
-      Zoning Districts > Residential > M-P: ''
-      Zoning Districts > Non-Residential > B-1: P
-      Zoning Districts > Non-Residential > B-2: C
-      Zoning Districts > Non-Residential > B-3: P
-      Zoning Districts > Non-Residential > M-1: P
+      Zoning Districts:
+        Residential:
+          N-1: ''
+          R-1: ''
+          R-2: ''
+          R-3: ''
+          M-P: ''
+        Non-Residential:
+          B-1: P
+          B-2: C
+          B-3: P
+          M-1: P
       Use Standards Sec. No.: ''
     Salvage Yard:
-      Zoning Districts > Residential > N-1: ''
-      Zoning Districts > Residential > R-1: ''
-      Zoning Districts > Residential > R-2: ''
-      Zoning Districts > Residential > R-3: ''
-      Zoning Districts > Residential > M-P: ''
-      Zoning Districts > Non-Residential > B-1: ''
-      Zoning Districts > Non-Residential > B-2: ''
-      Zoning Districts > Non-Residential > B-3: ''
-      Zoning Districts > Non-Residential > M-1: C
+      Zoning Districts:
+        Residential:
+          N-1: ''
+          R-1: ''
+          R-2: ''
+          R-3: ''
+          M-P: ''
+        Non-Residential:
+          B-1: ''
+          B-2: ''
+          B-3: ''
+          M-1: C
       Use Standards Sec. No.: 46-142
     Shipping Containers:
-      Zoning Districts > Residential > N-1: ''
-      Zoning Districts > Residential > R-1: ''
-      Zoning Districts > Residential > R-2: ''
-      Zoning Districts > Residential > R-3: ''
-      Zoning Districts > Residential > M-P: ''
-      Zoning Districts > Non-Residential > B-1: P
-      Zoning Districts > Non-Residential > B-2: ''
-      Zoning Districts > Non-Residential > B-3: P
-      Zoning Districts > Non-Residential > M-1: P
+      Zoning Districts:
+        Residential:
+          N-1: ''
+          R-1: ''
+          R-2: ''
+          R-3: ''
+          M-P: ''
+        Non-Residential:
+          B-1: P
+          B-2: ''
+          B-3: P
+          M-1: P
       Use Standards Sec. No.: ''
     Solid Waste Collection/Processing:
-      Zoning Districts > Residential > N-1: ''
-      Zoning Districts > Residential > R-1: ''
-      Zoning Districts > Residential > R-2: ''
-      Zoning Districts > Residential > R-3: ''
-      Zoning Districts > Residential > M-P: ''
-      Zoning Districts > Non-Residential > B-1: ''
-      Zoning Districts > Non-Residential > B-2: ''
-      Zoning Districts > Non-Residential > B-3: ''
-      Zoning Districts > Non-Residential > M-1: C
+      Zoning Districts:
+        Residential:
+          N-1: ''
+          R-1: ''
+          R-2: ''
+          R-3: ''
+          M-P: ''
+        Non-Residential:
+          B-1: ''
+          B-2: ''
+          B-3: ''
+          M-1: C
       Use Standards Sec. No.: 46-143
     Solid Waste Transfer Station:
-      Zoning Districts > Residential > N-1: ''
-      Zoning Districts > Residential > R-1: ''
-      Zoning Districts > Residential > R-2: ''
-      Zoning Districts > Residential > R-3: ''
-      Zoning Districts > Residential > M-P: ''
-      Zoning Districts > Non-Residential > B-1: ''
-      Zoning Districts > Non-Residential > B-2: ''
-      Zoning Districts > Non-Residential > B-3: ''
-      Zoning Districts > Non-Residential > M-1: P
+      Zoning Districts:
+        Residential:
+          N-1: ''
+          R-1: ''
+          R-2: ''
+          R-3: ''
+          M-P: ''
+        Non-Residential:
+          B-1: ''
+          B-2: ''
+          B-3: ''
+          M-1: P
       Use Standards Sec. No.: ''
     Stockyard:
-      Zoning Districts > Residential > N-1: ''
-      Zoning Districts > Residential > R-1: ''
-      Zoning Districts > Residential > R-2: ''
-      Zoning Districts > Residential > R-3: ''
-      Zoning Districts > Residential > M-P: ''
-      Zoning Districts > Non-Residential > B-1: ''
-      Zoning Districts > Non-Residential > B-2: ''
-      Zoning Districts > Non-Residential > B-3: ''
-      Zoning Districts > Non-Residential > M-1: C
+      Zoning Districts:
+        Residential:
+          N-1: ''
+          R-1: ''
+          R-2: ''
+          R-3: ''
+          M-P: ''
+        Non-Residential:
+          B-1: ''
+          B-2: ''
+          B-3: ''
+          M-1: C
       Use Standards Sec. No.: ''
     Transit Facility:
-      Zoning Districts > Residential > N-1: ''
-      Zoning Districts > Residential > R-1: C
-      Zoning Districts > Residential > R-2: C
-      Zoning Districts > Residential > R-3: C
-      Zoning Districts > Residential > M-P: C
-      Zoning Districts > Non-Residential > B-1: C
-      Zoning Districts > Non-Residential > B-2: P
-      Zoning Districts > Non-Residential > B-3: P
-      Zoning Districts > Non-Residential > M-1: P
+      Zoning Districts:
+        Residential:
+          N-1: ''
+          R-1: C
+          R-2: C
+          R-3: C
+          M-P: C
+        Non-Residential:
+          B-1: C
+          B-2: P
+          B-3: P
+          M-1: P
       Use Standards Sec. No.: ''
     Utility, Major:
-      Zoning Districts > Residential > N-1: ''
-      Zoning Districts > Residential > R-1: C
-      Zoning Districts > Residential > R-2: C
-      Zoning Districts > Residential > R-3: C
-      Zoning Districts > Residential > M-P: C
-      Zoning Districts > Non-Residential > B-1: C
-      Zoning Districts > Non-Residential > B-2: C
-      Zoning Districts > Non-Residential > B-3: C
-      Zoning Districts > Non-Residential > M-1: C
+      Zoning Districts:
+        Residential:
+          N-1: ''
+          R-1: C
+          R-2: C
+          R-3: C
+          M-P: C
+        Non-Residential:
+          B-1: C
+          B-2: C
+          B-3: C
+          M-1: C
       Use Standards Sec. No.: ''
     Utility, Minor:
-      Zoning Districts > Residential > N-1: P
-      Zoning Districts > Residential > R-1: P
-      Zoning Districts > Residential > R-2: P
-      Zoning Districts > Residential > R-3: P
-      Zoning Districts > Residential > M-P: P
-      Zoning Districts > Non-Residential > B-1: P
-      Zoning Districts > Non-Residential > B-2: P
-      Zoning Districts > Non-Residential > B-3: P
-      Zoning Districts > Non-Residential > M-1: P
+      Zoning Districts:
+        Residential:
+          N-1: P
+          R-1: P
+          R-2: P
+          R-3: P
+          M-P: P
+        Non-Residential:
+          B-1: P
+          B-2: P
+          B-3: P
+          M-1: P
       Use Standards Sec. No.: ''
     Warehousing and Wholesale:
-      Zoning Districts > Residential > N-1: ''
-      Zoning Districts > Residential > R-1: ''
-      Zoning Districts > Residential > R-2: ''
-      Zoning Districts > Residential > R-3: ''
-      Zoning Districts > Residential > M-P: ''
-      Zoning Districts > Non-Residential > B-1: ''
-      Zoning Districts > Non-Residential > B-2: ''
-      Zoning Districts > Non-Residential > B-3: ''
-      Zoning Districts > Non-Residential > M-1: P
+      Zoning Districts:
+        Residential:
+          N-1: ''
+          R-1: ''
+          R-2: ''
+          R-3: ''
+          M-P: ''
+        Non-Residential:
+          B-1: ''
+          B-2: ''
+          B-3: ''
+          M-1: P
       Use Standards Sec. No.: ''
     Welding or Machine Shop:
-      Zoning Districts > Residential > N-1: ''
-      Zoning Districts > Residential > R-1: ''
-      Zoning Districts > Residential > R-2: ''
-      Zoning Districts > Residential > R-3: ''
-      Zoning Districts > Residential > M-P: ''
-      Zoning Districts > Non-Residential > B-1: ''
-      Zoning Districts > Non-Residential > B-2: ''
-      Zoning Districts > Non-Residential > B-3: ''
-      Zoning Districts > Non-Residential > M-1: P
+      Zoning Districts:
+        Residential:
+          N-1: ''
+          R-1: ''
+          R-2: ''
+          R-3: ''
+          M-P: ''
+        Non-Residential:
+          B-1: ''
+          B-2: ''
+          B-3: ''
+          M-1: P
       Use Standards Sec. No.: ''

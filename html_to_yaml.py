@@ -569,6 +569,42 @@ def build_header_paths(header_rows: list, total_cols: int, data_rows: list = Non
             for c in dominant_cols:
                 remainder = paths[c][len(dominant_text):].lstrip(" >")
                 paths[c] = remainder
+        elif (
+            len(dominant_cols) >= 2
+            and len(dominant_text) > 60
+            and all(
+                paths[c].split(" > ", 1)[0] == dominant_text
+                for c in paths if " > " in paths[c]
+            )
+            and sum(1 for c in paths if " > " in paths[c]) == len(dominant_cols)
+        ):
+            # NOTE ON THE LENGTH BOUND: unlike the structural rules
+            # elsewhere in this file, the subject here IS verbosity, so a
+            # size is the thing being judged. A short group name
+            # ("Zoning District > UMF") costs almost nothing to repeat
+            # and reads better inline; a long one is prose that happens
+            # to sit in a header cell. Only the latter is hoisted, and
+            # only when it also fails to distinguish anything (below).
+            #
+            # A first-level header shared by EVERY grouped column tells
+            # the reader nothing about which column is which — it is a
+            # statement about the table, not a distinction between its
+            # columns. Repeated on every value of every row it can
+            # dominate the output ("MINIMUM PARKING REQUIREMENT (On-site
+            # parking is based on square footage unless otherwise
+            # noted) > ..." appearing 373 times), while the part that
+            # actually identifies the column is the remainder.
+            #
+            # Hoisting it to the caption keeps the meaning and states it
+            # once. This only applies when the segment covers all of
+            # them: a table with two groups ("Ag/Residential" and
+            # "Mixed-Use/Nonresidential") needs both kept, because there
+            # the segment IS what separates one column from another.
+            note = dominant_text
+            for c in dominant_cols:
+                remainder = paths[c][len(dominant_text):].lstrip(" >")
+                if remainder:
+                    paths[c] = remainder
         elif is_majority:
             # Not a note (doesn't have a full grouping level below it to
             # fall back on), but it's still a real, majority-covering
@@ -1601,6 +1637,9 @@ def build_matrix_yaml(data_rows: list, header_paths: dict, total_cols: int) -> d
     # divider check #3.
     fullwidth_parent = None
     fullwidth_key = None
+    # The heading currently acting as a GROUP for the headings under it
+    # (see the two-line-heading rule in divider check #1).
+    heading_group_parent = None
     subdivider_parent = None
     # The indent level the currently-active subsection's OWN divider row
     # sat at (e.g. 3 for "Restaurants:") — needed to know when it's
@@ -1678,6 +1717,14 @@ def build_matrix_yaml(data_rows: list, header_paths: dict, total_cols: int) -> d
                     shade = divider_cell[5] if len(divider_cell) > 5 else None
                     level = shade_rank.get(shade, len(shade_rank))
 
+                    # The sentence-punctuation guard separates a heading
+                    # from PROSE. An explanatory note ("See section
+                    # 42.678 for additional uses...") is also a
+                    # full-width row that collects nothing, so adjacency
+                    # and emptiness alone would splice it onto the
+                    # heading that follows. Headings don't end in a
+                    # full stop; sentences do.
+                    #
                     # A heading that received NOTHING and is immediately
                     # followed by another heading at the same level was
                     # never really two sections — it's one heading the
@@ -1702,12 +1749,19 @@ def build_matrix_yaml(data_rows: list, header_paths: dict, total_cols: int) -> d
                         and last_divider_open["row_idx"] == row_idx - 1
                         and isinstance(last_divider_open["node"], dict)
                         and not last_divider_open["node"]
+                        and not last_divider_open["key"].rstrip().endswith((".", ";"))
                     ):
-                        prev_parent = last_divider_open["parent"]
-                        prev_key = last_divider_open["key"]
-                        if prev_parent.get(prev_key) is last_divider_open["node"]:
-                            del prev_parent[prev_key]
-                            divider_text = f"{prev_key} > {divider_text}"
+                        # Same reading as the unshaded branch below: the
+                        # empty heading is this one's PARENT, so it takes
+                        # its own level on the stack and this heading
+                        # goes one level deeper inside it. No retroactive
+                        # lift is needed here — shading already fixes
+                        # every heading's level, so the NEXT heading at
+                        # the parent's own shade simply pops back and
+                        # lands beside it rather than inside it.
+                        prev_node = last_divider_open["node"]
+                        section_stack[level] = prev_node
+                        level = level + 1
 
                     parent_node = result
                     for lv in sorted(section_stack):
@@ -1728,12 +1782,65 @@ def build_matrix_yaml(data_rows: list, header_paths: dict, total_cols: int) -> d
                         "row_idx": row_idx,
                     }
                 elif divider_is_bold or not indent_hierarchy_enabled:
-                    section_node = _get_or_create_child(result, divider_text)
+                    # Same two-line-heading rule the shaded branch uses:
+                    # a heading that received NOTHING and is immediately
+                    # followed by another heading was one heading split
+                    # across two rows ("Rural Zones" then "Agriculture
+                    # Zones"), not two sections. Joining them keeps both
+                    # labels instead of leaving an empty node, and it
+                    # also disambiguates headings that recur under
+                    # different parents — this table has "Residential
+                    # Zones" under both "Rural" and "Urban", which would
+                    # otherwise collide on one key.
+                    if (
+                        last_divider_open is not None
+                        and not _is_trailing_note_row(row_idx, row)
+                        and last_divider_open["level"] == 0
+                        and last_divider_open["row_idx"] == row_idx - 1
+                        and isinstance(last_divider_open["node"], dict)
+                        and not last_divider_open["node"]
+                        and not last_divider_open["key"].rstrip().endswith((".", ";"))
+                    ):
+                        # The empty heading is this group's PARENT. Every
+                        # heading that follows belongs inside it, until
+                        # another empty heading opens the next group.
+                        #
+                        # It may itself have been filed inside the
+                        # PREVIOUS group a moment ago — nothing marked it
+                        # as a parent until the heading on this row
+                        # appeared. Lift it back to the top level now
+                        # that its role is known: "Urban Zones" is first
+                        # seen as one more heading under "Rural Zones",
+                        # and only the "Residential Zones" row beneath it
+                        # reveals it as a group of its own.
+                        prev_parent = last_divider_open["parent"]
+                        prev_key = last_divider_open["key"]
+                        prev_node = last_divider_open["node"]
+                        if prev_parent.get(prev_key) is prev_node and prev_parent is not result:
+                            del prev_parent[prev_key]
+                            result[prev_key] = prev_node
+                        heading_group_parent = prev_node
+
+                    # Headings nest inside the open group; with no group
+                    # open they sit at the top level, exactly as before.
+                    heading_parent = (
+                        heading_group_parent
+                        if heading_group_parent is not None
+                        else result
+                    )
+                    section_node = _get_or_create_child(heading_parent, divider_text)
                     section_context = section_node
                     active_subsection = None
                     fullwidth_parent = section_node
                     fullwidth_key = divider_text
                     subdivider_parent = None
+                    last_divider_open = {
+                        "level": 0,
+                        "parent": heading_parent,
+                        "key": divider_text,
+                        "node": section_node,
+                        "row_idx": row_idx,
+                    }
                 else:
                     active_subsection = _get_or_create_child(section_context, divider_text)
                     divider_cell = row.get(anchor_col)
@@ -2076,7 +2183,41 @@ def build_matrix_yaml(data_rows: list, header_paths: dict, total_cols: int) -> d
                 # only matters in the rare case multiple columns share
                 # one header.
                 inner_check[key] = "; ".join(dict.fromkeys(vals))
-            inner_full[key] = inner_check.get(key, "")   # "" if this column was blank
+            value = inner_check.get(key, "")   # "" if this column was blank
+
+            # A grouped column header ("Zoning of Existing Development >
+            # RD") is a PATH, and repeating the group on every column of
+            # every row is the single largest source of bulk in the
+            # output — 196 copies of one group name in a 14-column
+            # table. Nesting states it once per row and puts each
+            # column's own name directly under it, which is also what
+            # the header actually says: one group spanning several
+            # columns.
+            #
+            # Collisions are handled rather than assumed away. A group
+            # name can clash with a plain column of the same name, and a
+            # deeper path can arrive after a scalar already sits at that
+            # point; in both cases the existing value is preserved under
+            # a "(General)" key beneath the new branch instead of being
+            # silently overwritten, so no cell is ever lost to nesting.
+            if " > " in key:
+                segments = key.split(" > ")
+                node = inner_full
+                for seg in segments[:-1]:
+                    existing_here = node.get(seg)
+                    if not isinstance(existing_here, dict):
+                        branch = {}
+                        if seg in node:
+                            branch["(General)"] = existing_here
+                        node[seg] = branch
+                    node = node[seg]
+                leaf = segments[-1]
+                if isinstance(node.get(leaf), dict):
+                    node[leaf]["(General)"] = value
+                else:
+                    node[leaf] = value
+            else:
+                inner_full[key] = value
 
         # --- Divider check #3: partial label, single spanned cell, or a
         # trailing-colon category label with no data ---
@@ -2590,6 +2731,65 @@ def _convert_one_table(table) -> tuple:
     other tables, instead of falling back to a meaningless "Table N".
     """
     header_row_count, grid = expand_html_grid(table)
+
+    # --- A header row with no markup at all ---
+    #
+    # Some tables carry no <thead>, no <th>, and no bold or shading —
+    # the first row is the column names, written exactly like every data
+    # row. With header_row_count at 0 the names are read as data, the
+    # first real row's label is taken as the header, and the whole table
+    # shifts by one row.
+    #
+    # Content tells them apart when markup can't. A header row names
+    # every column, so it has no blanks; data rows in these tables
+    # routinely do (a use that has no "Per Employee" figure leaves that
+    # cell empty). And a header's text is a LABEL, never repeated as a
+    # value below, whereas data rows share vocabulary with each other.
+    # Requiring all three — full first row, blanks somewhere below, and
+    # no text reused as a value — keeps an ordinary first data row from
+    # being promoted.
+    if header_row_count == 0 and len(grid) >= 3:
+        _ncols = _compute_total_cols(grid, header_row_count)
+        first = grid[0]
+        first_texts = [
+            (first.get(c) or ("",))[0].strip() for c in range(_ncols)
+        ]
+        # Only for a table with real value COLUMNS to name. A two-column
+        # table is a key/value list — a legend, a definition schedule —
+        # where the first row is simply the first entry, and "naming" its
+        # two columns would consume a genuine datum. The risk of that
+        # misread is what this bound rules out, not table size.
+        # Every column must also be named DIFFERENTLY. A title banner
+        # spanning the full width ("OFF-STREET PARKING REQUIREMENTS")
+        # copies one text into every column and would otherwise look
+        # like a fully-populated first row; a header row gives each
+        # column its own distinct name.
+        # And none of them may be PROSE. Column names are labels; a row
+        # whose cells are sentences is data, however well-populated it
+        # looks (a district/use/requirement row reads as three full
+        # columns but its last cell is a paragraph). Same convention used
+        # elsewhere for telling a heading from a sentence: labels don't
+        # end in a full stop.
+        if (
+            _ncols >= 3
+            and all(first_texts)
+            and len(set(first_texts)) == _ncols
+            and not any(t.rstrip().endswith((".", ";")) for t in first_texts)
+        ):
+            rest = grid[1:]
+            has_blank_below = any(
+                not (r.get(c) or ("",))[0].strip()
+                for r in rest for c in range(_ncols)
+            )
+            body_texts = {
+                (r.get(c) or ("",))[0].strip().lower()
+                for r in rest for c in range(_ncols)
+            }
+            body_texts.discard("")
+            if has_blank_below and not any(
+                t.lower() in body_texts for t in first_texts
+            ):
+                header_row_count = 1
 
     # --- A header row that ended up in <tbody> ---
     #

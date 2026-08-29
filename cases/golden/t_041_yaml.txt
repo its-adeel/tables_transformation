@@ -1,374 +1,454 @@
 EXHIBIT VI.8.1-6. APPLICABILITY MATRIX:
   Development Application/ Request:
     A. New Development*:
-      Building and Envelope Regulations > Placement: X
-      Building and Envelope Regulations > Orientation: X
-      Building and Envelope Regulations > Blocks/Lots: X
-      Building and Envelope Regulations > Height: X
-      Building and Envelope Regulations > Driveway: X
-      Building and Envelope Regulations > Ped-Circulation: X
-      Building and Envelope Regulations > Off- and On-Street Parking: X
-      Architectural Regulations > Articulation: X
-      Architectural Regulations > Bldg. Entrances: X
-      Architectural Regulations > Materials/ Colors: X
-      Architectural Regulations > Awnings/ Canopies: X
-      Architectural Regulations > Window: X
-      Architectural Regulations > Parking Structures: X
-      Landscape Regulations > Tree/ Plant Materials: X
-      Landscape Regulations > Hardscaping: X
-      Landscape Regulations > Open Space: X
-      Street and Streetscape Regulations > General: X
-      Street and Streetscape Regulations > New or Existing Streets: X
-      Street and Streetscape Regulations > Streetscape Zone: X
-      Street and Streetscape Regulations > Street/Ped Lighting: X
-      Street and Streetscape Regulations > Pedestrian Amenities: X
-      Misc. > Screening of Service Areas and Utilities: ''
+      Building and Envelope Regulations:
+        Placement: X
+        Orientation: X
+        Blocks/Lots: X
+        Height: X
+        Driveway: X
+        Ped-Circulation: X
+        Off- and On-Street Parking: X
+      Architectural Regulations:
+        Articulation: X
+        Bldg. Entrances: X
+        Materials/ Colors: X
+        Awnings/ Canopies: X
+        Window: X
+        Parking Structures: X
+      Landscape Regulations:
+        Tree/ Plant Materials: X
+        Hardscaping: X
+        Open Space: X
+      Street and Streetscape Regulations:
+        General: X
+        New or Existing Streets: X
+        Streetscape Zone: X
+        Street/Ped Lighting: X
+        Pedestrian Amenities: X
+      Misc.:
+        Screening of Service Areas and Utilities: ''
     B. Change of use/expansion of existing use (with NO change in building area) (new use shall comply with the underlying zoning district)**:
-      Building and Envelope Regulations > Placement: ''
-      Building and Envelope Regulations > Orientation: ''
-      Building and Envelope Regulations > Blocks/Lots: ''
-      Building and Envelope Regulations > Height: ''
-      Building and Envelope Regulations > Driveway: ''
-      Building and Envelope Regulations > Ped-Circulation: ''
-      Building and Envelope Regulations > Off- and On-Street Parking: X
-      Architectural Regulations > Articulation: ''
-      Architectural Regulations > Bldg. Entrances: ''
-      Architectural Regulations > Materials/ Colors: ''
-      Architectural Regulations > Awnings/ Canopies: ''
-      Architectural Regulations > Window: ''
-      Architectural Regulations > Parking Structures: ''
-      Landscape Regulations > Tree/ Plant Materials: ''
-      Landscape Regulations > Hardscaping: ''
-      Landscape Regulations > Open Space: ''
-      Street and Streetscape Regulations > General: ''
-      Street and Streetscape Regulations > New or Existing Streets: ''
-      Street and Streetscape Regulations > Streetscape Zone: ''
-      Street and Streetscape Regulations > Street/Ped Lighting: ''
-      Street and Streetscape Regulations > Pedestrian Amenities: ''
-      Misc. > Screening of Service Areas and Utilities: ''
+      Building and Envelope Regulations:
+        Placement: ''
+        Orientation: ''
+        Blocks/Lots: ''
+        Height: ''
+        Driveway: ''
+        Ped-Circulation: ''
+        Off- and On-Street Parking: X
+      Architectural Regulations:
+        Articulation: ''
+        Bldg. Entrances: ''
+        Materials/ Colors: ''
+        Awnings/ Canopies: ''
+        Window: ''
+        Parking Structures: ''
+      Landscape Regulations:
+        Tree/ Plant Materials: ''
+        Hardscaping: ''
+        Open Space: ''
+      Street and Streetscape Regulations:
+        General: ''
+        New or Existing Streets: ''
+        Streetscape Zone: ''
+        Street/Ped Lighting: ''
+        Pedestrian Amenities: ''
+      Misc.:
+        Screening of Service Areas and Utilities: ''
     C. Interior remodel with no change of use, no change in any Street facing Facade, no increase of any existing nonconformity and no change in building area:
-      Building and Envelope Regulations > Placement: ''
-      Building and Envelope Regulations > Orientation: ''
-      Building and Envelope Regulations > Blocks/Lots: ''
-      Building and Envelope Regulations > Height: ''
-      Building and Envelope Regulations > Driveway: ''
-      Building and Envelope Regulations > Ped-Circulation: ''
-      Building and Envelope Regulations > Off- and On-Street Parking: ''
-      Architectural Regulations > Articulation: ''
-      Architectural Regulations > Bldg. Entrances: ''
-      Architectural Regulations > Materials/ Colors: ''
-      Architectural Regulations > Awnings/ Canopies: ''
-      Architectural Regulations > Window: ''
-      Architectural Regulations > Parking Structures: ''
-      Landscape Regulations > Tree/ Plant Materials: ''
-      Landscape Regulations > Hardscaping: ''
-      Landscape Regulations > Open Space: ''
-      Street and Streetscape Regulations > General: ''
-      Street and Streetscape Regulations > New or Existing Streets: ''
-      Street and Streetscape Regulations > Streetscape Zone: ''
-      Street and Streetscape Regulations > Street/Ped Lighting: ''
-      Street and Streetscape Regulations > Pedestrian Amenities: ''
-      Misc. > Screening of Service Areas and Utilities: ''
+      Building and Envelope Regulations:
+        Placement: ''
+        Orientation: ''
+        Blocks/Lots: ''
+        Height: ''
+        Driveway: ''
+        Ped-Circulation: ''
+        Off- and On-Street Parking: ''
+      Architectural Regulations:
+        Articulation: ''
+        Bldg. Entrances: ''
+        Materials/ Colors: ''
+        Awnings/ Canopies: ''
+        Window: ''
+        Parking Structures: ''
+      Landscape Regulations:
+        Tree/ Plant Materials: ''
+        Hardscaping: ''
+        Open Space: ''
+      Street and Streetscape Regulations:
+        General: ''
+        New or Existing Streets: ''
+        Streetscape Zone: ''
+        Street/Ped Lighting: ''
+        Pedestrian Amenities: ''
+      Misc.:
+        Screening of Service Areas and Utilities: ''
     D. Facade changes to existing buildings (regardless of value of improvements proposed):
-      Building and Envelope Regulations > Placement: ''
-      Building and Envelope Regulations > Orientation: ''
-      Building and Envelope Regulations > Blocks/Lots: ''
-      Building and Envelope Regulations > Height: ''
-      Building and Envelope Regulations > Driveway: ''
-      Building and Envelope Regulations > Ped-Circulation: ''
-      Building and Envelope Regulations > Off- and On-Street Parking: ''
-      Architectural Regulations > Articulation: ''
-      Architectural Regulations > Bldg. Entrances: ''
-      Architectural Regulations > Materials/ Colors: ''
-      Architectural Regulations > Awnings/ Canopies: ''
-      Architectural Regulations > Window: ''
-      Architectural Regulations > Parking Structures: ''
-      Landscape Regulations > Tree/ Plant Materials: ''
-      Landscape Regulations > Hardscaping: ''
-      Landscape Regulations > Open Space: ''
-      Street and Streetscape Regulations > General: ''
-      Street and Streetscape Regulations > New or Existing Streets: ''
-      Street and Streetscape Regulations > Streetscape Zone: ''
-      Street and Streetscape Regulations > Street/Ped Lighting: ''
-      Street and Streetscape Regulations > Pedestrian Amenities: ''
-      Misc. > Screening of Service Areas and Utilities: ''
+      Building and Envelope Regulations:
+        Placement: ''
+        Orientation: ''
+        Blocks/Lots: ''
+        Height: ''
+        Driveway: ''
+        Ped-Circulation: ''
+        Off- and On-Street Parking: ''
+      Architectural Regulations:
+        Articulation: ''
+        Bldg. Entrances: ''
+        Materials/ Colors: ''
+        Awnings/ Canopies: ''
+        Window: ''
+        Parking Structures: ''
+      Landscape Regulations:
+        Tree/ Plant Materials: ''
+        Hardscaping: ''
+        Open Space: ''
+      Street and Streetscape Regulations:
+        General: ''
+        New or Existing Streets: ''
+        Streetscape Zone: ''
+        Street/Ped Lighting: ''
+        Pedestrian Amenities: ''
+      Misc.:
+        Screening of Service Areas and Utilities: ''
     1. Addition of non-air conditioned space such as patios, porches, arcades, canopies, and outdoor seating areas (shall be permitted so long as no existing nonconformity is increased)**:
-      Building and Envelope Regulations > Placement: X
-      Building and Envelope Regulations > Orientation: X
-      Building and Envelope Regulations > Blocks/Lots: ''
-      Building and Envelope Regulations > Height: ''
-      Building and Envelope Regulations > Driveway: ''
-      Building and Envelope Regulations > Ped-Circulation: X
-      Building and Envelope Regulations > Off- and On-Street Parking: X
-      Architectural Regulations > Articulation: ''
-      Architectural Regulations > Bldg. Entrances: ''
-      Architectural Regulations > Materials/ Colors: ''
-      Architectural Regulations > Awnings/ Canopies: X
-      Architectural Regulations > Window: ''
-      Architectural Regulations > Parking Structures: ''
-      Landscape Regulations > Tree/ Plant Materials: ''
-      Landscape Regulations > Hardscaping: ''
-      Landscape Regulations > Open Space: ''
-      Street and Streetscape Regulations > General: ''
-      Street and Streetscape Regulations > New or Existing Streets: ''
-      Street and Streetscape Regulations > Streetscape Zone: ''
-      Street and Streetscape Regulations > Street/Ped Lighting: ''
-      Street and Streetscape Regulations > Pedestrian Amenities: ''
-      Misc. > Screening of Service Areas and Utilities: ''
+      Building and Envelope Regulations:
+        Placement: X
+        Orientation: X
+        Blocks/Lots: ''
+        Height: ''
+        Driveway: ''
+        Ped-Circulation: X
+        Off- and On-Street Parking: X
+      Architectural Regulations:
+        Articulation: ''
+        Bldg. Entrances: ''
+        Materials/ Colors: ''
+        Awnings/ Canopies: X
+        Window: ''
+        Parking Structures: ''
+      Landscape Regulations:
+        Tree/ Plant Materials: ''
+        Hardscaping: ''
+        Open Space: ''
+      Street and Streetscape Regulations:
+        General: ''
+        New or Existing Streets: ''
+        Streetscape Zone: ''
+        Street/Ped Lighting: ''
+        Pedestrian Amenities: ''
+      Misc.:
+        Screening of Service Areas and Utilities: ''
     2. Changes to any Street facing Facades (Standards in the specific section shall apply except that architectural regulations shall only apply to the Street facing Facade being changed)**:
-      Building and Envelope Regulations > Placement: ''
-      Building and Envelope Regulations > Orientation: ''
-      Building and Envelope Regulations > Blocks/Lots: ''
-      Building and Envelope Regulations > Height: ''
-      Building and Envelope Regulations > Driveway: ''
-      Building and Envelope Regulations > Ped-Circulation: ''
-      Building and Envelope Regulations > Off- and On-Street Parking: ''
-      Architectural Regulations > Articulation: X
-      Architectural Regulations > Bldg. Entrances: X
-      Architectural Regulations > Materials/ Colors: X
-      Architectural Regulations > Awnings/ Canopies: X
-      Architectural Regulations > Window: X
-      Architectural Regulations > Parking Structures: ''
-      Landscape Regulations > Tree/ Plant Materials: X
-      Landscape Regulations > Hardscaping: ''
-      Landscape Regulations > Open Space: ''
-      Street and Streetscape Regulations > General: ''
-      Street and Streetscape Regulations > New or Existing Streets: ''
-      Street and Streetscape Regulations > Streetscape Zone: ''
-      Street and Streetscape Regulations > Street/Ped Lighting: ''
-      Street and Streetscape Regulations > Pedestrian Amenities: ''
-      Misc. > Screening of Service Areas and Utilities: ''
+      Building and Envelope Regulations:
+        Placement: ''
+        Orientation: ''
+        Blocks/Lots: ''
+        Height: ''
+        Driveway: ''
+        Ped-Circulation: ''
+        Off- and On-Street Parking: ''
+      Architectural Regulations:
+        Articulation: X
+        Bldg. Entrances: X
+        Materials/ Colors: X
+        Awnings/ Canopies: X
+        Window: X
+        Parking Structures: ''
+      Landscape Regulations:
+        Tree/ Plant Materials: X
+        Hardscaping: ''
+        Open Space: ''
+      Street and Streetscape Regulations:
+        General: ''
+        New or Existing Streets: ''
+        Streetscape Zone: ''
+        Street/Ped Lighting: ''
+        Pedestrian Amenities: ''
+      Misc.:
+        Screening of Service Areas and Utilities: ''
     E. Expansion of Building Area:
       1. 0%—49% increase in building area regardless of value of improvements (Standards in applicable sections shall apply only to the expansions)**:
-        Building and Envelope Regulations > Placement: X
-        Building and Envelope Regulations > Orientation: X
-        Building and Envelope Regulations > Blocks/Lots: X
-        Building and Envelope Regulations > Height: X
-        Building and Envelope Regulations > Driveway: X
-        Building and Envelope Regulations > Ped-Circulation: X
-        Building and Envelope Regulations > Off- and On-Street Parking: X
-        Architectural Regulations > Articulation: X
-        Architectural Regulations > Bldg. Entrances: X
-        Architectural Regulations > Materials/ Colors: X
-        Architectural Regulations > Awnings/ Canopies: X
-        Architectural Regulations > Window: X
-        Architectural Regulations > Parking Structures: ''
-        Landscape Regulations > Tree/ Plant Materials: X
-        Landscape Regulations > Hardscaping: X
-        Landscape Regulations > Open Space: ''
-        Street and Streetscape Regulations > General: X
-        Street and Streetscape Regulations > New or Existing Streets: X
-        Street and Streetscape Regulations > Streetscape Zone: X
-        Street and Streetscape Regulations > Street/Ped Lighting: X
-        Street and Streetscape Regulations > Pedestrian Amenities: X
-        Misc. > Screening of Service Areas and Utilities: ''
+        Building and Envelope Regulations:
+          Placement: X
+          Orientation: X
+          Blocks/Lots: X
+          Height: X
+          Driveway: X
+          Ped-Circulation: X
+          Off- and On-Street Parking: X
+        Architectural Regulations:
+          Articulation: X
+          Bldg. Entrances: X
+          Materials/ Colors: X
+          Awnings/ Canopies: X
+          Window: X
+          Parking Structures: ''
+        Landscape Regulations:
+          Tree/ Plant Materials: X
+          Hardscaping: X
+          Open Space: ''
+        Street and Streetscape Regulations:
+          General: X
+          New or Existing Streets: X
+          Streetscape Zone: X
+          Street/Ped Lighting: X
+          Pedestrian Amenities: X
+        Misc.:
+          Screening of Service Areas and Utilities: ''
       '2. 50% or greater increase in building area BUT less than both: a. 50% increase in value of improvements, and b. Total proposed improvements valued at $100,000 (Standards in applicable sections shall apply only to the expansions)*':
-        Building and Envelope Regulations > Placement: X
-        Building and Envelope Regulations > Orientation: X
-        Building and Envelope Regulations > Blocks/Lots: X
-        Building and Envelope Regulations > Height: X
-        Building and Envelope Regulations > Driveway: X
-        Building and Envelope Regulations > Ped-Circulation: X
-        Building and Envelope Regulations > Off- and On-Street Parking: X
-        Architectural Regulations > Articulation: X
-        Architectural Regulations > Bldg. Entrances: X
-        Architectural Regulations > Materials/ Colors: X
-        Architectural Regulations > Awnings/ Canopies: X
-        Architectural Regulations > Window: X
-        Architectural Regulations > Parking Structures: ''
-        Landscape Regulations > Tree/ Plant Materials: X
-        Landscape Regulations > Hardscaping: X
-        Landscape Regulations > Open Space: ''
-        Street and Streetscape Regulations > General: X
-        Street and Streetscape Regulations > New or Existing Streets: X
-        Street and Streetscape Regulations > Streetscape Zone: X
-        Street and Streetscape Regulations > Street/Ped Lighting: X
-        Street and Streetscape Regulations > Pedestrian Amenities: X
-        Misc. > Screening of Service Areas and Utilities: ''
+        Building and Envelope Regulations:
+          Placement: X
+          Orientation: X
+          Blocks/Lots: X
+          Height: X
+          Driveway: X
+          Ped-Circulation: X
+          Off- and On-Street Parking: X
+        Architectural Regulations:
+          Articulation: X
+          Bldg. Entrances: X
+          Materials/ Colors: X
+          Awnings/ Canopies: X
+          Window: X
+          Parking Structures: ''
+        Landscape Regulations:
+          Tree/ Plant Materials: X
+          Hardscaping: X
+          Open Space: ''
+        Street and Streetscape Regulations:
+          General: X
+          New or Existing Streets: X
+          Streetscape Zone: X
+          Street/Ped Lighting: X
+          Pedestrian Amenities: X
+        Misc.:
+          Screening of Service Areas and Utilities: ''
       '3. 50% or greater increase of building area AND more than either: a. 50% increase in value of improvements or b. Any proposed improvements valued at $100,000 (Standards in applicable sections shall apply to the entire site, including retrofitting of the existing building and site).*':
-        Building and Envelope Regulations > Placement: X
-        Building and Envelope Regulations > Orientation: X
-        Building and Envelope Regulations > Blocks/Lots: X
-        Building and Envelope Regulations > Height: X
-        Building and Envelope Regulations > Driveway: X
-        Building and Envelope Regulations > Ped-Circulation: X
-        Building and Envelope Regulations > Off- and On-Street Parking: X
-        Architectural Regulations > Articulation: X
-        Architectural Regulations > Bldg. Entrances: X
-        Architectural Regulations > Materials/ Colors: X
-        Architectural Regulations > Awnings/ Canopies: X
-        Architectural Regulations > Window: X
-        Architectural Regulations > Parking Structures: ''
-        Landscape Regulations > Tree/ Plant Materials: X
-        Landscape Regulations > Hardscaping: X
-        Landscape Regulations > Open Space: ''
-        Street and Streetscape Regulations > General: X
-        Street and Streetscape Regulations > New or Existing Streets: X
-        Street and Streetscape Regulations > Streetscape Zone: X
-        Street and Streetscape Regulations > Street/Ped Lighting: X
-        Street and Streetscape Regulations > Pedestrian Amenities: X
-        Misc. > Screening of Service Areas and Utilities: ''
+        Building and Envelope Regulations:
+          Placement: X
+          Orientation: X
+          Blocks/Lots: X
+          Height: X
+          Driveway: X
+          Ped-Circulation: X
+          Off- and On-Street Parking: X
+        Architectural Regulations:
+          Articulation: X
+          Bldg. Entrances: X
+          Materials/ Colors: X
+          Awnings/ Canopies: X
+          Window: X
+          Parking Structures: ''
+        Landscape Regulations:
+          Tree/ Plant Materials: X
+          Hardscaping: X
+          Open Space: ''
+        Street and Streetscape Regulations:
+          General: X
+          New or Existing Streets: X
+          Streetscape Zone: X
+          Street/Ped Lighting: X
+          Pedestrian Amenities: X
+        Misc.:
+          Screening of Service Areas and Utilities: ''
     F. Expansion of Parking Lot only (not in conjunction with a building or use expansion):
       1. Up to 10 additional spaces (shall not be placed in any area that increases any existing nonconformity)**:
-        Building and Envelope Regulations > Placement: ''
-        Building and Envelope Regulations > Orientation: ''
-        Building and Envelope Regulations > Blocks/Lots: ''
-        Building and Envelope Regulations > Height: ''
-        Building and Envelope Regulations > Driveway: X
-        Building and Envelope Regulations > Ped-Circulation: ''
-        Building and Envelope Regulations > Off- and On-Street Parking: X
-        Architectural Regulations > Articulation: ''
-        Architectural Regulations > Bldg. Entrances: ''
-        Architectural Regulations > Materials/ Colors: ''
-        Architectural Regulations > Awnings/ Canopies: ''
-        Architectural Regulations > Window: ''
-        Architectural Regulations > Parking Structures: ''
-        Landscape Regulations > Tree/ Plant Materials: X
-        Landscape Regulations > Hardscaping: ''
-        Landscape Regulations > Open Space: ''
-        Street and Streetscape Regulations > General: ''
-        Street and Streetscape Regulations > New or Existing Streets: ''
-        Street and Streetscape Regulations > Streetscape Zone: ''
-        Street and Streetscape Regulations > Street/Ped Lighting: ''
-        Street and Streetscape Regulations > Pedestrian Amenities: ''
-        Misc. > Screening of Service Areas and Utilities: ''
+        Building and Envelope Regulations:
+          Placement: ''
+          Orientation: ''
+          Blocks/Lots: ''
+          Height: ''
+          Driveway: X
+          Ped-Circulation: ''
+          Off- and On-Street Parking: X
+        Architectural Regulations:
+          Articulation: ''
+          Bldg. Entrances: ''
+          Materials/ Colors: ''
+          Awnings/ Canopies: ''
+          Window: ''
+          Parking Structures: ''
+        Landscape Regulations:
+          Tree/ Plant Materials: X
+          Hardscaping: ''
+          Open Space: ''
+        Street and Streetscape Regulations:
+          General: ''
+          New or Existing Streets: ''
+          Streetscape Zone: ''
+          Street/Ped Lighting: ''
+          Pedestrian Amenities: ''
+        Misc.:
+          Screening of Service Areas and Utilities: ''
       2. 11 or more additional spaces (shall not be placed in a manner that increases any existing nonconformity)*:
-        Building and Envelope Regulations > Placement: ''
-        Building and Envelope Regulations > Orientation: ''
-        Building and Envelope Regulations > Blocks/Lots: ''
-        Building and Envelope Regulations > Height: ''
-        Building and Envelope Regulations > Driveway: X
-        Building and Envelope Regulations > Ped-Circulation: X
-        Building and Envelope Regulations > Off- and On-Street Parking: X
-        Architectural Regulations > Articulation: ''
-        Architectural Regulations > Bldg. Entrances: ''
-        Architectural Regulations > Materials/ Colors: ''
-        Architectural Regulations > Awnings/ Canopies: ''
-        Architectural Regulations > Window: ''
-        Architectural Regulations > Parking Structures: ''
-        Landscape Regulations > Tree/ Plant Materials: X
-        Landscape Regulations > Hardscaping: X
-        Landscape Regulations > Open Space: ''
-        Street and Streetscape Regulations > General: ''
-        Street and Streetscape Regulations > New or Existing Streets: ''
-        Street and Streetscape Regulations > Streetscape Zone: ''
-        Street and Streetscape Regulations > Street/Ped Lighting: ''
-        Street and Streetscape Regulations > Pedestrian Amenities: ''
-        Misc. > Screening of Service Areas and Utilities: X
+        Building and Envelope Regulations:
+          Placement: ''
+          Orientation: ''
+          Blocks/Lots: ''
+          Height: ''
+          Driveway: X
+          Ped-Circulation: X
+          Off- and On-Street Parking: X
+        Architectural Regulations:
+          Articulation: ''
+          Bldg. Entrances: ''
+          Materials/ Colors: ''
+          Awnings/ Canopies: ''
+          Window: ''
+          Parking Structures: ''
+        Landscape Regulations:
+          Tree/ Plant Materials: X
+          Hardscaping: X
+          Open Space: ''
+        Street and Streetscape Regulations:
+          General: ''
+          New or Existing Streets: ''
+          Streetscape Zone: ''
+          Street/Ped Lighting: ''
+          Pedestrian Amenities: ''
+        Misc.:
+          Screening of Service Areas and Utilities: X
     G. Decrease of Building Area:
       1. 0% to 49% decrease in building area regardless of value of improvements (Architectural regulations shall only apply to Facades impacted by building decrease)**:
-        Building and Envelope Regulations > Placement: ''
-        Building and Envelope Regulations > Orientation: ''
-        Building and Envelope Regulations > Blocks/Lots: ''
-        Building and Envelope Regulations > Height: ''
-        Building and Envelope Regulations > Driveway: X
-        Building and Envelope Regulations > Ped-Circulation: X
-        Building and Envelope Regulations > Off- and On-Street Parking: X
-        Architectural Regulations > Articulation: X
-        Architectural Regulations > Bldg. Entrances: X
-        Architectural Regulations > Materials/ Colors: X
-        Architectural Regulations > Awnings/ Canopies: X
-        Architectural Regulations > Window: X
-        Architectural Regulations > Parking Structures: X
-        Landscape Regulations > Tree/ Plant Materials: X
-        Landscape Regulations > Hardscaping: ''
-        Landscape Regulations > Open Space: ''
-        Street and Streetscape Regulations > General: ''
-        Street and Streetscape Regulations > New or Existing Streets: ''
-        Street and Streetscape Regulations > Streetscape Zone: ''
-        Street and Streetscape Regulations > Street/Ped Lighting: ''
-        Street and Streetscape Regulations > Pedestrian Amenities: ''
-        Misc. > Screening of Service Areas and Utilities: X
+        Building and Envelope Regulations:
+          Placement: ''
+          Orientation: ''
+          Blocks/Lots: ''
+          Height: ''
+          Driveway: X
+          Ped-Circulation: X
+          Off- and On-Street Parking: X
+        Architectural Regulations:
+          Articulation: X
+          Bldg. Entrances: X
+          Materials/ Colors: X
+          Awnings/ Canopies: X
+          Window: X
+          Parking Structures: X
+        Landscape Regulations:
+          Tree/ Plant Materials: X
+          Hardscaping: ''
+          Open Space: ''
+        Street and Streetscape Regulations:
+          General: ''
+          New or Existing Streets: ''
+          Streetscape Zone: ''
+          Street/Ped Lighting: ''
+          Pedestrian Amenities: ''
+        Misc.:
+          Screening of Service Areas and Utilities: X
       2. 50% or greater decrease of building area (Standards in the specific section shall apply to the entire building and site)**:
-        Building and Envelope Regulations > Placement: ''
-        Building and Envelope Regulations > Orientation: ''
-        Building and Envelope Regulations > Blocks/Lots: ''
-        Building and Envelope Regulations > Height: ''
-        Building and Envelope Regulations > Driveway: X
-        Building and Envelope Regulations > Ped-Circulation: X
-        Building and Envelope Regulations > Off- and On-Street Parking: X
-        Architectural Regulations > Articulation: X
-        Architectural Regulations > Bldg. Entrances: X
-        Architectural Regulations > Materials/ Colors: X
-        Architectural Regulations > Awnings/ Canopies: X
-        Architectural Regulations > Window: X
-        Architectural Regulations > Parking Structures: X
-        Landscape Regulations > Tree/ Plant Materials: X
-        Landscape Regulations > Hardscaping: ''
-        Landscape Regulations > Open Space: ''
-        Street and Streetscape Regulations > General: ''
-        Street and Streetscape Regulations > New or Existing Streets: ''
-        Street and Streetscape Regulations > Streetscape Zone: ''
-        Street and Streetscape Regulations > Street/Ped Lighting: ''
-        Street and Streetscape Regulations > Pedestrian Amenities: ''
-        Misc. > Screening of Service Areas and Utilities: X
+        Building and Envelope Regulations:
+          Placement: ''
+          Orientation: ''
+          Blocks/Lots: ''
+          Height: ''
+          Driveway: X
+          Ped-Circulation: X
+          Off- and On-Street Parking: X
+        Architectural Regulations:
+          Articulation: X
+          Bldg. Entrances: X
+          Materials/ Colors: X
+          Awnings/ Canopies: X
+          Window: X
+          Parking Structures: X
+        Landscape Regulations:
+          Tree/ Plant Materials: X
+          Hardscaping: ''
+          Open Space: ''
+        Street and Streetscape Regulations:
+          General: ''
+          New or Existing Streets: ''
+          Streetscape Zone: ''
+          Street/Ped Lighting: ''
+          Pedestrian Amenities: ''
+        Misc.:
+          Screening of Service Areas and Utilities: X
     H. Reduction of Parking Spaces:
       1. Reduction of up to 10 spaces**:
-        Building and Envelope Regulations > Placement: ''
-        Building and Envelope Regulations > Orientation: ''
-        Building and Envelope Regulations > Blocks/Lots: ''
-        Building and Envelope Regulations > Height: ''
-        Building and Envelope Regulations > Driveway: X
-        Building and Envelope Regulations > Ped-Circulation: ''
-        Building and Envelope Regulations > Off- and On-Street Parking: X
-        Architectural Regulations > Articulation: ''
-        Architectural Regulations > Bldg. Entrances: ''
-        Architectural Regulations > Materials/ Colors: ''
-        Architectural Regulations > Awnings/ Canopies: ''
-        Architectural Regulations > Window: ''
-        Architectural Regulations > Parking Structures: ''
-        Landscape Regulations > Tree/ Plant Materials: ''
-        Landscape Regulations > Hardscaping: ''
-        Landscape Regulations > Open Space: ''
-        Street and Streetscape Regulations > General: ''
-        Street and Streetscape Regulations > New or Existing Streets: ''
-        Street and Streetscape Regulations > Streetscape Zone: ''
-        Street and Streetscape Regulations > Street/Ped Lighting: ''
-        Street and Streetscape Regulations > Pedestrian Amenities: ''
-        Misc. > Screening of Service Areas and Utilities: ''
+        Building and Envelope Regulations:
+          Placement: ''
+          Orientation: ''
+          Blocks/Lots: ''
+          Height: ''
+          Driveway: X
+          Ped-Circulation: ''
+          Off- and On-Street Parking: X
+        Architectural Regulations:
+          Articulation: ''
+          Bldg. Entrances: ''
+          Materials/ Colors: ''
+          Awnings/ Canopies: ''
+          Window: ''
+          Parking Structures: ''
+        Landscape Regulations:
+          Tree/ Plant Materials: ''
+          Hardscaping: ''
+          Open Space: ''
+        Street and Streetscape Regulations:
+          General: ''
+          New or Existing Streets: ''
+          Streetscape Zone: ''
+          Street/Ped Lighting: ''
+          Pedestrian Amenities: ''
+        Misc.:
+          Screening of Service Areas and Utilities: ''
       2. Reduction of 11 or more spaces**:
-        Building and Envelope Regulations > Placement: ''
-        Building and Envelope Regulations > Orientation: ''
-        Building and Envelope Regulations > Blocks/Lots: ''
-        Building and Envelope Regulations > Height: ''
-        Building and Envelope Regulations > Driveway: X
-        Building and Envelope Regulations > Ped-Circulation: X
-        Building and Envelope Regulations > Off- and On-Street Parking: X
-        Architectural Regulations > Articulation: ''
-        Architectural Regulations > Bldg. Entrances: ''
-        Architectural Regulations > Materials/ Colors: ''
-        Architectural Regulations > Awnings/ Canopies: ''
-        Architectural Regulations > Window: ''
-        Architectural Regulations > Parking Structures: ''
-        Landscape Regulations > Tree/ Plant Materials: X
-        Landscape Regulations > Hardscaping: ''
-        Landscape Regulations > Open Space: ''
-        Street and Streetscape Regulations > General: ''
-        Street and Streetscape Regulations > New or Existing Streets: ''
-        Street and Streetscape Regulations > Streetscape Zone: X
-        Street and Streetscape Regulations > Street/Ped Lighting: ''
-        Street and Streetscape Regulations > Pedestrian Amenities: ''
-        Misc. > Screening of Service Areas and Utilities: X
+        Building and Envelope Regulations:
+          Placement: ''
+          Orientation: ''
+          Blocks/Lots: ''
+          Height: ''
+          Driveway: X
+          Ped-Circulation: X
+          Off- and On-Street Parking: X
+        Architectural Regulations:
+          Articulation: ''
+          Bldg. Entrances: ''
+          Materials/ Colors: ''
+          Awnings/ Canopies: ''
+          Window: ''
+          Parking Structures: ''
+        Landscape Regulations:
+          Tree/ Plant Materials: X
+          Hardscaping: ''
+          Open Space: ''
+        Street and Streetscape Regulations:
+          General: ''
+          New or Existing Streets: ''
+          Streetscape Zone: X
+          Street/Ped Lighting: ''
+          Pedestrian Amenities: ''
+        Misc.:
+          Screening of Service Areas and Utilities: X
       I. Acquisition of frontage by a governmental entity for Public Right-of-Way when not otherwise affecting structures, required setbacks, or vehicular circulation on the property***:
-        Building and Envelope Regulations > Placement: ''
-        Building and Envelope Regulations > Orientation: ''
-        Building and Envelope Regulations > Blocks/Lots: ''
-        Building and Envelope Regulations > Height: ''
-        Building and Envelope Regulations > Driveway: ''
-        Building and Envelope Regulations > Ped-Circulation: ''
-        Building and Envelope Regulations > Off- and On-Street Parking: X
-        Architectural Regulations > Articulation: ''
-        Architectural Regulations > Bldg. Entrances: ''
-        Architectural Regulations > Materials/ Colors: ''
-        Architectural Regulations > Awnings/ Canopies: ''
-        Architectural Regulations > Window: ''
-        Architectural Regulations > Parking Structures: ''
-        Landscape Regulations > Tree/ Plant Materials: X
-        Landscape Regulations > Hardscaping: ''
-        Landscape Regulations > Open Space: ''
-        Street and Streetscape Regulations > General: ''
-        Street and Streetscape Regulations > New or Existing Streets: ''
-        Street and Streetscape Regulations > Streetscape Zone: X
-        Street and Streetscape Regulations > Street/Ped Lighting: ''
-        Street and Streetscape Regulations > Pedestrian Amenities: ''
-        Misc. > Screening of Service Areas and Utilities: ''
+        Building and Envelope Regulations:
+          Placement: ''
+          Orientation: ''
+          Blocks/Lots: ''
+          Height: ''
+          Driveway: ''
+          Ped-Circulation: ''
+          Off- and On-Street Parking: X
+        Architectural Regulations:
+          Articulation: ''
+          Bldg. Entrances: ''
+          Materials/ Colors: ''
+          Awnings/ Canopies: ''
+          Window: ''
+          Parking Structures: ''
+        Landscape Regulations:
+          Tree/ Plant Materials: X
+          Hardscaping: ''
+          Open Space: ''
+        Street and Streetscape Regulations:
+          General: ''
+          New or Existing Streets: ''
+          Streetscape Zone: X
+          Street/Ped Lighting: ''
+          Pedestrian Amenities: ''
+        Misc.:
+          Screening of Service Areas and Utilities: ''

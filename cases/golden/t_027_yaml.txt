@@ -2,1391 +2,1497 @@ TABLE 24-19-1 PERMITTED LAND USES IN THE RESIDENTIAL ZONES [1] [2]:
   Key P Permitted use, subject to Zoning Clearance A Administrative Permit required M Minor Use Permit required C Conditional Use Permit required - Use not allowed:
     Agriculture Uses:
       Agricultural Processing:
-        Zone > FR: '-'
-        Zone > FCR: '-'
-        Zone > RR: '-'
-        Zone > RCR: '-'
-        Zone > VLDR: '-'
-        Zone > VLDCR: '-'
-        Zone > LDR: '-'
-        Zone > MDR: '-'
-        Zone > MHDR: '-'
-        Zone > HDR: '-'
-        Zone > VHDR: '-'
+        Zone:
+          FR: '-'
+          FCR: '-'
+          RR: '-'
+          RCR: '-'
+          VLDR: '-'
+          VLDCR: '-'
+          LDR: '-'
+          MDR: '-'
+          MHDR: '-'
+          HDR: '-'
+          VHDR: '-'
         Applicable Regulations: ''
       Animal Grazing:
-        Zone > FR: P
-        Zone > FCR: P
-        Zone > RR: P
-        Zone > RCR: P
-        Zone > VLDR: P [15]
-        Zone > VLDCR: P [15]
-        Zone > LDR: P [15]
-        Zone > MDR: P [15]
-        Zone > MHDR: P [15]
-        Zone > HDR: P [15]
-        Zone > VHDR: P [15]
+        Zone:
+          FR: P
+          FCR: P
+          RR: P
+          RCR: P
+          VLDR: P [15]
+          VLDCR: P [15]
+          LDR: P [15]
+          MDR: P [15]
+          MHDR: P [15]
+          HDR: P [15]
+          VHDR: P [15]
         Applicable Regulations: Section 24-158
       Animal Processing:
-        Zone > FR: '-'
-        Zone > FCR: '-'
-        Zone > RR: '-'
-        Zone > RCR: '-'
-        Zone > VLDR: '-'
-        Zone > VLDCR: '-'
-        Zone > LDR: '-'
-        Zone > MDR: '-'
-        Zone > MHDR: '-'
-        Zone > HDR: '-'
-        Zone > VHDR: '-'
+        Zone:
+          FR: '-'
+          FCR: '-'
+          RR: '-'
+          RCR: '-'
+          VLDR: '-'
+          VLDCR: '-'
+          LDR: '-'
+          MDR: '-'
+          MHDR: '-'
+          HDR: '-'
+          VHDR: '-'
         Applicable Regulations: ''
       Animal Processing, Custom:
-        Zone > FR: P
-        Zone > FCR: P
-        Zone > RR: P
-        Zone > RCR: P
-        Zone > VLDR: '-'
-        Zone > VLDCR: '-'
-        Zone > LDR: '-'
-        Zone > MDR: '-'
-        Zone > MHDR: '-'
-        Zone > HDR: '-'
-        Zone > VHDR: '-'
+        Zone:
+          FR: P
+          FCR: P
+          RR: P
+          RCR: P
+          VLDR: '-'
+          VLDCR: '-'
+          LDR: '-'
+          MDR: '-'
+          MHDR: '-'
+          HDR: '-'
+          VHDR: '-'
         Applicable Regulations: ''
       Feed Store:
-        Zone > FR: '-'
-        Zone > FCR: '-'
-        Zone > RR: '-'
-        Zone > RCR: '-'
-        Zone > VLDR: '-'
-        Zone > VLDCR: '-'
-        Zone > LDR: '-'
-        Zone > MDR: '-'
-        Zone > MHDR: '-'
-        Zone > HDR: '-'
-        Zone > VHDR: '-'
+        Zone:
+          FR: '-'
+          FCR: '-'
+          RR: '-'
+          RCR: '-'
+          VLDR: '-'
+          VLDCR: '-'
+          LDR: '-'
+          MDR: '-'
+          MHDR: '-'
+          HDR: '-'
+          VHDR: '-'
         Applicable Regulations: ''
       Crop Cultivation:
-        Zone > FR: P
-        Zone > FCR: P
-        Zone > RR: P
-        Zone > RCR: P
-        Zone > VLDR: P [15]
-        Zone > VLDCR: P [15]
-        Zone > LDR: P [15]
-        Zone > MDR: P [15]
-        Zone > MHDR: P [15]
-        Zone > HDR: P [15]
-        Zone > VHDR: P [15]
+        Zone:
+          FR: P
+          FCR: P
+          RR: P
+          RCR: P
+          VLDR: P [15]
+          VLDCR: P [15]
+          LDR: P [15]
+          MDR: P [15]
+          MHDR: P [15]
+          HDR: P [15]
+          VHDR: P [15]
         Applicable Regulations: ''
       Intensive Animal Operations:
-        Zone > FR: '-'
-        Zone > FCR: '-'
-        Zone > RR: '-'
-        Zone > RCR: '-'
-        Zone > VLDR: '-'
-        Zone > VLDCR: '-'
-        Zone > LDR: '-'
-        Zone > MDR: '-'
-        Zone > MHDR: '-'
-        Zone > HDR: '-'
-        Zone > VHDR: '-'
+        Zone:
+          FR: '-'
+          FCR: '-'
+          RR: '-'
+          RCR: '-'
+          VLDR: '-'
+          VLDCR: '-'
+          LDR: '-'
+          MDR: '-'
+          MHDR: '-'
+          HDR: '-'
+          VHDR: '-'
         Applicable Regulations: ''
       Stables, Commercial:
-        Zone > FR: C [3]
-        Zone > FCR: C [3]
-        Zone > RR: C [3]
-        Zone > RCR: C [3]
-        Zone > VLDR: '-'
-        Zone > VLDCR: '-'
-        Zone > LDR: '-'
-        Zone > MDR: '-'
-        Zone > MHDR: '-'
-        Zone > HDR: '-'
-        Zone > VHDR: '-'
+        Zone:
+          FR: C [3]
+          FCR: C [3]
+          RR: C [3]
+          RCR: C [3]
+          VLDR: '-'
+          VLDCR: '-'
+          LDR: '-'
+          MDR: '-'
+          MHDR: '-'
+          HDR: '-'
+          VHDR: '-'
         Applicable Regulations: ''
       Stables, Private:
-        Zone > FR: P
-        Zone > FCR: P
-        Zone > RR: P
-        Zone > RCR: P
-        Zone > VLDR: P
-        Zone > VLDCR: P
-        Zone > LDR: M [14]
-        Zone > MDR: M [14]
-        Zone > MHDR: M [14]
-        Zone > HDR: M [14]
-        Zone > VHDR: M [14]
+        Zone:
+          FR: P
+          FCR: P
+          RR: P
+          RCR: P
+          VLDR: P
+          VLDCR: P
+          LDR: M [14]
+          MDR: M [14]
+          MHDR: M [14]
+          HDR: M [14]
+          VHDR: M [14]
         Applicable Regulations: ''
       Stables, Semiprivate:
-        Zone > FR: P [3]
-        Zone > FCR: P [3]
-        Zone > RR: P [3]
-        Zone > RCR: P [3]
-        Zone > VLDR: M [3]
-        Zone > VLDCR: M
-        Zone > LDR: '-'
-        Zone > MDR: '-'
-        Zone > MHDR: '-'
-        Zone > HDR: '-'
-        Zone > VHDR: '-'
+        Zone:
+          FR: P [3]
+          FCR: P [3]
+          RR: P [3]
+          RCR: P [3]
+          VLDR: M [3]
+          VLDCR: M
+          LDR: '-'
+          MDR: '-'
+          MHDR: '-'
+          HDR: '-'
+          VHDR: '-'
         Applicable Regulations: ''
     Natural Resource Uses:
       Forestry and Logging:
-        Zone > FR: P
-        Zone > FCR: P
-        Zone > RR: '-'
-        Zone > RCR: '-'
-        Zone > VLDR: '-'
-        Zone > VLDCR: '-'
-        Zone > LDR: '-'
-        Zone > MDR: '-'
-        Zone > MHDR: '-'
-        Zone > HDR: '-'
-        Zone > VHDR: '-'
+        Zone:
+          FR: P
+          FCR: P
+          RR: '-'
+          RCR: '-'
+          VLDR: '-'
+          VLDCR: '-'
+          LDR: '-'
+          MDR: '-'
+          MHDR: '-'
+          HDR: '-'
+          VHDR: '-'
         Applicable Regulations: ''
       Mining and Surface Mining Operations:
-        Zone > FR: C [4]
-        Zone > FCR: C [4]
-        Zone > RR: '-'
-        Zone > RCR: '-'
-        Zone > VLDR: '-'
-        Zone > VLDCR: '-'
-        Zone > LDR: '-'
-        Zone > MDR: '-'
-        Zone > MHDR: '-'
-        Zone > HDR: '-'
-        Zone > VHDR: '-'
+        Zone:
+          FR: C [4]
+          FCR: C [4]
+          RR: '-'
+          RCR: '-'
+          VLDR: '-'
+          VLDCR: '-'
+          LDR: '-'
+          MDR: '-'
+          MHDR: '-'
+          HDR: '-'
+          VHDR: '-'
         Applicable Regulations: ''
       Oil and Gas Extraction, including reinjection wells for natural gas:
-        Zone > FR: '-'
-        Zone > FCR: '-'
-        Zone > RR: '-'
-        Zone > RCR: '-'
-        Zone > VLDR: '-'
-        Zone > VLDCR: '-'
-        Zone > LDR: '-'
-        Zone > MDR: '-'
-        Zone > MHDR: '-'
-        Zone > HDR: '-'
-        Zone > VHDR: '-'
+        Zone:
+          FR: '-'
+          FCR: '-'
+          RR: '-'
+          RCR: '-'
+          VLDR: '-'
+          VLDCR: '-'
+          LDR: '-'
+          MDR: '-'
+          MHDR: '-'
+          HDR: '-'
+          VHDR: '-'
         Applicable Regulations: ''
       Oil and Gas Extraction, storage or disposal of Well Stimulation Byproducts:
-        Zone > FR: '-'
-        Zone > FCR: '-'
-        Zone > RR: '-'
-        Zone > RCR: '-'
-        Zone > VLDR: '-'
-        Zone > VLDCR: '-'
-        Zone > LDR: '-'
-        Zone > MDR: '-'
-        Zone > MHDR: '-'
-        Zone > HDR: '-'
-        Zone > VHDR: '-'
+        Zone:
+          FR: '-'
+          FCR: '-'
+          RR: '-'
+          RCR: '-'
+          VLDR: '-'
+          VLDCR: '-'
+          LDR: '-'
+          MDR: '-'
+          MHDR: '-'
+          HDR: '-'
+          VHDR: '-'
         Applicable Regulations: Section 24-167.1
       Oil and Gas Extraction by means of Hydraulic Fracturing:
-        Zone > FR: '-'
-        Zone > FCR: '-'
-        Zone > RR: '-'
-        Zone > RCR: '-'
-        Zone > VLDR: '-'
-        Zone > VLDCR: '-'
-        Zone > LDR: '-'
-        Zone > MDR: '-'
-        Zone > MHDR: '-'
-        Zone > HDR: '-'
-        Zone > VHDR: '-'
+        Zone:
+          FR: '-'
+          FCR: '-'
+          RR: '-'
+          RCR: '-'
+          VLDR: '-'
+          VLDCR: '-'
+          LDR: '-'
+          MDR: '-'
+          MHDR: '-'
+          HDR: '-'
+          VHDR: '-'
         Applicable Regulations: Butte County Code 33B
       Timber Processing:
-        Zone > FR: '-'
-        Zone > FCR: '-'
-        Zone > RR: '-'
-        Zone > RCR: '-'
-        Zone > VLDR: '-'
-        Zone > VLDCR: '-'
-        Zone > LDR: '-'
-        Zone > MDR: '-'
-        Zone > MHDR: '-'
-        Zone > HDR: '-'
-        Zone > VHDR: '-'
+        Zone:
+          FR: '-'
+          FCR: '-'
+          RR: '-'
+          RCR: '-'
+          VLDR: '-'
+          VLDCR: '-'
+          LDR: '-'
+          MDR: '-'
+          MHDR: '-'
+          HDR: '-'
+          VHDR: '-'
         Applicable Regulations: ''
     Residential Uses:
       Accessory Dwelling Units:
-        Zone > FR: P
-        Zone > FCR: P
-        Zone > RR: P
-        Zone > RCR: P
-        Zone > VLDR: P
-        Zone > VLDCR: P
-        Zone > LDR: P
-        Zone > MDR: P
-        Zone > MHDR: P
-        Zone > HDR: P
-        Zone > VHDR: P
+        Zone:
+          FR: P
+          FCR: P
+          RR: P
+          RCR: P
+          VLDR: P
+          VLDCR: P
+          LDR: P
+          MDR: P
+          MHDR: P
+          HDR: P
+          VHDR: P
         Applicable Regulations: Section 24-172
       Agricultural Worker Housing Center:
-        Zone > FR: '-'
-        Zone > FCR: '-'
-        Zone > RR: '-'
-        Zone > RCR: '-'
-        Zone > VLDR: '-'
-        Zone > VLDCR: '-'
-        Zone > LDR: '-'
-        Zone > MDR: '-'
-        Zone > MHDR: '-'
-        Zone > HDR: '-'
-        Zone > VHDR: '-'
+        Zone:
+          FR: '-'
+          FCR: '-'
+          RR: '-'
+          RCR: '-'
+          VLDR: '-'
+          VLDCR: '-'
+          LDR: '-'
+          MDR: '-'
+          MHDR: '-'
+          HDR: '-'
+          VHDR: '-'
         Applicable Regulations: ''
       Caretaker Quarters:
-        Zone > FR: '-'
-        Zone > FCR: '-'
-        Zone > RR: '-'
-        Zone > RCR: '-'
-        Zone > VLDR: '-'
-        Zone > VLDCR: '-'
-        Zone > LDR: '-'
-        Zone > MDR: '-'
-        Zone > MHDR: '-'
-        Zone > HDR: '-'
-        Zone > VHDR: '-'
+        Zone:
+          FR: '-'
+          FCR: '-'
+          RR: '-'
+          RCR: '-'
+          VLDR: '-'
+          VLDCR: '-'
+          LDR: '-'
+          MDR: '-'
+          MHDR: '-'
+          HDR: '-'
+          VHDR: '-'
         Applicable Regulations: ''
       Duplex Homes:
-        Zone > FR: '-'
-        Zone > FCR: '-'
-        Zone > RR: '-'
-        Zone > RCR: '-'
-        Zone > VLDR: '-'
-        Zone > VLDCR: '-'
-        Zone > LDR: '-'
-        Zone > MDR: '-'
-        Zone > MHDR: P
-        Zone > HDR: P
-        Zone > VHDR: P
+        Zone:
+          FR: '-'
+          FCR: '-'
+          RR: '-'
+          RCR: '-'
+          VLDR: '-'
+          VLDCR: '-'
+          LDR: '-'
+          MDR: '-'
+          MHDR: P
+          HDR: P
+          VHDR: P
         Applicable Regulations: ''
       Home Occupations - Major:
-        Zone > FR: M
-        Zone > FCR: M
-        Zone > RR: M
-        Zone > RCR: M
-        Zone > VLDR: M
-        Zone > VLDCR: M
-        Zone > LDR: M
-        Zone > MDR: M
-        Zone > MHDR: M
-        Zone > HDR: M
-        Zone > VHDR: M
+        Zone:
+          FR: M
+          FCR: M
+          RR: M
+          RCR: M
+          VLDR: M
+          VLDCR: M
+          LDR: M
+          MDR: M
+          MHDR: M
+          HDR: M
+          VHDR: M
         Applicable Regulations: Section 24-162
       Home Occupations - Minor:
-        Zone > FR: A
-        Zone > FCR: A
-        Zone > RR: A
-        Zone > RCR: A
-        Zone > VLDR: A
-        Zone > VLDCR: A
-        Zone > LDR: A
-        Zone > MDR: A
-        Zone > MHDR: A
-        Zone > HDR: A
-        Zone > VHDR: A
+        Zone:
+          FR: A
+          FCR: A
+          RR: A
+          RCR: A
+          VLDR: A
+          VLDCR: A
+          LDR: A
+          MDR: A
+          MHDR: A
+          HDR: A
+          VHDR: A
         Applicable Regulations: Section 24-162
       Live/Work Unit:
-        Zone > FR: '-'
-        Zone > FCR: '-'
-        Zone > RR: '-'
-        Zone > RCR: '-'
-        Zone > VLDR: '-'
-        Zone > VLDCR: '-'
-        Zone > LDR: '-'
-        Zone > MDR: '-'
-        Zone > MHDR: '-'
-        Zone > HDR: '-'
-        Zone > VHDR: '-'
+        Zone:
+          FR: '-'
+          FCR: '-'
+          RR: '-'
+          RCR: '-'
+          VLDR: '-'
+          VLDCR: '-'
+          LDR: '-'
+          MDR: '-'
+          MHDR: '-'
+          HDR: '-'
+          VHDR: '-'
         Applicable Regulations: ''
       Mobile Home Park:
-        Zone > FR: '-'
-        Zone > FCR: '-'
-        Zone > RR: '-'
-        Zone > RCR: '-'
-        Zone > VLDR: '-'
-        Zone > VLDCR: '-'
-        Zone > LDR: '-'
-        Zone > MDR: '-'
-        Zone > MHDR: C
-        Zone > HDR: C
-        Zone > VHDR: C
+        Zone:
+          FR: '-'
+          FCR: '-'
+          RR: '-'
+          RCR: '-'
+          VLDR: '-'
+          VLDCR: '-'
+          LDR: '-'
+          MDR: '-'
+          MHDR: C
+          HDR: C
+          VHDR: C
         Applicable Regulations: Section 24-167
       Multiple-Family Dwelling:
-        Zone > FR: '-'
-        Zone > FCR: '-'
-        Zone > RR: '-'
-        Zone > RCR: '-'
-        Zone > VLDR: '-'
-        Zone > VLDCR: '-'
-        Zone > LDR: '-'
-        Zone > MDR: '-'
-        Zone > MHDR: P
-        Zone > HDR: P
-        Zone > VHDR: P
+        Zone:
+          FR: '-'
+          FCR: '-'
+          RR: '-'
+          RCR: '-'
+          VLDR: '-'
+          VLDCR: '-'
+          LDR: '-'
+          MDR: '-'
+          MHDR: P
+          HDR: P
+          VHDR: P
         Applicable Regulations: ''
       Residential Care Homes, Large:
-        Zone > FR: '-'
-        Zone > FCR: '-'
-        Zone > RR: '-'
-        Zone > RCR: '-'
-        Zone > VLDR: M
-        Zone > VLDCR: '-'
-        Zone > LDR: M
-        Zone > MDR: M
-        Zone > MHDR: M
-        Zone > HDR: M
-        Zone > VHDR: M
+        Zone:
+          FR: '-'
+          FCR: '-'
+          RR: '-'
+          RCR: '-'
+          VLDR: M
+          VLDCR: '-'
+          LDR: M
+          MDR: M
+          MHDR: M
+          HDR: M
+          VHDR: M
         Applicable Regulations: ''
       Residential Care Homes, Small:
-        Zone > FR: P
-        Zone > FCR: P
-        Zone > RR: P
-        Zone > RCR: P
-        Zone > VLDR: P
-        Zone > VLDCR: P
-        Zone > LDR: P
-        Zone > MDR: P
-        Zone > MHDR: P
-        Zone > HDR: P
-        Zone > VHDR: P
+        Zone:
+          FR: P
+          FCR: P
+          RR: P
+          RCR: P
+          VLDR: P
+          VLDCR: P
+          LDR: P
+          MDR: P
+          MHDR: P
+          HDR: P
+          VHDR: P
         Applicable Regulations: ''
       Single-Family Home:
-        Zone > FR: P [6]
-        Zone > FCR: P [6]
-        Zone > RR: P [6]
-        Zone > RCR: P [6]
-        Zone > VLDR: P [6]
-        Zone > VLDCR: P [6]
-        Zone > LDR: P
-        Zone > MDR: P
-        Zone > MHDR: P
-        Zone > HDR: P
-        Zone > VHDR: P
+        Zone:
+          FR: P [6]
+          FCR: P [6]
+          RR: P [6]
+          RCR: P [6]
+          VLDR: P [6]
+          VLDCR: P [6]
+          LDR: P
+          MDR: P
+          MHDR: P
+          HDR: P
+          VHDR: P
         Applicable Regulations: ''
       Short-Term Rental:
-        Zone > FR: A
-        Zone > FCR: A
-        Zone > RR: A
-        Zone > RCR: A
-        Zone > VLDR: A
-        Zone > VLDCR: '-'
-        Zone > LDR: A
-        Zone > MDR: A
-        Zone > MHDR: A
-        Zone > HDR: '-'
-        Zone > VHDR: '-'
+        Zone:
+          FR: A
+          FCR: A
+          RR: A
+          RCR: A
+          VLDR: A
+          VLDCR: '-'
+          LDR: A
+          MDR: A
+          MHDR: A
+          HDR: '-'
+          VHDR: '-'
         Applicable Regulations: Section 24-172.1
     Community Uses:
       Cemeteries, Private:
-        Zone > FR: '-'
-        Zone > FCR: '-'
-        Zone > RR: '-'
-        Zone > RCR: '-'
-        Zone > VLDR: '-'
-        Zone > VLDCR: '-'
-        Zone > LDR: '-'
-        Zone > MDR: '-'
-        Zone > MHDR: '-'
-        Zone > HDR: '-'
-        Zone > VHDR: '-'
+        Zone:
+          FR: '-'
+          FCR: '-'
+          RR: '-'
+          RCR: '-'
+          VLDR: '-'
+          VLDCR: '-'
+          LDR: '-'
+          MDR: '-'
+          MHDR: '-'
+          HDR: '-'
+          VHDR: '-'
         Applicable Regulations: ''
       Cemeteries, Public:
-        Zone > FR: '-'
-        Zone > FCR: '-'
-        Zone > RR: '-'
-        Zone > RCR: '-'
-        Zone > VLDR: '-'
-        Zone > VLDCR: '-'
-        Zone > LDR: '-'
-        Zone > MDR: '-'
-        Zone > MHDR: '-'
-        Zone > HDR: '-'
-        Zone > VHDR: '-'
+        Zone:
+          FR: '-'
+          FCR: '-'
+          RR: '-'
+          RCR: '-'
+          VLDR: '-'
+          VLDCR: '-'
+          LDR: '-'
+          MDR: '-'
+          MHDR: '-'
+          HDR: '-'
+          VHDR: '-'
         Applicable Regulations: ''
       Child Care Center:
-        Zone > FR: C
-        Zone > FCR: '-'
-        Zone > RR: C
-        Zone > RCR: '-'
-        Zone > VLDR: C
-        Zone > VLDCR: '-'
-        Zone > LDR: C
-        Zone > MDR: C
-        Zone > MHDR: C
-        Zone > HDR: C
-        Zone > VHDR: C
+        Zone:
+          FR: C
+          FCR: '-'
+          RR: C
+          RCR: '-'
+          VLDR: C
+          VLDCR: '-'
+          LDR: C
+          MDR: C
+          MHDR: C
+          HDR: C
+          VHDR: C
         Applicable Regulations: Section 24-159
       Clubs, Lodges and Private Meeting Halls:
-        Zone > FR: C
-        Zone > FCR: C
-        Zone > RR: C
-        Zone > RCR: C
-        Zone > VLDR: C
-        Zone > VLDCR: '-'
-        Zone > LDR: C
-        Zone > MDR: C
-        Zone > MHDR: C
-        Zone > HDR: C
-        Zone > VHDR: C
+        Zone:
+          FR: C
+          FCR: C
+          RR: C
+          RCR: C
+          VLDR: C
+          VLDCR: '-'
+          LDR: C
+          MDR: C
+          MHDR: C
+          HDR: C
+          VHDR: C
         Applicable Regulations: ''
       Community Centers:
-        Zone > FR: C
-        Zone > FCR: C
-        Zone > RR: C
-        Zone > RCR: C
-        Zone > VLDR: C
-        Zone > VLDCR: '-'
-        Zone > LDR: C
-        Zone > MDR: C
-        Zone > MHDR: C
-        Zone > HDR: C
-        Zone > VHDR: C
+        Zone:
+          FR: C
+          FCR: C
+          RR: C
+          RCR: C
+          VLDR: C
+          VLDCR: '-'
+          LDR: C
+          MDR: C
+          MHDR: C
+          HDR: C
+          VHDR: C
         Applicable Regulations: ''
       Correctional Institutions and Facilities:
-        Zone > FR: '-'
-        Zone > FCR: '-'
-        Zone > RR: '-'
-        Zone > RCR: '-'
-        Zone > VLDR: '-'
-        Zone > VLDCR: '-'
-        Zone > LDR: '-'
-        Zone > MDR: '-'
-        Zone > MHDR: '-'
-        Zone > HDR: '-'
-        Zone > VHDR: '-'
+        Zone:
+          FR: '-'
+          FCR: '-'
+          RR: '-'
+          RCR: '-'
+          VLDR: '-'
+          VLDCR: '-'
+          LDR: '-'
+          MDR: '-'
+          MHDR: '-'
+          HDR: '-'
+          VHDR: '-'
         Applicable Regulations: ''
       Cultural Institutions:
-        Zone > FR: '-'
-        Zone > FCR: '-'
-        Zone > RR: '-'
-        Zone > RCR: '-'
-        Zone > VLDR: '-'
-        Zone > VLDCR: '-'
-        Zone > LDR: '-'
-        Zone > MDR: '-'
-        Zone > MHDR: '-'
-        Zone > HDR: '-'
-        Zone > VHDR: '-'
+        Zone:
+          FR: '-'
+          FCR: '-'
+          RR: '-'
+          RCR: '-'
+          VLDR: '-'
+          VLDCR: '-'
+          LDR: '-'
+          MDR: '-'
+          MHDR: '-'
+          HDR: '-'
+          VHDR: '-'
         Applicable Regulations: ''
       Emergency Shelter:
-        Zone > FR: '-'
-        Zone > FCR: '-'
-        Zone > RR: '-'
-        Zone > RCR: '-'
-        Zone > VLDR: '-'
-        Zone > VLDCR: '-'
-        Zone > LDR: '-'
-        Zone > MDR: '-'
-        Zone > MHDR: '-'
-        Zone > HDR: '-'
-        Zone > VHDR: '-'
+        Zone:
+          FR: '-'
+          FCR: '-'
+          RR: '-'
+          RCR: '-'
+          VLDR: '-'
+          VLDCR: '-'
+          LDR: '-'
+          MDR: '-'
+          MHDR: '-'
+          HDR: '-'
+          VHDR: '-'
         Applicable Regulations: ''
       Family Daycare Home, Large:
-        Zone > FR: P
-        Zone > FCR: P
-        Zone > RR: P
-        Zone > RCR: P
-        Zone > VLDR: P
-        Zone > VLDCR: P
-        Zone > LDR: P
-        Zone > MDR: P
-        Zone > MHDR: P
-        Zone > HDR: P
-        Zone > VHDR: P
+        Zone:
+          FR: P
+          FCR: P
+          RR: P
+          RCR: P
+          VLDR: P
+          VLDCR: P
+          LDR: P
+          MDR: P
+          MHDR: P
+          HDR: P
+          VHDR: P
         Applicable Regulations: Section 24-159
       Family Daycare Home, Small:
-        Zone > FR: P
-        Zone > FCR: P
-        Zone > RR: P
-        Zone > RCR: P
-        Zone > VLDR: P
-        Zone > VLDCR: P
-        Zone > LDR: P
-        Zone > MDR: P
-        Zone > MHDR: P
-        Zone > HDR: P
-        Zone > VHDR: P
+        Zone:
+          FR: P
+          FCR: P
+          RR: P
+          RCR: P
+          VLDR: P
+          VLDCR: P
+          LDR: P
+          MDR: P
+          MHDR: P
+          HDR: P
+          VHDR: P
         Applicable Regulations: Section 24-159
       Golf Courses and Country Clubs:
-        Zone > FR: C
-        Zone > FCR: C
-        Zone > RR: C
-        Zone > RCR: C
-        Zone > VLDR: C
-        Zone > VLDCR: '-'
-        Zone > LDR: '-'
-        Zone > MDR: '-'
-        Zone > MHDR: '-'
-        Zone > HDR: '-'
-        Zone > VHDR: '-'
+        Zone:
+          FR: C
+          FCR: C
+          RR: C
+          RCR: C
+          VLDR: C
+          VLDCR: '-'
+          LDR: '-'
+          MDR: '-'
+          MHDR: '-'
+          HDR: '-'
+          VHDR: '-'
         Applicable Regulations: ''
       Hospital:
-        Zone > FR: '-'
-        Zone > FCR: '-'
-        Zone > RR: '-'
-        Zone > RCR: '-'
-        Zone > VLDR: '-'
-        Zone > VLDCR: '-'
-        Zone > LDR: '-'
-        Zone > MDR: '-'
-        Zone > MHDR: '-'
-        Zone > HDR: '-'
-        Zone > VHDR: '-'
+        Zone:
+          FR: '-'
+          FCR: '-'
+          RR: '-'
+          RCR: '-'
+          VLDR: '-'
+          VLDCR: '-'
+          LDR: '-'
+          MDR: '-'
+          MHDR: '-'
+          HDR: '-'
+          VHDR: '-'
         Applicable Regulations: ''
       Medical Office and Clinic:
-        Zone > FR: C [11]
-        Zone > FCR: C [11]
-        Zone > RR: C [11]
-        Zone > RCR: C [11]
-        Zone > VLDR: C
-        Zone > VLDCR: '-'
-        Zone > LDR: C
-        Zone > MDR: C
-        Zone > MHDR: C
-        Zone > HDR: C
-        Zone > VHDR: C
+        Zone:
+          FR: C [11]
+          FCR: C [11]
+          RR: C [11]
+          RCR: C [11]
+          VLDR: C
+          VLDCR: '-'
+          LDR: C
+          MDR: C
+          MHDR: C
+          HDR: C
+          VHDR: C
         Applicable Regulations: ''
       Office, Governmental:
-        Zone > FR: '-'
-        Zone > FCR: '-'
-        Zone > RR: '-'
-        Zone > RCR: '-'
-        Zone > VLDR: '-'
-        Zone > VLDCR: '-'
-        Zone > LDR: '-'
-        Zone > MDR: '-'
-        Zone > MHDR: '-'
-        Zone > HDR: '-'
-        Zone > VHDR: '-'
+        Zone:
+          FR: '-'
+          FCR: '-'
+          RR: '-'
+          RCR: '-'
+          VLDR: '-'
+          VLDCR: '-'
+          LDR: '-'
+          MDR: '-'
+          MHDR: '-'
+          HDR: '-'
+          VHDR: '-'
         Applicable Regulations: ''
       Outdoor Education:
-        Zone > FR: '-'
-        Zone > FCR: '-'
-        Zone > RR: '-'
-        Zone > RCR: '-'
-        Zone > VLDR: '-'
-        Zone > VLDCR: '-'
-        Zone > LDR: '-'
-        Zone > MDR: '-'
-        Zone > MHDR: '-'
-        Zone > HDR: '-'
-        Zone > VHDR: '-'
+        Zone:
+          FR: '-'
+          FCR: '-'
+          RR: '-'
+          RCR: '-'
+          VLDR: '-'
+          VLDCR: '-'
+          LDR: '-'
+          MDR: '-'
+          MHDR: '-'
+          HDR: '-'
+          VHDR: '-'
         Applicable Regulations: ''
       Parks and Recreational Facilities:
-        Zone > FR: C
-        Zone > FCR: C
-        Zone > RR: C
-        Zone > RCR: C
-        Zone > VLDR: C
-        Zone > VLDCR: '-'
-        Zone > LDR: C
-        Zone > MDR: C
-        Zone > MHDR: C
-        Zone > HDR: C
-        Zone > VHDR: C
+        Zone:
+          FR: C
+          FCR: C
+          RR: C
+          RCR: C
+          VLDR: C
+          VLDCR: '-'
+          LDR: C
+          MDR: C
+          MHDR: C
+          HDR: C
+          VHDR: C
         Applicable Regulations: ''
       Public Safety Facilities:
-        Zone > FR: C
-        Zone > FCR: C
-        Zone > RR: C
-        Zone > RCR: C
-        Zone > VLDR: C
-        Zone > VLDCR: '-'
-        Zone > LDR: C
-        Zone > MDR: C
-        Zone > MHDR: C
-        Zone > HDR: C
-        Zone > VHDR: C
+        Zone:
+          FR: C
+          FCR: C
+          RR: C
+          RCR: C
+          VLDR: C
+          VLDCR: '-'
+          LDR: C
+          MDR: C
+          MHDR: C
+          HDR: C
+          VHDR: C
         Applicable Regulations: ''
       Religious Facilities:
-        Zone > FR: C
-        Zone > FCR: C
-        Zone > RR: C
-        Zone > RCR: C
-        Zone > VLDR: C
-        Zone > VLDCR: '-'
-        Zone > LDR: C
-        Zone > MDR: C
-        Zone > MHDR: C
-        Zone > HDR: C
-        Zone > VHDR: C
+        Zone:
+          FR: C
+          FCR: C
+          RR: C
+          RCR: C
+          VLDR: C
+          VLDCR: '-'
+          LDR: C
+          MDR: C
+          MHDR: C
+          HDR: C
+          VHDR: C
         Applicable Regulations: ''
       Schools, Public and Private:
-        Zone > FR: C
-        Zone > FCR: C
-        Zone > RR: C
-        Zone > RCR: C
-        Zone > VLDR: C
-        Zone > VLDCR: '-'
-        Zone > LDR: C
-        Zone > MDR: C
-        Zone > MHDR: C
-        Zone > HDR: C
-        Zone > VHDR: C
+        Zone:
+          FR: C
+          FCR: C
+          RR: C
+          RCR: C
+          VLDR: C
+          VLDCR: '-'
+          LDR: C
+          MDR: C
+          MHDR: C
+          HDR: C
+          VHDR: C
         Applicable Regulations: ''
       Water Ski Lakes:
-        Zone > FR: '-'
-        Zone > FCR: '-'
-        Zone > RR: '-'
-        Zone > RCR: '-'
-        Zone > VLDR: '-'
-        Zone > VLDCR: '-'
-        Zone > LDR: '-'
-        Zone > MDR: '-'
-        Zone > MHDR: '-'
-        Zone > HDR: '-'
-        Zone > VHDR: '-'
+        Zone:
+          FR: '-'
+          FCR: '-'
+          RR: '-'
+          RCR: '-'
+          VLDR: '-'
+          VLDCR: '-'
+          LDR: '-'
+          MDR: '-'
+          MHDR: '-'
+          HDR: '-'
+          VHDR: '-'
         Applicable Regulations: ''
     Commercial Uses:
       Adult Businesses:
-        Zone > FR: '-'
-        Zone > FCR: '-'
-        Zone > RR: '-'
-        Zone > RCR: '-'
-        Zone > VLDR: '-'
-        Zone > VLDCR: '-'
-        Zone > LDR: '-'
-        Zone > MDR: '-'
-        Zone > MHDR: '-'
-        Zone > HDR: '-'
-        Zone > VHDR: '-'
+        Zone:
+          FR: '-'
+          FCR: '-'
+          RR: '-'
+          RCR: '-'
+          VLDR: '-'
+          VLDCR: '-'
+          LDR: '-'
+          MDR: '-'
+          MHDR: '-'
+          HDR: '-'
+          VHDR: '-'
         Applicable Regulations: ''
       Agricultural Product Sales, Off-Site:
-        Zone > FR: '-'
-        Zone > FCR: '-'
-        Zone > RR: '-'
-        Zone > RCR: '-'
-        Zone > VLDR: '-'
-        Zone > VLDCR: '-'
-        Zone > LDR: '-'
-        Zone > MDR: '-'
-        Zone > MHDR: '-'
-        Zone > HDR: '-'
-        Zone > VHDR: '-'
+        Zone:
+          FR: '-'
+          FCR: '-'
+          RR: '-'
+          RCR: '-'
+          VLDR: '-'
+          VLDCR: '-'
+          LDR: '-'
+          MDR: '-'
+          MHDR: '-'
+          HDR: '-'
+          VHDR: '-'
         Applicable Regulations: ''
       Agricultural Product Sales, On-Site:
-        Zone > FR: P
-        Zone > FCR: P
-        Zone > RR: P
-        Zone > RCR: P
-        Zone > VLDR: P
-        Zone > VLDCR: P
-        Zone > LDR: '-'
-        Zone > MDR: '-'
-        Zone > MHDR: '-'
-        Zone > HDR: '-'
-        Zone > VHDR: '-'
+        Zone:
+          FR: P
+          FCR: P
+          RR: P
+          RCR: P
+          VLDR: P
+          VLDCR: P
+          LDR: '-'
+          MDR: '-'
+          MHDR: '-'
+          HDR: '-'
+          VHDR: '-'
         Applicable Regulations: ''
       Agricultural Support Services, General:
-        Zone > FR: '-'
-        Zone > FCR: '-'
-        Zone > RR: '-'
-        Zone > RCR: '-'
-        Zone > VLDR: '-'
-        Zone > VLDCR: '-'
-        Zone > LDR: '-'
-        Zone > MDR: '-'
-        Zone > MHDR: '-'
-        Zone > HDR: '-'
-        Zone > VHDR: '-'
+        Zone:
+          FR: '-'
+          FCR: '-'
+          RR: '-'
+          RCR: '-'
+          VLDR: '-'
+          VLDCR: '-'
+          LDR: '-'
+          MDR: '-'
+          MHDR: '-'
+          HDR: '-'
+          VHDR: '-'
         Applicable Regulations: ''
       Agricultural Support Services, Light:
-        Zone > FR: '-'
-        Zone > FCR: '-'
-        Zone > RR: '-'
-        Zone > RCR: '-'
-        Zone > VLDR: '-'
-        Zone > VLDCR: '-'
-        Zone > LDR: '-'
-        Zone > MDR: '-'
-        Zone > MHDR: '-'
-        Zone > HDR: '-'
-        Zone > VHDR: '-'
+        Zone:
+          FR: '-'
+          FCR: '-'
+          RR: '-'
+          RCR: '-'
+          VLDR: '-'
+          VLDCR: '-'
+          LDR: '-'
+          MDR: '-'
+          MHDR: '-'
+          HDR: '-'
+          VHDR: '-'
         Applicable Regulations: ''
       Animal Processing, Limited:
-        Zone > FR: '-'
-        Zone > FCR: '-'
-        Zone > RR: '-'
-        Zone > RCR: '-'
-        Zone > VLDR: '-'
-        Zone > VLDCR: '-'
-        Zone > LDR: '-'
-        Zone > MDR: '-'
-        Zone > MHDR: '-'
-        Zone > HDR: '-'
-        Zone > VHDR: '-'
+        Zone:
+          FR: '-'
+          FCR: '-'
+          RR: '-'
+          RCR: '-'
+          VLDR: '-'
+          VLDCR: '-'
+          LDR: '-'
+          MDR: '-'
+          MHDR: '-'
+          HDR: '-'
+          VHDR: '-'
         Applicable Regulations: ''
       Animal Services:
-        Zone > FR: C
-        Zone > FCR: C
-        Zone > RR: C
-        Zone > RCR: C
-        Zone > VLDR: '-'
-        Zone > VLDCR: '-'
-        Zone > LDR: '-'
-        Zone > MDR: '-'
-        Zone > MHDR: '-'
-        Zone > HDR: '-'
-        Zone > VHDR: '-'
+        Zone:
+          FR: C
+          FCR: C
+          RR: C
+          RCR: C
+          VLDR: '-'
+          VLDCR: '-'
+          LDR: '-'
+          MDR: '-'
+          MHDR: '-'
+          HDR: '-'
+          VHDR: '-'
         Applicable Regulations: ''
       Assessment Facility:
-        Zone > FR: '-'
-        Zone > FCR: '-'
-        Zone > RR: '-'
-        Zone > RCR: '-'
-        Zone > VLDR: '-'
-        Zone > VLDCR: '-'
-        Zone > LDR: '-'
-        Zone > MDR: '-'
-        Zone > MHDR: '-'
-        Zone > HDR: '-'
-        Zone > VHDR: '-'
+        Zone:
+          FR: '-'
+          FCR: '-'
+          RR: '-'
+          RCR: '-'
+          VLDR: '-'
+          VLDCR: '-'
+          LDR: '-'
+          MDR: '-'
+          MHDR: '-'
+          HDR: '-'
+          VHDR: '-'
         Applicable Regulations: ''
       Bars, Nightclubs and Lounges:
-        Zone > FR: '-'
-        Zone > FCR: '-'
-        Zone > RR: '-'
-        Zone > RCR: '-'
-        Zone > VLDR: '-'
-        Zone > VLDCR: '-'
-        Zone > LDR: '-'
-        Zone > MDR: '-'
-        Zone > MHDR: '-'
-        Zone > HDR: '-'
-        Zone > VHDR: '-'
+        Zone:
+          FR: '-'
+          FCR: '-'
+          RR: '-'
+          RCR: '-'
+          VLDR: '-'
+          VLDCR: '-'
+          LDR: '-'
+          MDR: '-'
+          MHDR: '-'
+          HDR: '-'
+          VHDR: '-'
         Applicable Regulations: ''
       Bed and Breakfast:
-        Zone > FR: M
-        Zone > FCR: M
-        Zone > RR: M
-        Zone > RCR: M
-        Zone > VLDR: M
-        Zone > VLDCR: '-'
-        Zone > LDR: M
-        Zone > MDR: M
-        Zone > MHDR: M
-        Zone > HDR: M
-        Zone > VHDR: M
+        Zone:
+          FR: M
+          FCR: M
+          RR: M
+          RCR: M
+          VLDR: M
+          VLDCR: '-'
+          LDR: M
+          MDR: M
+          MHDR: M
+          HDR: M
+          VHDR: M
         Applicable Regulations: ''
       Commercial Recreation, Indoor:
-        Zone > FR: '-'
-        Zone > FCR: '-'
-        Zone > RR: '-'
-        Zone > RCR: '-'
-        Zone > VLDR: '-'
-        Zone > VLDCR: '-'
-        Zone > LDR: '-'
-        Zone > MDR: '-'
-        Zone > MHDR: '-'
-        Zone > HDR: '-'
-        Zone > VHDR: '-'
+        Zone:
+          FR: '-'
+          FCR: '-'
+          RR: '-'
+          RCR: '-'
+          VLDR: '-'
+          VLDCR: '-'
+          LDR: '-'
+          MDR: '-'
+          MHDR: '-'
+          HDR: '-'
+          VHDR: '-'
         Applicable Regulations: ''
       Commercial Recreation, Outdoor:
-        Zone > FR: C [3]
-        Zone > FCR: C [3]
-        Zone > RR: '-'
-        Zone > RCR: '-'
-        Zone > VLDR: '-'
-        Zone > VLDCR: '-'
-        Zone > LDR: '-'
-        Zone > MDR: '-'
-        Zone > MHDR: '-'
-        Zone > HDR: '-'
-        Zone > VHDR: '-'
+        Zone:
+          FR: C [3]
+          FCR: C [3]
+          RR: '-'
+          RCR: '-'
+          VLDR: '-'
+          VLDCR: '-'
+          LDR: '-'
+          MDR: '-'
+          MHDR: '-'
+          HDR: '-'
+          VHDR: '-'
         Applicable Regulations: ''
       Construction, Maintenance and Repair Services:
-        Zone > FR: '-'
-        Zone > FCR: '-'
-        Zone > RR: '-'
-        Zone > RCR: '-'
-        Zone > VLDR: '-'
-        Zone > VLDCR: '-'
-        Zone > LDR: '-'
-        Zone > MDR: '-'
-        Zone > MHDR: '-'
-        Zone > HDR: '-'
-        Zone > VHDR: '-'
+        Zone:
+          FR: '-'
+          FCR: '-'
+          RR: '-'
+          RCR: '-'
+          VLDR: '-'
+          VLDCR: '-'
+          LDR: '-'
+          MDR: '-'
+          MHDR: '-'
+          HDR: '-'
+          VHDR: '-'
         Applicable Regulations: ''
       Drive-through Facility:
-        Zone > FR: '-'
-        Zone > FCR: '-'
-        Zone > RR: '-'
-        Zone > RCR: '-'
-        Zone > VLDR: '-'
-        Zone > VLDCR: '-'
-        Zone > LDR: '-'
-        Zone > MDR: '-'
-        Zone > MHDR: '-'
-        Zone > HDR: '-'
-        Zone > VHDR: '-'
+        Zone:
+          FR: '-'
+          FCR: '-'
+          RR: '-'
+          RCR: '-'
+          VLDR: '-'
+          VLDCR: '-'
+          LDR: '-'
+          MDR: '-'
+          MHDR: '-'
+          HDR: '-'
+          VHDR: '-'
         Applicable Regulations: ''
       Equipment Sales and Rental:
-        Zone > FR: '-'
-        Zone > FCR: '-'
-        Zone > RR: '-'
-        Zone > RCR: '-'
-        Zone > VLDR: '-'
-        Zone > VLDCR: '-'
-        Zone > LDR: '-'
-        Zone > MDR: '-'
-        Zone > MHDR: '-'
-        Zone > HDR: '-'
-        Zone > VHDR: '-'
+        Zone:
+          FR: '-'
+          FCR: '-'
+          RR: '-'
+          RCR: '-'
+          VLDR: '-'
+          VLDCR: '-'
+          LDR: '-'
+          MDR: '-'
+          MHDR: '-'
+          HDR: '-'
+          VHDR: '-'
         Applicable Regulations: ''
       Firewood Storage, Processing and Off-Site Sales, Small:
-        Zone > FR: P
-        Zone > FCR: P
-        Zone > RR: P
-        Zone > RCR: P
-        Zone > VLDR: P
-        Zone > VLDCR: '-'
-        Zone > LDR: '-'
-        Zone > MDR: '-'
-        Zone > MHDR: '-'
-        Zone > HDR: '-'
-        Zone > VHDR: '-'
+        Zone:
+          FR: P
+          FCR: P
+          RR: P
+          RCR: P
+          VLDR: P
+          VLDCR: '-'
+          LDR: '-'
+          MDR: '-'
+          MHDR: '-'
+          HDR: '-'
+          VHDR: '-'
         Applicable Regulations: ''
       Firewood Storage, Processing and Off-Site Sales, Medium:
-        Zone > FR: M
-        Zone > FCR: M
-        Zone > RR: M
-        Zone > RCR: M
-        Zone > VLDR: M
-        Zone > VLDCR: '-'
-        Zone > LDR: '-'
-        Zone > MDR: '-'
-        Zone > MHDR: '-'
-        Zone > HDR: '-'
-        Zone > VHDR: '-'
+        Zone:
+          FR: M
+          FCR: M
+          RR: M
+          RCR: M
+          VLDR: M
+          VLDCR: '-'
+          LDR: '-'
+          MDR: '-'
+          MHDR: '-'
+          HDR: '-'
+          VHDR: '-'
         Applicable Regulations: ''
       Firewood Storage, Processing and Off-Site/On-Site Sales, Large:
-        Zone > FR: C
-        Zone > FCR: C
-        Zone > RR: C
-        Zone > RCR: C
-        Zone > VLDR: '-'
-        Zone > VLDCR: ''
-        Zone > LDR: ''
-        Zone > MDR: ''
-        Zone > MHDR: ''
-        Zone > HDR: ''
-        Zone > VHDR: ''
+        Zone:
+          FR: C
+          FCR: C
+          RR: C
+          RCR: C
+          VLDR: '-'
+          VLDCR: ''
+          LDR: ''
+          MDR: ''
+          MHDR: ''
+          HDR: ''
+          VHDR: ''
         Applicable Regulations: ''
       Gas and Service Stations:
-        Zone > FR: '-'
-        Zone > FCR: '-'
-        Zone > RR: '-'
-        Zone > RCR: '-'
-        Zone > VLDR: '-'
-        Zone > VLDCR: '-'
-        Zone > LDR: '-'
-        Zone > MDR: '-'
-        Zone > MHDR: '-'
-        Zone > HDR: '-'
-        Zone > VHDR: '-'
+        Zone:
+          FR: '-'
+          FCR: '-'
+          RR: '-'
+          RCR: '-'
+          VLDR: '-'
+          VLDCR: '-'
+          LDR: '-'
+          MDR: '-'
+          MHDR: '-'
+          HDR: '-'
+          VHDR: '-'
         Applicable Regulations: ''
       Heavy Equipment Storage:
-        Zone > FR: P
-        Zone > FCR: See Section 24-173.2
-        Zone > RR: P
-        Zone > RCR: See Section 24-173.2
-        Zone > VLDR: See Section 24-173.1
-        Zone > VLDCR: '-'
-        Zone > LDR: '-'
-        Zone > MDR: '-'
-        Zone > MHDR: '-'
-        Zone > HDR: '-'
-        Zone > VHDR: '-'
+        Zone:
+          FR: P
+          FCR: See Section 24-173.2
+          RR: P
+          RCR: See Section 24-173.2
+          VLDR: See Section 24-173.1
+          VLDCR: '-'
+          LDR: '-'
+          MDR: '-'
+          MHDR: '-'
+          HDR: '-'
+          VHDR: '-'
         Applicable Regulations: Section 24-156
       Hotel and Motel:
-        Zone > FR: '-'
-        Zone > FCR: '-'
-        Zone > RR: '-'
-        Zone > RCR: '-'
-        Zone > VLDR: '-'
-        Zone > VLDCR: '-'
-        Zone > LDR: '-'
-        Zone > MDR: '-'
-        Zone > MHDR: '-'
-        Zone > HDR: '-'
-        Zone > VHDR: '-'
+        Zone:
+          FR: '-'
+          FCR: '-'
+          RR: '-'
+          RCR: '-'
+          VLDR: '-'
+          VLDCR: '-'
+          LDR: '-'
+          MDR: '-'
+          MHDR: '-'
+          HDR: '-'
+          VHDR: '-'
         Applicable Regulations: ''
       Hunting and Fishing Clubs:
-        Zone > FR: C [3]
-        Zone > FCR: C [3]
-        Zone > RR: '-'
-        Zone > RCR: '-'
-        Zone > VLDR: '-'
-        Zone > VLDCR: '-'
-        Zone > LDR: '-'
-        Zone > MDR: '-'
-        Zone > MHDR: '-'
-        Zone > HDR: '-'
-        Zone > VHDR: '-'
+        Zone:
+          FR: C [3]
+          FCR: C [3]
+          RR: '-'
+          RCR: '-'
+          VLDR: '-'
+          VLDCR: '-'
+          LDR: '-'
+          MDR: '-'
+          MHDR: '-'
+          HDR: '-'
+          VHDR: '-'
         Applicable Regulations: ''
       Nursery, Retail:
-        Zone > FR: C [5]
-        Zone > FCR: C [5]
-        Zone > RR: C [5]
-        Zone > RCR: C [5]
-        Zone > VLDR: '-'
-        Zone > VLDCR: '-'
-        Zone > LDR: '-'
-        Zone > MDR: '-'
-        Zone > MHDR: '-'
-        Zone > HDR: '-'
-        Zone > VHDR: '-'
+        Zone:
+          FR: C [5]
+          FCR: C [5]
+          RR: C [5]
+          RCR: C [5]
+          VLDR: '-'
+          VLDCR: '-'
+          LDR: '-'
+          MDR: '-'
+          MHDR: '-'
+          HDR: '-'
+          VHDR: '-'
         Applicable Regulations: ''
       Nursery, Wholesale:
-        Zone > FR: C [5]
-        Zone > FCR: C [5]
-        Zone > RR: C [5]
-        Zone > RCR: C [5]
-        Zone > VLDR: ''
-        Zone > VLDCR: '-'
-        Zone > LDR: ''
-        Zone > MDR: ''
-        Zone > MHDR: ''
-        Zone > HDR: ''
-        Zone > VHDR: ''
+        Zone:
+          FR: C [5]
+          FCR: C [5]
+          RR: C [5]
+          RCR: C [5]
+          VLDR: ''
+          VLDCR: '-'
+          LDR: ''
+          MDR: ''
+          MHDR: ''
+          HDR: ''
+          VHDR: ''
         Applicable Regulations: ''
       Offices, Professional:
-        Zone > FR: '-'
-        Zone > FCR: '-'
-        Zone > RR: '-'
-        Zone > RCR: '-'
-        Zone > VLDR: '-'
-        Zone > VLDCR: '-'
-        Zone > LDR: '-'
-        Zone > MDR: '-'
-        Zone > MHDR: '-'
-        Zone > HDR: '-'
-        Zone > VHDR: '-'
+        Zone:
+          FR: '-'
+          FCR: '-'
+          RR: '-'
+          RCR: '-'
+          VLDR: '-'
+          VLDCR: '-'
+          LDR: '-'
+          MDR: '-'
+          MHDR: '-'
+          HDR: '-'
+          VHDR: '-'
         Applicable Regulations: ''
       Personal Services:
-        Zone > FR: C
-        Zone > FCR: C
-        Zone > RR: C
-        Zone > RCR: C
-        Zone > VLDR: C
-        Zone > VLDCR: '-'
-        Zone > LDR: C
-        Zone > MDR: M
-        Zone > MHDR: M
-        Zone > HDR: M
-        Zone > VHDR: M
+        Zone:
+          FR: C
+          FCR: C
+          RR: C
+          RCR: C
+          VLDR: C
+          VLDCR: '-'
+          LDR: C
+          MDR: M
+          MHDR: M
+          HDR: M
+          VHDR: M
         Applicable Regulations: ''
       Personal Services, Restricted:
-        Zone > FR: '-'
-        Zone > FCR: '-'
-        Zone > RR: '-'
-        Zone > RCR: '-'
-        Zone > VLDR: '-'
-        Zone > VLDCR: '-'
-        Zone > LDR: '-'
-        Zone > MDR: '-'
-        Zone > MHDR: '-'
-        Zone > HDR: '-'
-        Zone > VHDR: '-'
+        Zone:
+          FR: '-'
+          FCR: '-'
+          RR: '-'
+          RCR: '-'
+          VLDR: '-'
+          VLDCR: '-'
+          LDR: '-'
+          MDR: '-'
+          MHDR: '-'
+          HDR: '-'
+          VHDR: '-'
         Applicable Regulations: ''
       Public/Mini-Storage:
-        Zone > FR: '-'
-        Zone > FCR: '-'
-        Zone > RR: '-'
-        Zone > RCR: '-'
-        Zone > VLDR: '-'
-        Zone > VLDCR: '-'
-        Zone > LDR: '-'
-        Zone > MDR: '-'
-        Zone > MHDR: '-'
-        Zone > HDR: '-'
-        Zone > VHDR: '-'
+        Zone:
+          FR: '-'
+          FCR: '-'
+          RR: '-'
+          RCR: '-'
+          VLDR: '-'
+          VLDCR: '-'
+          LDR: '-'
+          MDR: '-'
+          MHDR: '-'
+          HDR: '-'
+          VHDR: '-'
         Applicable Regulations: ''
       Recreational Vehicle Parks:
-        Zone > FR: '-'
-        Zone > FCR: '-'
-        Zone > RR: '-'
-        Zone > RCR: '-'
-        Zone > VLDR: '-'
-        Zone > VLDCR: '-'
-        Zone > LDR: '-'
-        Zone > MDR: '-'
-        Zone > MHDR: '-'
-        Zone > HDR: '-'
-        Zone > VHDR: '-'
+        Zone:
+          FR: '-'
+          FCR: '-'
+          RR: '-'
+          RCR: '-'
+          VLDR: '-'
+          VLDCR: '-'
+          LDR: '-'
+          MDR: '-'
+          MHDR: '-'
+          HDR: '-'
+          VHDR: '-'
         Applicable Regulations: ''
       Restaurant:
-        Zone > FR: '-'
-        Zone > FCR: '-'
-        Zone > RR: '-'
-        Zone > RCR: '-'
-        Zone > VLDR: '-'
-        Zone > VLDCR: '-'
-        Zone > LDR: '-'
-        Zone > MDR: '-'
-        Zone > MHDR: '-'
-        Zone > HDR: '-'
-        Zone > VHDR: '-'
+        Zone:
+          FR: '-'
+          FCR: '-'
+          RR: '-'
+          RCR: '-'
+          VLDR: '-'
+          VLDCR: '-'
+          LDR: '-'
+          MDR: '-'
+          MHDR: '-'
+          HDR: '-'
+          VHDR: '-'
         Applicable Regulations: ''
       Retail, General:
-        Zone > FR: '-'
-        Zone > FCR: '-'
-        Zone > RR: '-'
-        Zone > RCR: '-'
-        Zone > VLDR: '-'
-        Zone > VLDCR: '-'
-        Zone > LDR: '-'
-        Zone > MDR: C
-        Zone > MHDR: C
-        Zone > HDR: C
-        Zone > VHDR: C
+        Zone:
+          FR: '-'
+          FCR: '-'
+          RR: '-'
+          RCR: '-'
+          VLDR: '-'
+          VLDCR: '-'
+          LDR: '-'
+          MDR: C
+          MHDR: C
+          HDR: C
+          VHDR: C
         Applicable Regulations: ''
       Retail, Large Projects:
-        Zone > FR: '-'
-        Zone > FCR: '-'
-        Zone > RR: '-'
-        Zone > RCR: '-'
-        Zone > VLDR: '-'
-        Zone > VLDCR: '-'
-        Zone > LDR: '-'
-        Zone > MDR: '-'
-        Zone > MHDR: '-'
-        Zone > HDR: '-'
-        Zone > VHDR: '-'
+        Zone:
+          FR: '-'
+          FCR: '-'
+          RR: '-'
+          RCR: '-'
+          VLDR: '-'
+          VLDCR: '-'
+          LDR: '-'
+          MDR: '-'
+          MHDR: '-'
+          HDR: '-'
+          VHDR: '-'
         Applicable Regulations: ''
       Retail, Restricted:
-        Zone > FR: '-'
-        Zone > FCR: '-'
-        Zone > RR: '-'
-        Zone > RCR: '-'
-        Zone > VLDR: '-'
-        Zone > VLDCR: '-'
-        Zone > LDR: '-'
-        Zone > MDR: '-'
-        Zone > MHDR: '-'
-        Zone > HDR: '-'
-        Zone > VHDR: '-'
+        Zone:
+          FR: '-'
+          FCR: '-'
+          RR: '-'
+          RCR: '-'
+          VLDR: '-'
+          VLDCR: '-'
+          LDR: '-'
+          MDR: '-'
+          MHDR: '-'
+          HDR: '-'
+          VHDR: '-'
         Applicable Regulations: ''
       Vehicle Repair:
-        Zone > FR: '-'
-        Zone > FCR: '-'
-        Zone > RR: '-'
-        Zone > RCR: '-'
-        Zone > VLDR: '-'
-        Zone > VLDCR: '-'
-        Zone > LDR: '-'
-        Zone > MDR: '-'
-        Zone > MHDR: '-'
-        Zone > HDR: '-'
-        Zone > VHDR: '-'
+        Zone:
+          FR: '-'
+          FCR: '-'
+          RR: '-'
+          RCR: '-'
+          VLDR: '-'
+          VLDCR: '-'
+          LDR: '-'
+          MDR: '-'
+          MHDR: '-'
+          HDR: '-'
+          VHDR: '-'
         Applicable Regulations: ''
       Vehicle Sales and Rental:
-        Zone > FR: '-'
-        Zone > FCR: '-'
-        Zone > RR: '-'
-        Zone > RCR: '-'
-        Zone > VLDR: '-'
-        Zone > VLDCR: '-'
-        Zone > LDR: '-'
-        Zone > MDR: '-'
-        Zone > MHDR: '-'
-        Zone > HDR: '-'
-        Zone > VHDR: '-'
+        Zone:
+          FR: '-'
+          FCR: '-'
+          RR: '-'
+          RCR: '-'
+          VLDR: '-'
+          VLDCR: '-'
+          LDR: '-'
+          MDR: '-'
+          MHDR: '-'
+          HDR: '-'
+          VHDR: '-'
         Applicable Regulations: ''
       Vehicle Service and Maintenance:
-        Zone > FR: '-'
-        Zone > FCR: '-'
-        Zone > RR: '-'
-        Zone > RCR: '-'
-        Zone > VLDR: '-'
-        Zone > VLDCR: '-'
-        Zone > LDR: '-'
-        Zone > MDR: '-'
-        Zone > MHDR: '-'
-        Zone > HDR: '-'
-        Zone > VHDR: '-'
+        Zone:
+          FR: '-'
+          FCR: '-'
+          RR: '-'
+          RCR: '-'
+          VLDR: '-'
+          VLDCR: '-'
+          LDR: '-'
+          MDR: '-'
+          MHDR: '-'
+          HDR: '-'
+          VHDR: '-'
         Applicable Regulations: ''
       Wine, Olive Oil, Fruit and Nut, Micro-Brewery and Micro-Distillery Facilities:
-        Zone > FR: See Section 24-175
-        Zone > FCR: See Section 24-175
-        Zone > RR: See Section 24-175
-        Zone > RCR: See Section 24-175
-        Zone > VLDR: '-'
-        Zone > VLDCR: '-'
-        Zone > LDR: '-'
-        Zone > MDR: '-'
-        Zone > MHDR: '-'
-        Zone > HDR: '-'
-        Zone > VHDR: '-'
+        Zone:
+          FR: See Section 24-175
+          FCR: See Section 24-175
+          RR: See Section 24-175
+          RCR: See Section 24-175
+          VLDR: '-'
+          VLDCR: '-'
+          LDR: '-'
+          MDR: '-'
+          MHDR: '-'
+          HDR: '-'
+          VHDR: '-'
         Applicable Regulations: ''
     Industrial Uses:
       Composting Facilities:
-        Zone > FR: '-'
-        Zone > FCR: '-'
-        Zone > RR: '-'
-        Zone > RCR: '-'
-        Zone > VLDR: '-'
-        Zone > VLDCR: '-'
-        Zone > LDR: '-'
-        Zone > MDR: '-'
-        Zone > MHDR: '-'
-        Zone > HDR: '-'
-        Zone > VHDR: '-'
+        Zone:
+          FR: '-'
+          FCR: '-'
+          RR: '-'
+          RCR: '-'
+          VLDR: '-'
+          VLDCR: '-'
+          LDR: '-'
+          MDR: '-'
+          MHDR: '-'
+          HDR: '-'
+          VHDR: '-'
         Applicable Regulations: ''
       Manufacturing, General:
-        Zone > FR: '-'
-        Zone > FCR: '-'
-        Zone > RR: '-'
-        Zone > RCR: '-'
-        Zone > VLDR: '-'
-        Zone > VLDCR: '-'
-        Zone > LDR: '-'
-        Zone > MDR: '-'
-        Zone > MHDR: '-'
-        Zone > HDR: '-'
-        Zone > VHDR: '-'
+        Zone:
+          FR: '-'
+          FCR: '-'
+          RR: '-'
+          RCR: '-'
+          VLDR: '-'
+          VLDCR: '-'
+          LDR: '-'
+          MDR: '-'
+          MHDR: '-'
+          HDR: '-'
+          VHDR: '-'
         Applicable Regulations: ''
       Manufacturing, Heavy:
-        Zone > FR: '-'
-        Zone > FCR: '-'
-        Zone > RR: '-'
-        Zone > RCR: '-'
-        Zone > VLDR: '-'
-        Zone > VLDCR: '-'
-        Zone > LDR: '-'
-        Zone > MDR: '-'
-        Zone > MHDR: '-'
-        Zone > HDR: '-'
-        Zone > VHDR: '-'
+        Zone:
+          FR: '-'
+          FCR: '-'
+          RR: '-'
+          RCR: '-'
+          VLDR: '-'
+          VLDCR: '-'
+          LDR: '-'
+          MDR: '-'
+          MHDR: '-'
+          HDR: '-'
+          VHDR: '-'
         Applicable Regulations: ''
       Manufacturing, Light:
-        Zone > FR: '-'
-        Zone > FCR: '-'
-        Zone > RR: '-'
-        Zone > RCR: '-'
-        Zone > VLDR: '-'
-        Zone > VLDCR: '-'
-        Zone > LDR: '-'
-        Zone > MDR: '-'
-        Zone > MHDR: '-'
-        Zone > HDR: '-'
-        Zone > VHDR: '-'
+        Zone:
+          FR: '-'
+          FCR: '-'
+          RR: '-'
+          RCR: '-'
+          VLDR: '-'
+          VLDCR: '-'
+          LDR: '-'
+          MDR: '-'
+          MHDR: '-'
+          HDR: '-'
+          VHDR: '-'
         Applicable Regulations: ''
       Research and Development:
-        Zone > FR: '-'
-        Zone > FCR: '-'
-        Zone > RR: '-'
-        Zone > RCR: '-'
-        Zone > VLDR: '-'
-        Zone > VLDCR: '-'
-        Zone > LDR: '-'
-        Zone > MDR: '-'
-        Zone > MHDR: '-'
-        Zone > HDR: '-'
-        Zone > VHDR: '-'
+        Zone:
+          FR: '-'
+          FCR: '-'
+          RR: '-'
+          RCR: '-'
+          VLDR: '-'
+          VLDCR: '-'
+          LDR: '-'
+          MDR: '-'
+          MHDR: '-'
+          HDR: '-'
+          VHDR: '-'
         Applicable Regulations: ''
       Warehousing, Wholesaling and Distribution:
-        Zone > FR: '-'
-        Zone > FCR: '-'
-        Zone > RR: '-'
-        Zone > RCR: '-'
-        Zone > VLDR: '-'
-        Zone > VLDCR: '-'
-        Zone > LDR: '-'
-        Zone > MDR: '-'
-        Zone > MHDR: '-'
-        Zone > HDR: '-'
-        Zone > VHDR: '-'
+        Zone:
+          FR: '-'
+          FCR: '-'
+          RR: '-'
+          RCR: '-'
+          VLDR: '-'
+          VLDCR: '-'
+          LDR: '-'
+          MDR: '-'
+          MHDR: '-'
+          HDR: '-'
+          VHDR: '-'
         Applicable Regulations: ''
     Transportation, Communication and Utility Uses:
       Aerial Applicator and Support Services:
-        Zone > FR: '-'
-        Zone > FCR: '-'
-        Zone > RR: '-'
-        Zone > RCR: '-'
-        Zone > VLDR: '-'
-        Zone > VLDCR: '-'
-        Zone > LDR: '-'
-        Zone > MDR: '-'
-        Zone > MHDR: '-'
-        Zone > HDR: '-'
-        Zone > VHDR: '-'
+        Zone:
+          FR: '-'
+          FCR: '-'
+          RR: '-'
+          RCR: '-'
+          VLDR: '-'
+          VLDCR: '-'
+          LDR: '-'
+          MDR: '-'
+          MHDR: '-'
+          HDR: '-'
+          VHDR: '-'
         Applicable Regulations: ''
       Airport-Related Uses:
-        Zone > FR: '-'
-        Zone > FCR: '-'
-        Zone > RR: '-'
-        Zone > RCR: '-'
-        Zone > VLDR: '-'
-        Zone > VLDCR: '-'
-        Zone > LDR: '-'
-        Zone > MDR: '-'
-        Zone > MHDR: '-'
-        Zone > HDR: '-'
-        Zone > VHDR: '-'
+        Zone:
+          FR: '-'
+          FCR: '-'
+          RR: '-'
+          RCR: '-'
+          VLDR: '-'
+          VLDCR: '-'
+          LDR: '-'
+          MDR: '-'
+          MHDR: '-'
+          HDR: '-'
+          VHDR: '-'
         Applicable Regulations: ''
       Farm Airstrips:
-        Zone > FR: '-'
-        Zone > FCR: '-'
-        Zone > RR: '-'
-        Zone > RCR: '-'
-        Zone > VLDR: '-'
-        Zone > VLDCR: '-'
-        Zone > LDR: '-'
-        Zone > MDR: '-'
-        Zone > MHDR: '-'
-        Zone > HDR: '-'
-        Zone > VHDR: '-'
+        Zone:
+          FR: '-'
+          FCR: '-'
+          RR: '-'
+          RCR: '-'
+          VLDR: '-'
+          VLDCR: '-'
+          LDR: '-'
+          MDR: '-'
+          MHDR: '-'
+          HDR: '-'
+          VHDR: '-'
         Applicable Regulations: ''
       Freight and Truck Terminals and Yards:
-        Zone > FR: '-'
-        Zone > FCR: '-'
-        Zone > RR: '-'
-        Zone > RCR: '-'
-        Zone > VLDR: '-'
-        Zone > VLDCR: '-'
-        Zone > LDR: '-'
-        Zone > MDR: '-'
-        Zone > MHDR: '-'
-        Zone > HDR: '-'
-        Zone > VHDR: '-'
+        Zone:
+          FR: '-'
+          FCR: '-'
+          RR: '-'
+          RCR: '-'
+          VLDR: '-'
+          VLDCR: '-'
+          LDR: '-'
+          MDR: '-'
+          MHDR: '-'
+          HDR: '-'
+          VHDR: '-'
         Applicable Regulations: ''
       Recycling Collection Facility, Large:
-        Zone > FR: '-'
-        Zone > FCR: '-'
-        Zone > RR: '-'
-        Zone > RCR: '-'
-        Zone > VLDR: '-'
-        Zone > VLDCR: '-'
-        Zone > LDR: '-'
-        Zone > MDR: '-'
-        Zone > MHDR: '-'
-        Zone > HDR: '-'
-        Zone > VHDR: '-'
+        Zone:
+          FR: '-'
+          FCR: '-'
+          RR: '-'
+          RCR: '-'
+          VLDR: '-'
+          VLDCR: '-'
+          LDR: '-'
+          MDR: '-'
+          MHDR: '-'
+          HDR: '-'
+          VHDR: '-'
         Applicable Regulations: ''
       Recycling Collection Facility, Small:
-        Zone > FR: '-'
-        Zone > FCR: '-'
-        Zone > RR: '-'
-        Zone > RCR: '-'
-        Zone > VLDR: '-'
-        Zone > VLDCR: '-'
-        Zone > LDR: '-'
-        Zone > MDR: '-'
-        Zone > MHDR: '-'
-        Zone > HDR: '-'
-        Zone > VHDR: '-'
+        Zone:
+          FR: '-'
+          FCR: '-'
+          RR: '-'
+          RCR: '-'
+          VLDR: '-'
+          VLDCR: '-'
+          LDR: '-'
+          MDR: '-'
+          MHDR: '-'
+          HDR: '-'
+          VHDR: '-'
         Applicable Regulations: ''
       Recycling Processing Facility, Heavy:
-        Zone > FR: '-'
-        Zone > FCR: '-'
-        Zone > RR: '-'
-        Zone > RCR: '-'
-        Zone > VLDR: '-'
-        Zone > VLDCR: '-'
-        Zone > LDR: '-'
-        Zone > MDR: '-'
-        Zone > MHDR: '-'
-        Zone > HDR: '-'
-        Zone > VHDR: '-'
+        Zone:
+          FR: '-'
+          FCR: '-'
+          RR: '-'
+          RCR: '-'
+          VLDR: '-'
+          VLDCR: '-'
+          LDR: '-'
+          MDR: '-'
+          MHDR: '-'
+          HDR: '-'
+          VHDR: '-'
         Applicable Regulations: ''
       Recycling Processing Facility, Light:
-        Zone > FR: '-'
-        Zone > FCR: '-'
-        Zone > RR: '-'
-        Zone > RCR: '-'
-        Zone > VLDR: '-'
-        Zone > VLDCR: '-'
-        Zone > LDR: '-'
-        Zone > MDR: '-'
-        Zone > MHDR: '-'
-        Zone > HDR: '-'
-        Zone > VHDR: '-'
+        Zone:
+          FR: '-'
+          FCR: '-'
+          RR: '-'
+          RCR: '-'
+          VLDR: '-'
+          VLDCR: '-'
+          LDR: '-'
+          MDR: '-'
+          MHDR: '-'
+          HDR: '-'
+          VHDR: '-'
         Applicable Regulations: ''
       Reverse Vending Machine:
-        Zone > FR: '-'
-        Zone > FCR: '-'
-        Zone > RR: '-'
-        Zone > RCR: '-'
-        Zone > VLDR: '-'
-        Zone > VLDCR: '-'
-        Zone > LDR: '-'
-        Zone > MDR: '-'
-        Zone > MHDR: '-'
-        Zone > HDR: '-'
-        Zone > VHDR: '-'
+        Zone:
+          FR: '-'
+          FCR: '-'
+          RR: '-'
+          RCR: '-'
+          VLDR: '-'
+          VLDCR: '-'
+          LDR: '-'
+          MDR: '-'
+          MHDR: '-'
+          HDR: '-'
+          VHDR: '-'
         Applicable Regulations: ''
       Runways and Heliports:
-        Zone > FR: '-'
-        Zone > FCR: '-'
-        Zone > RR: '-'
-        Zone > RCR: '-'
-        Zone > VLDR: '-'
-        Zone > VLDCR: '-'
-        Zone > LDR: '-'
-        Zone > MDR: '-'
-        Zone > MHDR: '-'
-        Zone > HDR: '-'
-        Zone > VHDR: '-'
+        Zone:
+          FR: '-'
+          FCR: '-'
+          RR: '-'
+          RCR: '-'
+          VLDR: '-'
+          VLDCR: '-'
+          LDR: '-'
+          MDR: '-'
+          MHDR: '-'
+          HDR: '-'
+          VHDR: '-'
         Applicable Regulations: ''
       Telecommunications Facilities:
         Zone: See Article 26 (Telecommunication Facilities)
         Applicable Regulations: See Article 26 (Telecommunication Facilities)
       Utilities, Major:
-        Zone > FR: C [10]
-        Zone > FCR: C [10]
-        Zone > RR: C [10]
-        Zone > RCR: C [10]
-        Zone > VLDR: '-'
-        Zone > VLDCR: '-'
-        Zone > LDR: '-'
-        Zone > MDR: '-'
-        Zone > MHDR: '-'
-        Zone > HDR: '-'
-        Zone > VHDR: '-'
+        Zone:
+          FR: C [10]
+          FCR: C [10]
+          RR: C [10]
+          RCR: C [10]
+          VLDR: '-'
+          VLDCR: '-'
+          LDR: '-'
+          MDR: '-'
+          MHDR: '-'
+          HDR: '-'
+          VHDR: '-'
         Applicable Regulations: Section 24-157
       Utilities, Intermediate:
-        Zone > FR: M [9]
-        Zone > FCR: M [9]
-        Zone > RR: M [9]
-        Zone > RCR: M [9]
-        Zone > VLDR: '-'
-        Zone > VLDCR: '-'
-        Zone > LDR: '-'
-        Zone > MDR: '-'
-        Zone > MHDR: '-'
-        Zone > HDR: '-'
-        Zone > VHDR: '-'
+        Zone:
+          FR: M [9]
+          FCR: M [9]
+          RR: M [9]
+          RCR: M [9]
+          VLDR: '-'
+          VLDCR: '-'
+          LDR: '-'
+          MDR: '-'
+          MHDR: '-'
+          HDR: '-'
+          VHDR: '-'
         Applicable Regulations: Section 24-157
       Utilities, Accessory:
-        Zone > FR: A [8]
-        Zone > FCR: M [13]
-        Zone > RR: A[8]
-        Zone > RCR: M [13]
-        Zone > VLDR: '-'
-        Zone > VLDCR: '-'
-        Zone > LDR: '-'
-        Zone > MDR: '-'
-        Zone > MHDR: '-'
-        Zone > HDR: '-'
-        Zone > VHDR: '-'
+        Zone:
+          FR: A [8]
+          FCR: M [13]
+          RR: A[8]
+          RCR: M [13]
+          VLDR: '-'
+          VLDCR: '-'
+          LDR: '-'
+          MDR: '-'
+          MHDR: '-'
+          HDR: '-'
+          VHDR: '-'
         Applicable Regulations: Section 24-157
       Utilities, Minor:
-        Zone > FR: P [7]
-        Zone > FCR: P [7]
-        Zone > RR: P [7]
-        Zone > RCR: P [7]
-        Zone > VLDR: P [7]
-        Zone > VLDCR: P [12]
-        Zone > LDR: P [7]
-        Zone > MDR: P [7]
-        Zone > MHDR: P [7]
-        Zone > HDR: P [7]
-        Zone > VHDR: P [7]
+        Zone:
+          FR: P [7]
+          FCR: P [7]
+          RR: P [7]
+          RCR: P [7]
+          VLDR: P [7]
+          VLDCR: P [12]
+          LDR: P [7]
+          MDR: P [7]
+          MHDR: P [7]
+          HDR: P [7]
+          VHDR: P [7]
         Applicable Regulations: Section 24-157
     Other Uses:
       Accessory Uses and Structures:

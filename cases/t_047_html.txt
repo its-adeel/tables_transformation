@@ -1,0 +1,567 @@
+<table class="thead2 table left makeExpandableTable makeFixedTable" cellpadding="3" cellspacing="0" border="1" rules="all">
+                     <colgroup class="std">
+                        <col width="25%">
+                        <col width="50%">
+                        <col width="25%">
+                     </colgroup>
+                     <thead><tr>
+                           <th colspan="3" class=" top ">
+                              <span class="bold">TABLE 24-11-1 BASE ZONES</span>
+                              </th>
+                        </tr><tr>
+                           <th class=" top ">
+                              Zone Symbol
+                              </th>
+                           <th class=" top ">
+                              Name of Zone
+                              </th>
+                           <th class=" top ">
+                              General Plan Land Use
+                              <br>
+                              Designation Implemented
+                              <br>
+                              by Zone
+                              </th>
+                        </tr></thead><tbody>
+                        
+                        
+                        <tr>
+                           <td colspan="3" class=" top ">
+                              <span class="bold">Rural Zones</span>
+                              </td>
+                        </tr>
+                        <tr>
+                           <td colspan="3" class=" top ">
+                              <span class="bold">Agriculture Zones</span>
+                              </td>
+                        </tr>
+                        <tr>
+                           <td class=" top ">
+                              AG-20
+                              </td>
+                           <td class=" top ">
+                              Agriculture, 20-acre min. parcel size
+                              </td>
+                           <td class=" top ">
+                              AG
+                              </td>
+                        </tr>
+                        <tr>
+                           <td class=" top ">
+                              AG-40
+                              </td>
+                           <td class=" top ">
+                              Agriculture, 40-acre min. parcel size
+                              </td>
+                           <td class=" top ">
+                              AG
+                              </td>
+                        </tr>
+                        <tr>
+                           <td class=" top ">
+                              AG-80
+                              </td>
+                           <td class=" top ">
+                              Agriculture, 80-acre min. parcel size
+                              </td>
+                           <td class=" top ">
+                              AG
+                              </td>
+                        </tr>
+                        <tr>
+                           <td class=" top ">
+                              AG-160
+                              </td>
+                           <td class=" top ">
+                              Agriculture, 160-acre min. parcel size
+                              </td>
+                           <td class=" top ">
+                              AG
+                              </td>
+                        </tr>
+                        <tr>
+                           <td class=" top ">
+                              AS
+                              </td>
+                           <td class=" top ">
+                              Agriculture Services
+                              </td>
+                           <td class=" top ">
+                              AS
+                              </td>
+                        </tr>
+                        <tr>
+                           <td colspan="3" class=" top ">
+                              <span class="bold">Natural Resource Zones</span>
+                              </td>
+                        </tr>
+                        <tr>
+                           <td class=" top ">
+                              TM
+                              </td>
+                           <td class=" top ">
+                              Timber Mountain
+                              </td>
+                           <td class=" top ">
+                              TM
+                              </td>
+                        </tr>
+                        <tr>
+                           <td class=" top ">
+                              TPZ
+                              </td>
+                           <td class=" top ">
+                              Timber Production
+                              </td>
+                           <td class=" top ">
+                              TM
+                              </td>
+                        </tr>
+                        <tr>
+                           <td class=" top ">
+                              RC
+                              </td>
+                           <td class=" top ">
+                              Resource Conservation
+                              </td>
+                           <td class=" top ">
+                              RC
+                              </td>
+                        </tr>
+                        <tr>
+                           <td colspan="3" class=" top ">
+                              <span class="bold">Residential Zones</span>
+                              </td>
+                        </tr>
+                        <tr>
+                           <td class=" top ">
+                              FR-1
+                              </td>
+                           <td class=" top ">
+                              Foothill Residential, 1-acre min. parcel size
+                              </td>
+                           <td class=" top ">
+                              FR
+                              </td>
+                        </tr>
+                        <tr>
+                           <td class=" top ">
+                              FR-2
+                              </td>
+                           <td class=" top ">
+                              Foothill Residential, 2-acre min. parcel size
+                              </td>
+                           <td class=" top ">
+                              FR
+                              </td>
+                        </tr>
+                        <tr>
+                           <td class=" top ">
+                              FR-5
+                              </td>
+                           <td class=" top ">
+                              Foothill Residential, 5-acre min. parcel size
+                              </td>
+                           <td class=" top ">
+                              FR
+                              </td>
+                        </tr>
+                        <tr>
+                           <td class=" top ">
+                              FR-10
+                              </td>
+                           <td class=" top ">
+                              Foothill Residential, 10-acre min. parcel size
+                              </td>
+                           <td class=" top ">
+                              FR
+                              </td>
+                        </tr>
+                        <tr>
+                           <td class=" top ">
+                              FR-20
+                              </td>
+                           <td class=" top ">
+                              Foothill Residential, 20-acre min. parcel size
+                              </td>
+                           <td class=" top ">
+                              FR
+                              </td>
+                        </tr>
+                        <tr>
+                           <td class=" top ">
+                              FR-40
+                              </td>
+                           <td class=" top ">
+                              Foothill Residential, 40-acre min. parcel size
+                              </td>
+                           <td class=" top ">
+                              FR
+                              </td>
+                        </tr>
+                        <tr>
+                           <td class=" top ">
+                              FCR-20
+                              </td>
+                           <td class=" top ">
+                              Foothill Country Residential, 20-acre min. parcel size
+                              </td>
+                           <td class=" top ">
+                              FR
+                              </td>
+                        </tr>
+                        <tr>
+                           <td class=" top ">
+                              RR-5
+                              </td>
+                           <td class=" top ">
+                              Rural Residential, 5-acre min. parcel size
+                              </td>
+                           <td class=" top ">
+                              RR
+                              </td>
+                        </tr>
+                        <tr>
+                           <td class=" top ">
+                              RR-10
+                              </td>
+                           <td class=" top ">
+                              Rural Residential, 10-acre min. parcel size
+                              </td>
+                           <td class=" top ">
+                              RR
+                              </td>
+                        </tr>
+                        <tr>
+                           <td class=" top ">
+                              RCR-10
+                              </td>
+                           <td class=" top ">
+                              Rural Country Residential, 10-acre min. parcel size
+                              </td>
+                           <td class=" top ">
+                              RR
+                              </td>
+                        </tr>
+                        <tr>
+                           <td colspan="3" class=" top ">
+                              <span class="bold">Urban Zones</span>
+                              </td>
+                        </tr>
+                        <tr>
+                           <td colspan="3" class=" top ">
+                              <span class="bold">Residential Zones</span>
+                              </td>
+                        </tr>
+                        <tr>
+                           <td class=" top ">
+                              VLDR
+                              </td>
+                           <td class=" top ">
+                              Very Low Density Residential, up to 1 unit per parcel
+                              </td>
+                           <td class=" top ">
+                              VLDR
+                              </td>
+                        </tr>
+                        <tr>
+                           <td class=" top ">
+                              VLDR-2.5
+                              </td>
+                           <td class=" top ">
+                              Very Low Density Residential, up to 1 unit per parcel
+                              </td>
+                           <td class=" top ">
+                              VLDR
+                              </td>
+                        </tr>
+                        <tr>
+                           <td class=" top ">
+                              VLDCR
+                              </td>
+                           <td class=" top ">
+                              Very Low Density Country Residential, up to 1 unit per parcel
+                              </td>
+                           <td class=" top ">
+                              VLDR
+                              </td>
+                        </tr>
+                        <tr>
+                           <td class=" top ">
+                              LDR
+                              </td>
+                           <td class=" top ">
+                              Low Density Residential, up to 1 unit per parcel
+                              </td>
+                           <td class=" top ">
+                              LDR
+                              </td>
+                        </tr>
+                        <tr>
+                           <td class=" top ">
+                              MDR
+                              </td>
+                           <td class=" top ">
+                              Medium Density Residential, up to 1 unit per parcel
+                              </td>
+                           <td class=" top ">
+                              MDR
+                              </td>
+                        </tr>
+                        <tr>
+                           <td class=" top ">
+                              MHDR
+                              </td>
+                           <td class=" top ">
+                              Medium High Density Residential, up to 14 units per acre
+                              </td>
+                           <td class=" top ">
+                              MHDR
+                              </td>
+                        </tr>
+                        <tr>
+                           <td class=" top ">
+                              HDR
+                              </td>
+                           <td class=" top ">
+                              High Density Residential, 14 to 20 units per acre
+                              </td>
+                           <td class=" top ">
+                              HDR
+                              </td>
+                        </tr>
+                        <tr>
+                           <td class=" top ">
+                              VHDR
+                              </td>
+                           <td class=" top ">
+                              Very High Density Residential, 20 to 30 units per acre
+                              </td>
+                           <td class=" top ">
+                              VHDR
+                              </td>
+                        </tr>
+                        <tr>
+                           <td colspan="3" class=" top ">
+                              <span class="bold">Commercial and Mixed Use Zones</span>
+                              </td>
+                        </tr>
+                        <tr>
+                           <td class=" top ">
+                              GC
+                              </td>
+                           <td class=" top ">
+                              General Commercial
+                              <sup>
+                                 a
+                                 </sup>
+                              </td>
+                           <td class=" top ">
+                              RTL
+                              </td>
+                        </tr>
+                        <tr>
+                           <td class=" top ">
+                              NC
+                              </td>
+                           <td class=" top ">
+                              Neighborhood Commercial
+                              <sup>
+                                 b
+                                 </sup>
+                              </td>
+                           <td class=" top ">
+                              RTL
+                              </td>
+                        </tr>
+                        <tr>
+                           <td class=" top ">
+                              CC
+                              </td>
+                           <td class=" top ">
+                              Community Commercial
+                              <sup>
+                                 c
+                                 </sup>
+                              </td>
+                           <td class=" top ">
+                              RTL
+                              </td>
+                        </tr>
+                        <tr>
+                           <td class=" top ">
+                              REC
+                              </td>
+                           <td class=" top ">
+                              Recreation Commercial
+                              <sup>
+                                 a
+                                 </sup>
+                              </td>
+                           <td class=" top ">
+                              REC
+                              </td>
+                        </tr>
+                        <tr>
+                           <td class=" top ">
+                              SE
+                              </td>
+                           <td class=" top ">
+                              Sports and Entertainment
+                              <sup>
+                                 a
+                                 </sup>
+                              </td>
+                           <td class=" top ">
+                              SE
+                              </td>
+                        </tr>
+                        <tr>
+                           <td class=" top ">
+                              MU-1
+                              </td>
+                           <td class=" top ">
+                              Mixed Use, 6 units per acre max. density
+                              <sup>
+                                 b
+                                 </sup>
+                              </td>
+                           <td class=" top ">
+                              MU
+                              </td>
+                        </tr>
+                        <tr>
+                           <td class=" top ">
+                              MU-2
+                              </td>
+                           <td class=" top ">
+                              Mixed Use, 7 to 14 units per acre
+                              <sup>
+                                 a
+                                 </sup>
+                              </td>
+                           <td class=" top ">
+                              MU
+                              </td>
+                        </tr>
+                        <tr>
+                           <td class=" top ">
+                              MU-3
+                              </td>
+                           <td class=" top ">
+                              Mixed Use, 15 to 20 units per acre
+                              <sup>
+                                 d
+                                 </sup>
+                              </td>
+                           <td class=" top ">
+                              MU
+                              </td>
+                        </tr>
+                        <tr>
+                           <td colspan="3" class=" top ">
+                              <span class="bold">Industrial Zones</span>
+                              </td>
+                        </tr>
+                        <tr>
+                           <td class=" top ">
+                              LI
+                              </td>
+                           <td class=" top ">
+                              Limited Industrial
+                              <sup>
+                                 a
+                                 </sup>
+                              </td>
+                           <td class=" top ">
+                              I
+                              </td>
+                        </tr>
+                        <tr>
+                           <td class=" top ">
+                              GI
+                              </td>
+                           <td class=" top ">
+                              General Industrial
+                              <sup>
+                                 d
+                                 </sup>
+                              </td>
+                           <td class=" top ">
+                              I
+                              </td>
+                        </tr>
+                        <tr>
+                           <td class=" top ">
+                              HI
+                              </td>
+                           <td class=" top ">
+                              Heavy Industrial
+                              <sup>
+                                 d
+                                 </sup>
+                              </td>
+                           <td class=" top ">
+                              I
+                              </td>
+                        </tr>
+                        <tr>
+                           <td colspan="3" class=" top ">
+                              <span class="bold">Special Purpose Zones</span>
+                              </td>
+                        </tr>
+                        <tr>
+                           <td class=" top ">
+                              PB
+                              </td>
+                           <td class=" top ">
+                              Public
+                              <sup>
+                                 a
+                                 </sup>
+                              </td>
+                           <td class=" top ">
+                              P
+                              </td>
+                        </tr>
+                        <tr>
+                           <td class=" top ">
+                              AIR
+                              </td>
+                           <td class=" top ">
+                              Airport
+                              <sup>
+                                 d
+                                 </sup>
+                              </td>
+                           <td class=" top ">
+                              I
+                              </td>
+                        </tr>
+                        <tr>
+                           <td class=" top ">
+                              RBP
+                              </td>
+                           <td class=" top ">
+                              Research and Business Park
+                              <sup>
+                                 a
+                                 </sup>
+                              </td>
+                           <td class=" top ">
+                              RBP
+                              </td>
+                        </tr>
+                        <tr>
+                           <td class=" top ">
+                              PD
+                              </td>
+                           <td class=" top ">
+                              Planned Development
+                              </td>
+                           <td class=" top ">
+                              PUD
+                              </td>
+                        </tr>
+                     </tbody>
+                  </table>

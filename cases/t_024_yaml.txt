@@ -1,17 +1,19 @@
 Table 2-4 (HI) HEAVY INDUSTRIAL DISTRICT | Heavy Industrial Park II:
   Parcel Type III:
     Industrial:
-      Setbacks I > Front: 50'
-      Setbacks I > Side: 25'
-      Setbacks I > Rear: 20'
-      Setbacks I > Corner Side: 37.5'
+      Setbacks I:
+        Front: 50'
+        Side: 25'
+        Rear: 20'
+        Corner Side: 37.5'
       Height: 60'
       Lot width at Building Site: 200'
     Management Office/ Public Safety:
-      Setbacks I > Front: 50'
-      Setbacks I > Side: 10'
-      Setbacks I > Rear: 15'
-      Setbacks I > Corner Side: 15'
+      Setbacks I:
+        Front: 50'
+        Side: 10'
+        Rear: 15'
+        Corner Side: 15'
       Height: 35'
       Lot width at Building Site: 60'
     'Notes: I. Setbacks shall be no less than 100 feet if located along an exterior boundary of the park. II. The minimum lot area of the park is no less than ten (10) acres. III. The minimum lot area of any parcel within the park is no smaller than two (2) acres except that parcels used for park management offices and/or public safety facilities may be as small as one (1) acre.': {}

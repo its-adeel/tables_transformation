@@ -2,15 +2,17 @@ Table 2-7 (MI) MARINE INDUSTRIAL DISTRICT DIMENSIONAL STANDARDS:
   All uses and structures including boat slips, piers and docks:
     Interior to the Zoning District:
       Maximum Lot Coverage: 80% of Gross Area
-      Setback from Property Line 18,19 > Front 9: 25'
-      Setback from Property Line 18,19 > Side 9: 0'
-      Setback from Property Line 18,19 > Rear 9: 0'
+      Setback from Property Line 18,19:
+        Front 9: 25'
+        Side 9: 0'
+        Rear 9: 0'
       Maximum Height **: 50'
     Exterior to the Zoning District:
       Maximum Lot Coverage: 80% of Gross Area
-      Setback from Property Line 18,19 > Front 9: 50' *
-      Setback from Property Line 18,19 > Side 9: 50' *
-      Setback from Property Line 18,19 > Rear 9: 50' *
+      Setback from Property Line 18,19:
+        Front 9: 50' *
+        Side 9: 50' *
+        Rear 9: 50' *
       Maximum Height **: 50'
     '* Minimum setback for outside storage of bulk materials must be 100 ft. from the AIWW and any wetlands.': {}
     '** All structures and accessory uses within 100 ft. of the AIWW or external district boundary are limited to maximum height of 35 ft.': {}
